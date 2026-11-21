@@ -1,15 +1,37 @@
 window.LISTENING = {
  "title": "The Listening Booth",
- "generated": "2026-11-21T17:40:08Z",
- "synced": "2026-11-21T17:40:01Z",
+ "generated": "2026-11-21T18:10:09Z",
+ "synced": "2026-11-21T18:10:01Z",
  "totals": {
-  "plays": 125427,
-  "hours": 8527.9,
+  "plays": 125429,
+  "hours": 8528.0,
   "artists": 702,
   "albums": 1532,
   "first": "2013-05-07T01:40:37Z"
  },
  "recent": [
+  {
+   "name": "Double Trouble",
+   "artist": "Lynyrd Skynyrd",
+   "album": "Gimme Back My Bullets (Expanded Edition)",
+   "year": 1976,
+   "image": "https://i.scdn.co/image/ab67616d00001e0261b3a3d80e51446fdc4e35b5",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b27361b3a3d80e51446fdc4e35b5",
+   "url": "https://open.spotify.com/track/5ftkCxdoFGmkXbm5zgu0lS",
+   "album_url": "https://open.spotify.com/album/7nl7cH6KtKcKU7I2Hj2gAM",
+   "played_at": "2026-11-21T17:45:18.940Z"
+  },
+  {
+   "name": "Wild World",
+   "artist": "Yusuf / Cat Stevens",
+   "album": "Tea For The Tillerman (Remastered 2020)",
+   "year": 1970,
+   "image": "https://i.scdn.co/image/ab67616d00001e02e7248738c2f7ce3b5584b15d",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b273e7248738c2f7ce3b5584b15d",
+   "url": "https://open.spotify.com/track/7mjSHL2Eb0kAwiKbvNNyD9",
+   "album_url": "https://open.spotify.com/album/44VxbAytHpVi3Rq8hRhild",
+   "played_at": "2026-11-21T17:42:27.950Z"
+  },
   {
    "name": "Shot In The Dark",
    "artist": "AC/DC",
@@ -515,28 +537,6 @@ window.LISTENING = {
    "url": "https://open.spotify.com/track/1rxD34LAtkafrMUHqHIV76",
    "album_url": "https://open.spotify.com/album/58MQ0PLijVHePUonQlK76Y",
    "played_at": "2026-11-18T22:58:48.708Z"
-  },
-  {
-   "name": "Mary Had a Little Lamb",
-   "artist": "Stevie Ray Vaughan",
-   "album": "Texas Flood (Legacy Edition)",
-   "year": 1983,
-   "image": "https://i.scdn.co/image/ab67616d00001e02f7143c00741b94bb62025340",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b273f7143c00741b94bb62025340",
-   "url": "https://open.spotify.com/track/0nFZ2HQRnIxiwraCm2X6Uq",
-   "album_url": "https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ",
-   "played_at": "2026-11-18T14:25:06.745Z"
-  },
-  {
-   "name": "I'm A Believer - Radio Edit",
-   "artist": "Smash Mouth",
-   "album": "Smash Mouth",
-   "year": 2001,
-   "image": "https://i.scdn.co/image/ab67616d00001e02e271723e2054ba24d0b06075",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b273e271723e2054ba24d0b06075",
-   "url": "https://open.spotify.com/track/1RC5Mb0VhnlhnMlFDnrvE0",
-   "album_url": "https://open.spotify.com/album/0E0q3hPeALlDvoDvYztYeH",
-   "played_at": "2026-11-18T14:22:19.359Z"
   }
  ],
  "top_artists": [
@@ -927,7 +927,7 @@ window.LISTENING = {
   },
   {
    "decade": 1970,
-   "plays": 28759,
+   "plays": 28761,
    "covers": [
     {
      "name": "More Than a Feeling",
