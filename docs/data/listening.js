@@ -1,7 +1,7 @@
 window.LISTENING = {
  "title": "The Listening Booth",
- "generated": "2026-11-21T19:10:09Z",
- "synced": "2026-11-21T19:10:02Z",
+ "generated": "2026-11-21T20:10:09Z",
+ "synced": "2026-11-21T20:10:02Z",
  "totals": {
   "plays": 125430,
   "hours": 8528.1,
@@ -1492,6 +1492,19 @@ window.LISTENING = {
  ],
  "episodes": [
   {
+   "name": "FBI investigates apparent database hack",
+   "show": "Newshour",
+   "show_uri": "spotify:show:5qbXje6KaVOHwjsHNTELjA",
+   "release_date": "2026-11-21",
+   "duration_ms": 2334589,
+   "image": "https://i.scdn.co/image/ab67656300005f1f189781a3a30bf2cb76ae0f46",
+   "first_seen": "2026-11-21T20:10:02Z",
+   "progress_ms": 915853,
+   "last_seen": "2026-11-21T20:10:02Z",
+   "url": "https://open.spotify.com/episode/2l6YjMZctHqUu3MtXFTL6X",
+   "show_image": "https://i.scdn.co/image/ab67656300005f1f189781a3a30bf2cb76ae0f46"
+  },
+  {
    "name": "#2584 - Mike Baker",
    "show": "The Joe Rogan Experience",
    "show_uri": "spotify:show:4rOoJ6Egrf8K2IrywzwOMk",
@@ -1633,19 +1646,6 @@ window.LISTENING = {
    "last_seen": "2026-11-20T17:40:03Z",
    "url": "https://open.spotify.com/episode/6KQzENleBx2lSACdZn7SMA",
    "show_image": "https://i.scdn.co/image/ab67656300005f1ff71d281479683178fec972fc"
-  },
-  {
-   "name": "New treatment, screening tools could help increase survival rates in pancreatic cancer",
-   "show": "Minnesota Now",
-   "show_uri": "spotify:show:61oEbjIMX0lVNvf0MyrEX8",
-   "release_date": "2026-11-19",
-   "duration_ms": 617116,
-   "image": "https://i.scdn.co/image/ab67656300005f1f110dfea289c0685fcc6c4343",
-   "first_seen": "2026-11-20T17:10:03Z",
-   "progress_ms": 21857,
-   "last_seen": "2026-11-20T17:10:03Z",
-   "url": "https://open.spotify.com/episode/2coNVjyfFJ2cgXNQdTcv52",
-   "show_image": "https://i.scdn.co/image/ab67656300005f1f110dfea289c0685fcc6c4343"
   }
  ],
  "top_shows": [
