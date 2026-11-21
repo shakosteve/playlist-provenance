@@ -1,15 +1,81 @@
 window.LISTENING = {
  "title": "The Listening Booth",
- "generated": "2026-11-21T15:40:09Z",
- "synced": "2026-11-21T15:40:02Z",
+ "generated": "2026-11-21T16:10:08Z",
+ "synced": "2026-11-21T16:10:01Z",
  "totals": {
-  "plays": 125405,
-  "hours": 8526.5,
+  "plays": 125411,
+  "hours": 8526.9,
   "artists": 702,
   "albums": 1532,
   "first": "2013-05-07T01:40:37Z"
  },
  "recent": [
+  {
+   "name": "Too Good to be True",
+   "artist": "Kacey Musgraves",
+   "album": "Deeper Well",
+   "year": 2024,
+   "image": "https://i.scdn.co/image/ab67616d00001e02b598ad81e340f28f8b523c41",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b273b598ad81e340f28f8b523c41",
+   "url": "https://open.spotify.com/track/27RDQ0TfxzWMlQFuKrPT11",
+   "album_url": "https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ",
+   "played_at": "2026-11-21T16:07:22.286Z"
+  },
+  {
+   "name": "Wild Side",
+   "artist": "Mötley Crüe",
+   "album": "Girls, Girls, Girls (Deluxe Version)",
+   "year": 1987,
+   "image": "https://i.scdn.co/image/ab67616d00001e02c1b41df3ca1fc7f6a69feb4f",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b273c1b41df3ca1fc7f6a69feb4f",
+   "url": "https://open.spotify.com/track/7zVpUAOuXY7pHHSm21jFEq",
+   "album_url": "https://open.spotify.com/album/0vPZhR1KpbRNBOQBsDScS8",
+   "played_at": "2026-11-21T16:04:41.802Z"
+  },
+  {
+   "name": "Tin Man",
+   "artist": "America",
+   "album": "Holiday",
+   "year": 1974,
+   "image": "https://i.scdn.co/image/ab67616d00001e026f1376d1c0ec3fcd2e366cba",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b2736f1376d1c0ec3fcd2e366cba",
+   "url": "https://open.spotify.com/track/4uTTd2SlalZoG0zVgI63kH",
+   "album_url": "https://open.spotify.com/album/4jOItHaJyNyXJxz8toGytx",
+   "played_at": "2026-11-21T15:59:57.566Z"
+  },
+  {
+   "name": "We Will Rock You",
+   "artist": "Queen",
+   "album": "News Of The World",
+   "year": 1977,
+   "image": "https://i.scdn.co/image/ab67616d00001e026c74d509c1581f8e0a35391b",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b2736c74d509c1581f8e0a35391b",
+   "url": "https://open.spotify.com/track/2ELSVi4kwWOXgxiIC592tJ",
+   "album_url": "https://open.spotify.com/album/7hq6mnrJ7CWbemk6B3H8PJ",
+   "played_at": "2026-11-21T15:46:41.283Z"
+  },
+  {
+   "name": "Fuera o Más Allá",
+   "artist": "Eruca Sativa",
+   "album": "Blanco",
+   "year": 2012,
+   "image": "https://i.scdn.co/image/ab67616d00001e02fb60d4076cb86adcf2f7383f",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b273fb60d4076cb86adcf2f7383f",
+   "url": "https://open.spotify.com/track/3qQ0TTpIt0OXH7plhxeISL",
+   "album_url": "https://open.spotify.com/album/3MC1mUaL0H7kcVgTEFXLWv",
+   "played_at": "2026-11-21T15:44:39.628Z"
+  },
+  {
+   "name": "Solsbury Hill",
+   "artist": "Peter Gabriel",
+   "album": "Peter Gabriel 1: Car (Remastered Version)",
+   "year": 1977,
+   "image": "https://i.scdn.co/image/ab67616d00001e0258f54aa9cab1beffa7b806c1",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b27358f54aa9cab1beffa7b806c1",
+   "url": "https://open.spotify.com/track/1CM1wOqD2AIjt2MWd31LV2",
+   "album_url": "https://open.spotify.com/album/4jd6oC0It60c1J3GpXCv6M",
+   "played_at": "2026-11-21T15:41:25.382Z"
+  },
   {
    "name": "Spooky (Single Version)",
    "artist": "Dusty Springfield",
@@ -471,72 +537,6 @@ window.LISTENING = {
    "url": "https://open.spotify.com/track/1G8jae4jD8mwkXdodqHsBM",
    "album_url": "https://open.spotify.com/album/1JjGR7DtSA3aRpG99KbhxJ",
    "played_at": "2026-11-18T00:23:09.105Z"
-  },
-  {
-   "name": "The Humpty Dance",
-   "artist": "Digital Underground",
-   "album": "Sex Packets",
-   "year": 1990,
-   "image": "https://i.scdn.co/image/ab67616d00001e021789ef99b7e8bf117bf186df",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b2731789ef99b7e8bf117bf186df",
-   "url": "https://open.spotify.com/track/0YEC3pNS0uIKvZb5u4lgsu",
-   "album_url": "https://open.spotify.com/album/6HWrL7hDFxfc8Z17JI9JIL",
-   "played_at": "2026-11-17T22:32:27.453Z"
-  },
-  {
-   "name": "What Good's A Rock Without A Roll?",
-   "artist": "Black Spiders",
-   "album": "Sons Of The North",
-   "year": 2011,
-   "image": "https://i.scdn.co/image/ab67616d00001e026724fae9bc203a9d4defd736",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b2736724fae9bc203a9d4defd736",
-   "url": "https://open.spotify.com/track/0FrhD37RheksdxcDi4tgx3",
-   "album_url": "https://open.spotify.com/album/7KDzhHeTeAjmBFO3ixlMGm",
-   "played_at": "2026-11-17T20:29:36.085Z"
-  },
-  {
-   "name": "Paranoid - 2012 - Remaster",
-   "artist": "Black Sabbath",
-   "album": "Paranoid (Remaster)",
-   "year": 1970,
-   "image": "https://i.scdn.co/image/ab67616d00001e02d5fccf9ce08b6a1e7d12a222",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b273d5fccf9ce08b6a1e7d12a222",
-   "url": "https://open.spotify.com/track/1Y373MqadDRtclJNdnUXVc",
-   "album_url": "https://open.spotify.com/album/6r7LZXAVueS5DqdrvXJJK7",
-   "played_at": "2026-11-17T20:25:05.856Z"
-  },
-  {
-   "name": "Gettin' Jiggy Wit It",
-   "artist": "Will Smith",
-   "album": "Big Willie Style",
-   "year": 1997,
-   "image": "https://i.scdn.co/image/ab67616d00001e02ddf2f9edabd166c60047e3c4",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b273ddf2f9edabd166c60047e3c4",
-   "url": "https://open.spotify.com/track/0weAUscowxeqDtpCgtbpgp",
-   "album_url": "https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq",
-   "played_at": "2026-11-17T20:22:16.998Z"
-  },
-  {
-   "name": "Take on Me",
-   "artist": "a-ha",
-   "album": "Hunting High and Low",
-   "year": 1985,
-   "image": "https://i.scdn.co/image/ab67616d00001e02e8dd4db47e7177c63b0b7d53",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b273e8dd4db47e7177c63b0b7d53",
-   "url": "https://open.spotify.com/track/2WfaOiMkCvy7F5fcp2zZ8L",
-   "album_url": "https://open.spotify.com/album/1ER3B6zev5JEAaqhnyyfbf",
-   "played_at": "2026-11-17T20:18:28.610Z"
-  },
-  {
-   "name": "Centerfield",
-   "artist": "John Fogerty",
-   "album": "Centerfield (25th Anniversary)",
-   "year": 1985,
-   "image": "https://i.scdn.co/image/ab67616d00001e02f2aaa0b785e5a7644ba31e08",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b273f2aaa0b785e5a7644ba31e08",
-   "url": "https://open.spotify.com/track/5f7KV4oOHZylrpa5XKFu6G",
-   "album_url": "https://open.spotify.com/album/7wLd9KZsIrtpcRCVOjq7v8",
-   "played_at": "2026-11-17T20:14:42.808Z"
   }
  ],
  "top_artists": [
@@ -590,7 +590,7 @@ window.LISTENING = {
   },
   {
    "name": "Queen",
-   "plays": 1922,
+   "plays": 1923,
    "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d",
    "image": "https://i.scdn.co/image/ab67616d00001e0207744e2ed983efa3e6620a47"
   },
@@ -927,7 +927,7 @@ window.LISTENING = {
   },
   {
    "decade": 1970,
-   "plays": 28754,
+   "plays": 28757,
    "covers": [
     {
      "name": "More Than a Feeling",
@@ -1021,7 +1021,7 @@ window.LISTENING = {
   },
   {
    "decade": 1980,
-   "plays": 32994,
+   "plays": 32995,
    "covers": [
     {
      "name": "Back In Black",
@@ -1303,7 +1303,7 @@ window.LISTENING = {
   },
   {
    "decade": 2010,
-   "plays": 15816,
+   "plays": 15817,
    "covers": [
     {
      "name": "XXI Century Blood",
@@ -1397,7 +1397,7 @@ window.LISTENING = {
   },
   {
    "decade": 2020,
-   "plays": 18707,
+   "plays": 18708,
    "covers": [
     {
      "name": "ERROR",
@@ -1492,6 +1492,19 @@ window.LISTENING = {
  ],
  "episodes": [
   {
+   "name": "Why Anthropic’s IPO Didn’t Stop the Tech Sell Off",
+   "show": "The Journal.",
+   "show_uri": "spotify:show:0KxdEdeY2Wb3zr28dMlQva",
+   "release_date": "2026-11-20",
+   "duration_ms": 1085100,
+   "image": "https://i.scdn.co/image/ab67656300005f1ffed98c4fdc504416141e9409",
+   "first_seen": "2026-11-21T14:40:03Z",
+   "progress_ms": 1039474,
+   "last_seen": "2026-11-21T16:10:02Z",
+   "url": "https://open.spotify.com/episode/2mVLVL1URJ8BxxwQfdjQGR",
+   "show_image": "https://i.scdn.co/image/ab67656300005f1ffed98c4fdc504416141e9409"
+  },
+  {
    "name": "How AI Is Forcing China to Reshape Industrial Policy",
    "show": "Odd Lots",
    "show_uri": "spotify:show:1te7oSFyRVekxMBJUSethH",
@@ -1516,19 +1529,6 @@ window.LISTENING = {
    "last_seen": "2026-11-21T15:10:03Z",
    "url": "https://open.spotify.com/episode/0QFNAHWYAjXZbbczhB6jhR",
    "show_image": "https://i.scdn.co/image/ab67656300005f1fab3cb125200d6c73efdfc670"
-  },
-  {
-   "name": "Why Anthropic’s IPO Didn’t Stop the Tech Sell Off",
-   "show": "The Journal.",
-   "show_uri": "spotify:show:0KxdEdeY2Wb3zr28dMlQva",
-   "release_date": "2026-11-20",
-   "duration_ms": 1085100,
-   "image": "https://i.scdn.co/image/ab67656300005f1ffed98c4fdc504416141e9409",
-   "first_seen": "2026-11-21T14:40:03Z",
-   "progress_ms": 458972,
-   "last_seen": "2026-11-21T14:40:03Z",
-   "url": "https://open.spotify.com/episode/2mVLVL1URJ8BxxwQfdjQGR",
-   "show_image": "https://i.scdn.co/image/ab67656300005f1ffed98c4fdc504416141e9409"
   },
   {
    "name": "175. Petty Dwarves and Petty Men : Children of Húrin #10",
