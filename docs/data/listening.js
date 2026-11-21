@@ -1,15 +1,81 @@
 window.LISTENING = {
  "title": "The Listening Booth",
- "generated": "2026-11-21T16:40:06Z",
- "synced": "2026-11-21T16:40:01Z",
+ "generated": "2026-11-21T17:10:06Z",
+ "synced": "2026-11-21T17:10:01Z",
  "totals": {
-  "plays": 125416,
-  "hours": 8527.1,
+  "plays": 125422,
+  "hours": 8527.6,
   "artists": 702,
   "albums": 1532,
   "first": "2013-05-07T01:40:37Z"
  },
  "recent": [
+  {
+   "name": "The Grand Illusion",
+   "artist": "Styx",
+   "album": "The Grand Illusion",
+   "year": 1977,
+   "image": "https://i.scdn.co/image/ab67616d00001e0288f0f719259b0dec23a7c367",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b27388f0f719259b0dec23a7c367",
+   "url": "https://open.spotify.com/track/0FFdCFGfmtqVaHTBYXybkx",
+   "album_url": "https://open.spotify.com/album/6MFIBPVrZjHjP0pPkVF3IU",
+   "played_at": "2026-11-21T17:08:52.557Z"
+  },
+  {
+   "name": "Run To You",
+   "artist": "Bryan Adams",
+   "album": "Reckless (30th Anniversary / Deluxe Edition)",
+   "year": 1984,
+   "image": "https://i.scdn.co/image/ab67616d00001e02cf1fee2a55e98e22bf358512",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b273cf1fee2a55e98e22bf358512",
+   "url": "https://open.spotify.com/track/2RWFncSWZEhSRRifqiDNVV",
+   "album_url": "https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL",
+   "played_at": "2026-11-21T17:04:14.867Z"
+  },
+  {
+   "name": "Holy Diver",
+   "artist": "Dio",
+   "album": "Holy Diver",
+   "year": 1983,
+   "image": "https://i.scdn.co/image/ab67616d00001e022457ab409ae106f8ae1dff89",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b2732457ab409ae106f8ae1dff89",
+   "url": "https://open.spotify.com/track/57fqmDaokbxZ3TaB0jp39q",
+   "album_url": "https://open.spotify.com/album/2ivNJLSx8Rbvnsvcn01Yt3",
+   "played_at": "2026-11-21T17:00:21.139Z"
+  },
+  {
+   "name": "Harden My Heart",
+   "artist": "Quarterflash",
+   "album": "Quarterflash",
+   "year": 1981,
+   "image": "https://i.scdn.co/image/ab67616d00001e0247a69991d05f42d80594a61f",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b27347a69991d05f42d80594a61f",
+   "url": "https://open.spotify.com/track/3CSLUIrI2KPMulHR5bh17O",
+   "album_url": "https://open.spotify.com/album/4kW6CPrK2OPc0OrEcwOFQN",
+   "played_at": "2026-11-21T16:48:08.801Z"
+  },
+  {
+   "name": "Little Wing",
+   "artist": "Jimi Hendrix",
+   "album": "Axis: Bold As Love",
+   "year": 1967,
+   "image": "https://i.scdn.co/image/ab67616d00001e0219dcd95d28b63d10164327f2",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b27319dcd95d28b63d10164327f2",
+   "url": "https://open.spotify.com/track/1Eolhana7nKHYpcYpdVcT5",
+   "album_url": "https://open.spotify.com/album/3uFZf8rykoHo7XMIQVYW6r",
+   "played_at": "2026-11-21T16:44:15.607Z"
+  },
+  {
+   "name": "Stayin Alive",
+   "artist": "Bee Gees",
+   "album": "How Can You Mend A Broken Heart",
+   "year": 2020,
+   "image": "https://i.scdn.co/image/ab67616d00001e02bdcea025a483b9642f17a9f8",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b273bdcea025a483b9642f17a9f8",
+   "url": "https://open.spotify.com/track/5ubvP9oKmxLUVq506fgLhk",
+   "album_url": "https://open.spotify.com/album/4vAhQeeWkSjVn0p5GAaLBx",
+   "played_at": "2026-11-21T16:41:49.329Z"
+  },
   {
    "name": "Candle In The Wind - Remastered 2014",
    "artist": "Elton John",
@@ -471,72 +537,6 @@ window.LISTENING = {
    "url": "https://open.spotify.com/track/4s6LhHAV5SEsOV0lC2tjvJ",
    "album_url": "https://open.spotify.com/album/76oMr4Y2pOtcrvZLc2ZikF",
    "played_at": "2026-11-18T01:01:32.437Z"
-  },
-  {
-   "name": "Stayin Alive",
-   "artist": "Bee Gees",
-   "album": "How Can You Mend A Broken Heart",
-   "year": 2020,
-   "image": "https://i.scdn.co/image/ab67616d00001e02bdcea025a483b9642f17a9f8",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b273bdcea025a483b9642f17a9f8",
-   "url": "https://open.spotify.com/track/5ubvP9oKmxLUVq506fgLhk",
-   "album_url": "https://open.spotify.com/album/4vAhQeeWkSjVn0p5GAaLBx",
-   "played_at": "2026-11-18T00:58:49.497Z"
-  },
-  {
-   "name": "La Isla Bonita",
-   "artist": "Madonna",
-   "album": "True Blue",
-   "year": 1986,
-   "image": "https://i.scdn.co/image/ab67616d00001e02de3094d98b62340d3268c7bc",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b273de3094d98b62340d3268c7bc",
-   "url": "https://open.spotify.com/track/6r8k1vznHrzlEKYxL4dZEe",
-   "album_url": "https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD",
-   "played_at": "2026-11-18T00:54:03.692Z"
-  },
-  {
-   "name": "River's Soul - Live Session",
-   "artist": "The Warning",
-   "album": "XXI Century Blood",
-   "year": 2017,
-   "image": "https://i.scdn.co/image/ab67616d00001e0204a3dad60eb365aec55022de",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b27304a3dad60eb365aec55022de",
-   "url": "https://open.spotify.com/track/22fM8a5JGcAcMHl82bRZOY",
-   "album_url": "https://open.spotify.com/album/6nEiN0eM1gbvDsijV46XrX",
-   "played_at": "2026-11-18T00:50:00.496Z"
-  },
-  {
-   "name": "Have You Ever Seen The Rain",
-   "artist": "Creedence Clearwater Revival",
-   "album": "Pendulum (Expanded Edition)",
-   "year": 1970,
-   "image": "https://i.scdn.co/image/ab67616d00001e0251f311c2fb06ad2789e3ff91",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b27351f311c2fb06ad2789e3ff91",
-   "url": "https://open.spotify.com/track/2LawezPeJhN4AWuSB0GtAU",
-   "album_url": "https://open.spotify.com/album/372cMadhAGlNuDnc8TssqF",
-   "played_at": "2026-11-18T00:45:45.880Z"
-  },
-  {
-   "name": "Open Your Heart",
-   "artist": "Madonna",
-   "album": "The Immaculate Collection",
-   "year": 1990,
-   "image": "https://i.scdn.co/image/ab67616d00001e02e275f1fbda1c7bc82f9c386b",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b273e275f1fbda1c7bc82f9c386b",
-   "url": "https://open.spotify.com/track/1AMZVcZvuPKqxm822W8PGV",
-   "album_url": "https://open.spotify.com/album/5MzwGwnO9gkh0z6Nl4FF8h",
-   "played_at": "2026-11-18T00:43:05.196Z"
-  },
-  {
-   "name": "The Power Of Love",
-   "artist": "Huey Lewis & The News",
-   "album": "Greatest Hits: Huey Lewis And The News",
-   "year": 2006,
-   "image": "https://i.scdn.co/image/ab67616d00001e025306ed42ae78f317258c51bb",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b2735306ed42ae78f317258c51bb",
-   "url": "https://open.spotify.com/track/2olVm1lHicpveMAo4AUDRB",
-   "album_url": "https://open.spotify.com/album/0u34k1ANjgZ47uQfG9yaLj",
-   "played_at": "2026-11-18T00:39:13.500Z"
   }
  ],
  "top_artists": [
@@ -833,7 +833,7 @@ window.LISTENING = {
   },
   {
    "decade": 1960,
-   "plays": 7072,
+   "plays": 7073,
    "covers": [
     {
      "name": "Your Time Is Gonna Come - 1990 Remaster",
@@ -927,7 +927,7 @@ window.LISTENING = {
   },
   {
    "decade": 1970,
-   "plays": 28758,
+   "plays": 28759,
    "covers": [
     {
      "name": "More Than a Feeling",
@@ -1021,7 +1021,7 @@ window.LISTENING = {
   },
   {
    "decade": 1980,
-   "plays": 32998,
+   "plays": 33001,
    "covers": [
     {
      "name": "Back In Black",
@@ -1397,7 +1397,7 @@ window.LISTENING = {
   },
   {
    "decade": 2020,
-   "plays": 18709,
+   "plays": 18710,
    "covers": [
     {
      "name": "ERROR",
