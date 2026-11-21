@@ -1,15 +1,70 @@
 window.LISTENING = {
  "title": "The Listening Booth",
- "generated": "2026-11-21T15:10:07Z",
- "synced": "2026-11-21T15:10:01Z",
+ "generated": "2026-11-21T15:40:09Z",
+ "synced": "2026-11-21T15:40:02Z",
  "totals": {
-  "plays": 125400,
-  "hours": 8526.2,
+  "plays": 125405,
+  "hours": 8526.5,
   "artists": 702,
   "albums": 1532,
   "first": "2013-05-07T01:40:37Z"
  },
  "recent": [
+  {
+   "name": "Spooky (Single Version)",
+   "artist": "Dusty Springfield",
+   "album": "Love Songs",
+   "year": 2020,
+   "image": "https://i.scdn.co/image/ab67616d00001e025746d44a39a97aaa12309af1",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b2735746d44a39a97aaa12309af1",
+   "url": "https://open.spotify.com/track/4RYwE31p4KflK1h7J7m1Yt",
+   "album_url": "https://open.spotify.com/album/2paShliFsxYoO3WJEdTVdA",
+   "played_at": "2026-11-21T15:37:03.407Z"
+  },
+  {
+   "name": "Easy On Me",
+   "artist": "Adele",
+   "album": "Easy On Me",
+   "year": 2021,
+   "image": "https://i.scdn.co/image/ab67616d00001e02a7c79b8f85ff6e56b39a549c",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b273a7c79b8f85ff6e56b39a549c",
+   "url": "https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX",
+   "album_url": "https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S",
+   "played_at": "2026-11-21T15:34:17.920Z"
+  },
+  {
+   "name": "Bring It on Home - Remaster",
+   "artist": "Led Zeppelin",
+   "album": "Led Zeppelin II (Remaster)",
+   "year": 1969,
+   "image": "https://i.scdn.co/image/ab67616d00001e02f396ea414b735ef23e2ed1a9",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b273f396ea414b735ef23e2ed1a9",
+   "url": "https://open.spotify.com/track/1rxD34LAtkafrMUHqHIV76",
+   "album_url": "https://open.spotify.com/album/58MQ0PLijVHePUonQlK76Y",
+   "played_at": "2026-11-21T15:30:03.314Z"
+  },
+  {
+   "name": "Whole Lotta Love - Live",
+   "artist": "Jimmy Page, The Black Crowes",
+   "album": "Live at the Greek",
+   "year": 2025,
+   "image": "https://i.scdn.co/image/ab67616d00001e02fa6e624fbe4dbca748770195",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b273fa6e624fbe4dbca748770195",
+   "url": "https://open.spotify.com/track/1NpILLKnL2kQYwb6bCtiPe",
+   "album_url": "https://open.spotify.com/album/27DJov9N9ian0RrcMO1Iak",
+   "played_at": "2026-11-21T15:25:42.983Z"
+  },
+  {
+   "name": "The End (Stars Always Seem to Fade)",
+   "artist": "The Warning",
+   "album": "Queen of the Murder Scene",
+   "year": 2018,
+   "image": "https://i.scdn.co/image/ab67616d00001e02e0871bbaad013df7b7e56c2a",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b273e0871bbaad013df7b7e56c2a",
+   "url": "https://open.spotify.com/track/34UQ1XrP5vut9fCgl76H8g",
+   "album_url": "https://open.spotify.com/album/2kB1Qqw3YOR9i3nbNxXWRs",
+   "played_at": "2026-11-21T15:19:51.921Z"
+  },
   {
    "name": "3AM",
    "artist": "Matchbox Twenty",
@@ -482,67 +537,12 @@ window.LISTENING = {
    "url": "https://open.spotify.com/track/5f7KV4oOHZylrpa5XKFu6G",
    "album_url": "https://open.spotify.com/album/7wLd9KZsIrtpcRCVOjq7v8",
    "played_at": "2026-11-17T20:14:42.808Z"
-  },
-  {
-   "name": "Jailbreak",
-   "artist": "AC/DC",
-   "album": "'74 Jailbreak",
-   "year": 1984,
-   "image": "https://i.scdn.co/image/ab67616d00001e02b3e1f355a5c8a2ad3b1aae48",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b273b3e1f355a5c8a2ad3b1aae48",
-   "url": "https://open.spotify.com/track/5UKeFkVeUfvP6S43I8s9mt",
-   "album_url": "https://open.spotify.com/album/7kkopGL8qBX9KNQu88tH2y",
-   "played_at": "2026-11-17T20:03:01.813Z"
-  },
-  {
-   "name": "My Way, Soon",
-   "artist": "Greta Van Fleet",
-   "album": "Broken Bells",
-   "year": 2021,
-   "image": "https://i.scdn.co/image/ab67616d00001e029163a72affa104f29fc576fb",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b2739163a72affa104f29fc576fb",
-   "url": "https://open.spotify.com/track/2IsuiHhWDj8ByvznN04v7S",
-   "album_url": "https://open.spotify.com/album/1rWkxCNuPFzDRFANL8lLnG",
-   "played_at": "2026-11-17T19:58:20.117Z"
-  },
-  {
-   "name": "Silent Lucidity",
-   "artist": "Queensrÿche",
-   "album": "Empire (20th Anniversary Edition)",
-   "year": 1990,
-   "image": "https://i.scdn.co/image/ab67616d00001e02eeb8caa4fee70e9f8ec15d3b",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b273eeb8caa4fee70e9f8ec15d3b",
-   "url": "https://open.spotify.com/track/6OSyCAmXT4Gkd3OQ2aPOaF",
-   "album_url": "https://open.spotify.com/album/6jmesEKzKTLAa3oI96jWow",
-   "played_at": "2026-11-17T19:54:04.476Z"
-  },
-  {
-   "name": "Qué Más Quieres",
-   "artist": "The Warning",
-   "album": "Hell You Call A Dream / Qué Más Quieres",
-   "year": 2024,
-   "image": "https://i.scdn.co/image/ab67616d00001e021de072325338eb79a68f30f5",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b2731de072325338eb79a68f30f5",
-   "url": "https://open.spotify.com/track/41hP8Zj09hdeQywGGIcXxA",
-   "album_url": "https://open.spotify.com/album/0tkvYVQovNWfCE5tf1Viir",
-   "played_at": "2026-11-17T19:48:16.203Z"
-  },
-  {
-   "name": "Little Wing",
-   "artist": "Jimi Hendrix",
-   "album": "Axis: Bold As Love",
-   "year": 1967,
-   "image": "https://i.scdn.co/image/ab67616d00001e0219dcd95d28b63d10164327f2",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b27319dcd95d28b63d10164327f2",
-   "url": "https://open.spotify.com/track/1Eolhana7nKHYpcYpdVcT5",
-   "album_url": "https://open.spotify.com/album/3uFZf8rykoHo7XMIQVYW6r",
-   "played_at": "2026-11-17T19:45:10.886Z"
   }
  ],
  "top_artists": [
   {
    "name": "The Warning",
-   "plays": 10720,
+   "plays": 10721,
    "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh",
    "image": "https://i.scdn.co/image/ab67616d00001e0204a3dad60eb365aec55022de"
   },
@@ -560,7 +560,7 @@ window.LISTENING = {
   },
   {
    "name": "Led Zeppelin",
-   "plays": 2310,
+   "plays": 2311,
    "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp",
    "image": "https://i.scdn.co/image/ab67616d00001e02c8a11e48c91a982d086afc69"
   },
@@ -622,7 +622,7 @@ window.LISTENING = {
    "image_large": "https://i.scdn.co/image/ab67616d0000b273e0871bbaad013df7b7e56c2a",
    "url": "https://open.spotify.com/track/3byoK5Yi2YT9Gcc4xS8qKE",
    "album_url": "https://open.spotify.com/album/2kB1Qqw3YOR9i3nbNxXWRs",
-   "plays": 1904
+   "plays": 1905
   },
   {
    "name": "Back In Black",
@@ -833,7 +833,7 @@ window.LISTENING = {
   },
   {
    "decade": 1960,
-   "plays": 7071,
+   "plays": 7072,
    "covers": [
     {
      "name": "Your Time Is Gonna Come - 1990 Remaster",
@@ -1303,7 +1303,7 @@ window.LISTENING = {
   },
   {
    "decade": 2010,
-   "plays": 15815,
+   "plays": 15816,
    "covers": [
     {
      "name": "XXI Century Blood",
@@ -1325,7 +1325,7 @@ window.LISTENING = {
      "image_large": "https://i.scdn.co/image/ab67616d0000b273e0871bbaad013df7b7e56c2a",
      "url": "https://open.spotify.com/track/3byoK5Yi2YT9Gcc4xS8qKE",
      "album_url": "https://open.spotify.com/album/2kB1Qqw3YOR9i3nbNxXWRs",
-     "plays": 1904
+     "plays": 1905
     },
     {
      "name": "Rhyme or Reason",
@@ -1397,7 +1397,7 @@ window.LISTENING = {
   },
   {
    "decade": 2020,
-   "plays": 18704,
+   "plays": 18707,
    "covers": [
     {
      "name": "ERROR",
@@ -1492,6 +1492,19 @@ window.LISTENING = {
  ],
  "episodes": [
   {
+   "name": "How AI Is Forcing China to Reshape Industrial Policy",
+   "show": "Odd Lots",
+   "show_uri": "spotify:show:1te7oSFyRVekxMBJUSethH",
+   "release_date": "2026-11-21",
+   "duration_ms": 2740036,
+   "image": "https://i.scdn.co/image/ab67656300005f1f77e76ef980ccf6174ff80c42",
+   "first_seen": "2026-11-21T13:40:02Z",
+   "progress_ms": 3201623,
+   "last_seen": "2026-11-21T15:40:04Z",
+   "url": "https://open.spotify.com/episode/7AsTYalqyxhAW1eOwYtfq8",
+   "show_image": "https://i.scdn.co/image/ab67656300005f1f77e76ef980ccf6174ff80c42"
+  },
+  {
    "name": "Military Strategist: Russia Can No Longer Win This War. But It Can’t Afford to Stop Anymore",
    "show": "Decoding Geopolitics Podcast with Dominik Presl",
    "show_uri": "spotify:show:4280ZedhnCYLFurjyzjmco",
@@ -1516,19 +1529,6 @@ window.LISTENING = {
    "last_seen": "2026-11-21T14:40:03Z",
    "url": "https://open.spotify.com/episode/2mVLVL1URJ8BxxwQfdjQGR",
    "show_image": "https://i.scdn.co/image/ab67656300005f1ffed98c4fdc504416141e9409"
-  },
-  {
-   "name": "How AI Is Forcing China to Reshape Industrial Policy",
-   "show": "Odd Lots",
-   "show_uri": "spotify:show:1te7oSFyRVekxMBJUSethH",
-   "release_date": "2026-11-21",
-   "duration_ms": 2740036,
-   "image": "https://i.scdn.co/image/ab67656300005f1f77e76ef980ccf6174ff80c42",
-   "first_seen": "2026-11-21T13:40:02Z",
-   "progress_ms": 1905178,
-   "last_seen": "2026-11-21T14:10:02Z",
-   "url": "https://open.spotify.com/episode/7AsTYalqyxhAW1eOwYtfq8",
-   "show_image": "https://i.scdn.co/image/ab67656300005f1f77e76ef980ccf6174ff80c42"
   },
   {
    "name": "175. Petty Dwarves and Petty Men : Children of Húrin #10",
