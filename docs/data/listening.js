@@ -1,7 +1,7 @@
 window.LISTENING = {
  "title": "The Listening Booth",
- "generated": "2026-11-21T14:40:08Z",
- "synced": "2026-11-21T14:40:02Z",
+ "generated": "2026-11-21T15:10:07Z",
+ "synced": "2026-11-21T15:10:01Z",
  "totals": {
   "plays": 125400,
   "hours": 8526.2,
@@ -1492,6 +1492,19 @@ window.LISTENING = {
  ],
  "episodes": [
   {
+   "name": "Military Strategist: Russia Can No Longer Win This War. But It Can’t Afford to Stop Anymore",
+   "show": "Decoding Geopolitics Podcast with Dominik Presl",
+   "show_uri": "spotify:show:4280ZedhnCYLFurjyzjmco",
+   "release_date": "2026-11-21",
+   "duration_ms": 1715520,
+   "image": "https://i.scdn.co/image/ab67656300005f1fe93fd76df92328c03dd2458e",
+   "first_seen": "2026-11-21T13:10:02Z",
+   "progress_ms": 1660681,
+   "last_seen": "2026-11-21T15:10:03Z",
+   "url": "https://open.spotify.com/episode/0QFNAHWYAjXZbbczhB6jhR",
+   "show_image": "https://i.scdn.co/image/ab67656300005f1fab3cb125200d6c73efdfc670"
+  },
+  {
    "name": "Why Anthropic’s IPO Didn’t Stop the Tech Sell Off",
    "show": "The Journal.",
    "show_uri": "spotify:show:0KxdEdeY2Wb3zr28dMlQva",
@@ -1516,19 +1529,6 @@ window.LISTENING = {
    "last_seen": "2026-11-21T14:10:02Z",
    "url": "https://open.spotify.com/episode/7AsTYalqyxhAW1eOwYtfq8",
    "show_image": "https://i.scdn.co/image/ab67656300005f1f77e76ef980ccf6174ff80c42"
-  },
-  {
-   "name": "Military Strategist: Russia Can No Longer Win This War. But It Can’t Afford to Stop Anymore",
-   "show": "Decoding Geopolitics Podcast with Dominik Presl",
-   "show_uri": "spotify:show:4280ZedhnCYLFurjyzjmco",
-   "release_date": "2026-11-21",
-   "duration_ms": 1715520,
-   "image": "https://i.scdn.co/image/ab67656300005f1fe93fd76df92328c03dd2458e",
-   "first_seen": "2026-11-21T13:10:02Z",
-   "progress_ms": 424793,
-   "last_seen": "2026-11-21T13:10:02Z",
-   "url": "https://open.spotify.com/episode/0QFNAHWYAjXZbbczhB6jhR",
-   "show_image": "https://i.scdn.co/image/ab67656300005f1fab3cb125200d6c73efdfc670"
   },
   {
    "name": "175. Petty Dwarves and Petty Men : Children of Húrin #10",
