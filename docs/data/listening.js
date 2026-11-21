@@ -1,15 +1,59 @@
 window.LISTENING = {
  "title": "The Listening Booth",
- "generated": "2026-11-21T16:10:08Z",
- "synced": "2026-11-21T16:10:01Z",
+ "generated": "2026-11-21T16:40:06Z",
+ "synced": "2026-11-21T16:40:01Z",
  "totals": {
-  "plays": 125411,
-  "hours": 8526.9,
+  "plays": 125416,
+  "hours": 8527.1,
   "artists": 702,
   "albums": 1532,
   "first": "2013-05-07T01:40:37Z"
  },
  "recent": [
+  {
+   "name": "Candle In The Wind - Remastered 2014",
+   "artist": "Elton John",
+   "album": "Goodbye Yellow Brick Road (Remastered)",
+   "year": 1973,
+   "image": "https://i.scdn.co/image/ab67616d00001e02f72f1e38e9bd48f18a17ed9b",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b273f72f1e38e9bd48f18a17ed9b",
+   "url": "https://open.spotify.com/track/1L9fzw2pXprOqtemTwtxXF",
+   "album_url": "https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun",
+   "played_at": "2026-11-21T16:37:03.531Z"
+  },
+  {
+   "name": "Scent of Dark",
+   "artist": "Tony Iommi",
+   "album": "Scent of Dark",
+   "year": 2021,
+   "image": "https://i.scdn.co/image/ab67616d00001e0219f8dc31d7e67d46623a1ec2",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b27319f8dc31d7e67d46623a1ec2",
+   "url": "https://open.spotify.com/track/0WrvyawIOAP9gIn0wBjkkl",
+   "album_url": "https://open.spotify.com/album/3alSsga0FiSbG9nz5vRDmA",
+   "played_at": "2026-11-21T16:33:13.991Z"
+  },
+  {
+   "name": "California Girls",
+   "artist": "David Lee Roth",
+   "album": "Crazy from the Heat",
+   "year": 1985,
+   "image": "https://i.scdn.co/image/ab67616d00001e0266e28c0e65ec2e3886a57a6a",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b27366e28c0e65ec2e3886a57a6a",
+   "url": "https://open.spotify.com/track/4H3vuLX59XPqdtTpIesGyS",
+   "album_url": "https://open.spotify.com/album/2CLt8z7ozftRAx6I37C7rE",
+   "played_at": "2026-11-21T16:29:27.635Z"
+  },
+  {
+   "name": "Livin' On A Prayer",
+   "artist": "Bon Jovi",
+   "album": "Slippery When Wet",
+   "year": 1986,
+   "image": "https://i.scdn.co/image/ab67616d00001e021336b31b6a1799f0de5807ac",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b2731336b31b6a1799f0de5807ac",
+   "url": "https://open.spotify.com/track/37ZJ0p5Jm13JPevGcx4SkF",
+   "album_url": "https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t",
+   "played_at": "2026-11-21T16:11:33.307Z"
+  },
   {
    "name": "Too Good to be True",
    "artist": "Kacey Musgraves",
@@ -493,50 +537,6 @@ window.LISTENING = {
    "url": "https://open.spotify.com/track/2olVm1lHicpveMAo4AUDRB",
    "album_url": "https://open.spotify.com/album/0u34k1ANjgZ47uQfG9yaLj",
    "played_at": "2026-11-18T00:39:13.500Z"
-  },
-  {
-   "name": "Sweet Child O' Mine",
-   "artist": "Guns N' Roses",
-   "album": "Appetite For Destruction",
-   "year": 1987,
-   "image": "https://i.scdn.co/image/ab67616d00001e0221ebf49b3292c3f0f575f0f5",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b27321ebf49b3292c3f0f575f0f5",
-   "url": "https://open.spotify.com/track/7snQQk1zcKl8gZ92AnueZW",
-   "album_url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW",
-   "played_at": "2026-11-18T00:35:18.668Z"
-  },
-  {
-   "name": "Landslide",
-   "artist": "The Chicks",
-   "album": "Home",
-   "year": 2002,
-   "image": "https://i.scdn.co/image/ab67616d00001e02b037b173973e081b6d24cb23",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b273b037b173973e081b6d24cb23",
-   "url": "https://open.spotify.com/track/5hviCr3lgg6LY6noG6DPKs",
-   "album_url": "https://open.spotify.com/album/1zgQkZFMRqx1Lz9GVXghLt",
-   "played_at": "2026-11-18T00:29:22.096Z"
-  },
-  {
-   "name": "Peanuts Theme",
-   "artist": "Television's Greatest Hits Band",
-   "album": "Peanuts Theme",
-   "year": 2012,
-   "image": "https://i.scdn.co/image/ab67616d00001e020c96092a8fe64494a3321945",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b2730c96092a8fe64494a3321945",
-   "url": "https://open.spotify.com/track/1FSdA7A445AhLvvWsh0IYK",
-   "album_url": "https://open.spotify.com/album/6jqWw29Gv5yPmhHbEeWfIv",
-   "played_at": "2026-11-18T00:25:31.103Z"
-  },
-  {
-   "name": "Name",
-   "artist": "The Goo Goo Dolls",
-   "album": "A Boy Named Goo",
-   "year": 1995,
-   "image": "https://i.scdn.co/image/ab67616d00001e027db048b350136b3116ad02d4",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b2737db048b350136b3116ad02d4",
-   "url": "https://open.spotify.com/track/1G8jae4jD8mwkXdodqHsBM",
-   "album_url": "https://open.spotify.com/album/1JjGR7DtSA3aRpG99KbhxJ",
-   "played_at": "2026-11-18T00:23:09.105Z"
   }
  ],
  "top_artists": [
@@ -927,7 +927,7 @@ window.LISTENING = {
   },
   {
    "decade": 1970,
-   "plays": 28757,
+   "plays": 28758,
    "covers": [
     {
      "name": "More Than a Feeling",
@@ -1021,7 +1021,7 @@ window.LISTENING = {
   },
   {
    "decade": 1980,
-   "plays": 32995,
+   "plays": 32998,
    "covers": [
     {
      "name": "Back In Black",
@@ -1087,7 +1087,7 @@ window.LISTENING = {
      "image_large": "https://i.scdn.co/image/ab67616d0000b2731336b31b6a1799f0de5807ac",
      "url": "https://open.spotify.com/track/0rmGAIH9LNJewFw7nKzZnc",
      "album_url": "https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t",
-     "plays": 686
+     "plays": 687
     },
     {
      "name": "Sharp Dressed Man - 2008 Remaster",
@@ -1397,7 +1397,7 @@ window.LISTENING = {
   },
   {
    "decade": 2020,
-   "plays": 18708,
+   "plays": 18709,
    "covers": [
     {
      "name": "ERROR",
