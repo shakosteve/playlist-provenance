@@ -1,7 +1,7 @@
 window.LISTENING = {
  "title": "The Listening Booth",
- "generated": "2026-11-21T14:10:06Z",
- "synced": "2026-11-21T14:10:01Z",
+ "generated": "2026-11-21T14:40:08Z",
+ "synced": "2026-11-21T14:40:02Z",
  "totals": {
   "plays": 125400,
   "hours": 8526.2,
@@ -1492,6 +1492,19 @@ window.LISTENING = {
  ],
  "episodes": [
   {
+   "name": "Why Anthropic’s IPO Didn’t Stop the Tech Sell Off",
+   "show": "The Journal.",
+   "show_uri": "spotify:show:0KxdEdeY2Wb3zr28dMlQva",
+   "release_date": "2026-11-20",
+   "duration_ms": 1085100,
+   "image": "https://i.scdn.co/image/ab67656300005f1ffed98c4fdc504416141e9409",
+   "first_seen": "2026-11-21T14:40:03Z",
+   "progress_ms": 458972,
+   "last_seen": "2026-11-21T14:40:03Z",
+   "url": "https://open.spotify.com/episode/2mVLVL1URJ8BxxwQfdjQGR",
+   "show_image": "https://i.scdn.co/image/ab67656300005f1ffed98c4fdc504416141e9409"
+  },
+  {
    "name": "How AI Is Forcing China to Reshape Industrial Policy",
    "show": "Odd Lots",
    "show_uri": "spotify:show:1te7oSFyRVekxMBJUSethH",
@@ -1633,19 +1646,6 @@ window.LISTENING = {
    "last_seen": "2026-11-20T17:10:02Z",
    "url": "https://open.spotify.com/episode/0kraZnRt4tC3aztP1RPgp7",
    "show_image": "https://i.scdn.co/image/ab67656300005f1f083f152347124d54a12d4ca0"
-  },
-  {
-   "name": "#2113 - Mamdani Sends New York Further into MADNESS!!! | Part 2",
-   "show": "The Adam and Dr. Drew Show",
-   "show_uri": "spotify:show:3VN4vP6TztxK3wtT8b9aQL",
-   "release_date": "2026-11-20",
-   "duration_ms": 2859389,
-   "image": "https://i.scdn.co/image/ab67656300005f1f57123579cd8f9fcdb667645b",
-   "first_seen": "2026-11-20T13:10:02Z",
-   "progress_ms": 3059760,
-   "last_seen": "2026-11-20T16:10:03Z",
-   "url": "https://open.spotify.com/episode/5Q8dX0UFIXQAqiOIrCodOh",
-   "show_image": "https://i.scdn.co/image/ab67656300005f1f57123579cd8f9fcdb667645b"
   }
  ],
  "top_shows": [
