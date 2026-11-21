@@ -1,7 +1,7 @@
 window.LISTENING = {
  "title": "The Listening Booth",
- "generated": "2026-11-21T13:10:09Z",
- "synced": "2026-11-21T13:10:01Z",
+ "generated": "2026-11-21T13:40:09Z",
+ "synced": "2026-11-21T13:40:01Z",
  "totals": {
   "plays": 125400,
   "hours": 8526.2,
@@ -1492,6 +1492,19 @@ window.LISTENING = {
  ],
  "episodes": [
   {
+   "name": "How AI Is Forcing China to Reshape Industrial Policy",
+   "show": "Odd Lots",
+   "show_uri": "spotify:show:1te7oSFyRVekxMBJUSethH",
+   "release_date": "2026-11-21",
+   "duration_ms": 2740036,
+   "image": "https://i.scdn.co/image/ab67656300005f1f77e76ef980ccf6174ff80c42",
+   "first_seen": "2026-11-21T13:40:02Z",
+   "progress_ms": 546699,
+   "last_seen": "2026-11-21T13:40:02Z",
+   "url": "https://open.spotify.com/episode/7AsTYalqyxhAW1eOwYtfq8",
+   "show_image": "https://i.scdn.co/image/ab67656300005f1f77e76ef980ccf6174ff80c42"
+  },
+  {
    "name": "Military Strategist: Russia Can No Longer Win This War. But It Can’t Afford to Stop Anymore",
    "show": "Decoding Geopolitics Podcast with Dominik Presl",
    "show_uri": "spotify:show:4280ZedhnCYLFurjyzjmco",
@@ -1633,19 +1646,6 @@ window.LISTENING = {
    "last_seen": "2026-11-20T16:10:03Z",
    "url": "https://open.spotify.com/episode/5Q8dX0UFIXQAqiOIrCodOh",
    "show_image": "https://i.scdn.co/image/ab67656300005f1f57123579cd8f9fcdb667645b"
-  },
-  {
-   "name": "What the Anthropic IPO Means for the AI Future",
-   "show": "WSJ Opinion: Potomac Watch",
-   "show_uri": "spotify:show:4sMCRFb3B4g9Ax3lDCOOTX",
-   "release_date": "2026-11-19",
-   "duration_ms": 1309048,
-   "image": "https://i.scdn.co/image/ab67656300005f1fbe53b4cdd29c489500b01d97",
-   "first_seen": "2026-11-20T14:10:02Z",
-   "progress_ms": 1342120,
-   "last_seen": "2026-11-20T15:10:03Z",
-   "url": "https://open.spotify.com/episode/6mkmwxoxUBuifwFGjnNnDa",
-   "show_image": "https://i.scdn.co/image/ab67656300005f1fbe53b4cdd29c489500b01d97"
   }
  ],
  "top_shows": [
