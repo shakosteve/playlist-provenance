@@ -1,15 +1,70 @@
 window.LISTENING = {
  "title": "The Listening Booth",
- "generated": "2026-11-21T12:10:06Z",
- "synced": "2026-11-21T12:10:01Z",
+ "generated": "2026-11-21T13:10:09Z",
+ "synced": "2026-11-21T13:10:01Z",
  "totals": {
-  "plays": 125395,
-  "hours": 8525.8,
+  "plays": 125400,
+  "hours": 8526.2,
   "artists": 702,
   "albums": 1532,
   "first": "2013-05-07T01:40:37Z"
  },
  "recent": [
+  {
+   "name": "3AM",
+   "artist": "Matchbox Twenty",
+   "album": "Yourself or Someone Like You",
+   "year": 1996,
+   "image": "https://i.scdn.co/image/ab67616d00001e0211585490475c991f8c83bca7",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b27311585490475c991f8c83bca7",
+   "url": "https://open.spotify.com/track/5vYA1mW9g2Coh1HUFUSmlb",
+   "album_url": "https://open.spotify.com/album/4vUXTcKz7tXxrNl84meN6i",
+   "played_at": "2026-11-21T12:59:34.491Z"
+  },
+  {
+   "name": "T.N.T.",
+   "artist": "AC/DC",
+   "album": "High Voltage",
+   "year": 1976,
+   "image": "https://i.scdn.co/image/ab67616d00001e028c7f355d649e0a3cfcf6fc39",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b2738c7f355d649e0a3cfcf6fc39",
+   "url": "https://open.spotify.com/track/7LRMbd3LEoV5wZJvXT1Lwb",
+   "album_url": "https://open.spotify.com/album/19AUoKWRAaQYrggVvdQnqq",
+   "played_at": "2026-11-21T12:55:47.987Z"
+  },
+  {
+   "name": "Bring It on Home - Remaster",
+   "artist": "Led Zeppelin",
+   "album": "Led Zeppelin II (Remaster)",
+   "year": 1969,
+   "image": "https://i.scdn.co/image/ab67616d00001e02f396ea414b735ef23e2ed1a9",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b273f396ea414b735ef23e2ed1a9",
+   "url": "https://open.spotify.com/track/1rxD34LAtkafrMUHqHIV76",
+   "album_url": "https://open.spotify.com/album/58MQ0PLijVHePUonQlK76Y",
+   "played_at": "2026-11-21T12:52:12.322Z"
+  },
+  {
+   "name": "Whole Lotta Love - Live",
+   "artist": "Jimmy Page, The Black Crowes",
+   "album": "Live at the Greek",
+   "year": 2025,
+   "image": "https://i.scdn.co/image/ab67616d00001e02fa6e624fbe4dbca748770195",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b273fa6e624fbe4dbca748770195",
+   "url": "https://open.spotify.com/track/1NpILLKnL2kQYwb6bCtiPe",
+   "album_url": "https://open.spotify.com/album/27DJov9N9ian0RrcMO1Iak",
+   "played_at": "2026-11-21T12:47:52.181Z"
+  },
+  {
+   "name": "The End (Stars Always Seem to Fade)",
+   "artist": "The Warning",
+   "album": "Queen of the Murder Scene",
+   "year": 2018,
+   "image": "https://i.scdn.co/image/ab67616d00001e02e0871bbaad013df7b7e56c2a",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b273e0871bbaad013df7b7e56c2a",
+   "url": "https://open.spotify.com/track/34UQ1XrP5vut9fCgl76H8g",
+   "album_url": "https://open.spotify.com/album/2kB1Qqw3YOR9i3nbNxXWRs",
+   "played_at": "2026-11-21T12:42:00.075Z"
+  },
   {
    "name": "this is a banger i swear",
    "artist": "Jasmine Star",
@@ -482,73 +537,18 @@ window.LISTENING = {
    "url": "https://open.spotify.com/track/1Eolhana7nKHYpcYpdVcT5",
    "album_url": "https://open.spotify.com/album/3uFZf8rykoHo7XMIQVYW6r",
    "played_at": "2026-11-17T19:45:10.886Z"
-  },
-  {
-   "name": "MONEY - Live from Auditorio Nacional, CDMX",
-   "artist": "The Warning",
-   "album": "Live from Auditorio Nacional, CDMX",
-   "year": 2025,
-   "image": "https://i.scdn.co/image/ab67616d00001e025cda6d880ec3968aa6b6ac2f",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b2735cda6d880ec3968aa6b6ac2f",
-   "url": "https://open.spotify.com/track/5DsDZRIFokrMUn9jPYojxD",
-   "album_url": "https://open.spotify.com/album/0LhKnnsC3qOLCgtlQUUGIS",
-   "played_at": "2026-11-17T19:42:44.677Z"
-  },
-  {
-   "name": "Wanted Dead Or Alive",
-   "artist": "Bon Jovi",
-   "album": "Slippery When Wet",
-   "year": 1986,
-   "image": "https://i.scdn.co/image/ab67616d00001e021336b31b6a1799f0de5807ac",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b2731336b31b6a1799f0de5807ac",
-   "url": "https://open.spotify.com/track/0oerlffJSzhRVvtDfLcp3N",
-   "album_url": "https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t",
-   "played_at": "2026-11-17T19:38:20.907Z"
-  },
-  {
-   "name": "More Than a Feeling",
-   "artist": "Boston",
-   "album": "Boston",
-   "year": 1976,
-   "image": "https://i.scdn.co/image/ab67616d00001e028c1fadcc997a65384f34d694",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b2738c1fadcc997a65384f34d694",
-   "url": "https://open.spotify.com/track/1QEEqeFIZktqIpPI4jSVSF",
-   "album_url": "https://open.spotify.com/album/2QLp07RO6anZHmtcKTEvSC",
-   "played_at": "2026-11-17T19:33:11.835Z"
-  },
-  {
-   "name": "Shout",
-   "artist": "Tears For Fears",
-   "album": "Songs From The Big Chair",
-   "year": 1985,
-   "image": "https://i.scdn.co/image/ab67616d00001e025e12c35cb4c848a927ef4b69",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b2735e12c35cb4c848a927ef4b69",
-   "url": "https://open.spotify.com/track/6UQDkQdtvj3f7F7edAsqda",
-   "album_url": "https://open.spotify.com/album/5STbVtgFy6y7uPshY1RRqb",
-   "played_at": "2026-11-17T19:28:26.119Z"
-  },
-  {
-   "name": "How Deep Is Your Love",
-   "artist": "Bee Gees",
-   "album": "How Can You Mend A Broken Heart",
-   "year": 2020,
-   "image": "https://i.scdn.co/image/ab67616d00001e02bdcea025a483b9642f17a9f8",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b273bdcea025a483b9642f17a9f8",
-   "url": "https://open.spotify.com/track/3ZP18us6p6LHOZMG1LLUjF",
-   "album_url": "https://open.spotify.com/album/4vAhQeeWkSjVn0p5GAaLBx",
-   "played_at": "2026-11-17T19:16:53.315Z"
   }
  ],
  "top_artists": [
   {
    "name": "The Warning",
-   "plays": 10719,
+   "plays": 10720,
    "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh",
    "image": "https://i.scdn.co/image/ab67616d00001e0204a3dad60eb365aec55022de"
   },
   {
    "name": "AC/DC",
-   "plays": 3999,
+   "plays": 4000,
    "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un",
    "image": "https://i.scdn.co/image/ab67616d00001e02ff191d7fbdb5a13eaf84132b"
   },
@@ -560,7 +560,7 @@ window.LISTENING = {
   },
   {
    "name": "Led Zeppelin",
-   "plays": 2309,
+   "plays": 2310,
    "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp",
    "image": "https://i.scdn.co/image/ab67616d00001e02c8a11e48c91a982d086afc69"
   },
@@ -622,7 +622,7 @@ window.LISTENING = {
    "image_large": "https://i.scdn.co/image/ab67616d0000b273e0871bbaad013df7b7e56c2a",
    "url": "https://open.spotify.com/track/3byoK5Yi2YT9Gcc4xS8qKE",
    "album_url": "https://open.spotify.com/album/2kB1Qqw3YOR9i3nbNxXWRs",
-   "plays": 1903
+   "plays": 1904
   },
   {
    "name": "Back In Black",
@@ -833,7 +833,7 @@ window.LISTENING = {
   },
   {
    "decade": 1960,
-   "plays": 7070,
+   "plays": 7071,
    "covers": [
     {
      "name": "Your Time Is Gonna Come - 1990 Remaster",
@@ -927,7 +927,7 @@ window.LISTENING = {
   },
   {
    "decade": 1970,
-   "plays": 28753,
+   "plays": 28754,
    "covers": [
     {
      "name": "More Than a Feeling",
@@ -1115,7 +1115,7 @@ window.LISTENING = {
   },
   {
    "decade": 1990,
-   "plays": 9753,
+   "plays": 9754,
    "covers": [
     {
      "name": "Amazing",
@@ -1303,7 +1303,7 @@ window.LISTENING = {
   },
   {
    "decade": 2010,
-   "plays": 15814,
+   "plays": 15815,
    "covers": [
     {
      "name": "XXI Century Blood",
@@ -1325,7 +1325,7 @@ window.LISTENING = {
      "image_large": "https://i.scdn.co/image/ab67616d0000b273e0871bbaad013df7b7e56c2a",
      "url": "https://open.spotify.com/track/3byoK5Yi2YT9Gcc4xS8qKE",
      "album_url": "https://open.spotify.com/album/2kB1Qqw3YOR9i3nbNxXWRs",
-     "plays": 1903
+     "plays": 1904
     },
     {
      "name": "Rhyme or Reason",
@@ -1397,7 +1397,7 @@ window.LISTENING = {
   },
   {
    "decade": 2020,
-   "plays": 18703,
+   "plays": 18704,
    "covers": [
     {
      "name": "ERROR",
@@ -1491,6 +1491,19 @@ window.LISTENING = {
   }
  ],
  "episodes": [
+  {
+   "name": "Military Strategist: Russia Can No Longer Win This War. But It Can’t Afford to Stop Anymore",
+   "show": "Decoding Geopolitics Podcast with Dominik Presl",
+   "show_uri": "spotify:show:4280ZedhnCYLFurjyzjmco",
+   "release_date": "2026-11-21",
+   "duration_ms": 1715520,
+   "image": "https://i.scdn.co/image/ab67656300005f1fe93fd76df92328c03dd2458e",
+   "first_seen": "2026-11-21T13:10:02Z",
+   "progress_ms": 424793,
+   "last_seen": "2026-11-21T13:10:02Z",
+   "url": "https://open.spotify.com/episode/0QFNAHWYAjXZbbczhB6jhR",
+   "show_image": "https://i.scdn.co/image/ab67656300005f1fab3cb125200d6c73efdfc670"
+  },
   {
    "name": "175. Petty Dwarves and Petty Men : Children of Húrin #10",
    "show": "Exploring Tolkien",
@@ -1633,19 +1646,6 @@ window.LISTENING = {
    "last_seen": "2026-11-20T15:10:03Z",
    "url": "https://open.spotify.com/episode/6mkmwxoxUBuifwFGjnNnDa",
    "show_image": "https://i.scdn.co/image/ab67656300005f1fbe53b4cdd29c489500b01d97"
-  },
-  {
-   "name": "How an American AI Company Uses Chinese Open-Weight Models",
-   "show": "Odd Lots",
-   "show_uri": "spotify:show:1te7oSFyRVekxMBJUSethH",
-   "release_date": "2026-11-20",
-   "duration_ms": 2902569,
-   "image": "https://i.scdn.co/image/ab67656300005f1f77e76ef980ccf6174ff80c42",
-   "first_seen": "2026-11-20T12:40:02Z",
-   "progress_ms": 3369431,
-   "last_seen": "2026-11-20T14:40:03Z",
-   "url": "https://open.spotify.com/episode/704tOlO4xdEpPgucWZjT6A",
-   "show_image": "https://i.scdn.co/image/ab67656300005f1f77e76ef980ccf6174ff80c42"
   }
  ],
  "top_shows": [
