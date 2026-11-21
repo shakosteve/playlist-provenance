@@ -1,15 +1,70 @@
 window.LISTENING = {
  "title": "The Listening Booth",
- "generated": "2026-11-21T17:10:06Z",
- "synced": "2026-11-21T17:10:01Z",
+ "generated": "2026-11-21T17:40:08Z",
+ "synced": "2026-11-21T17:40:01Z",
  "totals": {
-  "plays": 125422,
-  "hours": 8527.6,
+  "plays": 125427,
+  "hours": 8527.9,
   "artists": 702,
   "albums": 1532,
   "first": "2013-05-07T01:40:37Z"
  },
  "recent": [
+  {
+   "name": "Shot In The Dark",
+   "artist": "AC/DC",
+   "album": "POWER UP",
+   "year": 2020,
+   "image": "https://i.scdn.co/image/ab67616d00001e026ee202215547101d947d4b9f",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b2736ee202215547101d947d4b9f",
+   "url": "https://open.spotify.com/track/0sfdiwck2xr4PteGOdyOfz",
+   "album_url": "https://open.spotify.com/album/3bTNxJYk2bwdWBMtrjBxb0",
+   "played_at": "2026-11-21T17:39:06.799Z"
+  },
+  {
+   "name": "Playing with the Boys - From \"Top Gun\" Original Soundtrack",
+   "artist": "Kenny Loggins",
+   "album": "Top Gun - Motion Picture Soundtrack (Special Expanded Edition)",
+   "year": 1999,
+   "image": "https://i.scdn.co/image/ab67616d00001e02b8f8d696810d68ce774e3a2f",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b273b8f8d696810d68ce774e3a2f",
+   "url": "https://open.spotify.com/track/5mQYBoGU3BOAqiFq54b51i",
+   "album_url": "https://open.spotify.com/album/6K8iDZW8jPaoiqSzFFebJA",
+   "played_at": "2026-11-21T17:36:01.145Z"
+  },
+  {
+   "name": "True Blue",
+   "artist": "Madonna",
+   "album": "True Blue",
+   "year": 1986,
+   "image": "https://i.scdn.co/image/ab67616d00001e02de3094d98b62340d3268c7bc",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b273de3094d98b62340d3268c7bc",
+   "url": "https://open.spotify.com/track/7azOuDeJGbxt5mvq3GQHXp",
+   "album_url": "https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD",
+   "played_at": "2026-11-21T17:32:01.359Z"
+  },
+  {
+   "name": "Ain't No Rest for the Wicked",
+   "artist": "Cage The Elephant",
+   "album": "Cage The Elephant (Expanded Edition)",
+   "year": 2009,
+   "image": "https://i.scdn.co/image/ab67616d00001e02e4800c920780ac18d4ab6730",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b273e4800c920780ac18d4ab6730",
+   "url": "https://open.spotify.com/track/3Pzh926pXggbMe2ZpXyMV7",
+   "album_url": "https://open.spotify.com/album/7H814Cg8HV0qpoMheYbhNn",
+   "played_at": "2026-11-21T17:27:43.444Z"
+  },
+  {
+   "name": "Age of Machine",
+   "artist": "Greta Van Fleet",
+   "album": "The Battle at Garden’s Gate",
+   "year": 2021,
+   "image": "https://i.scdn.co/image/ab67616d00001e02339cc033bcc476d11dffba4c",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b273339cc033bcc476d11dffba4c",
+   "url": "https://open.spotify.com/track/6XALorRRo9aQdBIQN0UWyn",
+   "album_url": "https://open.spotify.com/album/7kjLKy9JLbwM9F7eDQEnd2",
+   "played_at": "2026-11-21T17:24:47.541Z"
+  },
   {
    "name": "The Grand Illusion",
    "artist": "Styx",
@@ -482,61 +537,6 @@ window.LISTENING = {
    "url": "https://open.spotify.com/track/1RC5Mb0VhnlhnMlFDnrvE0",
    "album_url": "https://open.spotify.com/album/0E0q3hPeALlDvoDvYztYeH",
    "played_at": "2026-11-18T14:22:19.359Z"
-  },
-  {
-   "name": "The Steps",
-   "artist": "HAIM",
-   "album": "Women In Music Pt. III",
-   "year": 2021,
-   "image": "https://i.scdn.co/image/ab67616d00001e02e8be33a5e8efee9be2afffc3",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b273e8be33a5e8efee9be2afffc3",
-   "url": "https://open.spotify.com/track/5X2RisOZS9i5MsR8EVw58p",
-   "album_url": "https://open.spotify.com/album/396EJBtUzseofX2YCBJVvM",
-   "played_at": "2026-11-18T01:19:20.104Z"
-  },
-  {
-   "name": "Pour Some Sugar On Me - Remastered 2017",
-   "artist": "Def Leppard",
-   "album": "Hysteria (Super Deluxe)",
-   "year": 1987,
-   "image": "https://i.scdn.co/image/ab67616d00001e02222cb38afc3b3b47d9df26aa",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b273222cb38afc3b3b47d9df26aa",
-   "url": "https://open.spotify.com/track/0PdM2a6oIjqepoEfcJo0RO",
-   "album_url": "https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE",
-   "played_at": "2026-11-18T01:15:11.979Z"
-  },
-  {
-   "name": "Southern Cross - 2005 Remaster",
-   "artist": "Crosby, Stills & Nash",
-   "album": "Daylight Again (Deluxe Edition)",
-   "year": 1982,
-   "image": "https://i.scdn.co/image/ab67616d00001e02114c0d586b9e7052518e9d1e",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b273114c0d586b9e7052518e9d1e",
-   "url": "https://open.spotify.com/track/5AoZknxgY6F25gAcVahO41",
-   "album_url": "https://open.spotify.com/album/7mepsTLhRL4ghKLZ4oB31u",
-   "played_at": "2026-11-18T01:10:44.169Z"
-  },
-  {
-   "name": "Poison",
-   "artist": "Alice Cooper",
-   "album": "Trash",
-   "year": 1989,
-   "image": "https://i.scdn.co/image/ab67616d00001e0234b292a289c635532da02671",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b27334b292a289c635532da02671",
-   "url": "https://open.spotify.com/track/5XcZRgJv3zMhTqCyESjQrF",
-   "album_url": "https://open.spotify.com/album/033cvSPAuSU5ArRfIgQSDU",
-   "played_at": "2026-11-18T01:06:02.729Z"
-  },
-  {
-   "name": "California Dreamin' - Single Version",
-   "artist": "The Mamas & The Papas",
-   "album": "If You Can Believe Your Eyes & Ears",
-   "year": 1966,
-   "image": "https://i.scdn.co/image/ab67616d00001e0208181b9f840a06e7a071cf72",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b27308181b9f840a06e7a071cf72",
-   "url": "https://open.spotify.com/track/4s6LhHAV5SEsOV0lC2tjvJ",
-   "album_url": "https://open.spotify.com/album/76oMr4Y2pOtcrvZLc2ZikF",
-   "played_at": "2026-11-18T01:01:32.437Z"
   }
  ],
  "top_artists": [
@@ -548,7 +548,7 @@ window.LISTENING = {
   },
   {
    "name": "AC/DC",
-   "plays": 4000,
+   "plays": 4001,
    "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un",
    "image": "https://i.scdn.co/image/ab67616d00001e02ff191d7fbdb5a13eaf84132b"
   },
@@ -566,7 +566,7 @@ window.LISTENING = {
   },
   {
    "name": "Madonna",
-   "plays": 2113,
+   "plays": 2114,
    "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW",
    "image": "https://i.scdn.co/image/ab67616d00001e026b44fa8f5415cc4c945117be"
   },
@@ -1021,7 +1021,7 @@ window.LISTENING = {
   },
   {
    "decade": 1980,
-   "plays": 33001,
+   "plays": 33002,
    "covers": [
     {
      "name": "Back In Black",
@@ -1115,7 +1115,7 @@ window.LISTENING = {
   },
   {
    "decade": 1990,
-   "plays": 9754,
+   "plays": 9755,
    "covers": [
     {
      "name": "Amazing",
@@ -1209,7 +1209,7 @@ window.LISTENING = {
   },
   {
    "decade": 2000,
-   "plays": 12028,
+   "plays": 12029,
    "covers": [
     {
      "name": "Material Girl",
@@ -1397,7 +1397,7 @@ window.LISTENING = {
   },
   {
    "decade": 2020,
-   "plays": 18710,
+   "plays": 18712,
    "covers": [
     {
      "name": "ERROR",
@@ -1452,7 +1452,7 @@ window.LISTENING = {
      "image_large": "https://i.scdn.co/image/ab67616d0000b2736ee202215547101d947d4b9f",
      "url": "https://open.spotify.com/track/0sfdiwck2xr4PteGOdyOfz",
      "album_url": "https://open.spotify.com/album/3bTNxJYk2bwdWBMtrjBxb0",
-     "plays": 477
+     "plays": 478
     },
     {
      "name": "The Barbarians",
@@ -1463,7 +1463,7 @@ window.LISTENING = {
      "image_large": "https://i.scdn.co/image/ab67616d0000b273339cc033bcc476d11dffba4c",
      "url": "https://open.spotify.com/track/3RQjHiFJnKQKFKjQ7XI8DD",
      "album_url": "https://open.spotify.com/album/7kjLKy9JLbwM9F7eDQEnd2",
-     "plays": 445
+     "plays": 446
     },
     {
      "name": "You Suck, Baby",
