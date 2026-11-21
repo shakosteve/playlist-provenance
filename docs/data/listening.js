@@ -1,15 +1,26 @@
 window.LISTENING = {
  "title": "The Listening Booth",
- "generated": "2026-11-21T18:10:09Z",
- "synced": "2026-11-21T18:10:01Z",
+ "generated": "2026-11-21T18:40:09Z",
+ "synced": "2026-11-21T18:40:01Z",
  "totals": {
-  "plays": 125429,
-  "hours": 8528.0,
+  "plays": 125430,
+  "hours": 8528.1,
   "artists": 702,
   "albums": 1532,
   "first": "2013-05-07T01:40:37Z"
  },
  "recent": [
+  {
+   "name": "My Way, Soon",
+   "artist": "Greta Van Fleet",
+   "album": "Broken Bells",
+   "year": 2021,
+   "image": "https://i.scdn.co/image/ab67616d00001e029163a72affa104f29fc576fb",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b2739163a72affa104f29fc576fb",
+   "url": "https://open.spotify.com/track/2IsuiHhWDj8ByvznN04v7S",
+   "album_url": "https://open.spotify.com/album/1rWkxCNuPFzDRFANL8lLnG",
+   "played_at": "2026-11-21T17:58:50.527Z"
+  },
   {
    "name": "Double Trouble",
    "artist": "Lynyrd Skynyrd",
@@ -526,17 +537,6 @@ window.LISTENING = {
    "url": "https://open.spotify.com/track/34UQ1XrP5vut9fCgl76H8g",
    "album_url": "https://open.spotify.com/album/2kB1Qqw3YOR9i3nbNxXWRs",
    "played_at": "2026-11-18T22:48:36.133Z"
-  },
-  {
-   "name": "Bring It on Home - Remaster",
-   "artist": "Led Zeppelin",
-   "album": "Led Zeppelin II (Remaster)",
-   "year": 1969,
-   "image": "https://i.scdn.co/image/ab67616d00001e02f396ea414b735ef23e2ed1a9",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b273f396ea414b735ef23e2ed1a9",
-   "url": "https://open.spotify.com/track/1rxD34LAtkafrMUHqHIV76",
-   "album_url": "https://open.spotify.com/album/58MQ0PLijVHePUonQlK76Y",
-   "played_at": "2026-11-18T22:58:48.708Z"
   }
  ],
  "top_artists": [
@@ -1397,7 +1397,7 @@ window.LISTENING = {
   },
   {
    "decade": 2020,
-   "plays": 18712,
+   "plays": 18713,
    "covers": [
     {
      "name": "ERROR",
@@ -1430,7 +1430,7 @@ window.LISTENING = {
      "image_large": "https://i.scdn.co/image/ab67616d0000b2739163a72affa104f29fc576fb",
      "url": "https://open.spotify.com/track/2AxlSslgR8v0Hqq079x7vv",
      "album_url": "https://open.spotify.com/album/1rWkxCNuPFzDRFANL8lLnG",
-     "plays": 533
+     "plays": 534
     },
     {
      "name": "CHOKE - Live from Auditorio Nacional, CDMX",
@@ -1491,6 +1491,19 @@ window.LISTENING = {
   }
  ],
  "episodes": [
+  {
+   "name": "#2584 - Mike Baker",
+   "show": "The Joe Rogan Experience",
+   "show_uri": "spotify:show:4rOoJ6Egrf8K2IrywzwOMk",
+   "release_date": "2026-11-20",
+   "duration_ms": 9719871,
+   "image": "https://i.scdn.co/image/ab67656300005f1f04d7bf05a216adfba1b32a34",
+   "first_seen": "2026-11-21T18:40:02Z",
+   "progress_ms": 591750,
+   "last_seen": "2026-11-21T18:40:02Z",
+   "url": "https://open.spotify.com/episode/54AhCUVHXD9ShHB9K4ouLb",
+   "show_image": "https://i.scdn.co/image/ab67656300005f1f6f49337404191bf32d60c894"
+  },
   {
    "name": "Why Anthropic’s IPO Didn’t Stop the Tech Sell Off",
    "show": "The Journal.",
@@ -1633,19 +1646,6 @@ window.LISTENING = {
    "last_seen": "2026-11-20T17:10:03Z",
    "url": "https://open.spotify.com/episode/2coNVjyfFJ2cgXNQdTcv52",
    "show_image": "https://i.scdn.co/image/ab67656300005f1f110dfea289c0685fcc6c4343"
-  },
-  {
-   "name": "The BBC's Lyse Doucet on U.S. Foreign Policy After the Midterms",
-   "show": "The Middle with Jeremy Hobson",
-   "show_uri": "spotify:show:5l5B4IoLnVHnFMLmGSar2f",
-   "release_date": "2026-11-20",
-   "duration_ms": 2992576,
-   "image": "https://i.scdn.co/image/ab67656300005f1f11d455b3777541578736dd8e",
-   "first_seen": "2026-11-20T14:40:02Z",
-   "progress_ms": 1393720,
-   "last_seen": "2026-11-20T17:10:02Z",
-   "url": "https://open.spotify.com/episode/0kraZnRt4tC3aztP1RPgp7",
-   "show_image": "https://i.scdn.co/image/ab67656300005f1f083f152347124d54a12d4ca0"
   }
  ],
  "top_shows": [
