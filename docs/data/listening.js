@@ -1,7 +1,7 @@
 window.LISTENING = {
  "title": "The Listening Booth",
- "generated": "2026-11-22T15:10:06Z",
- "synced": "2026-11-22T15:10:01Z",
+ "generated": "2026-11-22T15:40:06Z",
+ "synced": "2026-11-22T15:40:02Z",
  "totals": {
   "plays": 125430,
   "hours": 8528.1,
@@ -1492,6 +1492,19 @@ window.LISTENING = {
  ],
  "episodes": [
   {
+   "name": "In Moscow's Shadows 272: Summits, Strikes and Suborned Technocrats",
+   "show": "In Moscow's Shadows",
+   "show_uri": "spotify:show:1NKCazxYstY6o8vhpGQSjF",
+   "release_date": "2026-11-22",
+   "duration_ms": 2995928,
+   "image": "https://i.scdn.co/image/ab67656300005f1fd2dd1e74bffcd7cabc91a62c",
+   "first_seen": "2026-11-22T15:40:02Z",
+   "progress_ms": 1323992,
+   "last_seen": "2026-11-22T15:40:02Z",
+   "url": "https://open.spotify.com/episode/2qnxfgduNPtOoToTRCZRFt",
+   "show_image": "https://i.scdn.co/image/ab67656300005f1fd2dd1e74bffcd7cabc91a62c"
+  },
+  {
    "name": "#2584 - Mike Baker",
    "show": "The Joe Rogan Experience",
    "show_uri": "spotify:show:4rOoJ6Egrf8K2IrywzwOMk",
@@ -1633,19 +1646,6 @@ window.LISTENING = {
    "last_seen": "2026-11-21T00:10:03Z",
    "url": "https://open.spotify.com/episode/3Dobwx8dxG9VykdUQz6lt2",
    "show_image": "https://i.scdn.co/image/ab67656300005f1f78954c21afd24c90334deba4"
-  },
-  {
-   "name": "The Race to Escape Linear TV, With Versant CEO Mark Lazarus",
-   "show": "The Town with Matthew Belloni",
-   "show_uri": "spotify:show:4uXizLZjslhw7nyDPocta2",
-   "release_date": "2026-11-20",
-   "duration_ms": 2123904,
-   "image": "https://i.scdn.co/image/ab67656300005f1fdf9302e7d9cd089e767ed68d",
-   "first_seen": "2026-11-20T16:40:02Z",
-   "progress_ms": 2123904,
-   "last_seen": "2026-11-20T19:10:03Z",
-   "url": "https://open.spotify.com/episode/2RAezH04sihF49A4CSVzLI",
-   "show_image": "https://i.scdn.co/image/ab67656300005f1fdd3837a132fb0b313263e65e"
   }
  ],
  "top_shows": [
