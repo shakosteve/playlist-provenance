@@ -1,7 +1,7 @@
 window.LISTENING = {
  "title": "The Listening Booth",
- "generated": "2026-11-22T17:40:08Z",
- "synced": "2026-11-22T17:40:01Z",
+ "generated": "2026-11-22T18:10:09Z",
+ "synced": "2026-11-22T18:10:02Z",
  "totals": {
   "plays": 125430,
   "hours": 8528.1,
@@ -1492,6 +1492,19 @@ window.LISTENING = {
  ],
  "episodes": [
   {
+   "name": "Russian cargo ship struck by drones in the Gulf of Finland",
+   "show": "Newshour",
+   "show_uri": "spotify:show:5qbXje6KaVOHwjsHNTELjA",
+   "release_date": "2026-11-21",
+   "duration_ms": 2359066,
+   "image": "https://i.scdn.co/image/ab67656300005f1f189781a3a30bf2cb76ae0f46",
+   "first_seen": "2026-11-22T18:10:02Z",
+   "progress_ms": 778342,
+   "last_seen": "2026-11-22T18:10:02Z",
+   "url": "https://open.spotify.com/episode/2wymgvHaX16VlEAL9MLilB",
+   "show_image": "https://i.scdn.co/image/ab67656300005f1f189781a3a30bf2cb76ae0f46"
+  },
+  {
    "name": "🇵🇭 From Manila, Latika Takes interviews Jay Tarriela",
    "show": "Latika Takes",
    "show_uri": "spotify:show:47w1wyIbIRDrEyKzvuKg1j",
@@ -1633,19 +1646,6 @@ window.LISTENING = {
    "last_seen": "2026-11-21T02:40:02Z",
    "url": "https://open.spotify.com/episode/2yeQKb2Fw4y0cpE7ckfobi",
    "show_image": "https://i.scdn.co/image/ab67656300005f1fe19edf2c6856b8b09c057f38"
-  },
-  {
-   "name": "Happy Hour: Is FOX Nation's 'The Vow' Changing Reality Dating?",
-   "show": "Kennedy Saves the World",
-   "show_uri": "spotify:show:5DEwjZIkxrUhkM1nlqLagd",
-   "release_date": "2026-11-20",
-   "duration_ms": 1039509,
-   "image": "https://i.scdn.co/image/ab67656300005f1f2fb2c2e9437b0a35251ef80c",
-   "first_seen": "2026-11-21T02:10:04Z",
-   "progress_ms": 46181,
-   "last_seen": "2026-11-21T02:10:04Z",
-   "url": "https://open.spotify.com/episode/7KCHjA4xgZpwfnKCzwIOmj",
-   "show_image": "https://i.scdn.co/image/ab67656300005f1fc306eb9be2f4da68a4f7f2be"
   }
  ],
  "top_shows": [
