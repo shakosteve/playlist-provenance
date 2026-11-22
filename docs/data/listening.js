@@ -1,7 +1,7 @@
 window.LISTENING = {
  "title": "The Listening Booth",
- "generated": "2026-11-22T17:10:09Z",
- "synced": "2026-11-22T17:10:02Z",
+ "generated": "2026-11-22T17:40:08Z",
+ "synced": "2026-11-22T17:40:01Z",
  "totals": {
   "plays": 125430,
   "hours": 8528.1,
@@ -1492,6 +1492,19 @@ window.LISTENING = {
  ],
  "episodes": [
   {
+   "name": "🇵🇭 From Manila, Latika Takes interviews Jay Tarriela",
+   "show": "Latika Takes",
+   "show_uri": "spotify:show:47w1wyIbIRDrEyKzvuKg1j",
+   "release_date": "2026-11-22",
+   "duration_ms": 1803848,
+   "image": "https://i.scdn.co/image/ab67656300005f1f3dd515d49bdfa78822111f48",
+   "first_seen": "2026-11-22T17:40:02Z",
+   "progress_ms": 900921,
+   "last_seen": "2026-11-22T17:40:02Z",
+   "url": "https://open.spotify.com/episode/3MAlTkIgMIO10bvEDCerFv",
+   "show_image": "https://i.scdn.co/image/ab67656300005f1f0a171d006dae899f2193c829"
+  },
+  {
    "name": "In Moscow's Shadows 272: Summits, Strikes and Suborned Technocrats",
    "show": "In Moscow's Shadows",
    "show_uri": "spotify:show:1NKCazxYstY6o8vhpGQSjF",
@@ -1633,19 +1646,6 @@ window.LISTENING = {
    "last_seen": "2026-11-21T02:10:04Z",
    "url": "https://open.spotify.com/episode/7KCHjA4xgZpwfnKCzwIOmj",
    "show_image": "https://i.scdn.co/image/ab67656300005f1fc306eb9be2f4da68a4f7f2be"
-  },
-  {
-   "name": "The Strait of Hormuz is broken and China is on the rise: nine months of the US-Iran war",
-   "show": "Iran: The Latest",
-   "show_uri": "spotify:show:7gPBO0qnZI1YBi25zaVT1c",
-   "release_date": "2026-11-20",
-   "duration_ms": 2865580,
-   "image": "https://i.scdn.co/image/ab67656300005f1f2a6de0a452b17c890e4f4086",
-   "first_seen": "2026-11-20T18:40:02Z",
-   "progress_ms": 2930513,
-   "last_seen": "2026-11-21T00:40:03Z",
-   "url": "https://open.spotify.com/episode/7IPoHqZk9lorraUL28TBQY",
-   "show_image": "https://i.scdn.co/image/ab67656300005f1f519d450dd03b488808a88e30"
   }
  ],
  "top_shows": [
