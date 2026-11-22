@@ -1,7 +1,7 @@
 window.LISTENING = {
  "title": "The Listening Booth",
- "generated": "2026-11-22T19:40:09Z",
- "synced": "2026-11-22T19:40:02Z",
+ "generated": "2026-11-22T20:10:07Z",
+ "synced": "2026-11-22T20:10:02Z",
  "totals": {
   "plays": 125430,
   "hours": 8528.1,
@@ -1492,6 +1492,19 @@ window.LISTENING = {
  ],
  "episodes": [
   {
+   "name": "🇵🇭 From Manila, Latika Takes interviews Jay Tarriela",
+   "show": "Latika Takes",
+   "show_uri": "spotify:show:47w1wyIbIRDrEyKzvuKg1j",
+   "release_date": "2026-11-22",
+   "duration_ms": 1803848,
+   "image": "https://i.scdn.co/image/ab67656300005f1f3dd515d49bdfa78822111f48",
+   "first_seen": "2026-11-22T17:40:02Z",
+   "progress_ms": 1803848,
+   "last_seen": "2026-11-22T20:10:02Z",
+   "url": "https://open.spotify.com/episode/3MAlTkIgMIO10bvEDCerFv",
+   "show_image": "https://i.scdn.co/image/ab67656300005f1f0a171d006dae899f2193c829"
+  },
+  {
    "name": "Can Democrats Keep Winning the South? with James Carville",
    "show": "The Powers That Be: Daily",
    "show_uri": "spotify:show:5ZChG4x3aogGtKGkxU6nMH",
@@ -1529,19 +1542,6 @@ window.LISTENING = {
    "last_seen": "2026-11-22T18:40:02Z",
    "url": "https://open.spotify.com/episode/3sdZ1LOmtC9Gi59oPWZdgh",
    "show_image": "https://i.scdn.co/image/ab67656300005f1f189781a3a30bf2cb76ae0f46"
-  },
-  {
-   "name": "🇵🇭 From Manila, Latika Takes interviews Jay Tarriela",
-   "show": "Latika Takes",
-   "show_uri": "spotify:show:47w1wyIbIRDrEyKzvuKg1j",
-   "release_date": "2026-11-22",
-   "duration_ms": 1803848,
-   "image": "https://i.scdn.co/image/ab67656300005f1f3dd515d49bdfa78822111f48",
-   "first_seen": "2026-11-22T17:40:02Z",
-   "progress_ms": 900921,
-   "last_seen": "2026-11-22T17:40:02Z",
-   "url": "https://open.spotify.com/episode/3MAlTkIgMIO10bvEDCerFv",
-   "show_image": "https://i.scdn.co/image/ab67656300005f1f0a171d006dae899f2193c829"
   },
   {
    "name": "In Moscow's Shadows 272: Summits, Strikes and Suborned Technocrats",
