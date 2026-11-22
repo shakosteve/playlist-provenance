@@ -1,7 +1,7 @@
 window.LISTENING = {
  "title": "The Listening Booth",
- "generated": "2026-11-22T15:40:06Z",
- "synced": "2026-11-22T15:40:02Z",
+ "generated": "2026-11-22T16:10:08Z",
+ "synced": "2026-11-22T16:10:01Z",
  "totals": {
   "plays": 125430,
   "hours": 8528.1,
@@ -1492,6 +1492,19 @@ window.LISTENING = {
  ],
  "episodes": [
   {
+   "name": "Can Democrats Keep Winning the South? with James Carville",
+   "show": "The Powers That Be: Daily",
+   "show_uri": "spotify:show:5ZChG4x3aogGtKGkxU6nMH",
+   "release_date": "2026-11-22",
+   "duration_ms": 2146534,
+   "image": "https://i.scdn.co/image/ab67656300005f1f36f39d45bf295cbf58d41331",
+   "first_seen": "2026-11-22T16:10:02Z",
+   "progress_ms": 127988,
+   "last_seen": "2026-11-22T16:10:02Z",
+   "url": "https://open.spotify.com/episode/754wNeHW426PzfqDjYEbEI",
+   "show_image": "https://i.scdn.co/image/ab67656300005f1f55386ae3fe554333e1a85785"
+  },
+  {
    "name": "In Moscow's Shadows 272: Summits, Strikes and Suborned Technocrats",
    "show": "In Moscow's Shadows",
    "show_uri": "spotify:show:1NKCazxYstY6o8vhpGQSjF",
@@ -1633,19 +1646,6 @@ window.LISTENING = {
    "last_seen": "2026-11-21T00:40:03Z",
    "url": "https://open.spotify.com/episode/7IPoHqZk9lorraUL28TBQY",
    "show_image": "https://i.scdn.co/image/ab67656300005f1f519d450dd03b488808a88e30"
-  },
-  {
-   "name": "'Defund Ukraine,' shouts Trump as missile lands near European troops in Poland",
-   "show": "Ukraine: The Latest",
-   "show_uri": "spotify:show:6cnkk1J0I1UqtxTYVUL4Fe",
-   "release_date": "2026-11-20",
-   "duration_ms": 2697012,
-   "image": "https://i.scdn.co/image/ab67656300005f1f391f0950b18db7b722c12ada",
-   "first_seen": "2026-11-20T23:40:02Z",
-   "progress_ms": 2697012,
-   "last_seen": "2026-11-21T00:10:03Z",
-   "url": "https://open.spotify.com/episode/3Dobwx8dxG9VykdUQz6lt2",
-   "show_image": "https://i.scdn.co/image/ab67656300005f1f78954c21afd24c90334deba4"
   }
  ],
  "top_shows": [
