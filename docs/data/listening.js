@@ -1,7 +1,7 @@
 window.LISTENING = {
  "title": "The Listening Booth",
- "generated": "2026-11-22T22:40:07Z",
- "synced": "2026-11-22T22:40:02Z",
+ "generated": "2026-11-22T23:10:07Z",
+ "synced": "2026-11-22T23:10:01Z",
  "totals": {
   "plays": 125430,
   "hours": 8528.1,
@@ -1492,6 +1492,19 @@ window.LISTENING = {
  ],
  "episodes": [
   {
+   "name": "721. The Charge of the Light Brigade: Outbreak of The Crimean War (Part 1)",
+   "show": "The Rest Is History",
+   "show_uri": "spotify:show:7Cvsbcjhtur7nplC148TWy",
+   "release_date": "2026-11-09",
+   "duration_ms": 4108949,
+   "image": "https://i.scdn.co/image/ab67656300005f1f8a0c80850d860aab8c8748bc",
+   "first_seen": "2026-11-22T23:10:02Z",
+   "progress_ms": 1013077,
+   "last_seen": "2026-11-22T23:10:02Z",
+   "url": "https://open.spotify.com/episode/1JG6n1RbtEz6pjkR3HaTnh",
+   "show_image": "https://i.scdn.co/image/ab67656300005f1f5470f608a42e57104c1f0720"
+  },
+  {
    "name": "Julie Samuels + Brad Thor (Carolla Classics)",
    "show": "Adam Carolla Show",
    "show_uri": "spotify:show:0YlgjXHWL0Lfxnp1LKdx9P",
@@ -1633,19 +1646,6 @@ window.LISTENING = {
    "last_seen": "2026-11-21T15:40:04Z",
    "url": "https://open.spotify.com/episode/7AsTYalqyxhAW1eOwYtfq8",
    "show_image": "https://i.scdn.co/image/ab67656300005f1f77e76ef980ccf6174ff80c42"
-  },
-  {
-   "name": "Military Strategist: Russia Can No Longer Win This War. But It Can’t Afford to Stop Anymore",
-   "show": "Decoding Geopolitics Podcast with Dominik Presl",
-   "show_uri": "spotify:show:4280ZedhnCYLFurjyzjmco",
-   "release_date": "2026-11-21",
-   "duration_ms": 1715520,
-   "image": "https://i.scdn.co/image/ab67656300005f1fe93fd76df92328c03dd2458e",
-   "first_seen": "2026-11-21T13:10:02Z",
-   "progress_ms": 1660681,
-   "last_seen": "2026-11-21T15:10:03Z",
-   "url": "https://open.spotify.com/episode/0QFNAHWYAjXZbbczhB6jhR",
-   "show_image": "https://i.scdn.co/image/ab67656300005f1fab3cb125200d6c73efdfc670"
   }
  ],
  "top_shows": [
