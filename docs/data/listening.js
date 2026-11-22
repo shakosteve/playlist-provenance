@@ -1,7 +1,7 @@
 window.LISTENING = {
  "title": "The Listening Booth",
- "generated": "2026-11-22T00:10:07Z",
- "synced": "2026-11-22T00:10:02Z",
+ "generated": "2026-11-22T01:10:09Z",
+ "synced": "2026-11-22T01:10:02Z",
  "totals": {
   "plays": 125430,
   "hours": 8528.1,
@@ -1492,6 +1492,19 @@ window.LISTENING = {
  ],
  "episodes": [
   {
+   "name": "#2583 - Bob Gymlan",
+   "show": "The Joe Rogan Experience",
+   "show_uri": "spotify:show:4rOoJ6Egrf8K2IrywzwOMk",
+   "release_date": "2026-11-19",
+   "duration_ms": 9849812,
+   "image": "https://i.scdn.co/image/ab67656300005f1fe11d42c6c9266bce1b11906d",
+   "first_seen": "2026-11-22T01:10:02Z",
+   "progress_ms": 12274,
+   "last_seen": "2026-11-22T01:10:02Z",
+   "url": "https://open.spotify.com/episode/0GIYIeKxioVcuEk9aor6ph",
+   "show_image": "https://i.scdn.co/image/ab67656300005f1f6f49337404191bf32d60c894"
+  },
+  {
    "name": "#2584 - Mike Baker",
    "show": "The Joe Rogan Experience",
    "show_uri": "spotify:show:4rOoJ6Egrf8K2IrywzwOMk",
@@ -1633,19 +1646,6 @@ window.LISTENING = {
    "last_seen": "2026-11-20T19:10:03Z",
    "url": "https://open.spotify.com/episode/2RAezH04sihF49A4CSVzLI",
    "show_image": "https://i.scdn.co/image/ab67656300005f1fdd3837a132fb0b313263e65e"
-  },
-  {
-   "name": "Should JuJu Watkins Stay in College?",
-   "show": "No Hesitation with Sophie Cunningham & Drew Hanlen",
-   "show_uri": "spotify:show:0wBDPmxsp4ivXog31cGmTX",
-   "release_date": "2026-11-19",
-   "duration_ms": 4011938,
-   "image": "https://i.scdn.co/image/ab67656300005f1fdd1957c5c363aec1cecd12f2",
-   "first_seen": "2026-11-20T15:10:02Z",
-   "progress_ms": 4011938,
-   "last_seen": "2026-11-20T17:40:03Z",
-   "url": "https://open.spotify.com/episode/6KQzENleBx2lSACdZn7SMA",
-   "show_image": "https://i.scdn.co/image/ab67656300005f1ff71d281479683178fec972fc"
   }
  ],
  "top_shows": [
