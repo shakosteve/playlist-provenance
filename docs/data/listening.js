@@ -1,7 +1,7 @@
 window.LISTENING = {
  "title": "The Listening Booth",
- "generated": "2026-11-22T18:10:09Z",
- "synced": "2026-11-22T18:10:02Z",
+ "generated": "2026-11-22T18:40:08Z",
+ "synced": "2026-11-22T18:40:01Z",
  "totals": {
   "plays": 125430,
   "hours": 8528.1,
@@ -1492,6 +1492,19 @@ window.LISTENING = {
  ],
  "episodes": [
   {
+   "name": "Can Democrats Keep Winning the South? with James Carville",
+   "show": "The Powers That Be: Daily",
+   "show_uri": "spotify:show:5ZChG4x3aogGtKGkxU6nMH",
+   "release_date": "2026-11-22",
+   "duration_ms": 2146534,
+   "image": "https://i.scdn.co/image/ab67656300005f1f36f39d45bf295cbf58d41331",
+   "first_seen": "2026-11-22T16:10:02Z",
+   "progress_ms": 2283682,
+   "last_seen": "2026-11-22T18:40:02Z",
+   "url": "https://open.spotify.com/episode/754wNeHW426PzfqDjYEbEI",
+   "show_image": "https://i.scdn.co/image/ab67656300005f1f55386ae3fe554333e1a85785"
+  },
+  {
    "name": "Russian cargo ship struck by drones in the Gulf of Finland",
    "show": "Newshour",
    "show_uri": "spotify:show:5qbXje6KaVOHwjsHNTELjA",
@@ -1499,9 +1512,22 @@ window.LISTENING = {
    "duration_ms": 2359066,
    "image": "https://i.scdn.co/image/ab67656300005f1f189781a3a30bf2cb76ae0f46",
    "first_seen": "2026-11-22T18:10:02Z",
-   "progress_ms": 778342,
-   "last_seen": "2026-11-22T18:10:02Z",
+   "progress_ms": 778542,
+   "last_seen": "2026-11-22T18:40:02Z",
    "url": "https://open.spotify.com/episode/2wymgvHaX16VlEAL9MLilB",
+   "show_image": "https://i.scdn.co/image/ab67656300005f1f189781a3a30bf2cb76ae0f46"
+  },
+  {
+   "name": "UN climate talks in Turkey closing without agreement",
+   "show": "Newshour",
+   "show_uri": "spotify:show:5qbXje6KaVOHwjsHNTELjA",
+   "release_date": "2026-11-22",
+   "duration_ms": 2847268,
+   "image": "https://i.scdn.co/image/ab67656300005f1f189781a3a30bf2cb76ae0f46",
+   "first_seen": "2026-11-22T18:40:02Z",
+   "progress_ms": 24804,
+   "last_seen": "2026-11-22T18:40:02Z",
+   "url": "https://open.spotify.com/episode/3sdZ1LOmtC9Gi59oPWZdgh",
    "show_image": "https://i.scdn.co/image/ab67656300005f1f189781a3a30bf2cb76ae0f46"
   },
   {
@@ -1529,19 +1555,6 @@ window.LISTENING = {
    "last_seen": "2026-11-22T17:10:04Z",
    "url": "https://open.spotify.com/episode/2qnxfgduNPtOoToTRCZRFt",
    "show_image": "https://i.scdn.co/image/ab67656300005f1fd2dd1e74bffcd7cabc91a62c"
-  },
-  {
-   "name": "Can Democrats Keep Winning the South? with James Carville",
-   "show": "The Powers That Be: Daily",
-   "show_uri": "spotify:show:5ZChG4x3aogGtKGkxU6nMH",
-   "release_date": "2026-11-22",
-   "duration_ms": 2146534,
-   "image": "https://i.scdn.co/image/ab67656300005f1f36f39d45bf295cbf58d41331",
-   "first_seen": "2026-11-22T16:10:02Z",
-   "progress_ms": 1385409,
-   "last_seen": "2026-11-22T17:10:02Z",
-   "url": "https://open.spotify.com/episode/754wNeHW426PzfqDjYEbEI",
-   "show_image": "https://i.scdn.co/image/ab67656300005f1f55386ae3fe554333e1a85785"
   },
   {
    "name": "#2584 - Mike Baker",
@@ -1633,19 +1646,6 @@ window.LISTENING = {
    "last_seen": "2026-11-21T03:10:03Z",
    "url": "https://open.spotify.com/episode/3skz13Qv7u10J1cCJMb12j",
    "show_image": "https://i.scdn.co/image/ab67656300005f1f437d42fd22f6b88af853b190"
-  },
-  {
-   "name": "The Politics of the Anthropic IPO",
-   "show": "RealClearPolitics Podcast",
-   "show_uri": "spotify:show:5FkNemg3aIaPPNBImIcW2l",
-   "release_date": "2026-11-20",
-   "duration_ms": 3000058,
-   "image": "https://i.scdn.co/image/ab67656300005f1fe19edf2c6856b8b09c057f38",
-   "first_seen": "2026-11-21T00:10:02Z",
-   "progress_ms": 3000058,
-   "last_seen": "2026-11-21T02:40:02Z",
-   "url": "https://open.spotify.com/episode/2yeQKb2Fw4y0cpE7ckfobi",
-   "show_image": "https://i.scdn.co/image/ab67656300005f1fe19edf2c6856b8b09c057f38"
   }
  ],
  "top_shows": [
