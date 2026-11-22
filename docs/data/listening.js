@@ -1,7 +1,7 @@
 window.LISTENING = {
  "title": "The Listening Booth",
- "generated": "2026-11-22T16:10:08Z",
- "synced": "2026-11-22T16:10:01Z",
+ "generated": "2026-11-22T17:10:09Z",
+ "synced": "2026-11-22T17:10:02Z",
  "totals": {
   "plays": 125430,
   "hours": 8528.1,
@@ -1492,19 +1492,6 @@ window.LISTENING = {
  ],
  "episodes": [
   {
-   "name": "Can Democrats Keep Winning the South? with James Carville",
-   "show": "The Powers That Be: Daily",
-   "show_uri": "spotify:show:5ZChG4x3aogGtKGkxU6nMH",
-   "release_date": "2026-11-22",
-   "duration_ms": 2146534,
-   "image": "https://i.scdn.co/image/ab67656300005f1f36f39d45bf295cbf58d41331",
-   "first_seen": "2026-11-22T16:10:02Z",
-   "progress_ms": 127988,
-   "last_seen": "2026-11-22T16:10:02Z",
-   "url": "https://open.spotify.com/episode/754wNeHW426PzfqDjYEbEI",
-   "show_image": "https://i.scdn.co/image/ab67656300005f1f55386ae3fe554333e1a85785"
-  },
-  {
    "name": "In Moscow's Shadows 272: Summits, Strikes and Suborned Technocrats",
    "show": "In Moscow's Shadows",
    "show_uri": "spotify:show:1NKCazxYstY6o8vhpGQSjF",
@@ -1512,10 +1499,23 @@ window.LISTENING = {
    "duration_ms": 2995928,
    "image": "https://i.scdn.co/image/ab67656300005f1fd2dd1e74bffcd7cabc91a62c",
    "first_seen": "2026-11-22T15:40:02Z",
-   "progress_ms": 1323992,
-   "last_seen": "2026-11-22T15:40:02Z",
+   "progress_ms": 2995928,
+   "last_seen": "2026-11-22T17:10:04Z",
    "url": "https://open.spotify.com/episode/2qnxfgduNPtOoToTRCZRFt",
    "show_image": "https://i.scdn.co/image/ab67656300005f1fd2dd1e74bffcd7cabc91a62c"
+  },
+  {
+   "name": "Can Democrats Keep Winning the South? with James Carville",
+   "show": "The Powers That Be: Daily",
+   "show_uri": "spotify:show:5ZChG4x3aogGtKGkxU6nMH",
+   "release_date": "2026-11-22",
+   "duration_ms": 2146534,
+   "image": "https://i.scdn.co/image/ab67656300005f1f36f39d45bf295cbf58d41331",
+   "first_seen": "2026-11-22T16:10:02Z",
+   "progress_ms": 1385409,
+   "last_seen": "2026-11-22T17:10:02Z",
+   "url": "https://open.spotify.com/episode/754wNeHW426PzfqDjYEbEI",
+   "show_image": "https://i.scdn.co/image/ab67656300005f1f55386ae3fe554333e1a85785"
   },
   {
    "name": "#2584 - Mike Baker",
