@@ -1,7 +1,7 @@
 window.LISTENING = {
  "title": "The Listening Booth",
- "generated": "2026-11-22T22:10:10Z",
- "synced": "2026-11-22T22:10:02Z",
+ "generated": "2026-11-22T22:40:07Z",
+ "synced": "2026-11-22T22:40:02Z",
  "totals": {
   "plays": 125430,
   "hours": 8528.1,
@@ -1499,8 +1499,8 @@ window.LISTENING = {
    "duration_ms": 9905789,
    "image": "https://i.scdn.co/image/ab67656300005f1fd813559e4461e119b4b5082f",
    "first_seen": "2026-11-22T21:10:02Z",
-   "progress_ms": 4605359,
-   "last_seen": "2026-11-22T22:10:02Z",
+   "progress_ms": 4605480,
+   "last_seen": "2026-11-22T22:40:03Z",
    "url": "https://open.spotify.com/episode/5TbqEZchzrFLbVo49Nk3z6",
    "show_image": "https://i.scdn.co/image/ab67656300005f1fd813559e4461e119b4b5082f"
   },
