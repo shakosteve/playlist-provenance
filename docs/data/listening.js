@@ -1,7 +1,7 @@
 window.LISTENING = {
  "title": "The Listening Booth",
- "generated": "2026-11-22T20:10:07Z",
- "synced": "2026-11-22T20:10:02Z",
+ "generated": "2026-11-22T21:10:08Z",
+ "synced": "2026-11-22T21:10:01Z",
  "totals": {
   "plays": 125430,
   "hours": 8528.1,
@@ -1492,6 +1492,19 @@ window.LISTENING = {
  ],
  "episodes": [
   {
+   "name": "Julie Samuels + Brad Thor (Carolla Classics)",
+   "show": "Adam Carolla Show",
+   "show_uri": "spotify:show:0YlgjXHWL0Lfxnp1LKdx9P",
+   "release_date": "2026-11-22",
+   "duration_ms": 9905789,
+   "image": "https://i.scdn.co/image/ab67656300005f1fd813559e4461e119b4b5082f",
+   "first_seen": "2026-11-22T21:10:02Z",
+   "progress_ms": 1192664,
+   "last_seen": "2026-11-22T21:10:02Z",
+   "url": "https://open.spotify.com/episode/5TbqEZchzrFLbVo49Nk3z6",
+   "show_image": "https://i.scdn.co/image/ab67656300005f1fd813559e4461e119b4b5082f"
+  },
+  {
    "name": "🇵🇭 From Manila, Latika Takes interviews Jay Tarriela",
    "show": "Latika Takes",
    "show_uri": "spotify:show:47w1wyIbIRDrEyKzvuKg1j",
@@ -1633,19 +1646,6 @@ window.LISTENING = {
    "last_seen": "2026-11-21T15:10:03Z",
    "url": "https://open.spotify.com/episode/0QFNAHWYAjXZbbczhB6jhR",
    "show_image": "https://i.scdn.co/image/ab67656300005f1fab3cb125200d6c73efdfc670"
-  },
-  {
-   "name": "175. Petty Dwarves and Petty Men : Children of Húrin #10",
-   "show": "Exploring Tolkien",
-   "show_uri": "spotify:show:053v5PsgtE8TmMiXXAyThG",
-   "release_date": "2026-11-10",
-   "duration_ms": 3227659,
-   "image": "https://i.scdn.co/image/ab67656300005f1fef7d1acce3f19b801a13d872",
-   "first_seen": "2026-11-21T01:10:02Z",
-   "progress_ms": 3227659,
-   "last_seen": "2026-11-21T03:10:03Z",
-   "url": "https://open.spotify.com/episode/3skz13Qv7u10J1cCJMb12j",
-   "show_image": "https://i.scdn.co/image/ab67656300005f1f437d42fd22f6b88af853b190"
   }
  ],
  "top_shows": [
