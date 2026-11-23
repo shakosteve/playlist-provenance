@@ -1,7 +1,7 @@
 window.LISTENING = {
  "title": "The Listening Booth",
- "generated": "2026-11-22T23:10:07Z",
- "synced": "2026-11-22T23:10:01Z",
+ "generated": "2026-11-23T00:40:09Z",
+ "synced": "2026-11-23T00:40:02Z",
  "totals": {
   "plays": 125430,
   "hours": 8528.1,
@@ -1492,6 +1492,19 @@ window.LISTENING = {
  ],
  "episodes": [
   {
+   "name": "Ron Johnson Stirs a Social Security Debate / Why the U.S. Has Measles Again",
+   "show": "WSJ Opinion: Potomac Watch",
+   "show_uri": "spotify:show:4sMCRFb3B4g9Ax3lDCOOTX",
+   "release_date": "2026-11-20",
+   "duration_ms": 1446034,
+   "image": "https://i.scdn.co/image/ab67656300005f1fbe53b4cdd29c489500b01d97",
+   "first_seen": "2026-11-23T00:40:02Z",
+   "progress_ms": 1227545,
+   "last_seen": "2026-11-23T00:40:02Z",
+   "url": "https://open.spotify.com/episode/5m3OpPpPv9cJPv9n3pwj3x",
+   "show_image": "https://i.scdn.co/image/ab67656300005f1fbe53b4cdd29c489500b01d97"
+  },
+  {
    "name": "721. The Charge of the Light Brigade: Outbreak of The Crimean War (Part 1)",
    "show": "The Rest Is History",
    "show_uri": "spotify:show:7Cvsbcjhtur7nplC148TWy",
@@ -1633,19 +1646,6 @@ window.LISTENING = {
    "last_seen": "2026-11-21T16:10:02Z",
    "url": "https://open.spotify.com/episode/2mVLVL1URJ8BxxwQfdjQGR",
    "show_image": "https://i.scdn.co/image/ab67656300005f1ffed98c4fdc504416141e9409"
-  },
-  {
-   "name": "How AI Is Forcing China to Reshape Industrial Policy",
-   "show": "Odd Lots",
-   "show_uri": "spotify:show:1te7oSFyRVekxMBJUSethH",
-   "release_date": "2026-11-21",
-   "duration_ms": 2740036,
-   "image": "https://i.scdn.co/image/ab67656300005f1f77e76ef980ccf6174ff80c42",
-   "first_seen": "2026-11-21T13:40:02Z",
-   "progress_ms": 3201623,
-   "last_seen": "2026-11-21T15:40:04Z",
-   "url": "https://open.spotify.com/episode/7AsTYalqyxhAW1eOwYtfq8",
-   "show_image": "https://i.scdn.co/image/ab67656300005f1f77e76ef980ccf6174ff80c42"
   }
  ],
  "top_shows": [
