@@ -1,7 +1,7 @@
 window.LISTENING = {
  "title": "The Listening Booth",
- "generated": "2026-11-23T14:10:06Z",
- "synced": "2026-11-23T14:10:01Z",
+ "generated": "2026-11-23T14:40:09Z",
+ "synced": "2026-11-23T14:40:01Z",
  "totals": {
   "plays": 125431,
   "hours": 8528.1,
@@ -1492,6 +1492,19 @@ window.LISTENING = {
  ],
  "episodes": [
   {
+   "name": "How Pornography Invented the Attention Economy, with Patricia Nilsson",
+   "show": "Intelligence Squared",
+   "show_uri": "spotify:show:7gnNY9Fy8QSRbjXZ00A9jW",
+   "release_date": "2026-11-23",
+   "duration_ms": 2134543,
+   "image": "https://i.scdn.co/image/ab67656300005f1fdae7ed7afe4fdd37986c184b",
+   "first_seen": "2026-11-23T14:40:02Z",
+   "progress_ms": 1558016,
+   "last_seen": "2026-11-23T14:40:02Z",
+   "url": "https://open.spotify.com/episode/0cj1ki81N4gm7AjfmbhzWk",
+   "show_image": "https://i.scdn.co/image/ab67656300005f1f4b328600f6be4cce175cc6b9"
+  },
+  {
    "name": "America Sits Down to Talk with Its Historic Rivals",
    "show": "Amanpour",
    "show_uri": "spotify:show:3sLR8M7JchYmhWuf8QtlyO",
@@ -1633,19 +1646,6 @@ window.LISTENING = {
    "last_seen": "2026-11-22T01:10:02Z",
    "url": "https://open.spotify.com/episode/0GIYIeKxioVcuEk9aor6ph",
    "show_image": "https://i.scdn.co/image/ab67656300005f1f6f49337404191bf32d60c894"
-  },
-  {
-   "name": "FBI investigates apparent database hack",
-   "show": "Newshour",
-   "show_uri": "spotify:show:5qbXje6KaVOHwjsHNTELjA",
-   "release_date": "2026-11-21",
-   "duration_ms": 2334589,
-   "image": "https://i.scdn.co/image/ab67656300005f1f189781a3a30bf2cb76ae0f46",
-   "first_seen": "2026-11-21T20:10:02Z",
-   "progress_ms": 915853,
-   "last_seen": "2026-11-21T20:10:02Z",
-   "url": "https://open.spotify.com/episode/2l6YjMZctHqUu3MtXFTL6X",
-   "show_image": "https://i.scdn.co/image/ab67656300005f1f189781a3a30bf2cb76ae0f46"
   }
  ],
  "top_shows": [
