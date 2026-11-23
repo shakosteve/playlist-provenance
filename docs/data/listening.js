@@ -1,7 +1,7 @@
 window.LISTENING = {
  "title": "The Listening Booth",
- "generated": "2026-11-23T20:10:09Z",
- "synced": "2026-11-23T20:10:01Z",
+ "generated": "2026-11-23T20:40:08Z",
+ "synced": "2026-11-23T20:40:01Z",
  "totals": {
   "plays": 125431,
   "hours": 8528.1,
@@ -1492,6 +1492,19 @@ window.LISTENING = {
  ],
  "episodes": [
   {
+   "name": "Jensen Huang, Trump, and the Future of U.S. Foreign Policy",
+   "show": "The Middle with Jeremy Hobson",
+   "show_uri": "spotify:show:5l5B4IoLnVHnFMLmGSar2f",
+   "release_date": "2026-11-23",
+   "duration_ms": 1316594,
+   "image": "https://i.scdn.co/image/ab67656300005f1f083f152347124d54a12d4ca0",
+   "first_seen": "2026-11-23T20:40:02Z",
+   "progress_ms": 455132,
+   "last_seen": "2026-11-23T20:40:02Z",
+   "url": "https://open.spotify.com/episode/6YjVulvIv6SsT9AOWlkw87",
+   "show_image": "https://i.scdn.co/image/ab67656300005f1f083f152347124d54a12d4ca0"
+  },
+  {
    "name": "'No safe routes': Ukraine destroys Russian warship at Libyan naval base",
    "show": "Ukraine: The Latest",
    "show_uri": "spotify:show:6cnkk1J0I1UqtxTYVUL4Fe",
@@ -1632,19 +1645,6 @@ window.LISTENING = {
    "progress_ms": 778542,
    "last_seen": "2026-11-22T18:40:02Z",
    "url": "https://open.spotify.com/episode/2wymgvHaX16VlEAL9MLilB",
-   "show_image": "https://i.scdn.co/image/ab67656300005f1f189781a3a30bf2cb76ae0f46"
-  },
-  {
-   "name": "UN climate talks in Turkey closing without agreement",
-   "show": "Newshour",
-   "show_uri": "spotify:show:5qbXje6KaVOHwjsHNTELjA",
-   "release_date": "2026-11-22",
-   "duration_ms": 2847268,
-   "image": "https://i.scdn.co/image/ab67656300005f1f189781a3a30bf2cb76ae0f46",
-   "first_seen": "2026-11-22T18:40:02Z",
-   "progress_ms": 24804,
-   "last_seen": "2026-11-22T18:40:02Z",
-   "url": "https://open.spotify.com/episode/3sdZ1LOmtC9Gi59oPWZdgh",
    "show_image": "https://i.scdn.co/image/ab67656300005f1f189781a3a30bf2cb76ae0f46"
   }
  ],
