@@ -1,7 +1,7 @@
 window.LISTENING = {
  "title": "The Listening Booth",
- "generated": "2026-11-23T18:40:08Z",
- "synced": "2026-11-23T18:40:01Z",
+ "generated": "2026-11-23T19:40:09Z",
+ "synced": "2026-11-23T19:40:01Z",
  "totals": {
   "plays": 125431,
   "hours": 8528.1,
@@ -1492,6 +1492,19 @@ window.LISTENING = {
  ],
  "episodes": [
   {
+   "name": "Nvidia reinstates Jensen Huang as CEO",
+   "show": "Newshour",
+   "show_uri": "spotify:show:5qbXje6KaVOHwjsHNTELjA",
+   "release_date": "2026-11-23",
+   "duration_ms": 2787239,
+   "image": "https://i.scdn.co/image/ab67656300005f1f189781a3a30bf2cb76ae0f46",
+   "first_seen": "2026-11-23T17:10:02Z",
+   "progress_ms": 2787239,
+   "last_seen": "2026-11-23T19:40:04Z",
+   "url": "https://open.spotify.com/episode/7d3LLVskLUUWjKEVmVhRY0",
+   "show_image": "https://i.scdn.co/image/ab67656300005f1f189781a3a30bf2cb76ae0f46"
+  },
+  {
    "name": "'No safe routes': Ukraine destroys Russian warship at Libyan naval base",
    "show": "Ukraine: The Latest",
    "show_uri": "spotify:show:6cnkk1J0I1UqtxTYVUL4Fe",
@@ -1516,19 +1529,6 @@ window.LISTENING = {
    "last_seen": "2026-11-23T17:40:02Z",
    "url": "https://open.spotify.com/episode/7mezLmOxsFgpQfxjrqryKD",
    "show_image": "https://i.scdn.co/image/ab67656300005f1f77e76ef980ccf6174ff80c42"
-  },
-  {
-   "name": "Nvidia reinstates Jensen Huang as CEO",
-   "show": "Newshour",
-   "show_uri": "spotify:show:5qbXje6KaVOHwjsHNTELjA",
-   "release_date": "2026-11-23",
-   "duration_ms": 2787239,
-   "image": "https://i.scdn.co/image/ab67656300005f1f189781a3a30bf2cb76ae0f46",
-   "first_seen": "2026-11-23T17:10:02Z",
-   "progress_ms": 2249145,
-   "last_seen": "2026-11-23T17:40:02Z",
-   "url": "https://open.spotify.com/episode/7d3LLVskLUUWjKEVmVhRY0",
-   "show_image": "https://i.scdn.co/image/ab67656300005f1f189781a3a30bf2cb76ae0f46"
   },
   {
    "name": "How Pornography Invented the Attention Economy, with Patricia Nilsson",
