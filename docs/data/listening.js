@@ -1,7 +1,7 @@
 window.LISTENING = {
  "title": "The Listening Booth",
- "generated": "2026-11-23T16:40:08Z",
- "synced": "2026-11-23T16:40:02Z",
+ "generated": "2026-11-23T17:10:08Z",
+ "synced": "2026-11-23T17:10:01Z",
  "totals": {
   "plays": 125431,
   "hours": 8528.1,
@@ -1492,6 +1492,32 @@ window.LISTENING = {
  ],
  "episodes": [
   {
+   "name": "How Pornography Invented the Attention Economy, with Patricia Nilsson",
+   "show": "Intelligence Squared",
+   "show_uri": "spotify:show:7gnNY9Fy8QSRbjXZ00A9jW",
+   "release_date": "2026-11-23",
+   "duration_ms": 2134543,
+   "image": "https://i.scdn.co/image/ab67656300005f1fdae7ed7afe4fdd37986c184b",
+   "first_seen": "2026-11-23T14:40:02Z",
+   "progress_ms": 2369360,
+   "last_seen": "2026-11-23T17:10:03Z",
+   "url": "https://open.spotify.com/episode/0cj1ki81N4gm7AjfmbhzWk",
+   "show_image": "https://i.scdn.co/image/ab67656300005f1f4b328600f6be4cce175cc6b9"
+  },
+  {
+   "name": "Nvidia reinstates Jensen Huang as CEO",
+   "show": "Newshour",
+   "show_uri": "spotify:show:5qbXje6KaVOHwjsHNTELjA",
+   "release_date": "2026-11-23",
+   "duration_ms": 2787239,
+   "image": "https://i.scdn.co/image/ab67656300005f1f189781a3a30bf2cb76ae0f46",
+   "first_seen": "2026-11-23T17:10:02Z",
+   "progress_ms": 909713,
+   "last_seen": "2026-11-23T17:10:02Z",
+   "url": "https://open.spotify.com/episode/7d3LLVskLUUWjKEVmVhRY0",
+   "show_image": "https://i.scdn.co/image/ab67656300005f1f189781a3a30bf2cb76ae0f46"
+  },
+  {
    "name": "What a Town Full of Vibecoders Says About the Chinese Economy",
    "show": "Odd Lots",
    "show_uri": "spotify:show:1te7oSFyRVekxMBJUSethH",
@@ -1503,19 +1529,6 @@ window.LISTENING = {
    "last_seen": "2026-11-23T16:40:02Z",
    "url": "https://open.spotify.com/episode/7mezLmOxsFgpQfxjrqryKD",
    "show_image": "https://i.scdn.co/image/ab67656300005f1f77e76ef980ccf6174ff80c42"
-  },
-  {
-   "name": "How Pornography Invented the Attention Economy, with Patricia Nilsson",
-   "show": "Intelligence Squared",
-   "show_uri": "spotify:show:7gnNY9Fy8QSRbjXZ00A9jW",
-   "release_date": "2026-11-23",
-   "duration_ms": 2134543,
-   "image": "https://i.scdn.co/image/ab67656300005f1fdae7ed7afe4fdd37986c184b",
-   "first_seen": "2026-11-23T14:40:02Z",
-   "progress_ms": 1558016,
-   "last_seen": "2026-11-23T14:40:02Z",
-   "url": "https://open.spotify.com/episode/0cj1ki81N4gm7AjfmbhzWk",
-   "show_image": "https://i.scdn.co/image/ab67656300005f1f4b328600f6be4cce175cc6b9"
   },
   {
    "name": "America Sits Down to Talk with Its Historic Rivals",
@@ -1633,19 +1646,6 @@ window.LISTENING = {
    "last_seen": "2026-11-22T17:10:04Z",
    "url": "https://open.spotify.com/episode/2qnxfgduNPtOoToTRCZRFt",
    "show_image": "https://i.scdn.co/image/ab67656300005f1fd2dd1e74bffcd7cabc91a62c"
-  },
-  {
-   "name": "#2584 - Mike Baker",
-   "show": "The Joe Rogan Experience",
-   "show_uri": "spotify:show:4rOoJ6Egrf8K2IrywzwOMk",
-   "release_date": "2026-11-20",
-   "duration_ms": 9719871,
-   "image": "https://i.scdn.co/image/ab67656300005f1f04d7bf05a216adfba1b32a34",
-   "first_seen": "2026-11-21T18:40:02Z",
-   "progress_ms": 9719871,
-   "last_seen": "2026-11-22T02:10:03Z",
-   "url": "https://open.spotify.com/episode/54AhCUVHXD9ShHB9K4ouLb",
-   "show_image": "https://i.scdn.co/image/ab67656300005f1f6f49337404191bf32d60c894"
   }
  ],
  "top_shows": [
