@@ -1,7 +1,7 @@
 window.LISTENING = {
  "title": "The Listening Booth",
- "generated": "2026-11-23T17:40:08Z",
- "synced": "2026-11-23T17:40:01Z",
+ "generated": "2026-11-23T18:10:08Z",
+ "synced": "2026-11-23T18:10:01Z",
  "totals": {
   "plays": 125431,
   "hours": 8528.1,
@@ -1492,6 +1492,19 @@ window.LISTENING = {
  ],
  "episodes": [
   {
+   "name": "'No safe routes': Ukraine destroys Russian warship at Libyan naval base",
+   "show": "Ukraine: The Latest",
+   "show_uri": "spotify:show:6cnkk1J0I1UqtxTYVUL4Fe",
+   "release_date": "2026-11-23",
+   "duration_ms": 3552339,
+   "image": "https://i.scdn.co/image/ab67656300005f1fd267b4349b95003c081c73c4",
+   "first_seen": "2026-11-23T18:10:02Z",
+   "progress_ms": 1061418,
+   "last_seen": "2026-11-23T18:10:02Z",
+   "url": "https://open.spotify.com/episode/61oJepfHy7Vs4u7p1Kkzm3",
+   "show_image": "https://i.scdn.co/image/ab67656300005f1f78954c21afd24c90334deba4"
+  },
+  {
    "name": "What a Town Full of Vibecoders Says About the Chinese Economy",
    "show": "Odd Lots",
    "show_uri": "spotify:show:1te7oSFyRVekxMBJUSethH",
@@ -1633,19 +1646,6 @@ window.LISTENING = {
    "last_seen": "2026-11-22T18:40:02Z",
    "url": "https://open.spotify.com/episode/3sdZ1LOmtC9Gi59oPWZdgh",
    "show_image": "https://i.scdn.co/image/ab67656300005f1f189781a3a30bf2cb76ae0f46"
-  },
-  {
-   "name": "In Moscow's Shadows 272: Summits, Strikes and Suborned Technocrats",
-   "show": "In Moscow's Shadows",
-   "show_uri": "spotify:show:1NKCazxYstY6o8vhpGQSjF",
-   "release_date": "2026-11-22",
-   "duration_ms": 2995928,
-   "image": "https://i.scdn.co/image/ab67656300005f1fd2dd1e74bffcd7cabc91a62c",
-   "first_seen": "2026-11-22T15:40:02Z",
-   "progress_ms": 2995928,
-   "last_seen": "2026-11-22T17:10:04Z",
-   "url": "https://open.spotify.com/episode/2qnxfgduNPtOoToTRCZRFt",
-   "show_image": "https://i.scdn.co/image/ab67656300005f1fd2dd1e74bffcd7cabc91a62c"
   }
  ],
  "top_shows": [
