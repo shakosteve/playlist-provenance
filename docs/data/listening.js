@@ -1,15 +1,26 @@
 window.LISTENING = {
  "title": "The Listening Booth",
- "generated": "2026-11-23T03:40:07Z",
- "synced": "2026-11-23T03:40:01Z",
+ "generated": "2026-11-23T04:10:07Z",
+ "synced": "2026-11-23T04:10:01Z",
  "totals": {
-  "plays": 125430,
+  "plays": 125431,
   "hours": 8528.1,
   "artists": 702,
   "albums": 1532,
   "first": "2013-05-07T01:40:37Z"
  },
  "recent": [
+  {
+   "name": "Love To Be Loved",
+   "artist": "The Warning, Carín León",
+   "album": "Love To Be Loved",
+   "year": 2026,
+   "image": "https://i.scdn.co/image/ab67616d00001e02cbcb8d24635386f33a868054",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b273cbcb8d24635386f33a868054",
+   "url": "https://open.spotify.com/track/7L9Fgs88bbwSOIYGJHOIBs",
+   "album_url": "https://open.spotify.com/album/7G3oABTzz3ZtRTwkdDMeoN",
+   "played_at": "2026-11-23T03:36:35.354Z"
+  },
   {
    "name": "My Way, Soon",
    "artist": "Greta Van Fleet",
@@ -526,23 +537,12 @@ window.LISTENING = {
    "url": "https://open.spotify.com/track/1NpILLKnL2kQYwb6bCtiPe",
    "album_url": "https://open.spotify.com/album/27DJov9N9ian0RrcMO1Iak",
    "played_at": "2026-11-18T22:54:27.225Z"
-  },
-  {
-   "name": "The End (Stars Always Seem to Fade)",
-   "artist": "The Warning",
-   "album": "Queen of the Murder Scene",
-   "year": 2018,
-   "image": "https://i.scdn.co/image/ab67616d00001e02e0871bbaad013df7b7e56c2a",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b273e0871bbaad013df7b7e56c2a",
-   "url": "https://open.spotify.com/track/34UQ1XrP5vut9fCgl76H8g",
-   "album_url": "https://open.spotify.com/album/2kB1Qqw3YOR9i3nbNxXWRs",
-   "played_at": "2026-11-18T22:48:36.133Z"
   }
  ],
  "top_artists": [
   {
    "name": "The Warning",
-   "plays": 10721,
+   "plays": 10722,
    "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh",
    "image": "https://i.scdn.co/image/ab67616d00001e0204a3dad60eb365aec55022de"
   },
@@ -1397,7 +1397,7 @@ window.LISTENING = {
   },
   {
    "decade": 2020,
-   "plays": 18713,
+   "plays": 18714,
    "covers": [
     {
      "name": "ERROR",
@@ -1491,6 +1491,19 @@ window.LISTENING = {
   }
  ],
  "episodes": [
+  {
+   "name": "America Sits Down to Talk with Its Historic Rivals",
+   "show": "Amanpour",
+   "show_uri": "spotify:show:3sLR8M7JchYmhWuf8QtlyO",
+   "release_date": "2026-11-21",
+   "duration_ms": 2222744,
+   "image": "https://i.scdn.co/image/ab67656300005f1f95217901851fcb57728068b6",
+   "first_seen": "2026-11-23T04:10:02Z",
+   "progress_ms": 801357,
+   "last_seen": "2026-11-23T04:10:02Z",
+   "url": "https://open.spotify.com/episode/3sMoF6EvB1HR6qTwMtlBmt",
+   "show_image": "https://i.scdn.co/image/ab67656300005f1f95217901851fcb57728068b6"
+  },
   {
    "name": "Ron Johnson Stirs a Social Security Debate / Why the U.S. Has Measles Again",
    "show": "WSJ Opinion: Potomac Watch",
@@ -1633,19 +1646,6 @@ window.LISTENING = {
    "last_seen": "2026-11-21T20:10:02Z",
    "url": "https://open.spotify.com/episode/2l6YjMZctHqUu3MtXFTL6X",
    "show_image": "https://i.scdn.co/image/ab67656300005f1f189781a3a30bf2cb76ae0f46"
-  },
-  {
-   "name": "Why Anthropic’s IPO Didn’t Stop the Tech Sell Off",
-   "show": "The Journal.",
-   "show_uri": "spotify:show:0KxdEdeY2Wb3zr28dMlQva",
-   "release_date": "2026-11-20",
-   "duration_ms": 1085100,
-   "image": "https://i.scdn.co/image/ab67656300005f1ffed98c4fdc504416141e9409",
-   "first_seen": "2026-11-21T14:40:03Z",
-   "progress_ms": 1039474,
-   "last_seen": "2026-11-21T16:10:02Z",
-   "url": "https://open.spotify.com/episode/2mVLVL1URJ8BxxwQfdjQGR",
-   "show_image": "https://i.scdn.co/image/ab67656300005f1ffed98c4fdc504416141e9409"
   }
  ],
  "top_shows": [
