@@ -1,7 +1,7 @@
 window.LISTENING = {
  "title": "The Listening Booth",
- "generated": "2026-11-23T22:40:09Z",
- "synced": "2026-11-23T22:40:02Z",
+ "generated": "2026-11-23T23:10:08Z",
+ "synced": "2026-11-23T23:10:02Z",
  "totals": {
   "plays": 125431,
   "hours": 8528.1,
@@ -1492,6 +1492,19 @@ window.LISTENING = {
  ],
  "episodes": [
   {
+   "name": "Jensen Huang, Trump, and the Future of U.S. Foreign Policy",
+   "show": "The Middle with Jeremy Hobson",
+   "show_uri": "spotify:show:5l5B4IoLnVHnFMLmGSar2f",
+   "release_date": "2026-11-23",
+   "duration_ms": 1316594,
+   "image": "https://i.scdn.co/image/ab67656300005f1f083f152347124d54a12d4ca0",
+   "first_seen": "2026-11-23T20:40:02Z",
+   "progress_ms": 1316594,
+   "last_seen": "2026-11-23T23:10:03Z",
+   "url": "https://open.spotify.com/episode/6YjVulvIv6SsT9AOWlkw87",
+   "show_image": "https://i.scdn.co/image/ab67656300005f1f083f152347124d54a12d4ca0"
+  },
+  {
    "name": "'No safe routes': Ukraine destroys Russian warship at Libyan naval base",
    "show": "Ukraine: The Latest",
    "show_uri": "spotify:show:6cnkk1J0I1UqtxTYVUL4Fe",
@@ -1516,19 +1529,6 @@ window.LISTENING = {
    "last_seen": "2026-11-23T21:10:02Z",
    "url": "https://open.spotify.com/episode/7efHgQDxeiyNcmwoFVBdcS",
    "show_image": "https://i.scdn.co/image/ab67656300005f1fd813559e4461e119b4b5082f"
-  },
-  {
-   "name": "Jensen Huang, Trump, and the Future of U.S. Foreign Policy",
-   "show": "The Middle with Jeremy Hobson",
-   "show_uri": "spotify:show:5l5B4IoLnVHnFMLmGSar2f",
-   "release_date": "2026-11-23",
-   "duration_ms": 1316594,
-   "image": "https://i.scdn.co/image/ab67656300005f1f083f152347124d54a12d4ca0",
-   "first_seen": "2026-11-23T20:40:02Z",
-   "progress_ms": 455132,
-   "last_seen": "2026-11-23T20:40:02Z",
-   "url": "https://open.spotify.com/episode/6YjVulvIv6SsT9AOWlkw87",
-   "show_image": "https://i.scdn.co/image/ab67656300005f1f083f152347124d54a12d4ca0"
   },
   {
    "name": "Nvidia reinstates Jensen Huang as CEO",
