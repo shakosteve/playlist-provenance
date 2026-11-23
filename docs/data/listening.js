@@ -1,7 +1,7 @@
 window.LISTENING = {
  "title": "The Listening Booth",
- "generated": "2026-11-23T23:10:08Z",
- "synced": "2026-11-23T23:10:02Z",
+ "generated": "2026-11-23T23:40:08Z",
+ "synced": "2026-11-23T23:40:02Z",
  "totals": {
   "plays": 125431,
   "hours": 8528.1,
@@ -1492,6 +1492,19 @@ window.LISTENING = {
  ],
  "episodes": [
   {
+   "name": "Uniting the States with Brian Kilmeade + Greta Thunberg LAUGHS at Climate Protesters",
+   "show": "Adam Carolla Show",
+   "show_uri": "spotify:show:0YlgjXHWL0Lfxnp1LKdx9P",
+   "release_date": "2026-11-23",
+   "duration_ms": 6360529,
+   "image": "https://i.scdn.co/image/ab67656300005f1fd813559e4461e119b4b5082f",
+   "first_seen": "2026-11-23T21:10:02Z",
+   "progress_ms": 825200,
+   "last_seen": "2026-11-23T23:40:03Z",
+   "url": "https://open.spotify.com/episode/7efHgQDxeiyNcmwoFVBdcS",
+   "show_image": "https://i.scdn.co/image/ab67656300005f1fd813559e4461e119b4b5082f"
+  },
+  {
    "name": "Jensen Huang, Trump, and the Future of U.S. Foreign Policy",
    "show": "The Middle with Jeremy Hobson",
    "show_uri": "spotify:show:5l5B4IoLnVHnFMLmGSar2f",
@@ -1516,19 +1529,6 @@ window.LISTENING = {
    "last_seen": "2026-11-23T22:40:02Z",
    "url": "https://open.spotify.com/episode/61oJepfHy7Vs4u7p1Kkzm3",
    "show_image": "https://i.scdn.co/image/ab67656300005f1f78954c21afd24c90334deba4"
-  },
-  {
-   "name": "Uniting the States with Brian Kilmeade + Greta Thunberg LAUGHS at Climate Protesters",
-   "show": "Adam Carolla Show",
-   "show_uri": "spotify:show:0YlgjXHWL0Lfxnp1LKdx9P",
-   "release_date": "2026-11-23",
-   "duration_ms": 6360529,
-   "image": "https://i.scdn.co/image/ab67656300005f1fd813559e4461e119b4b5082f",
-   "first_seen": "2026-11-23T21:10:02Z",
-   "progress_ms": 809815,
-   "last_seen": "2026-11-23T21:10:02Z",
-   "url": "https://open.spotify.com/episode/7efHgQDxeiyNcmwoFVBdcS",
-   "show_image": "https://i.scdn.co/image/ab67656300005f1fd813559e4461e119b4b5082f"
   },
   {
    "name": "Nvidia reinstates Jensen Huang as CEO",
