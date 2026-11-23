@@ -1,7 +1,7 @@
 window.LISTENING = {
  "title": "The Listening Booth",
- "generated": "2026-11-23T19:40:09Z",
- "synced": "2026-11-23T19:40:01Z",
+ "generated": "2026-11-23T20:10:09Z",
+ "synced": "2026-11-23T20:10:01Z",
  "totals": {
   "plays": 125431,
   "hours": 8528.1,
@@ -1492,6 +1492,19 @@ window.LISTENING = {
  ],
  "episodes": [
   {
+   "name": "'No safe routes': Ukraine destroys Russian warship at Libyan naval base",
+   "show": "Ukraine: The Latest",
+   "show_uri": "spotify:show:6cnkk1J0I1UqtxTYVUL4Fe",
+   "release_date": "2026-11-23",
+   "duration_ms": 3552339,
+   "image": "https://i.scdn.co/image/ab67656300005f1fd267b4349b95003c081c73c4",
+   "first_seen": "2026-11-23T18:10:02Z",
+   "progress_ms": 2553123,
+   "last_seen": "2026-11-23T20:10:02Z",
+   "url": "https://open.spotify.com/episode/61oJepfHy7Vs4u7p1Kkzm3",
+   "show_image": "https://i.scdn.co/image/ab67656300005f1f78954c21afd24c90334deba4"
+  },
+  {
    "name": "Nvidia reinstates Jensen Huang as CEO",
    "show": "Newshour",
    "show_uri": "spotify:show:5qbXje6KaVOHwjsHNTELjA",
@@ -1503,19 +1516,6 @@ window.LISTENING = {
    "last_seen": "2026-11-23T19:40:04Z",
    "url": "https://open.spotify.com/episode/7d3LLVskLUUWjKEVmVhRY0",
    "show_image": "https://i.scdn.co/image/ab67656300005f1f189781a3a30bf2cb76ae0f46"
-  },
-  {
-   "name": "'No safe routes': Ukraine destroys Russian warship at Libyan naval base",
-   "show": "Ukraine: The Latest",
-   "show_uri": "spotify:show:6cnkk1J0I1UqtxTYVUL4Fe",
-   "release_date": "2026-11-23",
-   "duration_ms": 3552339,
-   "image": "https://i.scdn.co/image/ab67656300005f1fd267b4349b95003c081c73c4",
-   "first_seen": "2026-11-23T18:10:02Z",
-   "progress_ms": 2552884,
-   "last_seen": "2026-11-23T18:40:02Z",
-   "url": "https://open.spotify.com/episode/61oJepfHy7Vs4u7p1Kkzm3",
-   "show_image": "https://i.scdn.co/image/ab67656300005f1f78954c21afd24c90334deba4"
   },
   {
    "name": "What a Town Full of Vibecoders Says About the Chinese Economy",
