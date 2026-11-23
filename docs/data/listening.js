@@ -1,7 +1,7 @@
 window.LISTENING = {
  "title": "The Listening Booth",
- "generated": "2026-11-23T20:40:08Z",
- "synced": "2026-11-23T20:40:01Z",
+ "generated": "2026-11-23T21:10:07Z",
+ "synced": "2026-11-23T21:10:01Z",
  "totals": {
   "plays": 125431,
   "hours": 8528.1,
@@ -1492,6 +1492,19 @@ window.LISTENING = {
  ],
  "episodes": [
   {
+   "name": "Uniting the States with Brian Kilmeade + Greta Thunberg LAUGHS at Climate Protesters",
+   "show": "Adam Carolla Show",
+   "show_uri": "spotify:show:0YlgjXHWL0Lfxnp1LKdx9P",
+   "release_date": "2026-11-23",
+   "duration_ms": 6360529,
+   "image": "https://i.scdn.co/image/ab67656300005f1fd813559e4461e119b4b5082f",
+   "first_seen": "2026-11-23T21:10:02Z",
+   "progress_ms": 809815,
+   "last_seen": "2026-11-23T21:10:02Z",
+   "url": "https://open.spotify.com/episode/7efHgQDxeiyNcmwoFVBdcS",
+   "show_image": "https://i.scdn.co/image/ab67656300005f1fd813559e4461e119b4b5082f"
+  },
+  {
    "name": "Jensen Huang, Trump, and the Future of U.S. Foreign Policy",
    "show": "The Middle with Jeremy Hobson",
    "show_uri": "spotify:show:5l5B4IoLnVHnFMLmGSar2f",
@@ -1633,19 +1646,6 @@ window.LISTENING = {
    "last_seen": "2026-11-22T18:40:02Z",
    "url": "https://open.spotify.com/episode/754wNeHW426PzfqDjYEbEI",
    "show_image": "https://i.scdn.co/image/ab67656300005f1f55386ae3fe554333e1a85785"
-  },
-  {
-   "name": "Russian cargo ship struck by drones in the Gulf of Finland",
-   "show": "Newshour",
-   "show_uri": "spotify:show:5qbXje6KaVOHwjsHNTELjA",
-   "release_date": "2026-11-21",
-   "duration_ms": 2359066,
-   "image": "https://i.scdn.co/image/ab67656300005f1f189781a3a30bf2cb76ae0f46",
-   "first_seen": "2026-11-22T18:10:02Z",
-   "progress_ms": 778542,
-   "last_seen": "2026-11-22T18:40:02Z",
-   "url": "https://open.spotify.com/episode/2wymgvHaX16VlEAL9MLilB",
-   "show_image": "https://i.scdn.co/image/ab67656300005f1f189781a3a30bf2cb76ae0f46"
   }
  ],
  "top_shows": [
