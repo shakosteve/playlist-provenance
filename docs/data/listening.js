@@ -1,7 +1,7 @@
 window.LISTENING = {
  "title": "The Listening Booth",
- "generated": "2026-11-23T14:40:09Z",
- "synced": "2026-11-23T14:40:01Z",
+ "generated": "2026-11-23T15:10:08Z",
+ "synced": "2026-11-23T15:10:01Z",
  "totals": {
   "plays": 125431,
   "hours": 8528.1,
@@ -1492,6 +1492,19 @@ window.LISTENING = {
  ],
  "episodes": [
   {
+   "name": "What a Town Full of Vibecoders Says About the Chinese Economy",
+   "show": "Odd Lots",
+   "show_uri": "spotify:show:1te7oSFyRVekxMBJUSethH",
+   "release_date": "2026-11-23",
+   "duration_ms": 3539330,
+   "image": "https://i.scdn.co/image/ab67656300005f1f77e76ef980ccf6174ff80c42",
+   "first_seen": "2026-11-23T15:10:02Z",
+   "progress_ms": 96538,
+   "last_seen": "2026-11-23T15:10:02Z",
+   "url": "https://open.spotify.com/episode/7mezLmOxsFgpQfxjrqryKD",
+   "show_image": "https://i.scdn.co/image/ab67656300005f1f77e76ef980ccf6174ff80c42"
+  },
+  {
    "name": "How Pornography Invented the Attention Economy, with Patricia Nilsson",
    "show": "Intelligence Squared",
    "show_uri": "spotify:show:7gnNY9Fy8QSRbjXZ00A9jW",
@@ -1632,19 +1645,6 @@ window.LISTENING = {
    "progress_ms": 9719871,
    "last_seen": "2026-11-22T02:10:03Z",
    "url": "https://open.spotify.com/episode/54AhCUVHXD9ShHB9K4ouLb",
-   "show_image": "https://i.scdn.co/image/ab67656300005f1f6f49337404191bf32d60c894"
-  },
-  {
-   "name": "#2583 - Bob Gymlan",
-   "show": "The Joe Rogan Experience",
-   "show_uri": "spotify:show:4rOoJ6Egrf8K2IrywzwOMk",
-   "release_date": "2026-11-19",
-   "duration_ms": 9849812,
-   "image": "https://i.scdn.co/image/ab67656300005f1fe11d42c6c9266bce1b11906d",
-   "first_seen": "2026-11-22T01:10:02Z",
-   "progress_ms": 12274,
-   "last_seen": "2026-11-22T01:10:02Z",
-   "url": "https://open.spotify.com/episode/0GIYIeKxioVcuEk9aor6ph",
    "show_image": "https://i.scdn.co/image/ab67656300005f1f6f49337404191bf32d60c894"
   }
  ],
