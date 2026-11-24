@@ -1,7 +1,7 @@
 window.LISTENING = {
  "title": "The Listening Booth",
- "generated": "2026-11-24T16:40:18Z",
- "synced": "2026-11-24T16:40:03Z",
+ "generated": "2026-11-24T17:10:09Z",
+ "synced": "2026-11-24T17:10:02Z",
  "totals": {
   "plays": 125431,
   "hours": 8528.1,
@@ -1492,6 +1492,19 @@ window.LISTENING = {
  ],
  "episodes": [
   {
+   "name": "Renny Harlin: F1 & Why Pattinson Will Be a Great James Bond",
+   "show": "Adam Carolla Show",
+   "show_uri": "spotify:show:0YlgjXHWL0Lfxnp1LKdx9P",
+   "release_date": "2026-11-24",
+   "duration_ms": 6427507,
+   "image": "https://i.scdn.co/image/ab67656300005f1fd813559e4461e119b4b5082f",
+   "first_seen": "2026-11-24T15:10:02Z",
+   "progress_ms": 6651749,
+   "last_seen": "2026-11-24T17:10:03Z",
+   "url": "https://open.spotify.com/episode/0VVw5LbUWa6PH5tqlLRdgA",
+   "show_image": "https://i.scdn.co/image/ab67656300005f1fd813559e4461e119b4b5082f"
+  },
+  {
    "name": "Alice forgiven? Jensen Huang back at Nvidia",
    "show": "Economist Podcasts",
    "show_uri": "spotify:show:2ZFDmgDS2Z6xccP51s1zFQ",
@@ -1516,19 +1529,6 @@ window.LISTENING = {
    "last_seen": "2026-11-24T16:40:05Z",
    "url": "https://open.spotify.com/episode/7wWZ8dKBlH8rFSTP2HrV0r",
    "show_image": "https://i.scdn.co/image/ab67656300005f1ffed98c4fdc504416141e9409"
-  },
-  {
-   "name": "Renny Harlin: F1 & Why Pattinson Will Be a Great James Bond",
-   "show": "Adam Carolla Show",
-   "show_uri": "spotify:show:0YlgjXHWL0Lfxnp1LKdx9P",
-   "release_date": "2026-11-24",
-   "duration_ms": 6427507,
-   "image": "https://i.scdn.co/image/ab67656300005f1fd813559e4461e119b4b5082f",
-   "first_seen": "2026-11-24T15:10:02Z",
-   "progress_ms": 5438636,
-   "last_seen": "2026-11-24T16:40:04Z",
-   "url": "https://open.spotify.com/episode/0VVw5LbUWa6PH5tqlLRdgA",
-   "show_image": "https://i.scdn.co/image/ab67656300005f1fd813559e4461e119b4b5082f"
   },
   {
    "name": "Huang’s Second Coming",
