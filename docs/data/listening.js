@@ -1,7 +1,7 @@
 window.LISTENING = {
  "title": "The Listening Booth",
- "generated": "2026-11-24T15:10:08Z",
- "synced": "2026-11-24T15:10:02Z",
+ "generated": "2026-11-24T15:40:08Z",
+ "synced": "2026-11-24T15:40:01Z",
  "totals": {
   "plays": 125431,
   "hours": 8528.1,
@@ -1492,6 +1492,19 @@ window.LISTENING = {
  ],
  "episodes": [
   {
+   "name": "Huang’s Second Coming",
+   "show": "The Powers That Be: Daily",
+   "show_uri": "spotify:show:5ZChG4x3aogGtKGkxU6nMH",
+   "release_date": "2026-11-24",
+   "duration_ms": 1381015,
+   "image": "https://i.scdn.co/image/ab67656300005f1f36f39d45bf295cbf58d41331",
+   "first_seen": "2026-11-24T13:40:02Z",
+   "progress_ms": 1617280,
+   "last_seen": "2026-11-24T15:40:03Z",
+   "url": "https://open.spotify.com/episode/4K458C6Er2EyM7IzVjoSQ1",
+   "show_image": "https://i.scdn.co/image/ab67656300005f1f55386ae3fe554333e1a85785"
+  },
+  {
    "name": "Renny Harlin: F1 & Why Pattinson Will Be a Great James Bond",
    "show": "Adam Carolla Show",
    "show_uri": "spotify:show:0YlgjXHWL0Lfxnp1LKdx9P",
@@ -1499,10 +1512,23 @@ window.LISTENING = {
    "duration_ms": 6427507,
    "image": "https://i.scdn.co/image/ab67656300005f1fd813559e4461e119b4b5082f",
    "first_seen": "2026-11-24T15:10:02Z",
-   "progress_ms": 496115,
-   "last_seen": "2026-11-24T15:10:02Z",
+   "progress_ms": 2163606,
+   "last_seen": "2026-11-24T15:40:02Z",
    "url": "https://open.spotify.com/episode/0VVw5LbUWa6PH5tqlLRdgA",
    "show_image": "https://i.scdn.co/image/ab67656300005f1fd813559e4461e119b4b5082f"
+  },
+  {
+   "name": "The Nvidia board reinstates Jensen Huang as CEO",
+   "show": "Newshour",
+   "show_uri": "spotify:show:5qbXje6KaVOHwjsHNTELjA",
+   "release_date": "2026-11-23",
+   "duration_ms": 2847164,
+   "image": "https://i.scdn.co/image/ab67656300005f1f189781a3a30bf2cb76ae0f46",
+   "first_seen": "2026-11-24T15:40:02Z",
+   "progress_ms": 951760,
+   "last_seen": "2026-11-24T15:40:02Z",
+   "url": "https://open.spotify.com/episode/3Vo3kOOiENeWa5taRWLQbA",
+   "show_image": "https://i.scdn.co/image/ab67656300005f1f189781a3a30bf2cb76ae0f46"
   },
   {
    "name": "Alice forgiven? Jensen Huang back at Nvidia",
@@ -1542,19 +1568,6 @@ window.LISTENING = {
    "last_seen": "2026-11-24T13:40:02Z",
    "url": "https://open.spotify.com/episode/6MhjhMaOzqYQVe4943j32D",
    "show_image": "https://i.scdn.co/image/ab67656300005f1f77e76ef980ccf6174ff80c42"
-  },
-  {
-   "name": "Huang’s Second Coming",
-   "show": "The Powers That Be: Daily",
-   "show_uri": "spotify:show:5ZChG4x3aogGtKGkxU6nMH",
-   "release_date": "2026-11-24",
-   "duration_ms": 1381015,
-   "image": "https://i.scdn.co/image/ab67656300005f1f36f39d45bf295cbf58d41331",
-   "first_seen": "2026-11-24T13:40:02Z",
-   "progress_ms": 829954,
-   "last_seen": "2026-11-24T13:40:02Z",
-   "url": "https://open.spotify.com/episode/4K458C6Er2EyM7IzVjoSQ1",
-   "show_image": "https://i.scdn.co/image/ab67656300005f1f55386ae3fe554333e1a85785"
   },
   {
    "name": "The Return of Jensen Huang",
@@ -1633,19 +1646,6 @@ window.LISTENING = {
    "last_seen": "2026-11-23T23:10:03Z",
    "url": "https://open.spotify.com/episode/6YjVulvIv6SsT9AOWlkw87",
    "show_image": "https://i.scdn.co/image/ab67656300005f1f083f152347124d54a12d4ca0"
-  },
-  {
-   "name": "'No safe routes': Ukraine destroys Russian warship at Libyan naval base",
-   "show": "Ukraine: The Latest",
-   "show_uri": "spotify:show:6cnkk1J0I1UqtxTYVUL4Fe",
-   "release_date": "2026-11-23",
-   "duration_ms": 3552339,
-   "image": "https://i.scdn.co/image/ab67656300005f1fd267b4349b95003c081c73c4",
-   "first_seen": "2026-11-23T18:10:02Z",
-   "progress_ms": 2951524,
-   "last_seen": "2026-11-23T22:40:02Z",
-   "url": "https://open.spotify.com/episode/61oJepfHy7Vs4u7p1Kkzm3",
-   "show_image": "https://i.scdn.co/image/ab67656300005f1f78954c21afd24c90334deba4"
   }
  ],
  "top_shows": [
