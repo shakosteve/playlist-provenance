@@ -106,6 +106,7 @@ The data has two sources, which `build()` merges:
      - Their `played_at` is only to the minute (`…T18:15:00Z`), because that export has no seconds.
      - Their song details were copied from known plays of the same title and lead artist, or found by `/search` for 4 songs.
      - The pre-backfill file is kept as `data/recently_played.jsonl.before-backfill`.
+   - A second Account data export (to Nov 23, 2026, in `data/account-2026-11-24/`) backfilled 112 more the same way on 2026-11-24, mostly Nov 8–12 while the PC was off. A play counted as missed when no live play of the same title and lead artist was within 10 minutes. 2 Jimmy Page live tracks came from `/search`, and 4 "Unknown Track" entries were skipped. The earlier file is `data/recently_played.jsonl.before-backfill-2026-11-24`.
 2. **Privacy export ("Extended streaming history")**: the `Streaming_History_Audio_*.json` files, unzipped into `data/export/`.
    - `import` keeps streams of at least 30s (`MIN_PLAY_MS`).
    - It writes music plays to `history.jsonl`, in the same record shape as `recently_played.jsonl` plus `ms_played`.
