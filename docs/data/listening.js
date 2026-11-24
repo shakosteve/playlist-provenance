@@ -1,7 +1,7 @@
 window.LISTENING = {
  "title": "The Listening Booth",
- "generated": "2026-11-24T06:10:23Z",
- "synced": "2026-11-24T06:10:01Z",
+ "generated": "2026-11-24T07:10:07Z",
+ "synced": "2026-11-24T07:10:01Z",
  "totals": {
   "plays": 125431,
   "hours": 8528.1,
@@ -1492,6 +1492,19 @@ window.LISTENING = {
  ],
  "episodes": [
   {
+   "name": "Jensen Huang Returns to Nvidia After Donald Trump’s Intervention",
+   "show": "WSJ Opinion: Potomac Watch",
+   "show_uri": "spotify:show:4sMCRFb3B4g9Ax3lDCOOTX",
+   "release_date": "2026-11-23",
+   "duration_ms": 1442037,
+   "image": "https://i.scdn.co/image/ab67656300005f1fbe53b4cdd29c489500b01d97",
+   "first_seen": "2026-11-24T04:40:03Z",
+   "progress_ms": 1442037,
+   "last_seen": "2026-11-24T07:10:02Z",
+   "url": "https://open.spotify.com/episode/3EwCmtPaB9CC9ixUaKHOTs",
+   "show_image": "https://i.scdn.co/image/ab67656300005f1fbe53b4cdd29c489500b01d97"
+  },
+  {
    "name": "St. Paul community leaders continue reparations work with town halls, harm report",
    "show": "Minnesota Now",
    "show_uri": "spotify:show:61oEbjIMX0lVNvf0MyrEX8",
@@ -1529,19 +1542,6 @@ window.LISTENING = {
    "last_seen": "2026-11-24T04:40:04Z",
    "url": "https://open.spotify.com/episode/7efHgQDxeiyNcmwoFVBdcS",
    "show_image": "https://i.scdn.co/image/ab67656300005f1fd813559e4461e119b4b5082f"
-  },
-  {
-   "name": "Jensen Huang Returns to Nvidia After Donald Trump’s Intervention",
-   "show": "WSJ Opinion: Potomac Watch",
-   "show_uri": "spotify:show:4sMCRFb3B4g9Ax3lDCOOTX",
-   "release_date": "2026-11-23",
-   "duration_ms": 1442037,
-   "image": "https://i.scdn.co/image/ab67656300005f1fbe53b4cdd29c489500b01d97",
-   "first_seen": "2026-11-24T04:40:03Z",
-   "progress_ms": 1333265,
-   "last_seen": "2026-11-24T04:40:03Z",
-   "url": "https://open.spotify.com/episode/3EwCmtPaB9CC9ixUaKHOTs",
-   "show_image": "https://i.scdn.co/image/ab67656300005f1fbe53b4cdd29c489500b01d97"
   },
   {
    "name": "Media Monday: Jensen’s Comeback Campaign & The World Cup Bidding War",
