@@ -1,7 +1,7 @@
 window.LISTENING = {
  "title": "The Listening Booth",
- "generated": "2026-11-24T13:10:09Z",
- "synced": "2026-11-24T13:10:02Z",
+ "generated": "2026-11-24T13:40:08Z",
+ "synced": "2026-11-24T13:40:01Z",
  "totals": {
   "plays": 125431,
   "hours": 8528.1,
@@ -1492,6 +1492,32 @@ window.LISTENING = {
  ],
  "episodes": [
   {
+   "name": "What Jensen Huang's Stunning Return Means for the AI Trade",
+   "show": "Odd Lots",
+   "show_uri": "spotify:show:1te7oSFyRVekxMBJUSethH",
+   "release_date": "2026-11-24",
+   "duration_ms": 2161920,
+   "image": "https://i.scdn.co/image/ab67656300005f1f77e76ef980ccf6174ff80c42",
+   "first_seen": "2026-11-24T13:10:02Z",
+   "progress_ms": 2396200,
+   "last_seen": "2026-11-24T13:40:02Z",
+   "url": "https://open.spotify.com/episode/6MhjhMaOzqYQVe4943j32D",
+   "show_image": "https://i.scdn.co/image/ab67656300005f1f77e76ef980ccf6174ff80c42"
+  },
+  {
+   "name": "Huang’s Second Coming",
+   "show": "The Powers That Be: Daily",
+   "show_uri": "spotify:show:5ZChG4x3aogGtKGkxU6nMH",
+   "release_date": "2026-11-24",
+   "duration_ms": 1381015,
+   "image": "https://i.scdn.co/image/ab67656300005f1f36f39d45bf295cbf58d41331",
+   "first_seen": "2026-11-24T13:40:02Z",
+   "progress_ms": 829954,
+   "last_seen": "2026-11-24T13:40:02Z",
+   "url": "https://open.spotify.com/episode/4K458C6Er2EyM7IzVjoSQ1",
+   "show_image": "https://i.scdn.co/image/ab67656300005f1f55386ae3fe554333e1a85785"
+  },
+  {
    "name": "The Return of Jensen Huang",
    "show": "RealClearPolitics Podcast",
    "show_uri": "spotify:show:5FkNemg3aIaPPNBImIcW2l",
@@ -1503,19 +1529,6 @@ window.LISTENING = {
    "last_seen": "2026-11-24T13:10:02Z",
    "url": "https://open.spotify.com/episode/5oxciY5BBavxEW0JUNp3jC",
    "show_image": "https://i.scdn.co/image/ab67656300005f1fe19edf2c6856b8b09c057f38"
-  },
-  {
-   "name": "What Jensen Huang's Stunning Return Means for the AI Trade",
-   "show": "Odd Lots",
-   "show_uri": "spotify:show:1te7oSFyRVekxMBJUSethH",
-   "release_date": "2026-11-24",
-   "duration_ms": 2161920,
-   "image": "https://i.scdn.co/image/ab67656300005f1f77e76ef980ccf6174ff80c42",
-   "first_seen": "2026-11-24T13:10:02Z",
-   "progress_ms": 1428609,
-   "last_seen": "2026-11-24T13:10:02Z",
-   "url": "https://open.spotify.com/episode/6MhjhMaOzqYQVe4943j32D",
-   "show_image": "https://i.scdn.co/image/ab67656300005f1f77e76ef980ccf6174ff80c42"
   },
   {
    "name": "Jensen Huang Returns to Nvidia After Donald Trump’s Intervention",
@@ -1633,19 +1646,6 @@ window.LISTENING = {
    "last_seen": "2026-11-23T17:10:03Z",
    "url": "https://open.spotify.com/episode/0cj1ki81N4gm7AjfmbhzWk",
    "show_image": "https://i.scdn.co/image/ab67656300005f1f4b328600f6be4cce175cc6b9"
-  },
-  {
-   "name": "America Sits Down to Talk with Its Historic Rivals",
-   "show": "Amanpour",
-   "show_uri": "spotify:show:3sLR8M7JchYmhWuf8QtlyO",
-   "release_date": "2026-11-21",
-   "duration_ms": 2222744,
-   "image": "https://i.scdn.co/image/ab67656300005f1f95217901851fcb57728068b6",
-   "first_seen": "2026-11-23T04:10:02Z",
-   "progress_ms": 924400,
-   "last_seen": "2026-11-23T05:40:02Z",
-   "url": "https://open.spotify.com/episode/3sMoF6EvB1HR6qTwMtlBmt",
-   "show_image": "https://i.scdn.co/image/ab67656300005f1f95217901851fcb57728068b6"
   }
  ],
  "top_shows": [
