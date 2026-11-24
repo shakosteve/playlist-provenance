@@ -1,7 +1,7 @@
 window.LISTENING = {
  "title": "The Listening Booth",
- "generated": "2026-11-24T21:10:09Z",
- "synced": "2026-11-24T21:10:02Z",
+ "generated": "2026-11-24T22:10:11Z",
+ "synced": "2026-11-24T22:10:01Z",
  "totals": {
   "plays": 125453,
   "hours": 8529.6,
@@ -1492,6 +1492,32 @@ window.LISTENING = {
  ],
  "episodes": [
   {
+   "name": "Alice forgiven? Jensen Huang back at Nvidia",
+   "show": "Economist Podcasts",
+   "show_uri": "spotify:show:2ZFDmgDS2Z6xccP51s1zFQ",
+   "release_date": "2026-11-24",
+   "duration_ms": 1422419,
+   "image": "https://i.scdn.co/image/ab67656300005f1ff9536fd96f32701530ec6225",
+   "first_seen": "2026-11-24T14:40:02Z",
+   "progress_ms": 832627,
+   "last_seen": "2026-11-24T22:10:03Z",
+   "url": "https://open.spotify.com/episode/2pKffjkJ5mf9thYgADPyrt",
+   "show_image": "https://i.scdn.co/image/ab67656300005f1f3d63c8a3f5c8f7b8b0c1443b"
+  },
+  {
+   "name": "Russia 'plays the victim' over Libya warship strike",
+   "show": "Ukraine: The Latest",
+   "show_uri": "spotify:show:6cnkk1J0I1UqtxTYVUL4Fe",
+   "release_date": "2026-11-24",
+   "duration_ms": 2560365,
+   "image": "https://i.scdn.co/image/ab67656300005f1fa585552027e007434c871aa7",
+   "first_seen": "2026-11-24T22:10:02Z",
+   "progress_ms": 962860,
+   "last_seen": "2026-11-24T22:10:02Z",
+   "url": "https://open.spotify.com/episode/0Gyiv5wBf9alMntN1J7O8i",
+   "show_image": "https://i.scdn.co/image/ab67656300005f1f78954c21afd24c90334deba4"
+  },
+  {
    "name": "Renny Harlin: F1 & Why Pattinson Will Be a Great James Bond",
    "show": "Adam Carolla Show",
    "show_uri": "spotify:show:0YlgjXHWL0Lfxnp1LKdx9P",
@@ -1503,19 +1529,6 @@ window.LISTENING = {
    "last_seen": "2026-11-24T17:10:03Z",
    "url": "https://open.spotify.com/episode/0VVw5LbUWa6PH5tqlLRdgA",
    "show_image": "https://i.scdn.co/image/ab67656300005f1fd813559e4461e119b4b5082f"
-  },
-  {
-   "name": "Alice forgiven? Jensen Huang back at Nvidia",
-   "show": "Economist Podcasts",
-   "show_uri": "spotify:show:2ZFDmgDS2Z6xccP51s1zFQ",
-   "release_date": "2026-11-24",
-   "duration_ms": 1422419,
-   "image": "https://i.scdn.co/image/ab67656300005f1ff9536fd96f32701530ec6225",
-   "first_seen": "2026-11-24T14:40:02Z",
-   "progress_ms": 825627,
-   "last_seen": "2026-11-24T16:40:12Z",
-   "url": "https://open.spotify.com/episode/2pKffjkJ5mf9thYgADPyrt",
-   "show_image": "https://i.scdn.co/image/ab67656300005f1f3d63c8a3f5c8f7b8b0c1443b"
   },
   {
    "name": "The Return of Jensen Huang",
@@ -1633,19 +1646,6 @@ window.LISTENING = {
    "last_seen": "2026-11-24T03:10:03Z",
    "url": "https://open.spotify.com/episode/5o4smKGkVOIVgZjO7FZxP3",
    "show_image": "https://i.scdn.co/image/ab67656300005f1f55386ae3fe554333e1a85785"
-  },
-  {
-   "name": "Jensen Huang, Trump, and the Future of U.S. Foreign Policy",
-   "show": "The Middle with Jeremy Hobson",
-   "show_uri": "spotify:show:5l5B4IoLnVHnFMLmGSar2f",
-   "release_date": "2026-11-23",
-   "duration_ms": 1316594,
-   "image": "https://i.scdn.co/image/ab67656300005f1f083f152347124d54a12d4ca0",
-   "first_seen": "2026-11-23T20:40:02Z",
-   "progress_ms": 1316594,
-   "last_seen": "2026-11-23T23:10:03Z",
-   "url": "https://open.spotify.com/episode/6YjVulvIv6SsT9AOWlkw87",
-   "show_image": "https://i.scdn.co/image/ab67656300005f1f083f152347124d54a12d4ca0"
   }
  ],
  "top_shows": [
