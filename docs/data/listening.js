@@ -1,7 +1,7 @@
 window.LISTENING = {
  "title": "The Listening Booth",
- "generated": "2026-11-24T16:10:09Z",
- "synced": "2026-11-24T16:10:01Z",
+ "generated": "2026-11-24T16:40:18Z",
+ "synced": "2026-11-24T16:40:03Z",
  "totals": {
   "plays": 125431,
   "hours": 8528.1,
@@ -1492,6 +1492,32 @@ window.LISTENING = {
  ],
  "episodes": [
   {
+   "name": "Alice forgiven? Jensen Huang back at Nvidia",
+   "show": "Economist Podcasts",
+   "show_uri": "spotify:show:2ZFDmgDS2Z6xccP51s1zFQ",
+   "release_date": "2026-11-24",
+   "duration_ms": 1422419,
+   "image": "https://i.scdn.co/image/ab67656300005f1ff9536fd96f32701530ec6225",
+   "first_seen": "2026-11-24T14:40:02Z",
+   "progress_ms": 825627,
+   "last_seen": "2026-11-24T16:40:12Z",
+   "url": "https://open.spotify.com/episode/2pKffjkJ5mf9thYgADPyrt",
+   "show_image": "https://i.scdn.co/image/ab67656300005f1f3d63c8a3f5c8f7b8b0c1443b"
+  },
+  {
+   "name": "The Return of Jensen Huang",
+   "show": "The Journal.",
+   "show_uri": "spotify:show:0KxdEdeY2Wb3zr28dMlQva",
+   "release_date": "2026-11-23",
+   "duration_ms": 906004,
+   "image": "https://i.scdn.co/image/ab67656300005f1ffed98c4fdc504416141e9409",
+   "first_seen": "2026-11-24T14:10:02Z",
+   "progress_ms": 906004,
+   "last_seen": "2026-11-24T16:40:05Z",
+   "url": "https://open.spotify.com/episode/7wWZ8dKBlH8rFSTP2HrV0r",
+   "show_image": "https://i.scdn.co/image/ab67656300005f1ffed98c4fdc504416141e9409"
+  },
+  {
    "name": "Renny Harlin: F1 & Why Pattinson Will Be a Great James Bond",
    "show": "Adam Carolla Show",
    "show_uri": "spotify:show:0YlgjXHWL0Lfxnp1LKdx9P",
@@ -1499,8 +1525,8 @@ window.LISTENING = {
    "duration_ms": 6427507,
    "image": "https://i.scdn.co/image/ab67656300005f1fd813559e4461e119b4b5082f",
    "first_seen": "2026-11-24T15:10:02Z",
-   "progress_ms": 3638264,
-   "last_seen": "2026-11-24T16:10:02Z",
+   "progress_ms": 5438636,
+   "last_seen": "2026-11-24T16:40:04Z",
    "url": "https://open.spotify.com/episode/0VVw5LbUWa6PH5tqlLRdgA",
    "show_image": "https://i.scdn.co/image/ab67656300005f1fd813559e4461e119b4b5082f"
   },
@@ -1529,32 +1555,6 @@ window.LISTENING = {
    "last_seen": "2026-11-24T15:40:02Z",
    "url": "https://open.spotify.com/episode/3Vo3kOOiENeWa5taRWLQbA",
    "show_image": "https://i.scdn.co/image/ab67656300005f1f189781a3a30bf2cb76ae0f46"
-  },
-  {
-   "name": "Alice forgiven? Jensen Huang back at Nvidia",
-   "show": "Economist Podcasts",
-   "show_uri": "spotify:show:2ZFDmgDS2Z6xccP51s1zFQ",
-   "release_date": "2026-11-24",
-   "duration_ms": 1422419,
-   "image": "https://i.scdn.co/image/ab67656300005f1ff9536fd96f32701530ec6225",
-   "first_seen": "2026-11-24T14:40:02Z",
-   "progress_ms": 650640,
-   "last_seen": "2026-11-24T14:40:02Z",
-   "url": "https://open.spotify.com/episode/2pKffjkJ5mf9thYgADPyrt",
-   "show_image": "https://i.scdn.co/image/ab67656300005f1f3d63c8a3f5c8f7b8b0c1443b"
-  },
-  {
-   "name": "The Return of Jensen Huang",
-   "show": "The Journal.",
-   "show_uri": "spotify:show:0KxdEdeY2Wb3zr28dMlQva",
-   "release_date": "2026-11-23",
-   "duration_ms": 906004,
-   "image": "https://i.scdn.co/image/ab67656300005f1ffed98c4fdc504416141e9409",
-   "first_seen": "2026-11-24T14:10:02Z",
-   "progress_ms": 891146,
-   "last_seen": "2026-11-24T14:10:02Z",
-   "url": "https://open.spotify.com/episode/7wWZ8dKBlH8rFSTP2HrV0r",
-   "show_image": "https://i.scdn.co/image/ab67656300005f1ffed98c4fdc504416141e9409"
   },
   {
    "name": "What Jensen Huang's Stunning Return Means for the AI Trade",
