@@ -1,15 +1,48 @@
 window.LISTENING = {
  "title": "The Listening Booth",
- "generated": "2026-11-24T18:10:08Z",
- "synced": "2026-11-24T18:10:01Z",
+ "generated": "2026-11-24T18:40:08Z",
+ "synced": "2026-11-24T18:40:01Z",
  "totals": {
-  "plays": 125444,
-  "hours": 8529.1,
+  "plays": 125447,
+  "hours": 8529.3,
   "artists": 702,
   "albums": 1533,
   "first": "2013-05-07T01:40:37Z"
  },
  "recent": [
+  {
+   "name": "Automatic Sun - Live from Auditorio Nacional, CDMX",
+   "artist": "The Warning",
+   "album": "Qué Más Quieres / Sharks / Automatic Sun (Live from Auditorio Nacional, CDMX)",
+   "year": 2025,
+   "image": "https://i.scdn.co/image/ab67616d00001e02e6d30343fb059f0b62c38fb3",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b273e6d30343fb059f0b62c38fb3",
+   "url": "https://open.spotify.com/track/52Rhi563GFryRxSuxdBtyy",
+   "album_url": "https://open.spotify.com/album/4YKEYnqb55Gw4g8uMHMKSo",
+   "played_at": "2026-11-24T18:20:22.392Z"
+  },
+  {
+   "name": "Take The Money And Run",
+   "artist": "Steve Miller Band",
+   "album": "Fly Like An Eagle",
+   "year": 1976,
+   "image": "https://i.scdn.co/image/ab67616d00001e022fc23e78e87d793054bba090",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b2732fc23e78e87d793054bba090",
+   "url": "https://open.spotify.com/track/1ZhrREyOOeFV6TxDOyiPwu",
+   "album_url": "https://open.spotify.com/album/0fjJOLqG3v7vXRYhz2wxPC",
+   "played_at": "2026-11-24T18:16:29.287Z"
+  },
+  {
+   "name": "When I'm Gone",
+   "artist": "3 Doors Down",
+   "album": "Away From The Sun",
+   "year": 2002,
+   "image": "https://i.scdn.co/image/ab67616d00001e0283c39b0d32eb4a2064e1e228",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b27383c39b0d32eb4a2064e1e228",
+   "url": "https://open.spotify.com/track/3WbphvawbMZ8FyqDxYGdSQ",
+   "album_url": "https://open.spotify.com/album/72olNArm75vOycSziqIX9Y",
+   "played_at": "2026-11-24T18:13:38.706Z"
+  },
   {
    "name": "Save Me Now",
    "artist": "Billy Idol",
@@ -504,45 +537,12 @@ window.LISTENING = {
    "url": "https://open.spotify.com/track/7LRMbd3LEoV5wZJvXT1Lwb",
    "album_url": "https://open.spotify.com/album/19AUoKWRAaQYrggVvdQnqq",
    "played_at": "2026-11-21T12:55:47.987Z"
-  },
-  {
-   "name": "Bring It on Home - Remaster",
-   "artist": "Led Zeppelin",
-   "album": "Led Zeppelin II (Remaster)",
-   "year": 1969,
-   "image": "https://i.scdn.co/image/ab67616d00001e02f396ea414b735ef23e2ed1a9",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b273f396ea414b735ef23e2ed1a9",
-   "url": "https://open.spotify.com/track/1rxD34LAtkafrMUHqHIV76",
-   "album_url": "https://open.spotify.com/album/58MQ0PLijVHePUonQlK76Y",
-   "played_at": "2026-11-21T12:52:12.322Z"
-  },
-  {
-   "name": "Whole Lotta Love - Live",
-   "artist": "Jimmy Page, The Black Crowes",
-   "album": "Live at the Greek",
-   "year": 2025,
-   "image": "https://i.scdn.co/image/ab67616d00001e02fa6e624fbe4dbca748770195",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b273fa6e624fbe4dbca748770195",
-   "url": "https://open.spotify.com/track/1NpILLKnL2kQYwb6bCtiPe",
-   "album_url": "https://open.spotify.com/album/27DJov9N9ian0RrcMO1Iak",
-   "played_at": "2026-11-21T12:47:52.181Z"
-  },
-  {
-   "name": "The End (Stars Always Seem to Fade)",
-   "artist": "The Warning",
-   "album": "Queen of the Murder Scene",
-   "year": 2018,
-   "image": "https://i.scdn.co/image/ab67616d00001e02e0871bbaad013df7b7e56c2a",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b273e0871bbaad013df7b7e56c2a",
-   "url": "https://open.spotify.com/track/34UQ1XrP5vut9fCgl76H8g",
-   "album_url": "https://open.spotify.com/album/2kB1Qqw3YOR9i3nbNxXWRs",
-   "played_at": "2026-11-21T12:42:00.075Z"
   }
  ],
  "top_artists": [
   {
    "name": "The Warning",
-   "plays": 10723,
+   "plays": 10724,
    "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh",
    "image": "https://i.scdn.co/image/ab67616d00001e0204a3dad60eb365aec55022de"
   },
@@ -578,7 +578,7 @@ window.LISTENING = {
   },
   {
    "name": "Steve Miller Band",
-   "plays": 1964,
+   "plays": 1965,
    "url": "https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk",
    "image": "https://i.scdn.co/image/ab67616d00001e02632b907273dba6a6062fb780"
   },
@@ -927,7 +927,7 @@ window.LISTENING = {
   },
   {
    "decade": 1970,
-   "plays": 28762,
+   "plays": 28763,
    "covers": [
     {
      "name": "More Than a Feeling",
@@ -1209,7 +1209,7 @@ window.LISTENING = {
   },
   {
    "decade": 2000,
-   "plays": 12030,
+   "plays": 12031,
    "covers": [
     {
      "name": "Material Girl",
@@ -1397,7 +1397,7 @@ window.LISTENING = {
   },
   {
    "decade": 2020,
-   "plays": 18717,
+   "plays": 18718,
    "covers": [
     {
      "name": "ERROR",
