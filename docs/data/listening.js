@@ -1,10 +1,10 @@
 window.LISTENING = {
  "title": "The Listening Booth",
- "generated": "2026-11-24T22:10:11Z",
+ "generated": "2026-11-24T22:13:50Z",
  "synced": "2026-11-24T22:10:01Z",
  "totals": {
-  "plays": 125453,
-  "hours": 8529.6,
+  "plays": 125565,
+  "hours": 8536.7,
   "artists": 702,
   "albums": 1533,
   "first": "2013-05-07T01:40:37Z"
@@ -542,43 +542,43 @@ window.LISTENING = {
  "top_artists": [
   {
    "name": "The Warning",
-   "plays": 10726,
+   "plays": 10734,
    "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh",
    "image": "https://i.scdn.co/image/ab67616d00001e0204a3dad60eb365aec55022de"
   },
   {
    "name": "AC/DC",
-   "plays": 4001,
+   "plays": 4002,
    "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un",
    "image": "https://i.scdn.co/image/ab67616d00001e02ff191d7fbdb5a13eaf84132b"
   },
   {
    "name": "Aerosmith",
-   "plays": 2603,
+   "plays": 2604,
    "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH",
    "image": "https://i.scdn.co/image/ab67616d00001e02587b26d49596162397b29ec8"
   },
   {
    "name": "Led Zeppelin",
-   "plays": 2311,
+   "plays": 2314,
    "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp",
    "image": "https://i.scdn.co/image/ab67616d00001e02c8a11e48c91a982d086afc69"
   },
   {
    "name": "Madonna",
-   "plays": 2114,
+   "plays": 2116,
    "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW",
    "image": "https://i.scdn.co/image/ab67616d00001e026b44fa8f5415cc4c945117be"
   },
   {
    "name": "Van Halen",
-   "plays": 2055,
+   "plays": 2058,
    "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K",
    "image": "https://i.scdn.co/image/ab67616d00001e02b414c63fb435b622238c15ed"
   },
   {
    "name": "Steve Miller Band",
-   "plays": 1965,
+   "plays": 1966,
    "url": "https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk",
    "image": "https://i.scdn.co/image/ab67616d00001e02632b907273dba6a6062fb780"
   },
@@ -590,13 +590,13 @@ window.LISTENING = {
   },
   {
    "name": "Queen",
-   "plays": 1923,
+   "plays": 1925,
    "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d",
    "image": "https://i.scdn.co/image/ab67616d00001e0207744e2ed983efa3e6620a47"
   },
   {
    "name": "Saving Escape",
-   "plays": 1684,
+   "plays": 1688,
    "url": "https://open.spotify.com/artist/2VfhnjHV7e3M499VPa1w71",
    "image": "https://i.scdn.co/image/ab67616d00001e02a8e9a07f9110e842adaa5c13"
   }
@@ -611,7 +611,7 @@ window.LISTENING = {
    "image_large": "https://i.scdn.co/image/ab67616d0000b27304a3dad60eb365aec55022de",
    "url": "https://open.spotify.com/track/1VcLiPmina1L3xlLkJ5OTS",
    "album_url": "https://open.spotify.com/album/6nEiN0eM1gbvDsijV46XrX",
-   "plays": 3499
+   "plays": 3500
   },
   {
    "name": "Dust to Dust",
@@ -622,7 +622,7 @@ window.LISTENING = {
    "image_large": "https://i.scdn.co/image/ab67616d0000b273e0871bbaad013df7b7e56c2a",
    "url": "https://open.spotify.com/track/3byoK5Yi2YT9Gcc4xS8qKE",
    "album_url": "https://open.spotify.com/album/2kB1Qqw3YOR9i3nbNxXWRs",
-   "plays": 1905
+   "plays": 1906
   },
   {
    "name": "Back In Black",
@@ -833,7 +833,7 @@ window.LISTENING = {
   },
   {
    "decade": 1960,
-   "plays": 7074,
+   "plays": 7085,
    "covers": [
     {
      "name": "Your Time Is Gonna Come - 1990 Remaster",
@@ -877,7 +877,7 @@ window.LISTENING = {
      "image_large": "https://i.scdn.co/image/ab67616d0000b2736a74089537c2dbd548c4a95e",
      "url": "https://open.spotify.com/track/4vpeKl0vMGdAXpZiQB2Dtd",
      "album_url": "https://open.spotify.com/album/6lPb7Eoon6QPbscWbMsk6a",
-     "plays": 417
+     "plays": 420
     },
     {
      "name": "My Generation - Mono Version",
@@ -888,7 +888,7 @@ window.LISTENING = {
      "image_large": "https://i.scdn.co/image/ab67616d0000b273cbee7274742b0471f39bb8c8",
      "url": "https://open.spotify.com/track/45s88Xopo6KvHc0PQ05aGg",
      "album_url": "https://open.spotify.com/album/4upv5ZjkKMIUBjFNthFQih",
-     "plays": 238
+     "plays": 239
     },
     {
      "name": "Oh Well, Pt. 1 - 2013 Remaster",
@@ -921,13 +921,13 @@ window.LISTENING = {
      "image_large": "https://i.scdn.co/image/ab67616d0000b273e5bd9c16543752620815ebdc",
      "url": "https://open.spotify.com/track/43SkTJJ2xleDaeiE4TIM70",
      "album_url": "https://open.spotify.com/album/0bJMFJ2XQwpO5nKTrYdUtX",
-     "plays": 226
+     "plays": 227
     }
    ]
   },
   {
    "decade": 1970,
-   "plays": 28763,
+   "plays": 28780,
    "covers": [
     {
      "name": "More Than a Feeling",
@@ -1021,7 +1021,7 @@ window.LISTENING = {
   },
   {
    "decade": 1980,
-   "plays": 33007,
+   "plays": 33035,
    "covers": [
     {
      "name": "Back In Black",
@@ -1065,7 +1065,7 @@ window.LISTENING = {
      "image_large": "https://i.scdn.co/image/ab67616d0000b2734aaad3bb593721bcaa6827d6",
      "url": "https://open.spotify.com/track/00vYs0qZA40Z8AAaN7xmMO",
      "album_url": "https://open.spotify.com/album/7qEP3i0f0zfk6JUFW3SyeN",
-     "plays": 698
+     "plays": 699
     },
     {
      "name": "Panama - 2015 Remaster",
@@ -1076,7 +1076,7 @@ window.LISTENING = {
      "image_large": "https://i.scdn.co/image/ab67616d0000b273b414c63fb435b622238c15ed",
      "url": "https://open.spotify.com/track/05RgAMGypEvqhNs5hPCbMS",
      "album_url": "https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0",
-     "plays": 694
+     "plays": 696
     },
     {
      "name": "You Give Love A Bad Name",
@@ -1115,7 +1115,7 @@ window.LISTENING = {
   },
   {
    "decade": 1990,
-   "plays": 9755,
+   "plays": 9769,
    "covers": [
     {
      "name": "Amazing",
@@ -1148,7 +1148,7 @@ window.LISTENING = {
      "image_large": "https://i.scdn.co/image/ab67616d0000b273d5fdfcb083cb825348505a93",
      "url": "https://open.spotify.com/track/5fMwvrqujbQjUxcNPcYrUF",
      "album_url": "https://open.spotify.com/album/2uT123xlHuqvz14JR0KQSs",
-     "plays": 499
+     "plays": 500
     },
     {
      "name": "Uncle Tom's Cabin",
@@ -1181,7 +1181,7 @@ window.LISTENING = {
      "image_large": "https://i.scdn.co/image/ab67616d0000b27366ec7d795b727cd90bd09690",
      "url": "https://open.spotify.com/track/4TQeNHx85xcP9YRkvJC6K1",
      "album_url": "https://open.spotify.com/album/1CsztoJYGwGURMCppulrOt",
-     "plays": 436
+     "plays": 438
     },
     {
      "name": "Fly Away",
@@ -1203,13 +1203,13 @@ window.LISTENING = {
      "image_large": "https://i.scdn.co/image/ab67616d0000b273059c952d7ccc5a617cc9a383",
      "url": "https://open.spotify.com/track/0W0euvQlhbcsTydzsD4EQk",
      "album_url": "https://open.spotify.com/album/5SsZBxF3sRSJnFd0rZ3vcF",
-     "plays": 349
+     "plays": 350
     }
    ]
   },
   {
    "decade": 2000,
-   "plays": 12031,
+   "plays": 12037,
    "covers": [
     {
      "name": "Material Girl",
@@ -1242,7 +1242,7 @@ window.LISTENING = {
      "image_large": "https://i.scdn.co/image/ab67616d0000b27325f49ab23f0ec6332efef432",
      "url": "https://open.spotify.com/track/4UzVcXufOhGUwF56HT7b8M",
      "album_url": "https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm",
-     "plays": 681
+     "plays": 682
     },
     {
      "name": "Americano",
@@ -1303,7 +1303,7 @@ window.LISTENING = {
   },
   {
    "decade": 2010,
-   "plays": 15824,
+   "plays": 15835,
    "covers": [
     {
      "name": "XXI Century Blood",
@@ -1314,7 +1314,7 @@ window.LISTENING = {
      "image_large": "https://i.scdn.co/image/ab67616d0000b27304a3dad60eb365aec55022de",
      "url": "https://open.spotify.com/track/1VcLiPmina1L3xlLkJ5OTS",
      "album_url": "https://open.spotify.com/album/6nEiN0eM1gbvDsijV46XrX",
-     "plays": 3499
+     "plays": 3500
     },
     {
      "name": "Dust to Dust",
@@ -1325,7 +1325,7 @@ window.LISTENING = {
      "image_large": "https://i.scdn.co/image/ab67616d0000b273e0871bbaad013df7b7e56c2a",
      "url": "https://open.spotify.com/track/3byoK5Yi2YT9Gcc4xS8qKE",
      "album_url": "https://open.spotify.com/album/2kB1Qqw3YOR9i3nbNxXWRs",
-     "plays": 1905
+     "plays": 1906
     },
     {
      "name": "Rhyme or Reason",
@@ -1397,7 +1397,7 @@ window.LISTENING = {
   },
   {
    "decade": 2020,
-   "plays": 18719,
+   "plays": 18744,
    "covers": [
     {
      "name": "ERROR",
@@ -1441,7 +1441,7 @@ window.LISTENING = {
      "image_large": "https://i.scdn.co/image/ab67616d0000b2735cda6d880ec3968aa6b6ac2f",
      "url": "https://open.spotify.com/track/3zgbw0cxkS1DQ36O5hGydt",
      "album_url": "https://open.spotify.com/album/0LhKnnsC3qOLCgtlQUUGIS",
-     "plays": 490
+     "plays": 494
     },
     {
      "name": "Shot In The Dark",
@@ -1854,7 +1854,7 @@ window.LISTENING = {
     "image_large": "https://i.scdn.co/image/ab67616d0000b273650bab17f0b4dd6b4452103d",
     "url": "https://open.spotify.com/track/4u7RK85A85XeymVXiwtv0a",
     "album_url": "https://open.spotify.com/album/3zOPNnVojU3wnPUzRcEoLJ",
-    "plays": 228,
+    "plays": 229,
     "total": 24,
     "run_back": 16,
     "went_back": 6,
