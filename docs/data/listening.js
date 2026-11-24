@@ -1,15 +1,37 @@
 window.LISTENING = {
  "title": "The Listening Booth",
- "generated": "2026-11-24T18:40:08Z",
- "synced": "2026-11-24T18:40:01Z",
+ "generated": "2026-11-24T19:40:08Z",
+ "synced": "2026-11-24T19:40:01Z",
  "totals": {
-  "plays": 125447,
-  "hours": 8529.3,
+  "plays": 125449,
+  "hours": 8529.4,
   "artists": 702,
   "albums": 1533,
   "first": "2013-05-07T01:40:37Z"
  },
  "recent": [
+  {
+   "name": "Black Holes (Don't Hold On)",
+   "artist": "The Warning",
+   "album": "XXI Century Blood",
+   "year": 2017,
+   "image": "https://i.scdn.co/image/ab67616d00001e0204a3dad60eb365aec55022de",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b27304a3dad60eb365aec55022de",
+   "url": "https://open.spotify.com/track/2xRZlk8t0R2GvMQMvJ1HEB",
+   "album_url": "https://open.spotify.com/album/6nEiN0eM1gbvDsijV46XrX",
+   "played_at": "2026-11-24T19:39:33.117Z"
+  },
+  {
+   "name": "Unmendable",
+   "artist": "The Warning",
+   "album": "XXI Century Blood",
+   "year": 2017,
+   "image": "https://i.scdn.co/image/ab67616d00001e0204a3dad60eb365aec55022de",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b27304a3dad60eb365aec55022de",
+   "url": "https://open.spotify.com/track/3YPWoSTTdI97QeyjV9t68F",
+   "album_url": "https://open.spotify.com/album/6nEiN0eM1gbvDsijV46XrX",
+   "played_at": "2026-11-24T19:34:30.774Z"
+  },
   {
    "name": "Automatic Sun - Live from Auditorio Nacional, CDMX",
    "artist": "The Warning",
@@ -515,34 +537,12 @@ window.LISTENING = {
    "url": "https://open.spotify.com/track/34UQ1XrP5vut9fCgl76H8g",
    "album_url": "https://open.spotify.com/album/2kB1Qqw3YOR9i3nbNxXWRs",
    "played_at": "2026-11-21T15:19:51.921Z"
-  },
-  {
-   "name": "3AM",
-   "artist": "Matchbox Twenty",
-   "album": "Yourself or Someone Like You",
-   "year": 1996,
-   "image": "https://i.scdn.co/image/ab67616d00001e0211585490475c991f8c83bca7",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b27311585490475c991f8c83bca7",
-   "url": "https://open.spotify.com/track/5vYA1mW9g2Coh1HUFUSmlb",
-   "album_url": "https://open.spotify.com/album/4vUXTcKz7tXxrNl84meN6i",
-   "played_at": "2026-11-21T12:59:34.491Z"
-  },
-  {
-   "name": "T.N.T.",
-   "artist": "AC/DC",
-   "album": "High Voltage",
-   "year": 1976,
-   "image": "https://i.scdn.co/image/ab67616d00001e028c7f355d649e0a3cfcf6fc39",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b2738c7f355d649e0a3cfcf6fc39",
-   "url": "https://open.spotify.com/track/7LRMbd3LEoV5wZJvXT1Lwb",
-   "album_url": "https://open.spotify.com/album/19AUoKWRAaQYrggVvdQnqq",
-   "played_at": "2026-11-21T12:55:47.987Z"
   }
  ],
  "top_artists": [
   {
    "name": "The Warning",
-   "plays": 10724,
+   "plays": 10726,
    "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh",
    "image": "https://i.scdn.co/image/ab67616d00001e0204a3dad60eb365aec55022de"
   },
@@ -611,7 +611,7 @@ window.LISTENING = {
    "image_large": "https://i.scdn.co/image/ab67616d0000b27304a3dad60eb365aec55022de",
    "url": "https://open.spotify.com/track/1VcLiPmina1L3xlLkJ5OTS",
    "album_url": "https://open.spotify.com/album/6nEiN0eM1gbvDsijV46XrX",
-   "plays": 3497
+   "plays": 3499
   },
   {
    "name": "Dust to Dust",
@@ -1303,7 +1303,7 @@ window.LISTENING = {
   },
   {
    "decade": 2010,
-   "plays": 15821,
+   "plays": 15823,
    "covers": [
     {
      "name": "XXI Century Blood",
@@ -1314,7 +1314,7 @@ window.LISTENING = {
      "image_large": "https://i.scdn.co/image/ab67616d0000b27304a3dad60eb365aec55022de",
      "url": "https://open.spotify.com/track/1VcLiPmina1L3xlLkJ5OTS",
      "album_url": "https://open.spotify.com/album/6nEiN0eM1gbvDsijV46XrX",
-     "plays": 3497
+     "plays": 3499
     },
     {
      "name": "Dust to Dust",
