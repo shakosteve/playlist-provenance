@@ -1,7 +1,7 @@
 window.LISTENING = {
  "title": "The Listening Booth",
- "generated": "2026-11-24T05:40:07Z",
- "synced": "2026-11-24T05:40:01Z",
+ "generated": "2026-11-24T06:10:23Z",
+ "synced": "2026-11-24T06:10:01Z",
  "totals": {
   "plays": 125431,
   "hours": 8528.1,
@@ -1492,6 +1492,19 @@ window.LISTENING = {
  ],
  "episodes": [
   {
+   "name": "St. Paul community leaders continue reparations work with town halls, harm report",
+   "show": "Minnesota Now",
+   "show_uri": "spotify:show:61oEbjIMX0lVNvf0MyrEX8",
+   "release_date": "2026-11-23",
+   "duration_ms": 544757,
+   "image": "https://i.scdn.co/image/ab67656300005f1f110dfea289c0685fcc6c4343",
+   "first_seen": "2026-11-24T06:10:03Z",
+   "progress_ms": 24576,
+   "last_seen": "2026-11-24T06:10:03Z",
+   "url": "https://open.spotify.com/episode/4qnSX5wGuxIk9u1FSl03hD",
+   "show_image": "https://i.scdn.co/image/ab67656300005f1f110dfea289c0685fcc6c4343"
+  },
+  {
    "name": "The Return of Jensen Huang",
    "show": "RealClearPolitics Podcast",
    "show_uri": "spotify:show:5FkNemg3aIaPPNBImIcW2l",
@@ -1633,19 +1646,6 @@ window.LISTENING = {
    "last_seen": "2026-11-23T01:10:03Z",
    "url": "https://open.spotify.com/episode/5m3OpPpPv9cJPv9n3pwj3x",
    "show_image": "https://i.scdn.co/image/ab67656300005f1fbe53b4cdd29c489500b01d97"
-  },
-  {
-   "name": "721. The Charge of the Light Brigade: Outbreak of The Crimean War (Part 1)",
-   "show": "The Rest Is History",
-   "show_uri": "spotify:show:7Cvsbcjhtur7nplC148TWy",
-   "release_date": "2026-11-09",
-   "duration_ms": 4108949,
-   "image": "https://i.scdn.co/image/ab67656300005f1f8a0c80850d860aab8c8748bc",
-   "first_seen": "2026-11-22T23:10:02Z",
-   "progress_ms": 1013077,
-   "last_seen": "2026-11-22T23:10:02Z",
-   "url": "https://open.spotify.com/episode/1JG6n1RbtEz6pjkR3HaTnh",
-   "show_image": "https://i.scdn.co/image/ab67656300005f1f5470f608a42e57104c1f0720"
   }
  ],
  "top_shows": [
