@@ -1,15 +1,59 @@
 window.LISTENING = {
  "title": "The Listening Booth",
- "generated": "2026-11-24T19:40:08Z",
- "synced": "2026-11-24T19:40:01Z",
+ "generated": "2026-11-24T20:10:07Z",
+ "synced": "2026-11-24T20:10:01Z",
  "totals": {
-  "plays": 125449,
-  "hours": 8529.4,
+  "plays": 125453,
+  "hours": 8529.6,
   "artists": 702,
   "albums": 1533,
   "first": "2013-05-07T01:40:37Z"
  },
  "recent": [
+  {
+   "name": "Rock The Bop",
+   "artist": "Brenda Lee",
+   "album": "Love You!",
+   "year": 1963,
+   "image": "https://i.scdn.co/image/ab67616d00001e0286dbb746d8ff18b35dc2cdf3",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b27386dbb746d8ff18b35dc2cdf3",
+   "url": "https://open.spotify.com/track/3o3zZU5Ib0zd0LpsK1Kfin",
+   "album_url": "https://open.spotify.com/album/4FwaiqI20she40DLrEN4ni",
+   "played_at": "2026-11-24T20:00:00.528Z"
+  },
+  {
+   "name": "The Sound of Silence",
+   "artist": "Disturbed",
+   "album": "Immortalized (Deluxe Edition)",
+   "year": 2015,
+   "image": "https://i.scdn.co/image/ab67616d00001e02a58c62e75b82e9c3b47d9ef3",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b273a58c62e75b82e9c3b47d9ef3",
+   "url": "https://open.spotify.com/track/0eZBeB2xFIS65jQHerispi",
+   "album_url": "https://open.spotify.com/album/1ROVEUk4lc2vD4a0IN1TWS",
+   "played_at": "2026-11-24T19:57:47.963Z"
+  },
+  {
+   "name": "Motherlode",
+   "artist": "The Standstills, Eagles Of Death Metal",
+   "album": "Shockwave",
+   "year": 2022,
+   "image": "https://i.scdn.co/image/ab67616d00001e0281f48bb5f19fe38eb7c82b89",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b27381f48bb5f19fe38eb7c82b89",
+   "url": "https://open.spotify.com/track/1og1HaD8dShBhfxaiMcXtg",
+   "album_url": "https://open.spotify.com/album/6K4IAZRaISujit2wkARm9u",
+   "played_at": "2026-11-24T19:53:37.936Z"
+  },
+  {
+   "name": "Small Town",
+   "artist": "John Mellencamp",
+   "album": "Scarecrow",
+   "year": 1985,
+   "image": "https://i.scdn.co/image/ab67616d00001e02b46e7ea6a6b2fa45caa23393",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b273b46e7ea6a6b2fa45caa23393",
+   "url": "https://open.spotify.com/track/2HsjJJL4DhPCzMlnaGv7ap",
+   "album_url": "https://open.spotify.com/album/1BYEhfr8qQGNhbqPAbfnxk",
+   "played_at": "2026-11-24T19:43:15.267Z"
+  },
   {
    "name": "Black Holes (Don't Hold On)",
    "artist": "The Warning",
@@ -493,50 +537,6 @@ window.LISTENING = {
    "url": "https://open.spotify.com/track/4RYwE31p4KflK1h7J7m1Yt",
    "album_url": "https://open.spotify.com/album/2paShliFsxYoO3WJEdTVdA",
    "played_at": "2026-11-21T15:37:03.407Z"
-  },
-  {
-   "name": "Easy On Me",
-   "artist": "Adele",
-   "album": "Easy On Me",
-   "year": 2021,
-   "image": "https://i.scdn.co/image/ab67616d00001e02a7c79b8f85ff6e56b39a549c",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b273a7c79b8f85ff6e56b39a549c",
-   "url": "https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX",
-   "album_url": "https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S",
-   "played_at": "2026-11-21T15:34:17.920Z"
-  },
-  {
-   "name": "Bring It on Home - Remaster",
-   "artist": "Led Zeppelin",
-   "album": "Led Zeppelin II (Remaster)",
-   "year": 1969,
-   "image": "https://i.scdn.co/image/ab67616d00001e02f396ea414b735ef23e2ed1a9",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b273f396ea414b735ef23e2ed1a9",
-   "url": "https://open.spotify.com/track/1rxD34LAtkafrMUHqHIV76",
-   "album_url": "https://open.spotify.com/album/58MQ0PLijVHePUonQlK76Y",
-   "played_at": "2026-11-21T15:30:03.314Z"
-  },
-  {
-   "name": "Whole Lotta Love - Live",
-   "artist": "Jimmy Page, The Black Crowes",
-   "album": "Live at the Greek",
-   "year": 2025,
-   "image": "https://i.scdn.co/image/ab67616d00001e02fa6e624fbe4dbca748770195",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b273fa6e624fbe4dbca748770195",
-   "url": "https://open.spotify.com/track/1NpILLKnL2kQYwb6bCtiPe",
-   "album_url": "https://open.spotify.com/album/27DJov9N9ian0RrcMO1Iak",
-   "played_at": "2026-11-21T15:25:42.983Z"
-  },
-  {
-   "name": "The End (Stars Always Seem to Fade)",
-   "artist": "The Warning",
-   "album": "Queen of the Murder Scene",
-   "year": 2018,
-   "image": "https://i.scdn.co/image/ab67616d00001e02e0871bbaad013df7b7e56c2a",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b273e0871bbaad013df7b7e56c2a",
-   "url": "https://open.spotify.com/track/34UQ1XrP5vut9fCgl76H8g",
-   "album_url": "https://open.spotify.com/album/2kB1Qqw3YOR9i3nbNxXWRs",
-   "played_at": "2026-11-21T15:19:51.921Z"
   }
  ],
  "top_artists": [
@@ -833,7 +833,7 @@ window.LISTENING = {
   },
   {
    "decade": 1960,
-   "plays": 7073,
+   "plays": 7074,
    "covers": [
     {
      "name": "Your Time Is Gonna Come - 1990 Remaster",
@@ -1021,7 +1021,7 @@ window.LISTENING = {
   },
   {
    "decade": 1980,
-   "plays": 33006,
+   "plays": 33007,
    "covers": [
     {
      "name": "Back In Black",
@@ -1303,7 +1303,7 @@ window.LISTENING = {
   },
   {
    "decade": 2010,
-   "plays": 15823,
+   "plays": 15824,
    "covers": [
     {
      "name": "XXI Century Blood",
@@ -1397,7 +1397,7 @@ window.LISTENING = {
   },
   {
    "decade": 2020,
-   "plays": 18718,
+   "plays": 18719,
    "covers": [
     {
      "name": "ERROR",
