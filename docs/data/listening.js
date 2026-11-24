@@ -1,15 +1,92 @@
 window.LISTENING = {
  "title": "The Listening Booth",
- "generated": "2026-11-24T17:40:06Z",
- "synced": "2026-11-24T17:40:01Z",
+ "generated": "2026-11-24T18:10:08Z",
+ "synced": "2026-11-24T18:10:01Z",
  "totals": {
-  "plays": 125437,
-  "hours": 8528.6,
+  "plays": 125444,
+  "hours": 8529.1,
   "artists": 702,
   "albums": 1533,
   "first": "2013-05-07T01:40:37Z"
  },
  "recent": [
+  {
+   "name": "Save Me Now",
+   "artist": "Billy Idol",
+   "album": "Kings & Queens Of The Underground",
+   "year": 2014,
+   "image": "https://i.scdn.co/image/ab67616d00001e02f21a536f6ae9d324f29917ed",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b273f21a536f6ae9d324f29917ed",
+   "url": "https://open.spotify.com/track/2rbH7E6pLeAOsgE5PUIEgT",
+   "album_url": "https://open.spotify.com/album/1WQHG6CYgc5fB9ByTLkskB",
+   "played_at": "2026-11-24T18:09:17.799Z"
+  },
+  {
+   "name": "Money for Nothing",
+   "artist": "Dire Straits",
+   "album": "Brothers in Arms",
+   "year": 1985,
+   "image": "https://i.scdn.co/image/ab67616d00001e02fb995d2871f084b34afae3b3",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b273fb995d2871f084b34afae3b3",
+   "url": "https://open.spotify.com/track/4yqtwO7MQIIXqoiRBPHAgR",
+   "album_url": "https://open.spotify.com/album/7jvcSnCnugLcisBCNBm60s",
+   "played_at": "2026-11-24T18:04:45.510Z"
+  },
+  {
+   "name": "Every Little Thing She Does Is Magic",
+   "artist": "The Police",
+   "album": "Ghost In The Machine (Remastered 2003)",
+   "year": 1981,
+   "image": "https://i.scdn.co/image/ab67616d00001e02b7879980ef2ea7ac1cc29316",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b273b7879980ef2ea7ac1cc29316",
+   "url": "https://open.spotify.com/track/44aTAUBF0g6sMkMNE8I5kd",
+   "album_url": "https://open.spotify.com/album/5jkwdY6jS1Hzi8epr6HW7h",
+   "played_at": "2026-11-24T17:56:18.591Z"
+  },
+  {
+   "name": "Wheel in the Sky",
+   "artist": "Journey",
+   "album": "Infinity",
+   "year": 1978,
+   "image": "https://i.scdn.co/image/ab67616d00001e021b2a9188ac775e16998eb78d",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b2731b2a9188ac775e16998eb78d",
+   "url": "https://open.spotify.com/track/215wUTQQUo2PElJFEFoB0d",
+   "album_url": "https://open.spotify.com/album/7K4Nk5fHkCuzNm5A6mdo2U",
+   "played_at": "2026-11-24T17:51:57.392Z"
+  },
+  {
+   "name": "Copper Bullets",
+   "artist": "The Warning",
+   "album": "XXI Century Blood",
+   "year": 2017,
+   "image": "https://i.scdn.co/image/ab67616d00001e0204a3dad60eb365aec55022de",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b27304a3dad60eb365aec55022de",
+   "url": "https://open.spotify.com/track/2iJEEovzd80V1hl3H2xmUJ",
+   "album_url": "https://open.spotify.com/album/6nEiN0eM1gbvDsijV46XrX",
+   "played_at": "2026-11-24T17:47:44.679Z"
+  },
+  {
+   "name": "A Thousand Miles",
+   "artist": "Vanessa Carlton",
+   "album": "Be Not Nobody",
+   "year": 2002,
+   "image": "https://i.scdn.co/image/ab67616d00001e02bc3ada3a19bb4e657f10917e",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b273bc3ada3a19bb4e657f10917e",
+   "url": "https://open.spotify.com/track/4w1lzcaoZ1IC2K5TwjalRP",
+   "album_url": "https://open.spotify.com/album/5e7T2qUigzt0oIr50KsOld",
+   "played_at": "2026-11-24T17:44:02.677Z"
+  },
+  {
+   "name": "Holiday Road - National Lampoon's Vacation",
+   "artist": "Lindsey Buckingham",
+   "album": "Gift Wrapped 3 - A Holiday Smörgåsbord",
+   "year": 2015,
+   "image": "https://i.scdn.co/image/ab67616d00001e02df79499dab6ce346e5dd5df9",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b273df79499dab6ce346e5dd5df9",
+   "url": "https://open.spotify.com/track/1IatSwgjql4MzdLbUF1JVJ",
+   "album_url": "https://open.spotify.com/album/2xolpIjM01HAQfgObLOE4X",
+   "played_at": "2026-11-24T17:40:04.797Z"
+  },
   {
    "name": "Smoking Gun",
    "artist": "Jackie Evancho",
@@ -460,89 +537,12 @@ window.LISTENING = {
    "url": "https://open.spotify.com/track/34UQ1XrP5vut9fCgl76H8g",
    "album_url": "https://open.spotify.com/album/2kB1Qqw3YOR9i3nbNxXWRs",
    "played_at": "2026-11-21T12:42:00.075Z"
-  },
-  {
-   "name": "this is a banger i swear",
-   "artist": "Jasmine Star",
-   "album": "this is a banger i swear",
-   "year": 2023,
-   "image": "https://i.scdn.co/image/ab67616d00001e021f084aa854887a6a6a8c3d96",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b2731f084aa854887a6a6a8c3d96",
-   "url": "https://open.spotify.com/track/5XhHIRWPiuoaRN4jV6UfQg",
-   "album_url": "https://open.spotify.com/album/6sPQLEFYkBlgnFIvZCI7YI",
-   "played_at": "2026-11-20T14:32:29.930Z"
-  },
-  {
-   "name": "Rooftop",
-   "artist": "Jasmine Star",
-   "album": "Rooftop",
-   "year": 2026,
-   "image": "https://i.scdn.co/image/ab67616d00001e029b28b6f5f7371da964ad9557",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b2739b28b6f5f7371da964ad9557",
-   "url": "https://open.spotify.com/track/6kemRhiVdF1q9aFWzRZZx8",
-   "album_url": "https://open.spotify.com/album/1eGE8koK5GedSeSbMAYVbq",
-   "played_at": "2026-11-20T14:29:47.924Z"
-  },
-  {
-   "name": "Head Over Heels - Dave Bascombe 7\" N.Mix",
-   "artist": "Tears For Fears, Dave Bascombe",
-   "album": "Songs From The Big Chair (Deluxe)",
-   "year": 1985,
-   "image": "https://i.scdn.co/image/ab67616d00001e0206b6bd6a604768e044abbd38",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b27306b6bd6a604768e044abbd38",
-   "url": "https://open.spotify.com/track/5lwQGZYF4BXOzFtXc5zk8q",
-   "album_url": "https://open.spotify.com/album/06J93pgtDCUw6bsAQINhCs",
-   "played_at": "2026-11-19T00:14:58.803Z"
-  },
-  {
-   "name": "Everything’s Falling",
-   "artist": "The Warning",
-   "album": "Everything’s Falling",
-   "year": 2026,
-   "image": "https://i.scdn.co/image/ab67616d00001e023d3a5263cbb23d7b8866a08c",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b2733d3a5263cbb23d7b8866a08c",
-   "url": "https://open.spotify.com/track/4GVXHZ4QJe1lOvtfLsIORd",
-   "album_url": "https://open.spotify.com/album/0YJACBRXuL7jthY9RBtlS5",
-   "played_at": "2026-11-18T23:59:38.186Z"
-  },
-  {
-   "name": "Séance",
-   "artist": "Speed of Light",
-   "album": "Séance",
-   "year": 2024,
-   "image": "https://i.scdn.co/image/ab67616d00001e02e43f6681a9e6e990b63be5cb",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b273e43f6681a9e6e990b63be5cb",
-   "url": "https://open.spotify.com/track/6xQ8uphGxXzJDUziFapHZZ",
-   "album_url": "https://open.spotify.com/album/0JwzG7MVtzubfIOf0L445q",
-   "played_at": "2026-11-18T23:49:56.416Z"
-  },
-  {
-   "name": "KISS Tried To Kill Me",
-   "artist": "Black Spiders",
-   "album": "Sons Of The North",
-   "year": 2011,
-   "image": "https://i.scdn.co/image/ab67616d00001e026724fae9bc203a9d4defd736",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b2736724fae9bc203a9d4defd736",
-   "url": "https://open.spotify.com/track/6rav9LnbGplsfHHw0I6kv0",
-   "album_url": "https://open.spotify.com/album/7KDzhHeTeAjmBFO3ixlMGm",
-   "played_at": "2026-11-18T23:45:58.392Z"
-  },
-  {
-   "name": "What Good's A Rock Without A Roll?",
-   "artist": "Black Spiders",
-   "album": "Sons Of The North",
-   "year": 2011,
-   "image": "https://i.scdn.co/image/ab67616d00001e026724fae9bc203a9d4defd736",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b2736724fae9bc203a9d4defd736",
-   "url": "https://open.spotify.com/track/0FrhD37RheksdxcDi4tgx3",
-   "album_url": "https://open.spotify.com/album/7KDzhHeTeAjmBFO3ixlMGm",
-   "played_at": "2026-11-18T23:41:31.595Z"
   }
  ],
  "top_artists": [
   {
    "name": "The Warning",
-   "plays": 10722,
+   "plays": 10723,
    "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh",
    "image": "https://i.scdn.co/image/ab67616d00001e0204a3dad60eb365aec55022de"
   },
@@ -611,7 +611,7 @@ window.LISTENING = {
    "image_large": "https://i.scdn.co/image/ab67616d0000b27304a3dad60eb365aec55022de",
    "url": "https://open.spotify.com/track/1VcLiPmina1L3xlLkJ5OTS",
    "album_url": "https://open.spotify.com/album/6nEiN0eM1gbvDsijV46XrX",
-   "plays": 3496
+   "plays": 3497
   },
   {
    "name": "Dust to Dust",
@@ -927,7 +927,7 @@ window.LISTENING = {
   },
   {
    "decade": 1970,
-   "plays": 28761,
+   "plays": 28762,
    "covers": [
     {
      "name": "More Than a Feeling",
@@ -1021,7 +1021,7 @@ window.LISTENING = {
   },
   {
    "decade": 1980,
-   "plays": 33004,
+   "plays": 33006,
    "covers": [
     {
      "name": "Back In Black",
@@ -1209,7 +1209,7 @@ window.LISTENING = {
   },
   {
    "decade": 2000,
-   "plays": 12029,
+   "plays": 12030,
    "covers": [
     {
      "name": "Material Girl",
@@ -1303,7 +1303,7 @@ window.LISTENING = {
   },
   {
    "decade": 2010,
-   "plays": 15818,
+   "plays": 15821,
    "covers": [
     {
      "name": "XXI Century Blood",
@@ -1314,7 +1314,7 @@ window.LISTENING = {
      "image_large": "https://i.scdn.co/image/ab67616d0000b27304a3dad60eb365aec55022de",
      "url": "https://open.spotify.com/track/1VcLiPmina1L3xlLkJ5OTS",
      "album_url": "https://open.spotify.com/album/6nEiN0eM1gbvDsijV46XrX",
-     "plays": 3496
+     "plays": 3497
     },
     {
      "name": "Dust to Dust",
