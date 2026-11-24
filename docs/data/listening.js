@@ -1,7 +1,7 @@
 window.LISTENING = {
  "title": "The Listening Booth",
- "generated": "2026-11-24T04:10:09Z",
- "synced": "2026-11-24T04:10:01Z",
+ "generated": "2026-11-24T04:40:09Z",
+ "synced": "2026-11-24T04:40:03Z",
  "totals": {
   "plays": 125431,
   "hours": 8528.1,
@@ -1499,10 +1499,23 @@ window.LISTENING = {
    "duration_ms": 6360529,
    "image": "https://i.scdn.co/image/ab67656300005f1fd813559e4461e119b4b5082f",
    "first_seen": "2026-11-23T21:10:02Z",
-   "progress_ms": 6023657,
-   "last_seen": "2026-11-24T04:10:02Z",
+   "progress_ms": 6442520,
+   "last_seen": "2026-11-24T04:40:04Z",
    "url": "https://open.spotify.com/episode/7efHgQDxeiyNcmwoFVBdcS",
    "show_image": "https://i.scdn.co/image/ab67656300005f1fd813559e4461e119b4b5082f"
+  },
+  {
+   "name": "Jensen Huang Returns to Nvidia After Donald Trump’s Intervention",
+   "show": "WSJ Opinion: Potomac Watch",
+   "show_uri": "spotify:show:4sMCRFb3B4g9Ax3lDCOOTX",
+   "release_date": "2026-11-23",
+   "duration_ms": 1442037,
+   "image": "https://i.scdn.co/image/ab67656300005f1fbe53b4cdd29c489500b01d97",
+   "first_seen": "2026-11-24T04:40:03Z",
+   "progress_ms": 1333265,
+   "last_seen": "2026-11-24T04:40:03Z",
+   "url": "https://open.spotify.com/episode/3EwCmtPaB9CC9ixUaKHOTs",
+   "show_image": "https://i.scdn.co/image/ab67656300005f1fbe53b4cdd29c489500b01d97"
   },
   {
    "name": "Media Monday: Jensen’s Comeback Campaign & The World Cup Bidding War",
@@ -1633,19 +1646,6 @@ window.LISTENING = {
    "last_seen": "2026-11-22T22:40:03Z",
    "url": "https://open.spotify.com/episode/5TbqEZchzrFLbVo49Nk3z6",
    "show_image": "https://i.scdn.co/image/ab67656300005f1fd813559e4461e119b4b5082f"
-  },
-  {
-   "name": "🇵🇭 From Manila, Latika Takes interviews Jay Tarriela",
-   "show": "Latika Takes",
-   "show_uri": "spotify:show:47w1wyIbIRDrEyKzvuKg1j",
-   "release_date": "2026-11-22",
-   "duration_ms": 1803848,
-   "image": "https://i.scdn.co/image/ab67656300005f1f3dd515d49bdfa78822111f48",
-   "first_seen": "2026-11-22T17:40:02Z",
-   "progress_ms": 1803848,
-   "last_seen": "2026-11-22T20:10:02Z",
-   "url": "https://open.spotify.com/episode/3MAlTkIgMIO10bvEDCerFv",
-   "show_image": "https://i.scdn.co/image/ab67656300005f1f0a171d006dae899f2193c829"
   }
  ],
  "top_shows": [
