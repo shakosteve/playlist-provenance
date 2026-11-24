@@ -1,7 +1,7 @@
 window.LISTENING = {
  "title": "The Listening Booth",
- "generated": "2026-11-24T04:40:09Z",
- "synced": "2026-11-24T04:40:03Z",
+ "generated": "2026-11-24T05:40:07Z",
+ "synced": "2026-11-24T05:40:01Z",
  "totals": {
   "plays": 125431,
   "hours": 8528.1,
@@ -1492,6 +1492,19 @@ window.LISTENING = {
  ],
  "episodes": [
   {
+   "name": "The Return of Jensen Huang",
+   "show": "RealClearPolitics Podcast",
+   "show_uri": "spotify:show:5FkNemg3aIaPPNBImIcW2l",
+   "release_date": "2026-11-23",
+   "duration_ms": 3169149,
+   "image": "https://i.scdn.co/image/ab67656300005f1fe19edf2c6856b8b09c057f38",
+   "first_seen": "2026-11-24T05:40:02Z",
+   "progress_ms": 713920,
+   "last_seen": "2026-11-24T05:40:02Z",
+   "url": "https://open.spotify.com/episode/5oxciY5BBavxEW0JUNp3jC",
+   "show_image": "https://i.scdn.co/image/ab67656300005f1fe19edf2c6856b8b09c057f38"
+  },
+  {
    "name": "Uniting the States with Brian Kilmeade + Greta Thunberg LAUGHS at Climate Protesters",
    "show": "Adam Carolla Show",
    "show_uri": "spotify:show:0YlgjXHWL0Lfxnp1LKdx9P",
@@ -1633,19 +1646,6 @@ window.LISTENING = {
    "last_seen": "2026-11-22T23:10:02Z",
    "url": "https://open.spotify.com/episode/1JG6n1RbtEz6pjkR3HaTnh",
    "show_image": "https://i.scdn.co/image/ab67656300005f1f5470f608a42e57104c1f0720"
-  },
-  {
-   "name": "Julie Samuels + Brad Thor (Carolla Classics)",
-   "show": "Adam Carolla Show",
-   "show_uri": "spotify:show:0YlgjXHWL0Lfxnp1LKdx9P",
-   "release_date": "2026-11-22",
-   "duration_ms": 9905789,
-   "image": "https://i.scdn.co/image/ab67656300005f1fd813559e4461e119b4b5082f",
-   "first_seen": "2026-11-22T21:10:02Z",
-   "progress_ms": 4605480,
-   "last_seen": "2026-11-22T22:40:03Z",
-   "url": "https://open.spotify.com/episode/5TbqEZchzrFLbVo49Nk3z6",
-   "show_image": "https://i.scdn.co/image/ab67656300005f1fd813559e4461e119b4b5082f"
   }
  ],
  "top_shows": [
