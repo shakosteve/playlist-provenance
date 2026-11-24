@@ -1,15 +1,81 @@
 window.LISTENING = {
  "title": "The Listening Booth",
- "generated": "2026-11-24T17:10:09Z",
- "synced": "2026-11-24T17:10:02Z",
+ "generated": "2026-11-24T17:40:06Z",
+ "synced": "2026-11-24T17:40:01Z",
  "totals": {
-  "plays": 125431,
-  "hours": 8528.1,
+  "plays": 125437,
+  "hours": 8528.6,
   "artists": 702,
-  "albums": 1532,
+  "albums": 1533,
   "first": "2013-05-07T01:40:37Z"
  },
  "recent": [
+  {
+   "name": "Smoking Gun",
+   "artist": "Jackie Evancho",
+   "album": "Smoking Gun",
+   "year": 2024,
+   "image": "https://i.scdn.co/image/ab67616d00001e029b00a3a62d6125cbdce08575",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b2739b00a3a62d6125cbdce08575",
+   "url": "https://open.spotify.com/track/7EGTm5wU1WWPWIO4GBWq2P",
+   "album_url": "https://open.spotify.com/album/1nfnX7vJQcGK0SBWcOr7mv",
+   "played_at": "2026-11-24T17:37:52.697Z"
+  },
+  {
+   "name": "Metal Chestnut",
+   "artist": "Slash",
+   "album": "Orgy of the Damned",
+   "year": 2024,
+   "image": "https://i.scdn.co/image/ab67616d00001e02e66f735898f62043666589b3",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b273e66f735898f62043666589b3",
+   "url": "https://open.spotify.com/track/0hx19Rxlafp5mpiRa2FEIF",
+   "album_url": "https://open.spotify.com/album/6aTrDhVw5QgXSz2JM4V8hc",
+   "played_at": "2026-11-24T17:33:50.816Z"
+  },
+  {
+   "name": "Rocket",
+   "artist": "Def Leppard",
+   "album": "Hysteria",
+   "year": 1987,
+   "image": "https://i.scdn.co/image/ab67616d00001e0243511b8c20112757edddc7ba",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b27343511b8c20112757edddc7ba",
+   "url": "https://open.spotify.com/track/0RVeadY2MbHz4Pe4MreLNw",
+   "album_url": "https://open.spotify.com/album/1ja2qzCrh6bZykcojbZs82",
+   "played_at": "2026-11-24T17:30:47.293Z"
+  },
+  {
+   "name": "New Religion",
+   "artist": "Return to Dust",
+   "album": "New Religion",
+   "year": 2025,
+   "image": "https://i.scdn.co/image/ab67616d00001e02b5a64128299f70fb089f0a81",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b273b5a64128299f70fb089f0a81",
+   "url": "https://open.spotify.com/track/5ItheWnN7f9EVs7OQ2Bvq1",
+   "album_url": "https://open.spotify.com/album/5DDs6pTK33l5LT0198WmM5",
+   "played_at": "2026-11-24T17:24:09.974Z"
+  },
+  {
+   "name": "Sledgehammer - 2012 Remaster",
+   "artist": "Peter Gabriel",
+   "album": "So (25th Anniversary Deluxe Edition)",
+   "year": 1986,
+   "image": "https://i.scdn.co/image/ab67616d00001e0255ca4eeb9d2b6d51d04f19eb",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b27355ca4eeb9d2b6d51d04f19eb",
+   "url": "https://open.spotify.com/track/4AUS8KNz7zX8XFu9L38GT0",
+   "album_url": "https://open.spotify.com/album/1vJ8rCzq6BJtKGz9Yf6oT3",
+   "played_at": "2026-11-24T17:20:58.393Z"
+  },
+  {
+   "name": "Indigo Road",
+   "artist": "Saving Escape",
+   "album": "Indigo Road",
+   "year": 2018,
+   "image": "https://i.scdn.co/image/ab67616d00001e025f0007595ebde962c273643d",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b2735f0007595ebde962c273643d",
+   "url": "https://open.spotify.com/track/5jn7lab9S35mHTiQH8t8ij",
+   "album_url": "https://open.spotify.com/album/0wyHVHRcLGpLaOyuTmysOl",
+   "played_at": "2026-11-24T17:15:45.926Z"
+  },
   {
    "name": "Love To Be Loved",
    "artist": "The Warning, Carín León",
@@ -471,72 +537,6 @@ window.LISTENING = {
    "url": "https://open.spotify.com/track/0FrhD37RheksdxcDi4tgx3",
    "album_url": "https://open.spotify.com/album/7KDzhHeTeAjmBFO3ixlMGm",
    "played_at": "2026-11-18T23:41:31.595Z"
-  },
-  {
-   "name": "Inch by Inch",
-   "artist": "Speed of Light",
-   "album": "Inch by Inch",
-   "year": 2026,
-   "image": "https://i.scdn.co/image/ab67616d00001e02501860aef942c7890cccacf1",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b273501860aef942c7890cccacf1",
-   "url": "https://open.spotify.com/track/4tafY6eDdO0JYwgvqwpCrZ",
-   "album_url": "https://open.spotify.com/album/3cW21vOzs4xXk47q6lhkO6",
-   "played_at": "2026-11-18T23:37:01.349Z"
-  },
-  {
-   "name": "Silver Lining",
-   "artist": "Blood Harmony",
-   "album": "Blood Harmony",
-   "year": 2024,
-   "image": "https://i.scdn.co/image/ab67616d00001e02631268258857695ef7953630",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b273631268258857695ef7953630",
-   "url": "https://open.spotify.com/track/3JUCwc72OLC2jte10LTgsm",
-   "album_url": "https://open.spotify.com/album/6na54nRQQEqtPoNprUJb6r",
-   "played_at": "2026-11-18T23:33:58.203Z"
-  },
-  {
-   "name": "Judith",
-   "artist": "A Perfect Circle",
-   "album": "Mer De Noms",
-   "year": 2000,
-   "image": "https://i.scdn.co/image/ab67616d00001e022d73b494efcb99356f8c7b28",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b2732d73b494efcb99356f8c7b28",
-   "url": "https://open.spotify.com/track/5KDNFlHAdDJ84fhK27c35X",
-   "album_url": "https://open.spotify.com/album/0GeWd0yUKXHbCXVag1mJvO",
-   "played_at": "2026-11-18T23:30:00.776Z"
-  },
-  {
-   "name": "3AM",
-   "artist": "Matchbox Twenty",
-   "album": "Yourself or Someone Like You",
-   "year": 1996,
-   "image": "https://i.scdn.co/image/ab67616d00001e0211585490475c991f8c83bca7",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b27311585490475c991f8c83bca7",
-   "url": "https://open.spotify.com/track/5vYA1mW9g2Coh1HUFUSmlb",
-   "album_url": "https://open.spotify.com/album/4vUXTcKz7tXxrNl84meN6i",
-   "played_at": "2026-11-18T23:25:52.962Z"
-  },
-  {
-   "name": "T.N.T.",
-   "artist": "AC/DC",
-   "album": "High Voltage",
-   "year": 1976,
-   "image": "https://i.scdn.co/image/ab67616d00001e028c7f355d649e0a3cfcf6fc39",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b2738c7f355d649e0a3cfcf6fc39",
-   "url": "https://open.spotify.com/track/7LRMbd3LEoV5wZJvXT1Lwb",
-   "album_url": "https://open.spotify.com/album/19AUoKWRAaQYrggVvdQnqq",
-   "played_at": "2026-11-18T23:22:06.674Z"
-  },
-  {
-   "name": "Whole Lotta Love - Live",
-   "artist": "Jimmy Page, The Black Crowes",
-   "album": "Live at the Greek",
-   "year": 2025,
-   "image": "https://i.scdn.co/image/ab67616d00001e02fa6e624fbe4dbca748770195",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b273fa6e624fbe4dbca748770195",
-   "url": "https://open.spotify.com/track/1NpILLKnL2kQYwb6bCtiPe",
-   "album_url": "https://open.spotify.com/album/27DJov9N9ian0RrcMO1Iak",
-   "played_at": "2026-11-18T22:54:27.225Z"
   }
  ],
  "top_artists": [
@@ -596,7 +596,7 @@ window.LISTENING = {
   },
   {
    "name": "Saving Escape",
-   "plays": 1683,
+   "plays": 1684,
    "url": "https://open.spotify.com/artist/2VfhnjHV7e3M499VPa1w71",
    "image": "https://i.scdn.co/image/ab67616d00001e02a8e9a07f9110e842adaa5c13"
   }
@@ -1021,7 +1021,7 @@ window.LISTENING = {
   },
   {
    "decade": 1980,
-   "plays": 33002,
+   "plays": 33004,
    "covers": [
     {
      "name": "Back In Black",
@@ -1303,7 +1303,7 @@ window.LISTENING = {
   },
   {
    "decade": 2010,
-   "plays": 15817,
+   "plays": 15818,
    "covers": [
     {
      "name": "XXI Century Blood",
@@ -1397,7 +1397,7 @@ window.LISTENING = {
   },
   {
    "decade": 2020,
-   "plays": 18714,
+   "plays": 18717,
    "covers": [
     {
      "name": "ERROR",
