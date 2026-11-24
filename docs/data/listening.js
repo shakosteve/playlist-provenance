@@ -1,7 +1,7 @@
 window.LISTENING = {
  "title": "The Listening Booth",
- "generated": "2026-11-24T22:13:50Z",
- "synced": "2026-11-24T22:10:01Z",
+ "generated": "2026-11-24T22:40:06Z",
+ "synced": "2026-11-24T22:40:01Z",
  "totals": {
   "plays": 125565,
   "hours": 8536.7,
@@ -1492,6 +1492,19 @@ window.LISTENING = {
  ],
  "episodes": [
   {
+   "name": "Russia 'plays the victim' over Libya warship strike",
+   "show": "Ukraine: The Latest",
+   "show_uri": "spotify:show:6cnkk1J0I1UqtxTYVUL4Fe",
+   "release_date": "2026-11-24",
+   "duration_ms": 2560365,
+   "image": "https://i.scdn.co/image/ab67656300005f1fa585552027e007434c871aa7",
+   "first_seen": "2026-11-24T22:10:02Z",
+   "progress_ms": 2477813,
+   "last_seen": "2026-11-24T22:40:02Z",
+   "url": "https://open.spotify.com/episode/0Gyiv5wBf9alMntN1J7O8i",
+   "show_image": "https://i.scdn.co/image/ab67656300005f1f78954c21afd24c90334deba4"
+  },
+  {
    "name": "Alice forgiven? Jensen Huang back at Nvidia",
    "show": "Economist Podcasts",
    "show_uri": "spotify:show:2ZFDmgDS2Z6xccP51s1zFQ",
@@ -1503,19 +1516,6 @@ window.LISTENING = {
    "last_seen": "2026-11-24T22:10:03Z",
    "url": "https://open.spotify.com/episode/2pKffjkJ5mf9thYgADPyrt",
    "show_image": "https://i.scdn.co/image/ab67656300005f1f3d63c8a3f5c8f7b8b0c1443b"
-  },
-  {
-   "name": "Russia 'plays the victim' over Libya warship strike",
-   "show": "Ukraine: The Latest",
-   "show_uri": "spotify:show:6cnkk1J0I1UqtxTYVUL4Fe",
-   "release_date": "2026-11-24",
-   "duration_ms": 2560365,
-   "image": "https://i.scdn.co/image/ab67656300005f1fa585552027e007434c871aa7",
-   "first_seen": "2026-11-24T22:10:02Z",
-   "progress_ms": 962860,
-   "last_seen": "2026-11-24T22:10:02Z",
-   "url": "https://open.spotify.com/episode/0Gyiv5wBf9alMntN1J7O8i",
-   "show_image": "https://i.scdn.co/image/ab67656300005f1f78954c21afd24c90334deba4"
   },
   {
    "name": "Renny Harlin: F1 & Why Pattinson Will Be a Great James Bond",
