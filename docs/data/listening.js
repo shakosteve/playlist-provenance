@@ -1,7 +1,7 @@
 window.LISTENING = {
  "title": "The Listening Booth",
- "generated": "2026-11-24T11:40:08Z",
- "synced": "2026-11-24T11:40:01Z",
+ "generated": "2026-11-24T12:10:08Z",
+ "synced": "2026-11-24T12:10:01Z",
  "totals": {
   "plays": 125431,
   "hours": 8528.1,
@@ -1492,6 +1492,19 @@ window.LISTENING = {
  ],
  "episodes": [
   {
+   "name": "The Return of Jensen Huang",
+   "show": "RealClearPolitics Podcast",
+   "show_uri": "spotify:show:5FkNemg3aIaPPNBImIcW2l",
+   "release_date": "2026-11-23",
+   "duration_ms": 3169149,
+   "image": "https://i.scdn.co/image/ab67656300005f1fe19edf2c6856b8b09c057f38",
+   "first_seen": "2026-11-24T05:40:02Z",
+   "progress_ms": 995279,
+   "last_seen": "2026-11-24T12:10:02Z",
+   "url": "https://open.spotify.com/episode/5oxciY5BBavxEW0JUNp3jC",
+   "show_image": "https://i.scdn.co/image/ab67656300005f1fe19edf2c6856b8b09c057f38"
+  },
+  {
    "name": "Jensen Huang Returns to Nvidia After Donald Trump’s Intervention",
    "show": "WSJ Opinion: Potomac Watch",
    "show_uri": "spotify:show:4sMCRFb3B4g9Ax3lDCOOTX",
@@ -1516,19 +1529,6 @@ window.LISTENING = {
    "last_seen": "2026-11-24T06:10:03Z",
    "url": "https://open.spotify.com/episode/4qnSX5wGuxIk9u1FSl03hD",
    "show_image": "https://i.scdn.co/image/ab67656300005f1f110dfea289c0685fcc6c4343"
-  },
-  {
-   "name": "The Return of Jensen Huang",
-   "show": "RealClearPolitics Podcast",
-   "show_uri": "spotify:show:5FkNemg3aIaPPNBImIcW2l",
-   "release_date": "2026-11-23",
-   "duration_ms": 3169149,
-   "image": "https://i.scdn.co/image/ab67656300005f1fe19edf2c6856b8b09c057f38",
-   "first_seen": "2026-11-24T05:40:02Z",
-   "progress_ms": 713920,
-   "last_seen": "2026-11-24T05:40:02Z",
-   "url": "https://open.spotify.com/episode/5oxciY5BBavxEW0JUNp3jC",
-   "show_image": "https://i.scdn.co/image/ab67656300005f1fe19edf2c6856b8b09c057f38"
   },
   {
    "name": "Uniting the States with Brian Kilmeade + Greta Thunberg LAUGHS at Climate Protesters",
