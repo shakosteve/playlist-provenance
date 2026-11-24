@@ -1,7 +1,7 @@
 window.LISTENING = {
  "title": "The Listening Booth",
- "generated": "2026-11-24T12:40:06Z",
- "synced": "2026-11-24T12:40:01Z",
+ "generated": "2026-11-24T13:10:09Z",
+ "synced": "2026-11-24T13:10:02Z",
  "totals": {
   "plays": 125431,
   "hours": 8528.1,
@@ -1499,10 +1499,23 @@ window.LISTENING = {
    "duration_ms": 3169149,
    "image": "https://i.scdn.co/image/ab67656300005f1fe19edf2c6856b8b09c057f38",
    "first_seen": "2026-11-24T05:40:02Z",
-   "progress_ms": 2795446,
-   "last_seen": "2026-11-24T12:40:02Z",
+   "progress_ms": 3162600,
+   "last_seen": "2026-11-24T13:10:02Z",
    "url": "https://open.spotify.com/episode/5oxciY5BBavxEW0JUNp3jC",
    "show_image": "https://i.scdn.co/image/ab67656300005f1fe19edf2c6856b8b09c057f38"
+  },
+  {
+   "name": "What Jensen Huang's Stunning Return Means for the AI Trade",
+   "show": "Odd Lots",
+   "show_uri": "spotify:show:1te7oSFyRVekxMBJUSethH",
+   "release_date": "2026-11-24",
+   "duration_ms": 2161920,
+   "image": "https://i.scdn.co/image/ab67656300005f1f77e76ef980ccf6174ff80c42",
+   "first_seen": "2026-11-24T13:10:02Z",
+   "progress_ms": 1428609,
+   "last_seen": "2026-11-24T13:10:02Z",
+   "url": "https://open.spotify.com/episode/6MhjhMaOzqYQVe4943j32D",
+   "show_image": "https://i.scdn.co/image/ab67656300005f1f77e76ef980ccf6174ff80c42"
   },
   {
    "name": "Jensen Huang Returns to Nvidia After Donald Trump’s Intervention",
@@ -1633,19 +1646,6 @@ window.LISTENING = {
    "last_seen": "2026-11-23T05:40:02Z",
    "url": "https://open.spotify.com/episode/3sMoF6EvB1HR6qTwMtlBmt",
    "show_image": "https://i.scdn.co/image/ab67656300005f1f95217901851fcb57728068b6"
-  },
-  {
-   "name": "Ron Johnson Stirs a Social Security Debate / Why the U.S. Has Measles Again",
-   "show": "WSJ Opinion: Potomac Watch",
-   "show_uri": "spotify:show:4sMCRFb3B4g9Ax3lDCOOTX",
-   "release_date": "2026-11-20",
-   "duration_ms": 1446034,
-   "image": "https://i.scdn.co/image/ab67656300005f1fbe53b4cdd29c489500b01d97",
-   "first_seen": "2026-11-23T00:40:02Z",
-   "progress_ms": 1523280,
-   "last_seen": "2026-11-23T01:10:03Z",
-   "url": "https://open.spotify.com/episode/5m3OpPpPv9cJPv9n3pwj3x",
-   "show_image": "https://i.scdn.co/image/ab67656300005f1fbe53b4cdd29c489500b01d97"
   }
  ],
  "top_shows": [
