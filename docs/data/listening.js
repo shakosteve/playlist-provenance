@@ -1,7 +1,7 @@
 window.LISTENING = {
  "title": "The Listening Booth",
- "generated": "2026-11-24T14:40:08Z",
- "synced": "2026-11-24T14:40:01Z",
+ "generated": "2026-11-24T15:10:08Z",
+ "synced": "2026-11-24T15:10:02Z",
  "totals": {
   "plays": 125431,
   "hours": 8528.1,
@@ -1492,6 +1492,19 @@ window.LISTENING = {
  ],
  "episodes": [
   {
+   "name": "Renny Harlin: F1 & Why Pattinson Will Be a Great James Bond",
+   "show": "Adam Carolla Show",
+   "show_uri": "spotify:show:0YlgjXHWL0Lfxnp1LKdx9P",
+   "release_date": "2026-11-24",
+   "duration_ms": 6427507,
+   "image": "https://i.scdn.co/image/ab67656300005f1fd813559e4461e119b4b5082f",
+   "first_seen": "2026-11-24T15:10:02Z",
+   "progress_ms": 496115,
+   "last_seen": "2026-11-24T15:10:02Z",
+   "url": "https://open.spotify.com/episode/0VVw5LbUWa6PH5tqlLRdgA",
+   "show_image": "https://i.scdn.co/image/ab67656300005f1fd813559e4461e119b4b5082f"
+  },
+  {
    "name": "Alice forgiven? Jensen Huang back at Nvidia",
    "show": "Economist Podcasts",
    "show_uri": "spotify:show:2ZFDmgDS2Z6xccP51s1zFQ",
@@ -1633,19 +1646,6 @@ window.LISTENING = {
    "last_seen": "2026-11-23T22:40:02Z",
    "url": "https://open.spotify.com/episode/61oJepfHy7Vs4u7p1Kkzm3",
    "show_image": "https://i.scdn.co/image/ab67656300005f1f78954c21afd24c90334deba4"
-  },
-  {
-   "name": "Nvidia reinstates Jensen Huang as CEO",
-   "show": "Newshour",
-   "show_uri": "spotify:show:5qbXje6KaVOHwjsHNTELjA",
-   "release_date": "2026-11-23",
-   "duration_ms": 2787239,
-   "image": "https://i.scdn.co/image/ab67656300005f1f189781a3a30bf2cb76ae0f46",
-   "first_seen": "2026-11-23T17:10:02Z",
-   "progress_ms": 2787239,
-   "last_seen": "2026-11-23T19:40:04Z",
-   "url": "https://open.spotify.com/episode/7d3LLVskLUUWjKEVmVhRY0",
-   "show_image": "https://i.scdn.co/image/ab67656300005f1f189781a3a30bf2cb76ae0f46"
   }
  ],
  "top_shows": [
