@@ -1,7 +1,7 @@
 window.LISTENING = {
  "title": "The Listening Booth",
- "generated": "2026-11-24T22:40:06Z",
- "synced": "2026-11-24T22:40:01Z",
+ "generated": "2026-11-24T23:40:09Z",
+ "synced": "2026-11-24T23:40:01Z",
  "totals": {
   "plays": 125565,
   "hours": 8536.7,
@@ -1492,6 +1492,19 @@ window.LISTENING = {
  ],
  "episodes": [
   {
+   "name": "Is Trump being played by the world’s most powerful leaders?",
+   "show": "Christiane Amanpour Presents: The Ex Files",
+   "show_uri": "spotify:show:3ZpgFegm3q3AGjiFbjLV59",
+   "release_date": "2026-11-24",
+   "duration_ms": 2856202,
+   "image": "https://i.scdn.co/image/ab67656300005f1f5a4e319927f9dcfb7453f69d",
+   "first_seen": "2026-11-24T23:40:04Z",
+   "progress_ms": 529979,
+   "last_seen": "2026-11-24T23:40:04Z",
+   "url": "https://open.spotify.com/episode/0LpVpINrRe5IqjSRG88ALM",
+   "show_image": "https://i.scdn.co/image/ab67656300005f1f5a4e319927f9dcfb7453f69d"
+  },
+  {
    "name": "Russia 'plays the victim' over Libya warship strike",
    "show": "Ukraine: The Latest",
    "show_uri": "spotify:show:6cnkk1J0I1UqtxTYVUL4Fe",
@@ -1499,8 +1512,8 @@ window.LISTENING = {
    "duration_ms": 2560365,
    "image": "https://i.scdn.co/image/ab67656300005f1fa585552027e007434c871aa7",
    "first_seen": "2026-11-24T22:10:02Z",
-   "progress_ms": 2477813,
-   "last_seen": "2026-11-24T22:40:02Z",
+   "progress_ms": 2560365,
+   "last_seen": "2026-11-24T23:40:02Z",
    "url": "https://open.spotify.com/episode/0Gyiv5wBf9alMntN1J7O8i",
    "show_image": "https://i.scdn.co/image/ab67656300005f1f78954c21afd24c90334deba4"
   },
@@ -1633,19 +1646,6 @@ window.LISTENING = {
    "last_seen": "2026-11-24T04:40:04Z",
    "url": "https://open.spotify.com/episode/7efHgQDxeiyNcmwoFVBdcS",
    "show_image": "https://i.scdn.co/image/ab67656300005f1fd813559e4461e119b4b5082f"
-  },
-  {
-   "name": "Media Monday: Jensen’s Comeback Campaign & The World Cup Bidding War",
-   "show": "The Powers That Be: Daily",
-   "show_uri": "spotify:show:5ZChG4x3aogGtKGkxU6nMH",
-   "release_date": "2026-11-23",
-   "duration_ms": 1139095,
-   "image": "https://i.scdn.co/image/ab67656300005f1f36f39d45bf295cbf58d41331",
-   "first_seen": "2026-11-24T03:10:03Z",
-   "progress_ms": 670280,
-   "last_seen": "2026-11-24T03:10:03Z",
-   "url": "https://open.spotify.com/episode/5o4smKGkVOIVgZjO7FZxP3",
-   "show_image": "https://i.scdn.co/image/ab67656300005f1f55386ae3fe554333e1a85785"
   }
  ],
  "top_shows": [
