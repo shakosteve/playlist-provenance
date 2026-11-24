@@ -1,7 +1,7 @@
 window.LISTENING = {
  "title": "The Listening Booth",
- "generated": "2026-11-24T13:40:08Z",
- "synced": "2026-11-24T13:40:01Z",
+ "generated": "2026-11-24T14:10:09Z",
+ "synced": "2026-11-24T14:10:01Z",
  "totals": {
   "plays": 125431,
   "hours": 8528.1,
@@ -1492,6 +1492,19 @@ window.LISTENING = {
  ],
  "episodes": [
   {
+   "name": "The Return of Jensen Huang",
+   "show": "The Journal.",
+   "show_uri": "spotify:show:0KxdEdeY2Wb3zr28dMlQva",
+   "release_date": "2026-11-23",
+   "duration_ms": 906004,
+   "image": "https://i.scdn.co/image/ab67656300005f1ffed98c4fdc504416141e9409",
+   "first_seen": "2026-11-24T14:10:02Z",
+   "progress_ms": 891146,
+   "last_seen": "2026-11-24T14:10:02Z",
+   "url": "https://open.spotify.com/episode/7wWZ8dKBlH8rFSTP2HrV0r",
+   "show_image": "https://i.scdn.co/image/ab67656300005f1ffed98c4fdc504416141e9409"
+  },
+  {
    "name": "What Jensen Huang's Stunning Return Means for the AI Trade",
    "show": "Odd Lots",
    "show_uri": "spotify:show:1te7oSFyRVekxMBJUSethH",
@@ -1633,19 +1646,6 @@ window.LISTENING = {
    "last_seen": "2026-11-23T17:40:02Z",
    "url": "https://open.spotify.com/episode/7mezLmOxsFgpQfxjrqryKD",
    "show_image": "https://i.scdn.co/image/ab67656300005f1f77e76ef980ccf6174ff80c42"
-  },
-  {
-   "name": "How Pornography Invented the Attention Economy, with Patricia Nilsson",
-   "show": "Intelligence Squared",
-   "show_uri": "spotify:show:7gnNY9Fy8QSRbjXZ00A9jW",
-   "release_date": "2026-11-23",
-   "duration_ms": 2134543,
-   "image": "https://i.scdn.co/image/ab67656300005f1fdae7ed7afe4fdd37986c184b",
-   "first_seen": "2026-11-23T14:40:02Z",
-   "progress_ms": 2369360,
-   "last_seen": "2026-11-23T17:10:03Z",
-   "url": "https://open.spotify.com/episode/0cj1ki81N4gm7AjfmbhzWk",
-   "show_image": "https://i.scdn.co/image/ab67656300005f1f4b328600f6be4cce175cc6b9"
   }
  ],
  "top_shows": [
