@@ -1,7 +1,7 @@
 window.LISTENING = {
  "title": "The Listening Booth",
- "generated": "2026-11-24T14:10:09Z",
- "synced": "2026-11-24T14:10:01Z",
+ "generated": "2026-11-24T14:40:08Z",
+ "synced": "2026-11-24T14:40:01Z",
  "totals": {
   "plays": 125431,
   "hours": 8528.1,
@@ -1492,6 +1492,19 @@ window.LISTENING = {
  ],
  "episodes": [
   {
+   "name": "Alice forgiven? Jensen Huang back at Nvidia",
+   "show": "Economist Podcasts",
+   "show_uri": "spotify:show:2ZFDmgDS2Z6xccP51s1zFQ",
+   "release_date": "2026-11-24",
+   "duration_ms": 1422419,
+   "image": "https://i.scdn.co/image/ab67656300005f1ff9536fd96f32701530ec6225",
+   "first_seen": "2026-11-24T14:40:02Z",
+   "progress_ms": 650640,
+   "last_seen": "2026-11-24T14:40:02Z",
+   "url": "https://open.spotify.com/episode/2pKffjkJ5mf9thYgADPyrt",
+   "show_image": "https://i.scdn.co/image/ab67656300005f1f3d63c8a3f5c8f7b8b0c1443b"
+  },
+  {
    "name": "The Return of Jensen Huang",
    "show": "The Journal.",
    "show_uri": "spotify:show:0KxdEdeY2Wb3zr28dMlQva",
@@ -1633,19 +1646,6 @@ window.LISTENING = {
    "last_seen": "2026-11-23T19:40:04Z",
    "url": "https://open.spotify.com/episode/7d3LLVskLUUWjKEVmVhRY0",
    "show_image": "https://i.scdn.co/image/ab67656300005f1f189781a3a30bf2cb76ae0f46"
-  },
-  {
-   "name": "What a Town Full of Vibecoders Says About the Chinese Economy",
-   "show": "Odd Lots",
-   "show_uri": "spotify:show:1te7oSFyRVekxMBJUSethH",
-   "release_date": "2026-11-23",
-   "duration_ms": 3539330,
-   "image": "https://i.scdn.co/image/ab67656300005f1f77e76ef980ccf6174ff80c42",
-   "first_seen": "2026-11-23T15:10:02Z",
-   "progress_ms": 4084739,
-   "last_seen": "2026-11-23T17:40:02Z",
-   "url": "https://open.spotify.com/episode/7mezLmOxsFgpQfxjrqryKD",
-   "show_image": "https://i.scdn.co/image/ab67656300005f1f77e76ef980ccf6174ff80c42"
   }
  ],
  "top_shows": [
