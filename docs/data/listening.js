@@ -1,7 +1,7 @@
 window.LISTENING = {
  "title": "The Listening Booth",
- "generated": "2026-11-24T15:40:08Z",
- "synced": "2026-11-24T15:40:01Z",
+ "generated": "2026-11-24T16:10:09Z",
+ "synced": "2026-11-24T16:10:01Z",
  "totals": {
   "plays": 125431,
   "hours": 8528.1,
@@ -1492,6 +1492,19 @@ window.LISTENING = {
  ],
  "episodes": [
   {
+   "name": "Renny Harlin: F1 & Why Pattinson Will Be a Great James Bond",
+   "show": "Adam Carolla Show",
+   "show_uri": "spotify:show:0YlgjXHWL0Lfxnp1LKdx9P",
+   "release_date": "2026-11-24",
+   "duration_ms": 6427507,
+   "image": "https://i.scdn.co/image/ab67656300005f1fd813559e4461e119b4b5082f",
+   "first_seen": "2026-11-24T15:10:02Z",
+   "progress_ms": 3638264,
+   "last_seen": "2026-11-24T16:10:02Z",
+   "url": "https://open.spotify.com/episode/0VVw5LbUWa6PH5tqlLRdgA",
+   "show_image": "https://i.scdn.co/image/ab67656300005f1fd813559e4461e119b4b5082f"
+  },
+  {
    "name": "Huang’s Second Coming",
    "show": "The Powers That Be: Daily",
    "show_uri": "spotify:show:5ZChG4x3aogGtKGkxU6nMH",
@@ -1503,19 +1516,6 @@ window.LISTENING = {
    "last_seen": "2026-11-24T15:40:03Z",
    "url": "https://open.spotify.com/episode/4K458C6Er2EyM7IzVjoSQ1",
    "show_image": "https://i.scdn.co/image/ab67656300005f1f55386ae3fe554333e1a85785"
-  },
-  {
-   "name": "Renny Harlin: F1 & Why Pattinson Will Be a Great James Bond",
-   "show": "Adam Carolla Show",
-   "show_uri": "spotify:show:0YlgjXHWL0Lfxnp1LKdx9P",
-   "release_date": "2026-11-24",
-   "duration_ms": 6427507,
-   "image": "https://i.scdn.co/image/ab67656300005f1fd813559e4461e119b4b5082f",
-   "first_seen": "2026-11-24T15:10:02Z",
-   "progress_ms": 2163606,
-   "last_seen": "2026-11-24T15:40:02Z",
-   "url": "https://open.spotify.com/episode/0VVw5LbUWa6PH5tqlLRdgA",
-   "show_image": "https://i.scdn.co/image/ab67656300005f1fd813559e4461e119b4b5082f"
   },
   {
    "name": "The Nvidia board reinstates Jensen Huang as CEO",
