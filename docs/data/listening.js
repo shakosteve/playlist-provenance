@@ -1,15 +1,26 @@
 window.LISTENING = {
  "title": "The Listening Booth",
- "generated": "2026-11-25T19:40:08Z",
- "synced": "2026-11-25T19:40:01Z",
+ "generated": "2026-11-25T20:10:09Z",
+ "synced": "2026-11-25T20:10:01Z",
  "totals": {
-  "plays": 125615,
-  "hours": 8540.3,
+  "plays": 125616,
+  "hours": 8540.4,
   "artists": 702,
   "albums": 1533,
   "first": "2013-05-07T01:40:37Z"
  },
  "recent": [
+  {
+   "name": "Forty Six & 2",
+   "artist": "TOOL",
+   "album": "Ænima",
+   "year": 1996,
+   "image": "https://i.scdn.co/image/ab67616d00001e0247daa44983fa6079910ed295",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b27347daa44983fa6079910ed295",
+   "url": "https://open.spotify.com/track/6AioOohg4bQZFA4jIYQQ2r",
+   "album_url": "https://open.spotify.com/album/6yWMN087PgSimbcVmHLEwG",
+   "played_at": "2026-11-25T19:45:17.418Z"
+  },
   {
    "name": "Live Wire",
    "artist": "AC/DC",
@@ -526,17 +537,6 @@ window.LISTENING = {
    "url": "https://open.spotify.com/track/3eJyXwiYepWvEDKABhm7lL",
    "album_url": "https://open.spotify.com/album/019nA7vSKz0dD5yRKYRpbM",
    "played_at": "2026-11-25T00:26:51.373Z"
-  },
-  {
-   "name": "Tick Of The Clock (Extended Overdrive)",
-   "artist": "Chromatics",
-   "album": "Tick Of The Clock",
-   "year": 2013,
-   "image": "https://i.scdn.co/image/ab67616d00001e02bb53c786a9aebe91240a8dce",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b273bb53c786a9aebe91240a8dce",
-   "url": "https://open.spotify.com/track/0I2uIgFFNynFnH9PhUsiuz",
-   "album_url": "https://open.spotify.com/album/5whQsHpQHWMoNqLSut0o2a",
-   "played_at": "2026-11-25T00:22:59.673Z"
   }
  ],
  "top_artists": [
@@ -1115,7 +1115,7 @@ window.LISTENING = {
   },
   {
    "decade": 1990,
-   "plays": 9773,
+   "plays": 9774,
    "covers": [
     {
      "name": "Amazing",
