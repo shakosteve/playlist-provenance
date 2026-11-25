@@ -1,15 +1,48 @@
 window.LISTENING = {
  "title": "The Listening Booth",
- "generated": "2026-11-24T23:40:09Z",
- "synced": "2026-11-24T23:40:01Z",
+ "generated": "2026-11-25T00:40:08Z",
+ "synced": "2026-11-25T00:40:01Z",
  "totals": {
-  "plays": 125565,
-  "hours": 8536.7,
+  "plays": 125569,
+  "hours": 8537.2,
   "artists": 702,
   "albums": 1533,
   "first": "2013-05-07T01:40:37Z"
  },
  "recent": [
+  {
+   "name": "Burnout",
+   "artist": "The Warning",
+   "album": "Burnout",
+   "year": 2024,
+   "image": "https://i.scdn.co/image/ab67616d00001e029c02073e690dee5c4b07b047",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b2739c02073e690dee5c4b07b047",
+   "url": "https://open.spotify.com/track/3m1XjVSdOzGGedI15JgsMa",
+   "album_url": "https://open.spotify.com/album/5Bjbfx9AELAXq13zH6CsV0",
+   "played_at": "2026-11-25T00:38:25.073Z"
+  },
+  {
+   "name": "If I Had a Heart",
+   "artist": "Fever Ray",
+   "album": "Fever Ray",
+   "year": 2009,
+   "image": "https://i.scdn.co/image/ab67616d00001e02707831d5303efb3caa6c723e",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b273707831d5303efb3caa6c723e",
+   "url": "https://open.spotify.com/track/3eJyXwiYepWvEDKABhm7lL",
+   "album_url": "https://open.spotify.com/album/019nA7vSKz0dD5yRKYRpbM",
+   "played_at": "2026-11-25T00:26:51.373Z"
+  },
+  {
+   "name": "Tick Of The Clock (Extended Overdrive)",
+   "artist": "Chromatics",
+   "album": "Tick Of The Clock",
+   "year": 2013,
+   "image": "https://i.scdn.co/image/ab67616d00001e02bb53c786a9aebe91240a8dce",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b273bb53c786a9aebe91240a8dce",
+   "url": "https://open.spotify.com/track/0I2uIgFFNynFnH9PhUsiuz",
+   "album_url": "https://open.spotify.com/album/5whQsHpQHWMoNqLSut0o2a",
+   "played_at": "2026-11-25T00:22:59.673Z"
+  },
   {
    "name": "Rock The Bop",
    "artist": "Brenda Lee",
@@ -504,45 +537,12 @@ window.LISTENING = {
    "url": "https://open.spotify.com/track/2ELSVi4kwWOXgxiIC592tJ",
    "album_url": "https://open.spotify.com/album/7hq6mnrJ7CWbemk6B3H8PJ",
    "played_at": "2026-11-21T15:46:41.283Z"
-  },
-  {
-   "name": "Fuera o Más Allá",
-   "artist": "Eruca Sativa",
-   "album": "Blanco",
-   "year": 2012,
-   "image": "https://i.scdn.co/image/ab67616d00001e02fb60d4076cb86adcf2f7383f",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b273fb60d4076cb86adcf2f7383f",
-   "url": "https://open.spotify.com/track/3qQ0TTpIt0OXH7plhxeISL",
-   "album_url": "https://open.spotify.com/album/3MC1mUaL0H7kcVgTEFXLWv",
-   "played_at": "2026-11-21T15:44:39.628Z"
-  },
-  {
-   "name": "Solsbury Hill",
-   "artist": "Peter Gabriel",
-   "album": "Peter Gabriel 1: Car (Remastered Version)",
-   "year": 1977,
-   "image": "https://i.scdn.co/image/ab67616d00001e0258f54aa9cab1beffa7b806c1",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b27358f54aa9cab1beffa7b806c1",
-   "url": "https://open.spotify.com/track/1CM1wOqD2AIjt2MWd31LV2",
-   "album_url": "https://open.spotify.com/album/4jd6oC0It60c1J3GpXCv6M",
-   "played_at": "2026-11-21T15:41:25.382Z"
-  },
-  {
-   "name": "Spooky (Single Version)",
-   "artist": "Dusty Springfield",
-   "album": "Love Songs",
-   "year": 2020,
-   "image": "https://i.scdn.co/image/ab67616d00001e025746d44a39a97aaa12309af1",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b2735746d44a39a97aaa12309af1",
-   "url": "https://open.spotify.com/track/4RYwE31p4KflK1h7J7m1Yt",
-   "album_url": "https://open.spotify.com/album/2paShliFsxYoO3WJEdTVdA",
-   "played_at": "2026-11-21T15:37:03.407Z"
   }
  ],
  "top_artists": [
   {
    "name": "The Warning",
-   "plays": 10734,
+   "plays": 10735,
    "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh",
    "image": "https://i.scdn.co/image/ab67616d00001e0204a3dad60eb365aec55022de"
   },
@@ -1209,7 +1209,7 @@ window.LISTENING = {
   },
   {
    "decade": 2000,
-   "plays": 12037,
+   "plays": 12038,
    "covers": [
     {
      "name": "Material Girl",
@@ -1303,7 +1303,7 @@ window.LISTENING = {
   },
   {
    "decade": 2010,
-   "plays": 15835,
+   "plays": 15837,
    "covers": [
     {
      "name": "XXI Century Blood",
@@ -1397,7 +1397,7 @@ window.LISTENING = {
   },
   {
    "decade": 2020,
-   "plays": 18744,
+   "plays": 18745,
    "covers": [
     {
      "name": "ERROR",
