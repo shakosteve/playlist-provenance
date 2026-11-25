@@ -107,7 +107,11 @@ SCOPES = [
     "playlist-read-private",
     "playlist-read-collaborative",
 ]
-RESTORE_SCOPES = {"playlist": ["playlist-modify-private"], "liked": ["user-library-modify"]}  # asked for only by `restore`
+# Asked for only by `restore`. Search with market=from_token (playable_version()) answers 403 "Insufficient client
+# scope" without user-read-private, so a dry run asks for that one too.
+SEARCH_SCOPE = "user-read-private"
+RESTORE_SCOPES = {"playlist": ["playlist-modify-private", SEARCH_SCOPE],
+                  "liked": ["user-library-modify", SEARCH_SCOPE]}
 LIKED, LIKED_NAME = "liked", "Liked Songs"  # Liked Songs' ID in playlists.json, and its name
 
 
@@ -918,11 +922,13 @@ def restore_playlist(text, to_liked=False, name=None, dry_run=False, yes=False):
     Spotify rejects a batch (400): the batch is split to find it, and it too is tried by ISRC. Local files can't
     be added through the API. Spotify makes playlists created by apps public whatever the request says."""
     saved = load_saved_playlist(text)
-    needed = RESTORE_SCOPES["liked" if to_liked else "playlist"]
-    if not dry_run and not set(needed) <= set(os.environ.get("SPOTIFY_SCOPES", "").split()):
-        print("Restoring needs permission to change your Spotify library, which `auth` doesn't ask for "
-              "otherwise. Sign in again to grant it.\n")
-        auth(needed)
+    granted = set(os.environ.get("SPOTIFY_SCOPES", "").split())
+    needed = [SEARCH_SCOPE] if dry_run else RESTORE_SCOPES["liked" if to_liked else "playlist"]
+    if not set(needed) <= granted:
+        print(("Finding playable versions needs permission to read your account's country"
+               if dry_run else "Restoring needs permission to change your Spotify library")
+              + ", which `auth` doesn't ask for otherwise. Sign in again to grant it.\n")
+        auth(sorted(granted | set(needed)))  # keeps permissions granted before, e.g. for the other kind of restore
         print()
     session = api_session()
     unplayable = {e["uri"] for e in (json.loads(UNAVAILABLE.read_text(encoding="utf-8"))["tracks"]
