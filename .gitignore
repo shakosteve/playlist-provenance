@@ -13,3 +13,4 @@ __pycache__/
 video/node_modules/
 video/public/
 video/out/
+.claude/settings.local.json
