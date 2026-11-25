@@ -7,7 +7,7 @@
   "public": false,
   "followers": null,
   "snapshot_id": null,
-  "fetched": "2026-11-19T15:20:41Z",
+  "fetched": "2026-11-25T15:10:14Z",
   "tracks": [
     {
       "uri": "spotify:track:1NpILLKnL2kQYwb6bCtiPe",
@@ -3464,26 +3464,6 @@
       "is_local": false
     },
     {
-      "uri": "spotify:track:53O0aHdCuGrrkRnDYtgJXf",
-      "name": "Oh Well",
-      "artists": [
-        "Jimmy Page",
-        "The Black Crowes"
-      ],
-      "artist_uris": [
-        "spotify:artist:55bGuHb50r5c0PeqqMeNBV",
-        "spotify:artist:5krkohEVJYw0qoB5VWwxaC"
-      ],
-      "album": "Live at the Greek",
-      "album_uri": "spotify:album:4LgSNfHfSLGEB0EufP9aIB",
-      "duration_ms": 250666,
-      "isrc": "QM6N21713438",
-      "added_at": "2024-04-15T22:20:00Z",
-      "release_date": "2017-07-14",
-      "explicit": false,
-      "is_local": false
-    },
-    {
       "uri": "spotify:track:6xvriZfsi9MZ8TAE2wqY2z",
       "name": "Oh Well feat. Chris Stapleton",
       "artists": [
@@ -5222,26 +5202,6 @@
       "isrc": "USVI28800019",
       "added_at": "2023-02-07T23:30:22Z",
       "release_date": "1988-01-01",
-      "explicit": false,
-      "is_local": false
-    },
-    {
-      "uri": "spotify:track:0yIcL1zFdzStEAYfmbvy7z",
-      "name": "Whole Lotta Love",
-      "artists": [
-        "Jimmy Page",
-        "The Black Crowes"
-      ],
-      "artist_uris": [
-        "spotify:artist:55bGuHb50r5c0PeqqMeNBV",
-        "spotify:artist:5krkohEVJYw0qoB5VWwxaC"
-      ],
-      "album": "Live at the Greek",
-      "album_uri": "spotify:album:4LgSNfHfSLGEB0EufP9aIB",
-      "duration_ms": 338973,
-      "isrc": "QM6N21713442",
-      "added_at": "2023-02-05T23:22:43Z",
-      "release_date": "2017-07-14",
       "explicit": false,
       "is_local": false
     },

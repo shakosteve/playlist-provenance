@@ -222,7 +222,9 @@
       "album": "Live at the Greek",
       "isrc": "QM6N21713438",
       "reason": null,
-      "since": "2026-11-19"
+      "since": "2026-11-19",
+      "until": "2026-11-25",
+      "outcome": "removed from playlist"
     },
     {
       "playlist": "Liked Songs",
@@ -275,7 +277,9 @@
       "album": "Live at the Greek",
       "isrc": "QM6N21713442",
       "reason": null,
-      "since": "2026-11-19"
+      "since": "2026-11-19",
+      "until": "2026-11-25",
+      "outcome": "removed from playlist"
     },
     {
       "playlist": "Liked Songs",

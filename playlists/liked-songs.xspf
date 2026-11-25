@@ -3,7 +3,7 @@
   <title>Liked Songs</title>
   <creator>Steven</creator>
   <info>https://open.spotify.com/collection/tracks</info>
-  <date>2026-11-19T15:20:41Z</date>
+  <date>2026-11-25T15:10:14Z</date>
   <trackList>
     <track>
       <title>Whole Lotta Love - Live</title>
@@ -1707,15 +1707,6 @@
       <info>https://open.spotify.com/track/391CwgcBxvUHmEKda2b5In</info>
     </track>
     <track>
-      <title>Oh Well</title>
-      <creator>Jimmy Page, The Black Crowes</creator>
-      <album>Live at the Greek</album>
-      <duration>250666</duration>
-      <identifier>isrc:QM6N21713438</identifier>
-      <identifier>spotify:track:53O0aHdCuGrrkRnDYtgJXf</identifier>
-      <info>https://open.spotify.com/track/53O0aHdCuGrrkRnDYtgJXf</info>
-    </track>
-    <track>
       <title>Oh Well feat. Chris Stapleton</title>
       <creator>Slash, Chris Stapleton</creator>
       <album>Oh Well feat. Chris Stapleton</album>
@@ -2578,15 +2569,6 @@
       <identifier>isrc:USVI28800019</identifier>
       <identifier>spotify:track:7z38bideBRvGAgjXe2SECm</identifier>
       <info>https://open.spotify.com/track/7z38bideBRvGAgjXe2SECm</info>
-    </track>
-    <track>
-      <title>Whole Lotta Love</title>
-      <creator>Jimmy Page, The Black Crowes</creator>
-      <album>Live at the Greek</album>
-      <duration>338973</duration>
-      <identifier>isrc:QM6N21713442</identifier>
-      <identifier>spotify:track:0yIcL1zFdzStEAYfmbvy7z</identifier>
-      <info>https://open.spotify.com/track/0yIcL1zFdzStEAYfmbvy7z</info>
     </track>
     <track>
       <title>hope ur ok</title>
