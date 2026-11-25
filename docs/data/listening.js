@@ -1,15 +1,59 @@
 window.LISTENING = {
  "title": "The Listening Booth",
- "generated": "2026-11-25T14:10:07Z",
- "synced": "2026-11-25T14:10:01Z",
+ "generated": "2026-11-25T15:40:18Z",
+ "synced": "2026-11-25T15:40:01Z",
  "totals": {
-  "plays": 125575,
-  "hours": 8537.6,
+  "plays": 125579,
+  "hours": 8537.8,
   "artists": 702,
   "albums": 1533,
   "first": "2013-05-07T01:40:37Z"
  },
  "recent": [
+  {
+   "name": "You Oughta Know - Live at Sirius XM",
+   "artist": "The Warning, Sumerian Pictures",
+   "album": "Mile End Kicks (Music Inspired by the Motion Picture)",
+   "year": 2026,
+   "image": "https://i.scdn.co/image/ab67616d00001e02426c98d50c807024bfc509a6",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b273426c98d50c807024bfc509a6",
+   "url": "https://open.spotify.com/track/4TnMnhX1VRWglXugKr9lVq",
+   "album_url": "https://open.spotify.com/album/0OTY8JEbQX6tlrH5eJZG13",
+   "played_at": "2026-11-25T15:37:39.251Z"
+  },
+  {
+   "name": "With Or Without You",
+   "artist": "U2",
+   "album": "The Joshua Tree (Super Deluxe)",
+   "year": 1987,
+   "image": "https://i.scdn.co/image/ab67616d00001e02b7bea3d01f04e6d0408d2afe",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b273b7bea3d01f04e6d0408d2afe",
+   "url": "https://open.spotify.com/track/6ADSaE87h8Y3lccZlBJdXH",
+   "album_url": "https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU",
+   "played_at": "2026-11-25T15:33:29.543Z"
+  },
+  {
+   "name": "Mr. Tambourine Man",
+   "artist": "The Byrds",
+   "album": "Mr. Tambourine Man",
+   "year": 1965,
+   "image": "https://i.scdn.co/image/ab67616d00001e02576fccf9a91d9f7c808b8abd",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b273576fccf9a91d9f7c808b8abd",
+   "url": "https://open.spotify.com/track/2HCaIYjkvWSZzaSKUoOh3d",
+   "album_url": "https://open.spotify.com/album/0pkrqPjeq9K5KD0hFqAKNa",
+   "played_at": "2026-11-25T15:28:32.407Z"
+  },
+  {
+   "name": "It Ain't Me Babe",
+   "artist": "Joaquin Phoenix, Reese Witherspoon",
+   "album": "Walk The Line (Original Motion Picture Soundtrack)",
+   "year": 2005,
+   "image": "https://i.scdn.co/image/ab67616d00001e020ff166bfd4a462cc7f4068a6",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b2730ff166bfd4a462cc7f4068a6",
+   "url": "https://open.spotify.com/track/0jasbGRELTM14tJi9SxGGF",
+   "album_url": "https://open.spotify.com/album/6ICcWbsZxt5fVG02IbZuZg",
+   "played_at": "2026-11-25T15:26:02.428Z"
+  },
   {
    "name": "Wouldn't It Be Nice - Remastered 1999",
    "artist": "The Beach Boys",
@@ -493,56 +537,12 @@ window.LISTENING = {
    "url": "https://open.spotify.com/track/3CSLUIrI2KPMulHR5bh17O",
    "album_url": "https://open.spotify.com/album/4kW6CPrK2OPc0OrEcwOFQN",
    "played_at": "2026-11-21T16:48:08.801Z"
-  },
-  {
-   "name": "Little Wing",
-   "artist": "Jimi Hendrix",
-   "album": "Axis: Bold As Love",
-   "year": 1967,
-   "image": "https://i.scdn.co/image/ab67616d00001e0219dcd95d28b63d10164327f2",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b27319dcd95d28b63d10164327f2",
-   "url": "https://open.spotify.com/track/1Eolhana7nKHYpcYpdVcT5",
-   "album_url": "https://open.spotify.com/album/3uFZf8rykoHo7XMIQVYW6r",
-   "played_at": "2026-11-21T16:44:15.607Z"
-  },
-  {
-   "name": "Stayin Alive",
-   "artist": "Bee Gees",
-   "album": "How Can You Mend A Broken Heart",
-   "year": 2020,
-   "image": "https://i.scdn.co/image/ab67616d00001e02bdcea025a483b9642f17a9f8",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b273bdcea025a483b9642f17a9f8",
-   "url": "https://open.spotify.com/track/5ubvP9oKmxLUVq506fgLhk",
-   "album_url": "https://open.spotify.com/album/4vAhQeeWkSjVn0p5GAaLBx",
-   "played_at": "2026-11-21T16:41:49.329Z"
-  },
-  {
-   "name": "Candle In The Wind - Remastered 2014",
-   "artist": "Elton John",
-   "album": "Goodbye Yellow Brick Road (Remastered)",
-   "year": 1973,
-   "image": "https://i.scdn.co/image/ab67616d00001e02f72f1e38e9bd48f18a17ed9b",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b273f72f1e38e9bd48f18a17ed9b",
-   "url": "https://open.spotify.com/track/1L9fzw2pXprOqtemTwtxXF",
-   "album_url": "https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun",
-   "played_at": "2026-11-21T16:37:03.531Z"
-  },
-  {
-   "name": "Scent of Dark",
-   "artist": "Tony Iommi",
-   "album": "Scent of Dark",
-   "year": 2021,
-   "image": "https://i.scdn.co/image/ab67616d00001e0219f8dc31d7e67d46623a1ec2",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b27319f8dc31d7e67d46623a1ec2",
-   "url": "https://open.spotify.com/track/0WrvyawIOAP9gIn0wBjkkl",
-   "album_url": "https://open.spotify.com/album/3alSsga0FiSbG9nz5vRDmA",
-   "played_at": "2026-11-21T16:33:13.991Z"
   }
  ],
  "top_artists": [
   {
    "name": "The Warning",
-   "plays": 10736,
+   "plays": 10737,
    "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh",
    "image": "https://i.scdn.co/image/ab67616d00001e0204a3dad60eb365aec55022de"
   },
@@ -833,7 +833,7 @@ window.LISTENING = {
   },
   {
    "decade": 1960,
-   "plays": 7085,
+   "plays": 7086,
    "covers": [
     {
      "name": "Your Time Is Gonna Come - 1990 Remaster",
@@ -1021,7 +1021,7 @@ window.LISTENING = {
   },
   {
    "decade": 1980,
-   "plays": 33038,
+   "plays": 33039,
    "covers": [
     {
      "name": "Back In Black",
@@ -1209,7 +1209,7 @@ window.LISTENING = {
   },
   {
    "decade": 2000,
-   "plays": 12039,
+   "plays": 12040,
    "covers": [
     {
      "name": "Material Girl",
@@ -1231,7 +1231,7 @@ window.LISTENING = {
      "image_large": "https://i.scdn.co/image/ab67616d0000b2730ff166bfd4a462cc7f4068a6",
      "url": "https://open.spotify.com/track/7bh6o0jqTn2Bh0M7vHln6f",
      "album_url": "https://open.spotify.com/album/6ICcWbsZxt5fVG02IbZuZg",
-     "plays": 885
+     "plays": 886
     },
     {
      "name": "My Immortal",
@@ -1397,7 +1397,7 @@ window.LISTENING = {
   },
   {
    "decade": 2020,
-   "plays": 18746,
+   "plays": 18747,
    "covers": [
     {
      "name": "ERROR",
