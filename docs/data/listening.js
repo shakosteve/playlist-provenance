@@ -1,15 +1,59 @@
 window.LISTENING = {
  "title": "The Listening Booth",
- "generated": "2026-11-25T21:10:07Z",
- "synced": "2026-11-25T21:10:01Z",
+ "generated": "2026-11-25T21:40:07Z",
+ "synced": "2026-11-25T21:40:01Z",
  "totals": {
-  "plays": 125617,
-  "hours": 8540.5,
+  "plays": 125622,
+  "hours": 8540.8,
   "artists": 702,
   "albums": 1533,
   "first": "2013-05-07T01:40:37Z"
  },
  "recent": [
+  {
+   "name": "N.I.B.",
+   "artist": "Black Sabbath",
+   "album": "The Ultimate Collection",
+   "year": 2017,
+   "image": "https://i.scdn.co/image/ab67616d00001e02012d727b175d4a91c792fb4c",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b273012d727b175d4a91c792fb4c",
+   "url": "https://open.spotify.com/track/2GnVuaoKSkB6Xa07l1BBg8",
+   "album_url": "https://open.spotify.com/album/6TcPqftScGmR0aEgIb43Vv",
+   "played_at": "2026-11-25T21:36:17.784Z"
+  },
+  {
+   "name": "The Stroke - Remastered 2010",
+   "artist": "Billy Squier",
+   "album": "Don't Say No (Remastered 2010)",
+   "year": 1981,
+   "image": "https://i.scdn.co/image/ab67616d00001e02f4822f8034e697410a14a297",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b273f4822f8034e697410a14a297",
+   "url": "https://open.spotify.com/track/52KvuGmgcgRdrLMXOtda0E",
+   "album_url": "https://open.spotify.com/album/6TwlLNU5Zd9qGuNgSLeWPt",
+   "played_at": "2026-11-25T21:30:12.778Z"
+  },
+  {
+   "name": "Copper Bullets",
+   "artist": "The Warning",
+   "album": "XXI Century Blood",
+   "year": 2017,
+   "image": "https://i.scdn.co/image/ab67616d00001e0204a3dad60eb365aec55022de",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b27304a3dad60eb365aec55022de",
+   "url": "https://open.spotify.com/track/2iJEEovzd80V1hl3H2xmUJ",
+   "album_url": "https://open.spotify.com/album/6nEiN0eM1gbvDsijV46XrX",
+   "played_at": "2026-11-25T21:26:34.580Z"
+  },
+  {
+   "name": "Love Hurts",
+   "artist": "Nazareth",
+   "album": "Hair Of The Dog",
+   "year": 1975,
+   "image": "https://i.scdn.co/image/ab67616d00001e0285bc3b24dd834a6dfbb876da",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b27385bc3b24dd834a6dfbb876da",
+   "url": "https://open.spotify.com/track/1i5oEx2vFczQ2sCY3c6Kn5",
+   "album_url": "https://open.spotify.com/album/5Zwyrn62m3Pyc0nvRa9CHF",
+   "played_at": "2026-11-25T21:22:52.576Z"
+  },
   {
    "name": "Unmendable",
    "artist": "The Warning",
@@ -19,7 +63,7 @@ window.LISTENING = {
    "image_large": "https://i.scdn.co/image/ab67616d0000b27304a3dad60eb365aec55022de",
    "url": "https://open.spotify.com/track/3YPWoSTTdI97QeyjV9t68F",
    "album_url": "https://open.spotify.com/album/6nEiN0eM1gbvDsijV46XrX",
-   "played_at": "2026-11-25T20:26:14.941Z"
+   "played_at": "2026-11-25T21:18:59Z"
   },
   {
    "name": "Forty Six & 2",
@@ -493,56 +537,12 @@ window.LISTENING = {
    "url": "https://open.spotify.com/track/1SWmFiFSIBoDbQJjNKC7SR",
    "album_url": "https://open.spotify.com/album/2Go2GZ8qMznHdAoLO1cG4W",
    "played_at": "2026-11-25T00:56:55.977Z"
-  },
-  {
-   "name": "Bad Medicine",
-   "artist": "Bon Jovi",
-   "album": "New Jersey (Deluxe Edition)",
-   "year": 1988,
-   "image": "https://i.scdn.co/image/ab67616d00001e02901d0116a03d30a5c45bb99c",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b273901d0116a03d30a5c45bb99c",
-   "url": "https://open.spotify.com/track/72hcFp4tYkd3dbNA9dZ3Pv",
-   "album_url": "https://open.spotify.com/album/3mcKOl0KNe65BqiBa40WxR",
-   "played_at": "2026-11-25T00:51:21.741Z"
-  },
-  {
-   "name": "VHS",
-   "artist": "Freeze the Fall",
-   "album": "VHS",
-   "year": 2024,
-   "image": "https://i.scdn.co/image/ab67616d00001e0241d86dc3e3abbc5447edc351",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b27341d86dc3e3abbc5447edc351",
-   "url": "https://open.spotify.com/track/5UBVWzkPAP9uRnhEAMPoyY",
-   "album_url": "https://open.spotify.com/album/55sg7o5JnKuz8gfwjkiyf5",
-   "played_at": "2026-11-25T00:46:04.672Z"
-  },
-  {
-   "name": "Animal - Remastered 2017",
-   "artist": "Def Leppard",
-   "album": "Hysteria (Super Deluxe)",
-   "year": 1987,
-   "image": "https://i.scdn.co/image/ab67616d00001e02222cb38afc3b3b47d9df26aa",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b273222cb38afc3b3b47d9df26aa",
-   "url": "https://open.spotify.com/track/4F12pb0e2KnyLuCMRs0Rd2",
-   "album_url": "https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE",
-   "played_at": "2026-11-25T00:42:31.474Z"
-  },
-  {
-   "name": "Burnout",
-   "artist": "The Warning",
-   "album": "Burnout",
-   "year": 2024,
-   "image": "https://i.scdn.co/image/ab67616d00001e029c02073e690dee5c4b07b047",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b2739c02073e690dee5c4b07b047",
-   "url": "https://open.spotify.com/track/3m1XjVSdOzGGedI15JgsMa",
-   "album_url": "https://open.spotify.com/album/5Bjbfx9AELAXq13zH6CsV0",
-   "played_at": "2026-11-25T00:38:25.073Z"
   }
  ],
  "top_artists": [
   {
    "name": "The Warning",
-   "plays": 10738,
+   "plays": 10740,
    "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh",
    "image": "https://i.scdn.co/image/ab67616d00001e0204a3dad60eb365aec55022de"
   },
@@ -611,7 +611,7 @@ window.LISTENING = {
    "image_large": "https://i.scdn.co/image/ab67616d0000b27304a3dad60eb365aec55022de",
    "url": "https://open.spotify.com/track/1VcLiPmina1L3xlLkJ5OTS",
    "album_url": "https://open.spotify.com/album/6nEiN0eM1gbvDsijV46XrX",
-   "plays": 3501
+   "plays": 3503
   },
   {
    "name": "Dust to Dust",
@@ -732,7 +732,7 @@ window.LISTENING = {
    "image_large": "https://i.scdn.co/image/ab67616d0000b273f4822f8034e697410a14a297",
    "url": "https://open.spotify.com/track/6g14FUj5zU9FDRwBi963vS",
    "album_url": "https://open.spotify.com/album/6TwlLNU5Zd9qGuNgSLeWPt",
-   "plays": 888
+   "plays": 889
   }
  ],
  "decades": [
@@ -927,7 +927,7 @@ window.LISTENING = {
   },
   {
    "decade": 1970,
-   "plays": 28791,
+   "plays": 28792,
    "covers": [
     {
      "name": "More Than a Feeling",
@@ -1021,7 +1021,7 @@ window.LISTENING = {
   },
   {
    "decade": 1980,
-   "plays": 33045,
+   "plays": 33046,
    "covers": [
     {
      "name": "Back In Black",
@@ -1054,7 +1054,7 @@ window.LISTENING = {
      "image_large": "https://i.scdn.co/image/ab67616d0000b273f4822f8034e697410a14a297",
      "url": "https://open.spotify.com/track/6g14FUj5zU9FDRwBi963vS",
      "album_url": "https://open.spotify.com/album/6TwlLNU5Zd9qGuNgSLeWPt",
-     "plays": 888
+     "plays": 889
     },
     {
      "name": "Manic Monday",
@@ -1303,7 +1303,7 @@ window.LISTENING = {
   },
   {
    "decade": 2010,
-   "plays": 15843,
+   "plays": 15846,
    "covers": [
     {
      "name": "XXI Century Blood",
@@ -1314,7 +1314,7 @@ window.LISTENING = {
      "image_large": "https://i.scdn.co/image/ab67616d0000b27304a3dad60eb365aec55022de",
      "url": "https://open.spotify.com/track/1VcLiPmina1L3xlLkJ5OTS",
      "album_url": "https://open.spotify.com/album/6nEiN0eM1gbvDsijV46XrX",
-     "plays": 3501
+     "plays": 3503
     },
     {
      "name": "Dust to Dust",
@@ -1391,7 +1391,7 @@ window.LISTENING = {
      "image_large": "https://i.scdn.co/image/ab67616d0000b273012d727b175d4a91c792fb4c",
      "url": "https://open.spotify.com/track/2GnVuaoKSkB6Xa07l1BBg8",
      "album_url": "https://open.spotify.com/album/6TcPqftScGmR0aEgIb43Vv",
-     "plays": 394
+     "plays": 395
     }
    ]
   },
