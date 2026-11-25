@@ -1,15 +1,92 @@
 window.LISTENING = {
  "title": "The Listening Booth",
- "generated": "2026-11-25T17:40:08Z",
- "synced": "2026-11-25T17:40:01Z",
+ "generated": "2026-11-25T18:10:09Z",
+ "synced": "2026-11-25T18:10:01Z",
  "totals": {
-  "plays": 125586,
-  "hours": 8538.3,
+  "plays": 125593,
+  "hours": 8538.8,
   "artists": 702,
   "albums": 1533,
   "first": "2013-05-07T01:40:37Z"
  },
  "recent": [
+  {
+   "name": "Lonesome Loser - Remastered 2022",
+   "artist": "Little River Band",
+   "album": "First Under The Wire (Remastered 2022)",
+   "year": 1979,
+   "image": "https://i.scdn.co/image/ab67616d00001e02d45ea4a21fa17a4e3bf9b378",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b273d45ea4a21fa17a4e3bf9b378",
+   "url": "https://open.spotify.com/track/0EOTFIX60ua9qt8pel84tA",
+   "album_url": "https://open.spotify.com/album/1pPsslUdE1HeBxdlgXJ7Yp",
+   "played_at": "2026-11-25T18:06:08.544Z"
+  },
+  {
+   "name": "Fly By Night",
+   "artist": "Rush",
+   "album": "Fly By Night",
+   "year": 1975,
+   "image": "https://i.scdn.co/image/ab67616d00001e0211079bb97e1f95d1a917ce0b",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b27311079bb97e1f95d1a917ce0b",
+   "url": "https://open.spotify.com/track/54TaGh2JKs1pO9daXNXI5q",
+   "album_url": "https://open.spotify.com/album/3ZtICWkqezf0bBTUwY1Khe",
+   "played_at": "2026-11-25T18:02:06.610Z"
+  },
+  {
+   "name": "American Woman",
+   "artist": "Lenny Kravitz",
+   "album": "5",
+   "year": 1998,
+   "image": "https://i.scdn.co/image/ab67616d00001e02f1157b7dcd21bae0c2c75d89",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b273f1157b7dcd21bae0c2c75d89",
+   "url": "https://open.spotify.com/track/3X6iIrFuQoCshIWBseEKPl",
+   "album_url": "https://open.spotify.com/album/6MCNMOCRsh6nxs7PNzc0zN",
+   "played_at": "2026-11-25T17:58:44.091Z"
+  },
+  {
+   "name": "Double Vision",
+   "artist": "Foreigner",
+   "album": "Double Vision (Expanded)",
+   "year": 1978,
+   "image": "https://i.scdn.co/image/ab67616d00001e025627aa0842d6287bbb223cbf",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b2735627aa0842d6287bbb223cbf",
+   "url": "https://open.spotify.com/track/0fsj3HxzBHev6EJ7OLFE3r",
+   "album_url": "https://open.spotify.com/album/6lu6DYE0eHHp1gd3QGUYhu",
+   "played_at": "2026-11-25T17:54:18.907Z"
+  },
+  {
+   "name": "Me and Bobby McGee",
+   "artist": "Janis Joplin",
+   "album": "Pearl (Legacy Edition)",
+   "year": 1971,
+   "image": "https://i.scdn.co/image/ab67616d00001e026f8c26346723dd0531696bed",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b2736f8c26346723dd0531696bed",
+   "url": "https://open.spotify.com/track/1IqFh00G2kvvMm8pRMpehA",
+   "album_url": "https://open.spotify.com/album/3j7nicLAWXM0Fb08q9XGyf",
+   "played_at": "2026-11-25T17:50:33.910Z"
+  },
+  {
+   "name": "Take A Chance On Me",
+   "artist": "ABBA",
+   "album": "The Album",
+   "year": 1977,
+   "image": "https://i.scdn.co/image/ab67616d00001e026f705bef76c1d861c4d51d8c",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b2736f705bef76c1d861c4d51d8c",
+   "url": "https://open.spotify.com/track/5BckPAYcKEJuYs1eV1BHHe",
+   "album_url": "https://open.spotify.com/album/5fLOHW1UXr1cJrnXiU3FBt",
+   "played_at": "2026-11-25T17:46:02.109Z"
+  },
+  {
+   "name": "Jack & Diane",
+   "artist": "John Mellencamp",
+   "album": "American Fool",
+   "year": 1982,
+   "image": "https://i.scdn.co/image/ab67616d00001e02b1945b44ce8868740f132f8e",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b273b1945b44ce8868740f132f8e",
+   "url": "https://open.spotify.com/track/43btz2xjMKpcmjkuRsvxyg",
+   "album_url": "https://open.spotify.com/album/4gouGcdQn9OvjX42xnWrF0",
+   "played_at": "2026-11-25T17:41:57.636Z"
+  },
   {
    "name": "Dancing Queen",
    "artist": "ABBA",
@@ -460,83 +537,6 @@ window.LISTENING = {
    "url": "https://open.spotify.com/track/5jn7lab9S35mHTiQH8t8ij",
    "album_url": "https://open.spotify.com/album/0wyHVHRcLGpLaOyuTmysOl",
    "played_at": "2026-11-24T17:15:45.926Z"
-  },
-  {
-   "name": "Love To Be Loved",
-   "artist": "The Warning, Carín León",
-   "album": "Love To Be Loved",
-   "year": 2026,
-   "image": "https://i.scdn.co/image/ab67616d00001e02cbcb8d24635386f33a868054",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b273cbcb8d24635386f33a868054",
-   "url": "https://open.spotify.com/track/7L9Fgs88bbwSOIYGJHOIBs",
-   "album_url": "https://open.spotify.com/album/7G3oABTzz3ZtRTwkdDMeoN",
-   "played_at": "2026-11-23T03:36:35.354Z"
-  },
-  {
-   "name": "My Way, Soon",
-   "artist": "Greta Van Fleet",
-   "album": "Broken Bells",
-   "year": 2021,
-   "image": "https://i.scdn.co/image/ab67616d00001e029163a72affa104f29fc576fb",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b2739163a72affa104f29fc576fb",
-   "url": "https://open.spotify.com/track/2IsuiHhWDj8ByvznN04v7S",
-   "album_url": "https://open.spotify.com/album/1rWkxCNuPFzDRFANL8lLnG",
-   "played_at": "2026-11-21T17:58:50.527Z"
-  },
-  {
-   "name": "Double Trouble",
-   "artist": "Lynyrd Skynyrd",
-   "album": "Gimme Back My Bullets (Expanded Edition)",
-   "year": 1976,
-   "image": "https://i.scdn.co/image/ab67616d00001e0261b3a3d80e51446fdc4e35b5",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b27361b3a3d80e51446fdc4e35b5",
-   "url": "https://open.spotify.com/track/5ftkCxdoFGmkXbm5zgu0lS",
-   "album_url": "https://open.spotify.com/album/7nl7cH6KtKcKU7I2Hj2gAM",
-   "played_at": "2026-11-21T17:45:18.940Z"
-  },
-  {
-   "name": "Wild World",
-   "artist": "Yusuf / Cat Stevens",
-   "album": "Tea For The Tillerman (Remastered 2020)",
-   "year": 1970,
-   "image": "https://i.scdn.co/image/ab67616d00001e02e7248738c2f7ce3b5584b15d",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b273e7248738c2f7ce3b5584b15d",
-   "url": "https://open.spotify.com/track/7mjSHL2Eb0kAwiKbvNNyD9",
-   "album_url": "https://open.spotify.com/album/44VxbAytHpVi3Rq8hRhild",
-   "played_at": "2026-11-21T17:42:27.950Z"
-  },
-  {
-   "name": "Shot In The Dark",
-   "artist": "AC/DC",
-   "album": "POWER UP",
-   "year": 2020,
-   "image": "https://i.scdn.co/image/ab67616d00001e026ee202215547101d947d4b9f",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b2736ee202215547101d947d4b9f",
-   "url": "https://open.spotify.com/track/0sfdiwck2xr4PteGOdyOfz",
-   "album_url": "https://open.spotify.com/album/3bTNxJYk2bwdWBMtrjBxb0",
-   "played_at": "2026-11-21T17:39:06.799Z"
-  },
-  {
-   "name": "Playing with the Boys - From \"Top Gun\" Original Soundtrack",
-   "artist": "Kenny Loggins",
-   "album": "Top Gun - Motion Picture Soundtrack (Special Expanded Edition)",
-   "year": 1999,
-   "image": "https://i.scdn.co/image/ab67616d00001e02b8f8d696810d68ce774e3a2f",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b273b8f8d696810d68ce774e3a2f",
-   "url": "https://open.spotify.com/track/5mQYBoGU3BOAqiFq54b51i",
-   "album_url": "https://open.spotify.com/album/6K8iDZW8jPaoiqSzFFebJA",
-   "played_at": "2026-11-21T17:36:01.145Z"
-  },
-  {
-   "name": "True Blue",
-   "artist": "Madonna",
-   "album": "True Blue",
-   "year": 1986,
-   "image": "https://i.scdn.co/image/ab67616d00001e02de3094d98b62340d3268c7bc",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b273de3094d98b62340d3268c7bc",
-   "url": "https://open.spotify.com/track/7azOuDeJGbxt5mvq3GQHXp",
-   "album_url": "https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD",
-   "played_at": "2026-11-21T17:32:01.359Z"
   }
  ],
  "top_artists": [
@@ -927,7 +927,7 @@ window.LISTENING = {
   },
   {
    "decade": 1970,
-   "plays": 28782,
+   "plays": 28787,
    "covers": [
     {
      "name": "More Than a Feeling",
@@ -1021,7 +1021,7 @@ window.LISTENING = {
   },
   {
    "decade": 1980,
-   "plays": 33040,
+   "plays": 33041,
    "covers": [
     {
      "name": "Back In Black",
@@ -1115,7 +1115,7 @@ window.LISTENING = {
   },
   {
    "decade": 1990,
-   "plays": 9770,
+   "plays": 9771,
    "covers": [
     {
      "name": "Amazing",
@@ -1192,7 +1192,7 @@ window.LISTENING = {
      "image_large": "https://i.scdn.co/image/ab67616d0000b273f1157b7dcd21bae0c2c75d89",
      "url": "https://open.spotify.com/track/1OxcIUqVmVYxT6427tbhDW",
      "album_url": "https://open.spotify.com/album/6MCNMOCRsh6nxs7PNzc0zN",
-     "plays": 422
+     "plays": 423
     },
     {
      "name": "Death Letter Blues",
