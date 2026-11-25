@@ -1,15 +1,92 @@
 window.LISTENING = {
  "title": "The Listening Booth",
- "generated": "2026-11-25T18:40:07Z",
- "synced": "2026-11-25T18:40:01Z",
+ "generated": "2026-11-25T19:10:07Z",
+ "synced": "2026-11-25T19:10:01Z",
  "totals": {
-  "plays": 125600,
-  "hours": 8539.3,
+  "plays": 125607,
+  "hours": 8539.8,
   "artists": 702,
   "albums": 1533,
   "first": "2013-05-07T01:40:37Z"
  },
  "recent": [
+  {
+   "name": "Who Made Who",
+   "artist": "AC/DC",
+   "album": "Who Made Who",
+   "year": 1986,
+   "image": "https://i.scdn.co/image/ab67616d00001e024338785835437128f20a57fb",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b2734338785835437128f20a57fb",
+   "url": "https://open.spotify.com/track/6rvldt6EoZwzogApECUCwd",
+   "album_url": "https://open.spotify.com/album/07EFoHHspqSwsmkbnWaB4A",
+   "played_at": "2026-11-25T19:06:12.020Z"
+  },
+  {
+   "name": "Foreplay / Long Time",
+   "artist": "Boston",
+   "album": "Boston",
+   "year": 1976,
+   "image": "https://i.scdn.co/image/ab67616d00001e028c1fadcc997a65384f34d694",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b2738c1fadcc997a65384f34d694",
+   "url": "https://open.spotify.com/track/39C5FuZ8C8M0QI8CrMsPkR",
+   "album_url": "https://open.spotify.com/album/2QLp07RO6anZHmtcKTEvSC",
+   "played_at": "2026-11-25T19:02:44.353Z"
+  },
+  {
+   "name": "Oh Well feat. Chris Stapleton",
+   "artist": "Slash, Chris Stapleton",
+   "album": "Oh Well feat. Chris Stapleton",
+   "year": 2024,
+   "image": "https://i.scdn.co/image/ab67616d00001e02a288a30f4133154538ea5d3d",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b273a288a30f4133154538ea5d3d",
+   "url": "https://open.spotify.com/track/6xvriZfsi9MZ8TAE2wqY2z",
+   "album_url": "https://open.spotify.com/album/0Rl9omLw3rdkK7OiSnHGAG",
+   "played_at": "2026-11-25T18:54:56.241Z"
+  },
+  {
+   "name": "Fuera o Más Allá",
+   "artist": "Eruca Sativa",
+   "album": "Blanco",
+   "year": 2012,
+   "image": "https://i.scdn.co/image/ab67616d00001e02fb60d4076cb86adcf2f7383f",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b273fb60d4076cb86adcf2f7383f",
+   "url": "https://open.spotify.com/track/3qQ0TTpIt0OXH7plhxeISL",
+   "album_url": "https://open.spotify.com/album/3MC1mUaL0H7kcVgTEFXLWv",
+   "played_at": "2026-11-25T18:50:22.210Z"
+  },
+  {
+   "name": "Walking The Dog",
+   "artist": "The Rolling Stones",
+   "album": "The Rolling Stones",
+   "year": 1964,
+   "image": "https://i.scdn.co/image/ab67616d00001e02e5bd9c16543752620815ebdc",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b273e5bd9c16543752620815ebdc",
+   "url": "https://open.spotify.com/track/43SkTJJ2xleDaeiE4TIM70",
+   "album_url": "https://open.spotify.com/album/0bJMFJ2XQwpO5nKTrYdUtX",
+   "played_at": "2026-11-25T18:47:07.997Z"
+  },
+  {
+   "name": "Cocaine",
+   "artist": "Eric Clapton",
+   "album": "Slowhand 35th Anniversary (Super Deluxe)",
+   "year": 1977,
+   "image": "https://i.scdn.co/image/ab67616d00001e026f093a6ae88a5ca8ed53b9f7",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b2736f093a6ae88a5ca8ed53b9f7",
+   "url": "https://open.spotify.com/track/3ykSdTGmYPFl8pDBXer1zG",
+   "album_url": "https://open.spotify.com/album/5MAL7e4EnKXW1hFg6NbFqP",
+   "played_at": "2026-11-25T18:43:58.422Z"
+  },
+  {
+   "name": "Séance",
+   "artist": "Speed of Light",
+   "album": "Séance",
+   "year": 2024,
+   "image": "https://i.scdn.co/image/ab67616d00001e02e43f6681a9e6e990b63be5cb",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b273e43f6681a9e6e990b63be5cb",
+   "url": "https://open.spotify.com/track/6xQ8uphGxXzJDUziFapHZZ",
+   "album_url": "https://open.spotify.com/album/0JwzG7MVtzubfIOf0L445q",
+   "played_at": "2026-11-25T18:40:16.227Z"
+  },
   {
    "name": "What I Am",
    "artist": "Edie Brickell & New Bohemians",
@@ -460,83 +537,6 @@ window.LISTENING = {
    "url": "https://open.spotify.com/track/1ZhrREyOOeFV6TxDOyiPwu",
    "album_url": "https://open.spotify.com/album/0fjJOLqG3v7vXRYhz2wxPC",
    "played_at": "2026-11-24T18:16:29.287Z"
-  },
-  {
-   "name": "When I'm Gone",
-   "artist": "3 Doors Down",
-   "album": "Away From The Sun",
-   "year": 2002,
-   "image": "https://i.scdn.co/image/ab67616d00001e0283c39b0d32eb4a2064e1e228",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b27383c39b0d32eb4a2064e1e228",
-   "url": "https://open.spotify.com/track/3WbphvawbMZ8FyqDxYGdSQ",
-   "album_url": "https://open.spotify.com/album/72olNArm75vOycSziqIX9Y",
-   "played_at": "2026-11-24T18:13:38.706Z"
-  },
-  {
-   "name": "Save Me Now",
-   "artist": "Billy Idol",
-   "album": "Kings & Queens Of The Underground",
-   "year": 2014,
-   "image": "https://i.scdn.co/image/ab67616d00001e02f21a536f6ae9d324f29917ed",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b273f21a536f6ae9d324f29917ed",
-   "url": "https://open.spotify.com/track/2rbH7E6pLeAOsgE5PUIEgT",
-   "album_url": "https://open.spotify.com/album/1WQHG6CYgc5fB9ByTLkskB",
-   "played_at": "2026-11-24T18:09:17.799Z"
-  },
-  {
-   "name": "Money for Nothing",
-   "artist": "Dire Straits",
-   "album": "Brothers in Arms",
-   "year": 1985,
-   "image": "https://i.scdn.co/image/ab67616d00001e02fb995d2871f084b34afae3b3",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b273fb995d2871f084b34afae3b3",
-   "url": "https://open.spotify.com/track/4yqtwO7MQIIXqoiRBPHAgR",
-   "album_url": "https://open.spotify.com/album/7jvcSnCnugLcisBCNBm60s",
-   "played_at": "2026-11-24T18:04:45.510Z"
-  },
-  {
-   "name": "Every Little Thing She Does Is Magic",
-   "artist": "The Police",
-   "album": "Ghost In The Machine (Remastered 2003)",
-   "year": 1981,
-   "image": "https://i.scdn.co/image/ab67616d00001e02b7879980ef2ea7ac1cc29316",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b273b7879980ef2ea7ac1cc29316",
-   "url": "https://open.spotify.com/track/44aTAUBF0g6sMkMNE8I5kd",
-   "album_url": "https://open.spotify.com/album/5jkwdY6jS1Hzi8epr6HW7h",
-   "played_at": "2026-11-24T17:56:18.591Z"
-  },
-  {
-   "name": "Wheel in the Sky",
-   "artist": "Journey",
-   "album": "Infinity",
-   "year": 1978,
-   "image": "https://i.scdn.co/image/ab67616d00001e021b2a9188ac775e16998eb78d",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b2731b2a9188ac775e16998eb78d",
-   "url": "https://open.spotify.com/track/215wUTQQUo2PElJFEFoB0d",
-   "album_url": "https://open.spotify.com/album/7K4Nk5fHkCuzNm5A6mdo2U",
-   "played_at": "2026-11-24T17:51:57.392Z"
-  },
-  {
-   "name": "Copper Bullets",
-   "artist": "The Warning",
-   "album": "XXI Century Blood",
-   "year": 2017,
-   "image": "https://i.scdn.co/image/ab67616d00001e0204a3dad60eb365aec55022de",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b27304a3dad60eb365aec55022de",
-   "url": "https://open.spotify.com/track/2iJEEovzd80V1hl3H2xmUJ",
-   "album_url": "https://open.spotify.com/album/6nEiN0eM1gbvDsijV46XrX",
-   "played_at": "2026-11-24T17:47:44.679Z"
-  },
-  {
-   "name": "A Thousand Miles",
-   "artist": "Vanessa Carlton",
-   "album": "Be Not Nobody",
-   "year": 2002,
-   "image": "https://i.scdn.co/image/ab67616d00001e02bc3ada3a19bb4e657f10917e",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b273bc3ada3a19bb4e657f10917e",
-   "url": "https://open.spotify.com/track/4w1lzcaoZ1IC2K5TwjalRP",
-   "album_url": "https://open.spotify.com/album/5e7T2qUigzt0oIr50KsOld",
-   "played_at": "2026-11-24T17:44:02.677Z"
   }
  ],
  "top_artists": [
@@ -548,7 +548,7 @@ window.LISTENING = {
   },
   {
    "name": "AC/DC",
-   "plays": 4002,
+   "plays": 4003,
    "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un",
    "image": "https://i.scdn.co/image/ab67616d00001e02ff191d7fbdb5a13eaf84132b"
   },
@@ -677,7 +677,7 @@ window.LISTENING = {
    "image_large": "https://i.scdn.co/image/ab67616d0000b2738c1fadcc997a65384f34d694",
    "url": "https://open.spotify.com/track/1QEEqeFIZktqIpPI4jSVSF",
    "album_url": "https://open.spotify.com/album/2QLp07RO6anZHmtcKTEvSC",
-   "plays": 1112
+   "plays": 1113
   },
   {
    "name": "Leroy",
@@ -833,7 +833,7 @@ window.LISTENING = {
   },
   {
    "decade": 1960,
-   "plays": 7087,
+   "plays": 7088,
    "covers": [
     {
      "name": "Your Time Is Gonna Come - 1990 Remaster",
@@ -921,13 +921,13 @@ window.LISTENING = {
      "image_large": "https://i.scdn.co/image/ab67616d0000b273e5bd9c16543752620815ebdc",
      "url": "https://open.spotify.com/track/43SkTJJ2xleDaeiE4TIM70",
      "album_url": "https://open.spotify.com/album/0bJMFJ2XQwpO5nKTrYdUtX",
-     "plays": 227
+     "plays": 228
     }
    ]
   },
   {
    "decade": 1970,
-   "plays": 28788,
+   "plays": 28790,
    "covers": [
     {
      "name": "More Than a Feeling",
@@ -938,7 +938,7 @@ window.LISTENING = {
      "image_large": "https://i.scdn.co/image/ab67616d0000b2738c1fadcc997a65384f34d694",
      "url": "https://open.spotify.com/track/1QEEqeFIZktqIpPI4jSVSF",
      "album_url": "https://open.spotify.com/album/2QLp07RO6anZHmtcKTEvSC",
-     "plays": 1112
+     "plays": 1113
     },
     {
      "name": "Barracuda",
@@ -1021,7 +1021,7 @@ window.LISTENING = {
   },
   {
    "decade": 1980,
-   "plays": 33043,
+   "plays": 33044,
    "covers": [
     {
      "name": "Back In Black",
@@ -1303,7 +1303,7 @@ window.LISTENING = {
   },
   {
    "decade": 2010,
-   "plays": 15840,
+   "plays": 15841,
    "covers": [
     {
      "name": "XXI Century Blood",
@@ -1397,7 +1397,7 @@ window.LISTENING = {
   },
   {
    "decade": 2020,
-   "plays": 18747,
+   "plays": 18749,
    "covers": [
     {
      "name": "ERROR",
