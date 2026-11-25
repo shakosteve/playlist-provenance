@@ -1,7 +1,7 @@
 window.LISTENING = {
  "title": "The Listening Booth",
- "generated": "2026-11-25T22:10:08Z",
- "synced": "2026-11-25T22:10:01Z",
+ "generated": "2026-11-25T23:10:09Z",
+ "synced": "2026-11-25T23:10:02Z",
  "totals": {
   "plays": 125624,
   "hours": 8541.0,
