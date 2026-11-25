@@ -1,15 +1,48 @@
 window.LISTENING = {
  "title": "The Listening Booth",
- "generated": "2026-11-25T17:10:08Z",
- "synced": "2026-11-25T17:10:02Z",
+ "generated": "2026-11-25T17:40:08Z",
+ "synced": "2026-11-25T17:40:01Z",
  "totals": {
-  "plays": 125582,
-  "hours": 8538.0,
+  "plays": 125586,
+  "hours": 8538.3,
   "artists": 702,
   "albums": 1533,
   "first": "2013-05-07T01:40:37Z"
  },
  "recent": [
+  {
+   "name": "Dancing Queen",
+   "artist": "ABBA",
+   "album": "Arrival",
+   "year": 1976,
+   "image": "https://i.scdn.co/image/ab67616d00001e0270f7a1b35d5165c85b95a0e0",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b27370f7a1b35d5165c85b95a0e0",
+   "url": "https://open.spotify.com/track/0GjEhVFGZW8afUYGChu3Rr",
+   "album_url": "https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9",
+   "played_at": "2026-11-25T17:37:42.570Z"
+  },
+  {
+   "name": "My Immortal",
+   "artist": "Evanescence",
+   "album": "Fallen",
+   "year": 2003,
+   "image": "https://i.scdn.co/image/ab67616d00001e0225f49ab23f0ec6332efef432",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b27325f49ab23f0ec6332efef432",
+   "url": "https://open.spotify.com/track/4UzVcXufOhGUwF56HT7b8M",
+   "album_url": "https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm",
+   "played_at": "2026-11-25T17:33:50.636Z"
+  },
+  {
+   "name": "I Don't Care (Yo No Sé)",
+   "artist": "Los Dug Dug's",
+   "album": "Smog",
+   "year": 2015,
+   "image": "https://i.scdn.co/image/ab67616d00001e0293db80d5075e7e4ea1e51dd5",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b27393db80d5075e7e4ea1e51dd5",
+   "url": "https://open.spotify.com/track/0JWTYPafwH0RvnHiS7IwH5",
+   "album_url": "https://open.spotify.com/album/1QQZWTHIDvquxXLSqCaq9L",
+   "played_at": "2026-11-25T17:29:27.588Z"
+  },
   {
    "name": "Black Water - Single Version",
    "artist": "The Doobie Brothers",
@@ -504,39 +537,6 @@ window.LISTENING = {
    "url": "https://open.spotify.com/track/7azOuDeJGbxt5mvq3GQHXp",
    "album_url": "https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD",
    "played_at": "2026-11-21T17:32:01.359Z"
-  },
-  {
-   "name": "Ain't No Rest for the Wicked",
-   "artist": "Cage The Elephant",
-   "album": "Cage The Elephant (Expanded Edition)",
-   "year": 2009,
-   "image": "https://i.scdn.co/image/ab67616d00001e02e4800c920780ac18d4ab6730",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b273e4800c920780ac18d4ab6730",
-   "url": "https://open.spotify.com/track/3Pzh926pXggbMe2ZpXyMV7",
-   "album_url": "https://open.spotify.com/album/7H814Cg8HV0qpoMheYbhNn",
-   "played_at": "2026-11-21T17:27:43.444Z"
-  },
-  {
-   "name": "Age of Machine",
-   "artist": "Greta Van Fleet",
-   "album": "The Battle at Garden’s Gate",
-   "year": 2021,
-   "image": "https://i.scdn.co/image/ab67616d00001e02339cc033bcc476d11dffba4c",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b273339cc033bcc476d11dffba4c",
-   "url": "https://open.spotify.com/track/6XALorRRo9aQdBIQN0UWyn",
-   "album_url": "https://open.spotify.com/album/7kjLKy9JLbwM9F7eDQEnd2",
-   "played_at": "2026-11-21T17:24:47.541Z"
-  },
-  {
-   "name": "The Grand Illusion",
-   "artist": "Styx",
-   "album": "The Grand Illusion",
-   "year": 1977,
-   "image": "https://i.scdn.co/image/ab67616d00001e0288f0f719259b0dec23a7c367",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b27388f0f719259b0dec23a7c367",
-   "url": "https://open.spotify.com/track/0FFdCFGfmtqVaHTBYXybkx",
-   "album_url": "https://open.spotify.com/album/6MFIBPVrZjHjP0pPkVF3IU",
-   "played_at": "2026-11-21T17:08:52.557Z"
   }
  ],
  "top_artists": [
@@ -927,7 +927,7 @@ window.LISTENING = {
   },
   {
    "decade": 1970,
-   "plays": 28781,
+   "plays": 28782,
    "covers": [
     {
      "name": "More Than a Feeling",
@@ -1209,7 +1209,7 @@ window.LISTENING = {
   },
   {
    "decade": 2000,
-   "plays": 12040,
+   "plays": 12041,
    "covers": [
     {
      "name": "Material Girl",
@@ -1242,7 +1242,7 @@ window.LISTENING = {
      "image_large": "https://i.scdn.co/image/ab67616d0000b27325f49ab23f0ec6332efef432",
      "url": "https://open.spotify.com/track/4UzVcXufOhGUwF56HT7b8M",
      "album_url": "https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm",
-     "plays": 682
+     "plays": 683
     },
     {
      "name": "Americano",
@@ -1303,7 +1303,7 @@ window.LISTENING = {
   },
   {
    "decade": 2010,
-   "plays": 15838,
+   "plays": 15840,
    "covers": [
     {
      "name": "XXI Century Blood",
