@@ -901,13 +901,22 @@ def load_saved_playlist(text):
 
 
 def playable_version(session, track):
-    """The URI of another version of a track that plays here, found by its ISRC (one search), or None."""
+    """The URI of another version of a track that plays here, found by its ISRC (one search), or None.
+
+    A match must also share the lead artist (by URI or name): ISRCs aren't always unique. On 2026-11-25 King
+    Gizzard's "Gila Monster" (AU2ZC2300172, gone from Spotify) matched a different song of that name by sameen."""
     if not track.get("isrc"):
         return None
+    lead_uri = (track.get("artist_uris") or [None])[0]
+    lead_name = ((track.get("artists") or [""])[0] or "").casefold()
     page = fetch(session, f"{API}/search", {"q": f"isrc:{track['isrc']}", "type": "track",
                                              "market": "from_token", "limit": 10}) or {}
     for t in (page.get("tracks") or {}).get("items") or []:
-        if t and t.get("uri") and t["uri"] != track["uri"] and t.get("is_playable") is not False:
+        if not (t and t.get("uri") and t["uri"] != track["uri"] and t.get("is_playable") is not False):
+            continue
+        artists = t.get("artists") or []
+        if any(a.get("uri") == lead_uri for a in artists if lead_uri) or \
+                any((a.get("name") or "").casefold() == lead_name for a in artists if lead_name):
             return t["uri"]
     return None
 
