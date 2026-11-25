@@ -1,15 +1,103 @@
 window.LISTENING = {
  "title": "The Listening Booth",
- "generated": "2026-11-25T19:10:07Z",
- "synced": "2026-11-25T19:10:01Z",
+ "generated": "2026-11-25T19:40:08Z",
+ "synced": "2026-11-25T19:40:01Z",
  "totals": {
-  "plays": 125607,
-  "hours": 8539.8,
+  "plays": 125615,
+  "hours": 8540.3,
   "artists": 702,
   "albums": 1533,
   "first": "2013-05-07T01:40:37Z"
  },
  "recent": [
+  {
+   "name": "Live Wire",
+   "artist": "AC/DC",
+   "album": "High Voltage",
+   "year": 1976,
+   "image": "https://i.scdn.co/image/ab67616d00001e028c7f355d649e0a3cfcf6fc39",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b2738c7f355d649e0a3cfcf6fc39",
+   "url": "https://open.spotify.com/track/6FWoYwZa13llS7nj0SG65F",
+   "album_url": "https://open.spotify.com/album/19AUoKWRAaQYrggVvdQnqq",
+   "played_at": "2026-11-25T19:39:12.454Z"
+  },
+  {
+   "name": "ZITTI E BUONI",
+   "artist": "Måneskin",
+   "album": "Teatro d'ira - Vol. I",
+   "year": 2021,
+   "image": "https://i.scdn.co/image/ab67616d00001e025aa05015cfa7bd2943c29b21",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b2735aa05015cfa7bd2943c29b21",
+   "url": "https://open.spotify.com/track/776AftMmFFAWUIEAb3lHhw",
+   "album_url": "https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A",
+   "played_at": "2026-11-25T19:33:21.400Z"
+  },
+  {
+   "name": "Sedona",
+   "artist": "JunkBunny",
+   "album": "Junk Rock",
+   "year": 2019,
+   "image": "https://i.scdn.co/image/ab67616d00001e0226a0c73dc7e5dc13d372bc0e",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b27326a0c73dc7e5dc13d372bc0e",
+   "url": "https://open.spotify.com/track/3oQMwKCFTi3wKi9VANfTbE",
+   "album_url": "https://open.spotify.com/album/1uxlk6rLTGtccpbOyv6h6J",
+   "played_at": "2026-11-25T19:30:06.095Z"
+  },
+  {
+   "name": "this is a banger i swear",
+   "artist": "Jasmine Star",
+   "album": "this is a banger i swear",
+   "year": 2023,
+   "image": "https://i.scdn.co/image/ab67616d00001e021f084aa854887a6a6a8c3d96",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b2731f084aa854887a6a6a8c3d96",
+   "url": "https://open.spotify.com/track/5XhHIRWPiuoaRN4jV6UfQg",
+   "album_url": "https://open.spotify.com/album/6sPQLEFYkBlgnFIvZCI7YI",
+   "played_at": "2026-11-25T19:26:55.814Z"
+  },
+  {
+   "name": "Take The Money And Run - Live",
+   "artist": "Steve Miller Band",
+   "album": "Live! Breaking Ground August 3, 1977",
+   "year": 2021,
+   "image": "https://i.scdn.co/image/ab67616d00001e02bb8183e59cd224aa51e51b0f",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b273bb8183e59cd224aa51e51b0f",
+   "url": "https://open.spotify.com/track/2QG19QsBSBk7SArTPgNN8g",
+   "album_url": "https://open.spotify.com/album/1GYpibjfj4EFsTsTI1DDjh",
+   "played_at": "2026-11-25T19:24:19.487Z"
+  },
+  {
+   "name": "The Steps",
+   "artist": "HAIM",
+   "album": "Women In Music Pt. III",
+   "year": 2021,
+   "image": "https://i.scdn.co/image/ab67616d00001e02e8be33a5e8efee9be2afffc3",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b273e8be33a5e8efee9be2afffc3",
+   "url": "https://open.spotify.com/track/5X2RisOZS9i5MsR8EVw58p",
+   "album_url": "https://open.spotify.com/album/396EJBtUzseofX2YCBJVvM",
+   "played_at": "2026-11-25T19:20:03.274Z"
+  },
+  {
+   "name": "Look What The Cat Dragged In",
+   "artist": "Poison",
+   "album": "Look What The Cat Dragged In - 20th Anniversary Edition",
+   "year": 1986,
+   "image": "https://i.scdn.co/image/ab67616d00001e02d007e25f2264718c5a9dde34",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b273d007e25f2264718c5a9dde34",
+   "url": "https://open.spotify.com/track/5DmRCfszmaz7osOPCmAHVI",
+   "album_url": "https://open.spotify.com/album/2SkbSj0eZ2H5uqKYEnMmIe",
+   "played_at": "2026-11-25T19:15:55.161Z"
+  },
+  {
+   "name": "Fabienk",
+   "artist": "Angine de Poitrine",
+   "album": "Vol.II",
+   "year": 2026,
+   "image": "https://i.scdn.co/image/ab67616d00001e024821b77fd92093513d7634b5",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b2734821b77fd92093513d7634b5",
+   "url": "https://open.spotify.com/track/1KVkzkmFBx4A8bCma6ruKA",
+   "album_url": "https://open.spotify.com/album/3FqqIeynZXFBcyLS9FlWMo",
+   "played_at": "2026-11-25T19:12:43.826Z"
+  },
   {
    "name": "Who Made Who",
    "artist": "AC/DC",
@@ -449,94 +537,6 @@ window.LISTENING = {
    "url": "https://open.spotify.com/track/0I2uIgFFNynFnH9PhUsiuz",
    "album_url": "https://open.spotify.com/album/5whQsHpQHWMoNqLSut0o2a",
    "played_at": "2026-11-25T00:22:59.673Z"
-  },
-  {
-   "name": "Rock The Bop",
-   "artist": "Brenda Lee",
-   "album": "Love You!",
-   "year": 1963,
-   "image": "https://i.scdn.co/image/ab67616d00001e0286dbb746d8ff18b35dc2cdf3",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b27386dbb746d8ff18b35dc2cdf3",
-   "url": "https://open.spotify.com/track/3o3zZU5Ib0zd0LpsK1Kfin",
-   "album_url": "https://open.spotify.com/album/4FwaiqI20she40DLrEN4ni",
-   "played_at": "2026-11-24T20:00:00.528Z"
-  },
-  {
-   "name": "The Sound of Silence",
-   "artist": "Disturbed",
-   "album": "Immortalized (Deluxe Edition)",
-   "year": 2015,
-   "image": "https://i.scdn.co/image/ab67616d00001e02a58c62e75b82e9c3b47d9ef3",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b273a58c62e75b82e9c3b47d9ef3",
-   "url": "https://open.spotify.com/track/0eZBeB2xFIS65jQHerispi",
-   "album_url": "https://open.spotify.com/album/1ROVEUk4lc2vD4a0IN1TWS",
-   "played_at": "2026-11-24T19:57:47.963Z"
-  },
-  {
-   "name": "Motherlode",
-   "artist": "The Standstills, Eagles Of Death Metal",
-   "album": "Shockwave",
-   "year": 2022,
-   "image": "https://i.scdn.co/image/ab67616d00001e0281f48bb5f19fe38eb7c82b89",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b27381f48bb5f19fe38eb7c82b89",
-   "url": "https://open.spotify.com/track/1og1HaD8dShBhfxaiMcXtg",
-   "album_url": "https://open.spotify.com/album/6K4IAZRaISujit2wkARm9u",
-   "played_at": "2026-11-24T19:53:37.936Z"
-  },
-  {
-   "name": "Small Town",
-   "artist": "John Mellencamp",
-   "album": "Scarecrow",
-   "year": 1985,
-   "image": "https://i.scdn.co/image/ab67616d00001e02b46e7ea6a6b2fa45caa23393",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b273b46e7ea6a6b2fa45caa23393",
-   "url": "https://open.spotify.com/track/2HsjJJL4DhPCzMlnaGv7ap",
-   "album_url": "https://open.spotify.com/album/1BYEhfr8qQGNhbqPAbfnxk",
-   "played_at": "2026-11-24T19:43:15.267Z"
-  },
-  {
-   "name": "Black Holes (Don't Hold On)",
-   "artist": "The Warning",
-   "album": "XXI Century Blood",
-   "year": 2017,
-   "image": "https://i.scdn.co/image/ab67616d00001e0204a3dad60eb365aec55022de",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b27304a3dad60eb365aec55022de",
-   "url": "https://open.spotify.com/track/2xRZlk8t0R2GvMQMvJ1HEB",
-   "album_url": "https://open.spotify.com/album/6nEiN0eM1gbvDsijV46XrX",
-   "played_at": "2026-11-24T19:39:33.117Z"
-  },
-  {
-   "name": "Unmendable",
-   "artist": "The Warning",
-   "album": "XXI Century Blood",
-   "year": 2017,
-   "image": "https://i.scdn.co/image/ab67616d00001e0204a3dad60eb365aec55022de",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b27304a3dad60eb365aec55022de",
-   "url": "https://open.spotify.com/track/3YPWoSTTdI97QeyjV9t68F",
-   "album_url": "https://open.spotify.com/album/6nEiN0eM1gbvDsijV46XrX",
-   "played_at": "2026-11-24T19:34:30.774Z"
-  },
-  {
-   "name": "Automatic Sun - Live from Auditorio Nacional, CDMX",
-   "artist": "The Warning",
-   "album": "Qué Más Quieres / Sharks / Automatic Sun (Live from Auditorio Nacional, CDMX)",
-   "year": 2025,
-   "image": "https://i.scdn.co/image/ab67616d00001e02e6d30343fb059f0b62c38fb3",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b273e6d30343fb059f0b62c38fb3",
-   "url": "https://open.spotify.com/track/52Rhi563GFryRxSuxdBtyy",
-   "album_url": "https://open.spotify.com/album/4YKEYnqb55Gw4g8uMHMKSo",
-   "played_at": "2026-11-24T18:20:22.392Z"
-  },
-  {
-   "name": "Take The Money And Run",
-   "artist": "Steve Miller Band",
-   "album": "Fly Like An Eagle",
-   "year": 1976,
-   "image": "https://i.scdn.co/image/ab67616d00001e022fc23e78e87d793054bba090",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b2732fc23e78e87d793054bba090",
-   "url": "https://open.spotify.com/track/1ZhrREyOOeFV6TxDOyiPwu",
-   "album_url": "https://open.spotify.com/album/0fjJOLqG3v7vXRYhz2wxPC",
-   "played_at": "2026-11-24T18:16:29.287Z"
   }
  ],
  "top_artists": [
@@ -548,7 +548,7 @@ window.LISTENING = {
   },
   {
    "name": "AC/DC",
-   "plays": 4003,
+   "plays": 4004,
    "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un",
    "image": "https://i.scdn.co/image/ab67616d00001e02ff191d7fbdb5a13eaf84132b"
   },
@@ -578,7 +578,7 @@ window.LISTENING = {
   },
   {
    "name": "Steve Miller Band",
-   "plays": 1966,
+   "plays": 1967,
    "url": "https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk",
    "image": "https://i.scdn.co/image/ab67616d00001e02632b907273dba6a6062fb780"
   },
@@ -927,7 +927,7 @@ window.LISTENING = {
   },
   {
    "decade": 1970,
-   "plays": 28790,
+   "plays": 28791,
    "covers": [
     {
      "name": "More Than a Feeling",
@@ -1021,7 +1021,7 @@ window.LISTENING = {
   },
   {
    "decade": 1980,
-   "plays": 33044,
+   "plays": 33045,
    "covers": [
     {
      "name": "Back In Black",
@@ -1303,7 +1303,7 @@ window.LISTENING = {
   },
   {
    "decade": 2010,
-   "plays": 15841,
+   "plays": 15842,
    "covers": [
     {
      "name": "XXI Century Blood",
@@ -1397,7 +1397,7 @@ window.LISTENING = {
   },
   {
    "decade": 2020,
-   "plays": 18749,
+   "plays": 18754,
    "covers": [
     {
      "name": "ERROR",
@@ -1485,7 +1485,7 @@ window.LISTENING = {
      "image_large": "https://i.scdn.co/image/ab67616d0000b2735aa05015cfa7bd2943c29b21",
      "url": "https://open.spotify.com/track/6Vfo6O3hk38vDcSpazNo3p",
      "album_url": "https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A",
-     "plays": 412
+     "plays": 413
     }
    ]
   }
