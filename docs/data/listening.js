@@ -1,15 +1,26 @@
 window.LISTENING = {
  "title": "The Listening Booth",
- "generated": "2026-11-25T01:10:08Z",
- "synced": "2026-11-25T01:10:02Z",
+ "generated": "2026-11-25T02:40:07Z",
+ "synced": "2026-11-25T02:40:01Z",
  "totals": {
-  "plays": 125574,
-  "hours": 8537.5,
+  "plays": 125575,
+  "hours": 8537.6,
   "artists": 702,
   "albums": 1533,
   "first": "2013-05-07T01:40:37Z"
  },
  "recent": [
+  {
+   "name": "Wouldn't It Be Nice - Remastered 1999",
+   "artist": "The Beach Boys",
+   "album": "The Beach Boys Love Songs",
+   "year": 2006,
+   "image": "https://i.scdn.co/image/ab67616d00001e02e53d342c933a9138b2b51f71",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b273e53d342c933a9138b2b51f71",
+   "url": "https://open.spotify.com/track/0cx32rX0uZvcJUP92Wkj2y",
+   "album_url": "https://open.spotify.com/album/4NnBDxnxiiXiMlssBi9Bsq",
+   "played_at": "2026-11-25T01:44:32.129Z"
+  },
   {
    "name": "P.S.Y.C.H.O.T.I.C.",
    "artist": "The Warning",
@@ -526,17 +537,6 @@ window.LISTENING = {
    "url": "https://open.spotify.com/track/0WrvyawIOAP9gIn0wBjkkl",
    "album_url": "https://open.spotify.com/album/3alSsga0FiSbG9nz5vRDmA",
    "played_at": "2026-11-21T16:33:13.991Z"
-  },
-  {
-   "name": "California Girls",
-   "artist": "David Lee Roth",
-   "album": "Crazy from the Heat",
-   "year": 1985,
-   "image": "https://i.scdn.co/image/ab67616d00001e0266e28c0e65ec2e3886a57a6a",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b27366e28c0e65ec2e3886a57a6a",
-   "url": "https://open.spotify.com/track/4H3vuLX59XPqdtTpIesGyS",
-   "album_url": "https://open.spotify.com/album/2CLt8z7ozftRAx6I37C7rE",
-   "played_at": "2026-11-21T16:29:27.635Z"
   }
  ],
  "top_artists": [
@@ -1209,7 +1209,7 @@ window.LISTENING = {
   },
   {
    "decade": 2000,
-   "plays": 12038,
+   "plays": 12039,
    "covers": [
     {
      "name": "Material Girl",
