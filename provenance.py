@@ -744,11 +744,16 @@ def backup_playlists():
                 print(f"Playlist {new['name']} checked: no changes ({len(new['tracks']):,} tracks"
                       + ("" if in_library else ", not in your library") + ")")
             went, back = update_unavailable(unavailable, pid, new, today)
+            if went:
+                versions = saved_tracks(unavailable)  # not `library`: that's the playlist IDs above
+                for e in went:
+                    e.update(unplayable_verdict(session, e, versions))
             label = lambda e: f"{clean_title(e['name'])} - {', '.join(e['artists'])}"
             if daily or went or back:
                 print(f"Playlist {new['name']} unplayable here: {len(new['_unplayable'])}")
             if went or back:
-                lines = [f"  ! {label(e)}" for e in went] + [f"  ~ {label(e)} ({e['outcome']})" for e in back]
+                lines = [f"  ! {label(e)}" + (f": {verdict_note(e)}" if verdict_note(e) else "") for e in went] \
+                    + [f"  ~ {label(e)} ({e['outcome']})" for e in back]
                 print("\n".join(lines))
                 what = ", ".join(([f"{len(went)} became unplayable"] if went else [])
                                  + ([f"{len(back)} no longer unplayable"] if back else []))
@@ -767,6 +772,18 @@ def backup_playlists():
         if (changed or relabeled) and publishing:
             commit_playlists(changed)
         notify_playlist_changes(alerts)
+
+
+def saved_tracks(unavailable):
+    """(playlist name, track) for every playable track in the saved copies in playlists/, for unplayable_verdict."""
+    dead = {e["uri"] for e in unavailable["tracks"] if not e.get("until")}
+    out = []
+    for path in sorted(PLAYLISTS.glob("*.json")):
+        if path in (PLAYLIST_LIST, UNAVAILABLE):
+            continue
+        saved = json.loads(path.read_text(encoding="utf-8"))
+        out += [(saved.get("name"), t) for t in saved.get("tracks") or [] if t.get("uri") not in dead]
+    return out
 
 
 def liked_mark(session):
@@ -859,7 +876,9 @@ def update_unavailable(record, pid, playlist, today):
     Each entry is a track of a backed-up playlist that Spotify won't play in my country, kept for good as a
     record of what licensing took away: the track with its ISRC (to find it elsewhere), Spotify's reason, and
     "since", the first day it was seen unplayable. When it plays again or leaves the playlist, the entry gets
-    "until" and an "outcome" of "playable again" or "removed from playlist"; if it goes again, a new entry starts."""
+    "until" and an "outcome" of "playable again" or "removed from playlist"; if it goes again, a new entry starts.
+    "found_at" and "ended_at" are the exact times, so the daily email reports each change once (entries from before
+    2026-11-25 have only the dates). backup_playlists adds a verdict to new entries (unplayable_verdict)."""
     tracks = {t["uri"]: t for t in playlist["tracks"]}
     current = {e["uri"]: e for e in record["tracks"] if e["playlist_id"] == pid and not e.get("until")}
     for e in record["tracks"]:
@@ -868,14 +887,16 @@ def update_unavailable(record, pid, playlist, today):
     back = []
     for uri, e in current.items():
         if uri not in playlist["_unplayable"]:
-            e.update(until=today, outcome="playable again" if uri in tracks else "removed from playlist")
+            e.update(until=today, ended_at=now_iso(),
+                     outcome="playable again" if uri in tracks else "removed from playlist")
             back.append(e)
     went = []
     for uri, reason in playlist["_unplayable"].items():
         if uri not in current:
             t = tracks[uri]
             went.append({"playlist": playlist["name"], "playlist_id": pid, "uri": uri, "name": t["name"],
-                         "artists": t["artists"], "album": t["album"], "isrc": t["isrc"], "reason": reason, "since": today})
+                         "artists": t["artists"], "album": t["album"], "isrc": t["isrc"], "reason": reason, "since": today,
+                         "found_at": now_iso()})
     record["tracks"] += went
     return went, back
 
@@ -900,25 +921,67 @@ def load_saved_playlist(text):
     sys.exit(f"No saved copy of {text!r} in {PLAYLISTS.relative_to(ROOT)}.")
 
 
-def playable_version(session, track):
-    """The URI of another version of a track that plays here, found by its ISRC (one search), or None.
+def title_key(name):
+    """A song's title for matching its versions: "Oh Well - Live" and "Oh Well (2013 Remaster)" -> "oh well"."""
+    base = clean_title(name or "").casefold().split(" - ")[0].split(" (")[0]
+    return re.sub(r"[^\w]+", " ", base).strip()
 
-    A match must also share the lead artist (by URI or name): ISRCs aren't always unique. On 2026-11-25 King
-    Gizzard's "Gila Monster" (AU2ZC2300172, gone from Spotify) matched a different song of that name by sameen."""
-    if not track.get("isrc"):
-        return None
+
+def find_playable(session, query, track, same_title=False):
+    """The first track from a Spotify search (1 request) that plays here, isn't `track` itself, and shares its
+    lead artist (by URI or name), and with same_title, its title_key(). None if there's none.
+
+    The artist check matters: ISRCs aren't always unique. On 2026-11-25 King Gizzard's "Gila Monster"
+    (AU2ZC2300172, gone from Spotify) matched a different song of that name by sameen."""
     lead_uri = (track.get("artist_uris") or [None])[0]
     lead_name = ((track.get("artists") or [""])[0] or "").casefold()
-    page = fetch(session, f"{API}/search", {"q": f"isrc:{track['isrc']}", "type": "track",
-                                             "market": "from_token", "limit": 10}) or {}
+    page = fetch(session, f"{API}/search", {"q": query, "type": "track", "market": "from_token", "limit": 10}) or {}
     for t in (page.get("tracks") or {}).get("items") or []:
         if not (t and t.get("uri") and t["uri"] != track["uri"] and t.get("is_playable") is not False):
+            continue
+        if same_title and title_key(t.get("name")) != title_key(track.get("name")):
             continue
         artists = t.get("artists") or []
         if any(a.get("uri") == lead_uri for a in artists if lead_uri) or \
                 any((a.get("name") or "").casefold() == lead_name for a in artists if lead_name):
-            return t["uri"]
+            return t
     return None
+
+
+def playable_version(session, track):
+    """The URI of another release of the same recording that plays here, found by its ISRC (one search), or None."""
+    t = track.get("isrc") and find_playable(session, f"isrc:{track['isrc']}", track)
+    return t["uri"] if t else None
+
+
+def unplayable_verdict(session, entry, library):
+    """What to do about a track that just went unplayable, for the email: {"verdict", "verdict_detail"[, "verdict_url"]}.
+
+    "replaced": a version of the song by the same artist is already in a backed-up playlist (`library`, a list of
+    (playlist name, track)), so the dead one can go. "available": Spotify has a playable version by the same
+    artist (same recording by ISRC, else the same title), worth swapping in. "gone": neither. Up to 2 searches.
+    {} when the search couldn't be done (rate limit, no internet, the user-read-private scope missing)."""
+    lead = (entry["artists"] or [""])[0]
+    key = title_key(entry["name"])
+    for where, t in library:
+        if title_key(t.get("name")) == key and lead.casefold() in (a.casefold() for a in t.get("artists") or []):
+            return {"verdict": "replaced", "verdict_detail": f"{clean_title(t['name'])} ({t.get('album')}) is in {where}"}
+    try:
+        t = (entry.get("isrc") and find_playable(session, f"isrc:{entry['isrc']}", entry)) or \
+            find_playable(session, f'track:"{clean_title(entry["name"])}" artist:"{lead}"', entry, same_title=True)
+    except (RateLimited, requests.RequestException):
+        return {}
+    if t:
+        return {"verdict": "available", "verdict_detail": f"{t['name']} on {(t.get('album') or {}).get('name')}",
+                "verdict_url": open_url(t["uri"])}
+    return {"verdict": "gone", "verdict_detail": f"no version by {lead} plays on Spotify"}
+
+
+def verdict_note(e):
+    """The verdict as a phrase for the log and the email, or "" when it couldn't be checked."""
+    return {"replaced": "already replaced ({}), so it's safe to remove",
+            "available": "a playable version exists: {}",
+            "gone": "{}"}.get(e.get("verdict"), "").format(e.get("verdict_detail"))
 
 
 def restore_playlist(text, to_liked=False, name=None, dry_run=False, yes=False):
@@ -2118,7 +2181,8 @@ def report(force=False, dry_run=False):
         if force:
             sys.exit("SMTP_USER and SMTP_PASSWORD are missing from .env")
         return
-    r = report_data(now)
+    # The first report of a month recaps last month's unplayable tracks (so a month the PC was off on the 1st isn't skipped).
+    r = report_data(now, recap_month=sent[:7] != today[:7])
     text, html = report_text(r), report_html(r)
 
     if dry_run:
@@ -2150,32 +2214,40 @@ def clean_title(name):
     return re.sub(r"\s+\((\d{4}\s+)?remaster(ed)?(\s+\d{4})?(\s+version)?\)$", "", name, flags=re.I)
 
 
-def unplayable_summary(n, removed, restored):
-    """The email's line on a playlist's unplayable tracks: how many are unplayable now, and how today's changes
-    got it there, e.g. "Every track is playable now: the 13 unplayable tracks were removed from the playlist
-    today" or "2 tracks unplayable in your country (3 others removed today)". None without unavailable.json."""
-    if n is None:
+def unplayable_summary(n, went, removed, again):
+    """The email's line on a playlist's unplayable tracks, only on a day something changed (owner's request,
+    2026-11-25: report each track once, then track it quietly), e.g. "1 became unplayable; 3 unplayable in all,
+    tracked quietly". None when nothing changed, or without unavailable.json."""
+    if n is None or not (went or removed or again):
         return None
-    s = lambda k, word="track": f"{k} {word}{'s' if k != 1 else ''}"
-    if not n:
-        if not (removed or restored):
-            return "Every track is playable"
-        if removed and not restored:
-            why = (f"the {s(removed, 'unplayable track')} {'were' if removed != 1 else 'was'} "
-                   "removed from the playlist today")
-        elif restored and not removed:
-            why = f"Spotify made the {s(restored, 'unplayable track')} playable again today"
-        else:
-            why = (f"{s(removed, 'unplayable track')} {'were' if removed != 1 else 'was'} removed from the playlist "
-                   f"today, and Spotify made {restored} playable again")
-        return f"Every track is playable now: {why}"
-    others = ([f"{removed} other{'s' if removed != 1 else ''} removed today"] if removed else []) \
-        + ([f"{restored} playable again today"] if restored else [])
-    return f"{s(n)} unplayable in your country" + (f" ({', '.join(others)})" if others else "")
+    s = lambda k: f"{k} track{'s' if k != 1 else ''}"
+    parts = ([f"{s(went)} became unplayable"] if went else []) + ([f"{s(again)} playable again"] if again else []) \
+        + ([f"{removed} unplayable track{'s' if removed != 1 else ''} removed from the playlist"] if removed else [])
+    return "; ".join(parts) + (f"; {n} unplayable in all, tracked quietly" if n else "; every track plays now")
 
 
-def report_data(now):
-    """Everything the daily report says, for report_text and report_html."""
+def unplayable_recap(entries, month):
+    """The monthly recap of unplayable tracks: those that went or ended in `month` ("YYYY-MM"), with what became
+    of each, and how many are still unplayable. None when that month had none."""
+    label = lambda e: f"{clean_title(e['name'])} - {', '.join(e['artists'])}"
+    day = lambda d: f"{datetime.fromisoformat(d):%b} {int(d[8:])}"
+    items = []
+    for e in entries:
+        if not (e["since"].startswith(month) or (e.get("until") or "").startswith(month)):
+            continue
+        state = (f"{e['outcome']} {day(e['until'])}" if e.get("until") else "still unplayable")
+        items.append({"label": label(e), "playlist": e["playlist"], "since": day(e["since"]), "state": state,
+                      "ended": bool(e.get("until")), "again": e.get("outcome") == "playable again",
+                      "note": verdict_note(e)})
+    if not items:
+        return None
+    return {"month": f"{datetime.fromisoformat(month + '-01'):%B %Y}", "items": items,
+            "open": sum(1 for e in entries if not e.get("until"))}
+
+
+def report_data(now, recap_month=False):
+    """Everything the daily report says, for report_text and report_html. recap_month adds last month's recap of
+    unplayable tracks (the first report of each month)."""
     since = now - timedelta(days=1)
     art = load_art()
     runs = read_log(since)
@@ -2256,19 +2328,29 @@ def report_data(now):
                    "summary": "not checked today", "added": [], "removed": [], "moved": [], "edited": []}
                   for e in listing for pid in [playlist_id(e["id"]) or e["id"]]
                   if (checks.get(pid) or {}).get("checked", "") < now.date().isoformat()]
-    # What won't play here, from playlists/unavailable.json: still unplayable, first seen today, and back today.
+    # What won't play here, from playlists/unavailable.json. Each change is reported once, in the report after it
+    # was found (found_at/ended_at within the last 24 hours; older entries have only dates). A track still
+    # unplayable is tracked quietly: the daily download keeps checking it, and it's only mentioned again if it
+    # becomes playable, which the email calls out at the top.
     unavailable = json.loads(UNAVAILABLE.read_text(encoding="utf-8"))["tracks"] if UNAVAILABLE.exists() else None
     label = lambda e: f"{clean_title(e['name'])} - {', '.join(e['artists'])}"
+
+    def recent(e, at, day):
+        if e.get(at):
+            return datetime.fromisoformat(e[at].replace("Z", "+00:00")) >= since
+        return e.get(day) == now.date().isoformat()
+    playable_again = []
     for p in playlists:
         mine = [e for e in unavailable or [] if e["playlist"] == p["name"]]
         p["unplayable"] = None if unavailable is None else sum(1 for e in mine if not e.get("until"))
-        p["went"] = [label(e) for e in mine if e["since"] == now.date().isoformat() and not e.get("until")]
-        ended = [e for e in mine if e.get("until") == now.date().isoformat()]
-        removed = sum(1 for e in ended if e["outcome"] == "removed from playlist")
-        # Each line names its outcome only when both kinds ended today; otherwise the summary says which.
-        mixed = 0 < removed < len(ended)
-        p["back"] = [label(e) + (f" ({e['outcome']})" if mixed else "") for e in ended]
-        p["unplayable_summary"] = unplayable_summary(p["unplayable"], removed, len(ended) - removed)
+        p["went"] = [(label(e), verdict_note(e), e.get("verdict_url")) for e in mine if recent(e, "found_at", "since")]
+        ended = [e for e in mine if e.get("until") and recent(e, "ended_at", "until")]
+        p["again"] = [label(e) for e in ended if e["outcome"] == "playable again"]
+        p["dropped"] = [label(e) for e in ended if e["outcome"] != "playable again"]
+        playable_again += [{"track": t, "playlist": p["name"]} for t in p["again"]]
+        p["unplayable_summary"] = unplayable_summary(p["unplayable"], len(p["went"]), len(p["dropped"]), len(p["again"]))
+    last_month = (now.replace(day=1) - timedelta(days=1)).strftime("%Y-%m")
+    recap = unplayable_recap(unavailable, last_month) if unavailable and recap_month else None
     # A network dropout logs one "Network unavailable" line (network_down) instead of a traceback. A brief one is
     # only noted; 3 runs or more in a row (1.5 hours) is flagged, since that's no longer a blip.
     offline = [t for t, lines in runs if any(l.startswith("Network unavailable") for l in lines)]
@@ -2326,6 +2408,7 @@ def report_data(now):
             "top_tracks": top_tracks, "top_artists": sorted(artists.values(), key=lambda a: -a["plays"])[:5],
             "on_this_day": on_this_day, "import": imported, "published": published, "site": site_url(), "reauth": reauth, "playlists": playlists, "network": network,
             "unavailable_url": f"{repo_url()}/blob/main/{UNAVAILABLE.relative_to(ROOT).as_posix()}" if repo_url() else None,
+            "playable_again": playable_again, "unplayable_recap": recap,
             "totals": {"plays": len(all_plays), "since": all_plays[0]["local"].year if all_plays else None}}
 
 
@@ -2365,6 +2448,9 @@ def report_text(r):
     if r["reauth"]:
         summary, steps = reauth_note(r["reauth"])
         out += ["", "ACTION NEEDED: sign in to Spotify again", summary] + [f"  {i}. {s}" for i, s in enumerate(steps, 1)]
+    if r["playable_again"]:
+        out += ["", "GOOD NEWS: playable on Spotify again"] + [f"  ✓ {a['track']} (in {a['playlist']})"
+                                                             for a in r["playable_again"]]
     if r["problems"]:
         out += ["", "From the log:"] + [f"  {l}" for l in r["problems"]]
     out += ["", f"Last 24 hours: {r['plays']} plays, {r['minutes']} minutes, {r['artist_count']} artists"]
@@ -2380,12 +2466,23 @@ def report_text(r):
         out.append(f"  {p['name']}: {p['summary']}" + (" (backup committed to GitHub)" if p["changed"] else ""))
         out += ([f"    + {t}" for t in p["added"][:15]] + [f"    - {t}" for t in p["removed"][:15]]
                 + [f"    ^ {t}" for t in p["moved"][:15]] + [f"    * {t}" for t in p["edited"][:15]])
-        if p["unplayable"] is not None:
-            out.append(f"    {p['unplayable_summary']}"
-                       + (f" - full list: {r['unavailable_url']}" if p["unplayable"] and r["unavailable_url"] else ""))
-            out += [f"    ! Now unplayable: {t}" for t in p["went"][:15]] + [f"    ✓ {t}" for t in p["back"][:15]]
+        if p["unplayable_summary"]:
+            out.append(f"    Unplayable: {p['unplayable_summary']}"
+                       + (f" - full list: {r['unavailable_url']}" if p["went"] and r["unavailable_url"] else ""))
+            out += [f"    ! Now unplayable: {t}" + (f" - {note}" if note else "") + (f" ({url})" if url else "")
+                    for t, note, url in p["went"][:15]]
+            out += [f"    ✓ PLAYABLE AGAIN: {t}" for t in p["again"][:15]]
+            out += [f"    ✓ {t} (removed from the playlist)" for t in p["dropped"][:15]]
     if r["playlists"]:
         out += ["  Key: " + "   ".join(f"{sign} {what}" for _, sign, what in PLAYLIST_LEGEND)]
+    if r["unplayable_recap"]:
+        c = r["unplayable_recap"]
+        out += ["", f"Unplayable tracks in {c['month']} (monthly recap):"]
+        out += [f"  {'✓' if i['ended'] else '!'} {i['label']} ({i['playlist']}, from {i['since']}): "
+                + (i["state"].upper() if i["again"] else i["state"])
+                + (f" - {i['note']}" if i["note"] and not i["ended"] else "") for i in c["items"]]
+        out.append(f"  Still unplayable, tracked quietly: {c['open']}"
+                   + (f" - full list: {r['unavailable_url']}" if r["unavailable_url"] else ""))
     if r["on_this_day"]:
         out += ["", f"On {now:%B} {now.day} in other years:"] + [
             f"  {d['year']}: {d['plays']} plays, top song {d['top']} - {d['artist']}" for d in r["on_this_day"]]
@@ -2477,6 +2574,12 @@ def report_html(r):
             + "".join("<li>" + command.sub(r'<code style="font-family:Consolas,Menlo,monospace;background:#efedf3;'
                                            r'padding:1px 5px;border-radius:4px;">\1</code>', h(s)) + "</li>" for s in steps)
             + "</ol></div>"))
+    if r["playable_again"]:
+        body.append(section("Good news: playable on Spotify again",
+            f'<div style="{FONT}background:#dafbe1;border-left:4px solid #1a7f37;border-radius:6px;padding:12px 16px;">'
+            + "".join(f'<div style="font-size:15px;color:{INK};line-height:1.6;"><b style="color:#1a7f37;">&#10003;</b> '
+                      f'{h(a["track"])} <span style="color:{MUTED};">(in {h(a["playlist"])})</span></div>'
+                      for a in r["playable_again"]) + "</div>"))
     if r["problems"]:
         body.append(section("From the log", f'<div style="background:{NIGHT};border-radius:8px;padding:12px 16px;'
                             f'font-family:Consolas,Menlo,monospace;font-size:12px;line-height:1.6;color:#e6e3ee;'
@@ -2531,21 +2634,39 @@ def report_html(r):
                       f'{h(p["summary"])}' + (". The backup in the GitHub repo is up to date." if p["changed"] else "") + "</div>"
                       + "".join(f'<div style="{FONT}font-size:14px;color:{INK};line-height:1.6;"><b style="color:{c};'
                                 f'display:inline-block;width:16px;">{sign}</b>{h(t)}</div>' for c, sign, t in items))
-            if p["unplayable"] is not None:
-                n = p["unplayable"]
-                inner += (f'<div style="{FONT}font-size:14px;color:{"#9a6700" if n else MUTED};margin:6px 0 4px;">'
+            if p["unplayable_summary"]:
+                inner += (f'<div style="{FONT}font-size:14px;color:#9a6700;margin:6px 0 4px;">Unplayable: '
                           + h(p["unplayable_summary"])
-                          + (f' &middot; {link(r["unavailable_url"], "full list", "#9a6700")}' if n and r["unavailable_url"] else "")
-                          + "</div>"
+                          + (f' &middot; {link(r["unavailable_url"], "full list", "#9a6700")}'
+                             if p["went"] and r["unavailable_url"] else "") + "</div>"
                           + "".join(f'<div style="{FONT}font-size:14px;color:{INK};line-height:1.6;"><b style="color:{c};'
-                                    f'display:inline-block;width:16px;">{sign}</b>{h(t)}</div>'
-                                    for c, sign, t in [("#9a6700", "!", f"Now unplayable: {t}") for t in p["went"][:15]]
-                                    + [("#1a7f37", "&#10003;", t) for t in p["back"][:15]]))
+                                    f'display:inline-block;width:16px;">{sign}</b>{t}</div>'
+                                    for c, sign, t in
+                                    [("#9a6700", "!", f"Now unplayable: {h(t)}"
+                                      + (f' <span style="color:{MUTED};">&mdash; {h(note)}</span>' if note else "")
+                                      + (f' &middot; {link(url, "open", GREEN)}' if url else ""))
+                                     for t, note, url in p["went"][:15]]
+                                    + [("#1a7f37", "&#10003;", f"<b>Playable again:</b> {h(t)}") for t in p["again"][:15]]
+                                    + [("#1a7f37", "&#10003;", f"{h(t)} (removed from the playlist)")
+                                       for t in p["dropped"][:15]]))
         legend = "".join(f'<span style="white-space:nowrap;margin-right:14px;"><b style="color:{c};">{sign}</b> {h(what)}</span> '
                          for c, sign, what in PLAYLIST_LEGEND_HTML)
         inner += (f'<div style="{FONT}font-size:12px;color:{MUTED};line-height:1.7;margin-top:10px;padding-top:8px;'
                   f'border-top:1px solid {LINE};">{legend}</div>')
         body.append(section("Playlist backup", inner))
+    if r["unplayable_recap"]:
+        c = r["unplayable_recap"]
+        body.append(section(f"Unplayable tracks in {c['month']}",
+            "".join(f'<div style="{FONT}font-size:14px;color:{INK};line-height:1.6;"><b style="color:'
+                    f'{"#1a7f37" if i["ended"] else "#9a6700"};display:inline-block;width:16px;">'
+                    f'{"&#10003;" if i["ended"] else "!"}</b>{h(i["label"])} <span style="color:{MUTED};">'
+                    f'({h(i["playlist"])}, from {h(i["since"])}): '
+                    + (f'<b style="color:#1a7f37;">{h(i["state"])}</b>' if i["again"] else h(i["state"]))
+                    + (f' &mdash; {h(i["note"])}' if i["note"] and not i["ended"] else "") + "</span></div>"
+                    for i in c["items"])
+            + f'<div style="{FONT}font-size:13px;color:{MUTED};margin-top:8px;">Still unplayable, tracked quietly: '
+              f'{c["open"]}' + (f' &middot; {link(r["unavailable_url"], "full list", MUTED)}' if r["unavailable_url"] else "")
+            + "</div>"))
     if r["on_this_day"]:
         body.append(section(f"On {now:%B} {now.day} in other years", rows(
             (thumb(d["image"]), f'{d["year"]} · ' + link(d["url"], d["top"]), h(d["artist"]),
