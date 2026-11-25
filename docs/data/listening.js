@@ -1,7 +1,7 @@
 window.LISTENING = {
  "title": "The Listening Booth",
- "generated": "2026-11-25T05:10:08Z",
- "synced": "2026-11-25T05:10:01Z",
+ "generated": "2026-11-25T05:40:08Z",
+ "synced": "2026-11-25T05:40:01Z",
  "totals": {
   "plays": 125575,
   "hours": 8537.6,
@@ -1499,10 +1499,36 @@ window.LISTENING = {
    "duration_ms": 491072,
    "image": "https://i.scdn.co/image/ab67656300005f1f4d40f91206e17f1ed7b3a523",
    "first_seen": "2026-11-25T03:40:02Z",
-   "progress_ms": 375568,
-   "last_seen": "2026-11-25T03:40:02Z",
+   "progress_ms": 491072,
+   "last_seen": "2026-11-25T05:40:03Z",
    "url": "https://open.spotify.com/episode/6X4rStde3Kp5IzQgCfv6R2",
    "show_image": "https://i.scdn.co/image/ab67656300005f1fc306eb9be2f4da68a4f7f2be"
+  },
+  {
+   "name": "Kennedy & Jimmy Celebrate Turkey and Rivalry Week",
+   "show": "Kennedy Saves the World",
+   "show_uri": "spotify:show:5DEwjZIkxrUhkM1nlqLagd",
+   "release_date": "2026-11-23",
+   "duration_ms": 788458,
+   "image": "https://i.scdn.co/image/ab67656300005f1f3529a3d3a5fb154ca0279e2f",
+   "first_seen": "2026-11-25T05:40:03Z",
+   "progress_ms": 788458,
+   "last_seen": "2026-11-25T05:40:03Z",
+   "url": "https://open.spotify.com/episode/0X40ATDxVoeyHRRRM3thJ5",
+   "show_image": "https://i.scdn.co/image/ab67656300005f1fc306eb9be2f4da68a4f7f2be"
+  },
+  {
+   "name": "Trump’s Intervention at Nvidia Sparks Bipartisan Backlash",
+   "show": "Amanpour",
+   "show_uri": "spotify:show:3sLR8M7JchYmhWuf8QtlyO",
+   "release_date": "2026-11-24",
+   "duration_ms": 3177788,
+   "image": "https://i.scdn.co/image/ab67656300005f1f95217901851fcb57728068b6",
+   "first_seen": "2026-11-25T05:40:02Z",
+   "progress_ms": 653779,
+   "last_seen": "2026-11-25T05:40:02Z",
+   "url": "https://open.spotify.com/episode/23XYr56pxtg5xJ7Jp3P3FS",
+   "show_image": "https://i.scdn.co/image/ab67656300005f1f95217901851fcb57728068b6"
   },
   {
    "name": "Is Trump being played by the world’s most powerful leaders?",
@@ -1620,32 +1646,6 @@ window.LISTENING = {
    "last_seen": "2026-11-24T13:10:02Z",
    "url": "https://open.spotify.com/episode/5oxciY5BBavxEW0JUNp3jC",
    "show_image": "https://i.scdn.co/image/ab67656300005f1fe19edf2c6856b8b09c057f38"
-  },
-  {
-   "name": "Jensen Huang Returns to Nvidia After Donald Trump’s Intervention",
-   "show": "WSJ Opinion: Potomac Watch",
-   "show_uri": "spotify:show:4sMCRFb3B4g9Ax3lDCOOTX",
-   "release_date": "2026-11-23",
-   "duration_ms": 1442037,
-   "image": "https://i.scdn.co/image/ab67656300005f1fbe53b4cdd29c489500b01d97",
-   "first_seen": "2026-11-24T04:40:03Z",
-   "progress_ms": 1442037,
-   "last_seen": "2026-11-24T07:10:02Z",
-   "url": "https://open.spotify.com/episode/3EwCmtPaB9CC9ixUaKHOTs",
-   "show_image": "https://i.scdn.co/image/ab67656300005f1fbe53b4cdd29c489500b01d97"
-  },
-  {
-   "name": "St. Paul community leaders continue reparations work with town halls, harm report",
-   "show": "Minnesota Now",
-   "show_uri": "spotify:show:61oEbjIMX0lVNvf0MyrEX8",
-   "release_date": "2026-11-23",
-   "duration_ms": 544757,
-   "image": "https://i.scdn.co/image/ab67656300005f1f110dfea289c0685fcc6c4343",
-   "first_seen": "2026-11-24T06:10:03Z",
-   "progress_ms": 24576,
-   "last_seen": "2026-11-24T06:10:03Z",
-   "url": "https://open.spotify.com/episode/4qnSX5wGuxIk9u1FSl03hD",
-   "show_image": "https://i.scdn.co/image/ab67656300005f1f110dfea289c0685fcc6c4343"
   }
  ],
  "top_shows": [
