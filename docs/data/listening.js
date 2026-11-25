@@ -1,15 +1,37 @@
 window.LISTENING = {
  "title": "The Listening Booth",
- "generated": "2026-11-25T21:40:07Z",
- "synced": "2026-11-25T21:40:01Z",
+ "generated": "2026-11-25T22:10:08Z",
+ "synced": "2026-11-25T22:10:01Z",
  "totals": {
-  "plays": 125622,
-  "hours": 8540.8,
+  "plays": 125624,
+  "hours": 8541.0,
   "artists": 702,
   "albums": 1533,
   "first": "2013-05-07T01:40:37Z"
  },
  "recent": [
+  {
+   "name": "Heaven",
+   "artist": "Warrant",
+   "album": "The Best Of Warrant",
+   "year": 1996,
+   "image": "https://i.scdn.co/image/ab67616d00001e02eb323432d9677088c37d7172",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b273eb323432d9677088c37d7172",
+   "url": "https://open.spotify.com/track/3ZdccsqhXixCzOkMfbSk3u",
+   "album_url": "https://open.spotify.com/album/23QIqILz8ksSGOS7uUM2Cf",
+   "played_at": "2026-11-25T21:48:49.965Z"
+  },
+  {
+   "name": "Ramble On - 1990 Remaster",
+   "artist": "Led Zeppelin",
+   "album": "Led Zeppelin II (1994 Remaster)",
+   "year": 1969,
+   "image": "https://i.scdn.co/image/ab67616d00001e02fc4f17340773c6c3579fea0d",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b273fc4f17340773c6c3579fea0d",
+   "url": "https://open.spotify.com/track/3MODES4TNtygekLl146Dxd",
+   "album_url": "https://open.spotify.com/album/70lQYZtypdCALtFVlQAcvx",
+   "played_at": "2026-11-25T21:40:41.564Z"
+  },
   {
    "name": "N.I.B.",
    "artist": "Black Sabbath",
@@ -515,28 +537,6 @@ window.LISTENING = {
    "url": "https://open.spotify.com/track/0cx32rX0uZvcJUP92Wkj2y",
    "album_url": "https://open.spotify.com/album/4NnBDxnxiiXiMlssBi9Bsq",
    "played_at": "2026-11-25T01:44:32.129Z"
-  },
-  {
-   "name": "P.S.Y.C.H.O.T.I.C.",
-   "artist": "The Warning",
-   "album": "Queen of the Murder Scene",
-   "year": 2018,
-   "image": "https://i.scdn.co/image/ab67616d00001e02e0871bbaad013df7b7e56c2a",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b273e0871bbaad013df7b7e56c2a",
-   "url": "https://open.spotify.com/track/0wRHqRHUXgoOXe6H6XS1sJ",
-   "album_url": "https://open.spotify.com/album/2kB1Qqw3YOR9i3nbNxXWRs",
-   "played_at": "2026-11-25T01:00:36.174Z"
-  },
-  {
-   "name": "Against The Wind",
-   "artist": "Bob Seger",
-   "album": "Against The Wind",
-   "year": 1980,
-   "image": "https://i.scdn.co/image/ab67616d00001e0299b37676fbae815424b4b1a4",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b27399b37676fbae815424b4b1a4",
-   "url": "https://open.spotify.com/track/1SWmFiFSIBoDbQJjNKC7SR",
-   "album_url": "https://open.spotify.com/album/2Go2GZ8qMznHdAoLO1cG4W",
-   "played_at": "2026-11-25T00:56:55.977Z"
   }
  ],
  "top_artists": [
@@ -560,7 +560,7 @@ window.LISTENING = {
   },
   {
    "name": "Led Zeppelin",
-   "plays": 2314,
+   "plays": 2315,
    "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp",
    "image": "https://i.scdn.co/image/ab67616d00001e02c8a11e48c91a982d086afc69"
   },
@@ -833,7 +833,7 @@ window.LISTENING = {
   },
   {
    "decade": 1960,
-   "plays": 7088,
+   "plays": 7089,
    "covers": [
     {
      "name": "Your Time Is Gonna Come - 1990 Remaster",
@@ -855,7 +855,7 @@ window.LISTENING = {
      "image_large": "https://i.scdn.co/image/ab67616d0000b273fc4f17340773c6c3579fea0d",
      "url": "https://open.spotify.com/track/0hCB0YR03f6AmQaHbwWDe8",
      "album_url": "https://open.spotify.com/album/70lQYZtypdCALtFVlQAcvx",
-     "plays": 439
+     "plays": 440
     },
     {
      "name": "All Along the Watchtower",
@@ -1115,7 +1115,7 @@ window.LISTENING = {
   },
   {
    "decade": 1990,
-   "plays": 9774,
+   "plays": 9775,
    "covers": [
     {
      "name": "Amazing",
