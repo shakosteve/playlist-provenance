@@ -1,7 +1,7 @@
 window.LISTENING = {
  "title": "The Listening Booth",
- "generated": "2026-11-25T12:10:08Z",
- "synced": "2026-11-25T12:10:01Z",
+ "generated": "2026-11-25T13:40:07Z",
+ "synced": "2026-11-25T13:40:01Z",
  "totals": {
   "plays": 125575,
   "hours": 8537.6,
@@ -1492,6 +1492,19 @@ window.LISTENING = {
  ],
  "episodes": [
   {
+   "name": "Huang Out, Huang Back In",
+   "show": "Getting Hammered®",
+   "show_uri": "spotify:show:53vma6orvxtnzLmO5P8yLQ",
+   "release_date": "2026-11-25",
+   "duration_ms": 3571577,
+   "image": "https://i.scdn.co/image/ab67656300005f1f8bf9513ccc1d86122c3261c8",
+   "first_seen": "2026-11-25T13:40:02Z",
+   "progress_ms": 871801,
+   "last_seen": "2026-11-25T13:40:02Z",
+   "url": "https://open.spotify.com/episode/4ZOJ9NMxjAAqHSUbwR9Lpt",
+   "show_image": "https://i.scdn.co/image/ab67656300005f1f8bf9513ccc1d86122c3261c8"
+  },
+  {
    "name": "Trump’s Intervention at Nvidia Sparks Bipartisan Backlash",
    "show": "Amanpour",
    "show_uri": "spotify:show:3sLR8M7JchYmhWuf8QtlyO",
@@ -1633,19 +1646,6 @@ window.LISTENING = {
    "last_seen": "2026-11-24T13:40:02Z",
    "url": "https://open.spotify.com/episode/6MhjhMaOzqYQVe4943j32D",
    "show_image": "https://i.scdn.co/image/ab67656300005f1f77e76ef980ccf6174ff80c42"
-  },
-  {
-   "name": "The Return of Jensen Huang",
-   "show": "RealClearPolitics Podcast",
-   "show_uri": "spotify:show:5FkNemg3aIaPPNBImIcW2l",
-   "release_date": "2026-11-23",
-   "duration_ms": 3169149,
-   "image": "https://i.scdn.co/image/ab67656300005f1fe19edf2c6856b8b09c057f38",
-   "first_seen": "2026-11-24T05:40:02Z",
-   "progress_ms": 3162600,
-   "last_seen": "2026-11-24T13:10:02Z",
-   "url": "https://open.spotify.com/episode/5oxciY5BBavxEW0JUNp3jC",
-   "show_image": "https://i.scdn.co/image/ab67656300005f1fe19edf2c6856b8b09c057f38"
   }
  ],
  "top_shows": [
