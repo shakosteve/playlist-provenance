@@ -1,15 +1,70 @@
 window.LISTENING = {
  "title": "The Listening Booth",
- "generated": "2026-11-25T00:40:08Z",
- "synced": "2026-11-25T00:40:01Z",
+ "generated": "2026-11-25T01:10:08Z",
+ "synced": "2026-11-25T01:10:02Z",
  "totals": {
-  "plays": 125569,
-  "hours": 8537.2,
+  "plays": 125574,
+  "hours": 8537.5,
   "artists": 702,
   "albums": 1533,
   "first": "2013-05-07T01:40:37Z"
  },
  "recent": [
+  {
+   "name": "P.S.Y.C.H.O.T.I.C.",
+   "artist": "The Warning",
+   "album": "Queen of the Murder Scene",
+   "year": 2018,
+   "image": "https://i.scdn.co/image/ab67616d00001e02e0871bbaad013df7b7e56c2a",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b273e0871bbaad013df7b7e56c2a",
+   "url": "https://open.spotify.com/track/0wRHqRHUXgoOXe6H6XS1sJ",
+   "album_url": "https://open.spotify.com/album/2kB1Qqw3YOR9i3nbNxXWRs",
+   "played_at": "2026-11-25T01:00:36.174Z"
+  },
+  {
+   "name": "Against The Wind",
+   "artist": "Bob Seger",
+   "album": "Against The Wind",
+   "year": 1980,
+   "image": "https://i.scdn.co/image/ab67616d00001e0299b37676fbae815424b4b1a4",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b27399b37676fbae815424b4b1a4",
+   "url": "https://open.spotify.com/track/1SWmFiFSIBoDbQJjNKC7SR",
+   "album_url": "https://open.spotify.com/album/2Go2GZ8qMznHdAoLO1cG4W",
+   "played_at": "2026-11-25T00:56:55.977Z"
+  },
+  {
+   "name": "Bad Medicine",
+   "artist": "Bon Jovi",
+   "album": "New Jersey (Deluxe Edition)",
+   "year": 1988,
+   "image": "https://i.scdn.co/image/ab67616d00001e02901d0116a03d30a5c45bb99c",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b273901d0116a03d30a5c45bb99c",
+   "url": "https://open.spotify.com/track/72hcFp4tYkd3dbNA9dZ3Pv",
+   "album_url": "https://open.spotify.com/album/3mcKOl0KNe65BqiBa40WxR",
+   "played_at": "2026-11-25T00:51:21.741Z"
+  },
+  {
+   "name": "VHS",
+   "artist": "Freeze the Fall",
+   "album": "VHS",
+   "year": 2024,
+   "image": "https://i.scdn.co/image/ab67616d00001e0241d86dc3e3abbc5447edc351",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b27341d86dc3e3abbc5447edc351",
+   "url": "https://open.spotify.com/track/5UBVWzkPAP9uRnhEAMPoyY",
+   "album_url": "https://open.spotify.com/album/55sg7o5JnKuz8gfwjkiyf5",
+   "played_at": "2026-11-25T00:46:04.672Z"
+  },
+  {
+   "name": "Animal - Remastered 2017",
+   "artist": "Def Leppard",
+   "album": "Hysteria (Super Deluxe)",
+   "year": 1987,
+   "image": "https://i.scdn.co/image/ab67616d00001e02222cb38afc3b3b47d9df26aa",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b273222cb38afc3b3b47d9df26aa",
+   "url": "https://open.spotify.com/track/4F12pb0e2KnyLuCMRs0Rd2",
+   "album_url": "https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE",
+   "played_at": "2026-11-25T00:42:31.474Z"
+  },
   {
    "name": "Burnout",
    "artist": "The Warning",
@@ -482,67 +537,12 @@ window.LISTENING = {
    "url": "https://open.spotify.com/track/4H3vuLX59XPqdtTpIesGyS",
    "album_url": "https://open.spotify.com/album/2CLt8z7ozftRAx6I37C7rE",
    "played_at": "2026-11-21T16:29:27.635Z"
-  },
-  {
-   "name": "Livin' On A Prayer",
-   "artist": "Bon Jovi",
-   "album": "Slippery When Wet",
-   "year": 1986,
-   "image": "https://i.scdn.co/image/ab67616d00001e021336b31b6a1799f0de5807ac",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b2731336b31b6a1799f0de5807ac",
-   "url": "https://open.spotify.com/track/37ZJ0p5Jm13JPevGcx4SkF",
-   "album_url": "https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t",
-   "played_at": "2026-11-21T16:11:33.307Z"
-  },
-  {
-   "name": "Too Good to be True",
-   "artist": "Kacey Musgraves",
-   "album": "Deeper Well",
-   "year": 2024,
-   "image": "https://i.scdn.co/image/ab67616d00001e02b598ad81e340f28f8b523c41",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b273b598ad81e340f28f8b523c41",
-   "url": "https://open.spotify.com/track/27RDQ0TfxzWMlQFuKrPT11",
-   "album_url": "https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ",
-   "played_at": "2026-11-21T16:07:22.286Z"
-  },
-  {
-   "name": "Wild Side",
-   "artist": "Mötley Crüe",
-   "album": "Girls, Girls, Girls (Deluxe Version)",
-   "year": 1987,
-   "image": "https://i.scdn.co/image/ab67616d00001e02c1b41df3ca1fc7f6a69feb4f",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b273c1b41df3ca1fc7f6a69feb4f",
-   "url": "https://open.spotify.com/track/7zVpUAOuXY7pHHSm21jFEq",
-   "album_url": "https://open.spotify.com/album/0vPZhR1KpbRNBOQBsDScS8",
-   "played_at": "2026-11-21T16:04:41.802Z"
-  },
-  {
-   "name": "Tin Man",
-   "artist": "America",
-   "album": "Holiday",
-   "year": 1974,
-   "image": "https://i.scdn.co/image/ab67616d00001e026f1376d1c0ec3fcd2e366cba",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b2736f1376d1c0ec3fcd2e366cba",
-   "url": "https://open.spotify.com/track/4uTTd2SlalZoG0zVgI63kH",
-   "album_url": "https://open.spotify.com/album/4jOItHaJyNyXJxz8toGytx",
-   "played_at": "2026-11-21T15:59:57.566Z"
-  },
-  {
-   "name": "We Will Rock You",
-   "artist": "Queen",
-   "album": "News Of The World",
-   "year": 1977,
-   "image": "https://i.scdn.co/image/ab67616d00001e026c74d509c1581f8e0a35391b",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b2736c74d509c1581f8e0a35391b",
-   "url": "https://open.spotify.com/track/2ELSVi4kwWOXgxiIC592tJ",
-   "album_url": "https://open.spotify.com/album/7hq6mnrJ7CWbemk6B3H8PJ",
-   "played_at": "2026-11-21T15:46:41.283Z"
   }
  ],
  "top_artists": [
   {
    "name": "The Warning",
-   "plays": 10735,
+   "plays": 10736,
    "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh",
    "image": "https://i.scdn.co/image/ab67616d00001e0204a3dad60eb365aec55022de"
   },
@@ -622,7 +622,7 @@ window.LISTENING = {
    "image_large": "https://i.scdn.co/image/ab67616d0000b273e0871bbaad013df7b7e56c2a",
    "url": "https://open.spotify.com/track/3byoK5Yi2YT9Gcc4xS8qKE",
    "album_url": "https://open.spotify.com/album/2kB1Qqw3YOR9i3nbNxXWRs",
-   "plays": 1906
+   "plays": 1907
   },
   {
    "name": "Back In Black",
@@ -655,7 +655,7 @@ window.LISTENING = {
    "image_large": "https://i.scdn.co/image/ab67616d0000b273222cb38afc3b3b47d9df26aa",
    "url": "https://open.spotify.com/track/1F1ek5FOLawYoPuZI0GITr",
    "album_url": "https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE",
-   "plays": 1329
+   "plays": 1330
   },
   {
    "name": "ERROR",
@@ -1021,7 +1021,7 @@ window.LISTENING = {
   },
   {
    "decade": 1980,
-   "plays": 33035,
+   "plays": 33038,
    "covers": [
     {
      "name": "Back In Black",
@@ -1043,7 +1043,7 @@ window.LISTENING = {
      "image_large": "https://i.scdn.co/image/ab67616d0000b273222cb38afc3b3b47d9df26aa",
      "url": "https://open.spotify.com/track/1F1ek5FOLawYoPuZI0GITr",
      "album_url": "https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE",
-     "plays": 1329
+     "plays": 1330
     },
     {
      "name": "My Kinda Lover - Remastered 2010",
@@ -1303,7 +1303,7 @@ window.LISTENING = {
   },
   {
    "decade": 2010,
-   "plays": 15837,
+   "plays": 15838,
    "covers": [
     {
      "name": "XXI Century Blood",
@@ -1325,7 +1325,7 @@ window.LISTENING = {
      "image_large": "https://i.scdn.co/image/ab67616d0000b273e0871bbaad013df7b7e56c2a",
      "url": "https://open.spotify.com/track/3byoK5Yi2YT9Gcc4xS8qKE",
      "album_url": "https://open.spotify.com/album/2kB1Qqw3YOR9i3nbNxXWRs",
-     "plays": 1906
+     "plays": 1907
     },
     {
      "name": "Rhyme or Reason",
@@ -1397,7 +1397,7 @@ window.LISTENING = {
   },
   {
    "decade": 2020,
-   "plays": 18745,
+   "plays": 18746,
    "covers": [
     {
      "name": "ERROR",
