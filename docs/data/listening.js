@@ -1,15 +1,26 @@
 window.LISTENING = {
  "title": "The Listening Booth",
- "generated": "2026-11-25T20:10:09Z",
- "synced": "2026-11-25T20:10:01Z",
+ "generated": "2026-11-25T21:10:07Z",
+ "synced": "2026-11-25T21:10:01Z",
  "totals": {
-  "plays": 125616,
-  "hours": 8540.4,
+  "plays": 125617,
+  "hours": 8540.5,
   "artists": 702,
   "albums": 1533,
   "first": "2013-05-07T01:40:37Z"
  },
  "recent": [
+  {
+   "name": "Unmendable",
+   "artist": "The Warning",
+   "album": "XXI Century Blood",
+   "year": 2017,
+   "image": "https://i.scdn.co/image/ab67616d00001e0204a3dad60eb365aec55022de",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b27304a3dad60eb365aec55022de",
+   "url": "https://open.spotify.com/track/3YPWoSTTdI97QeyjV9t68F",
+   "album_url": "https://open.spotify.com/album/6nEiN0eM1gbvDsijV46XrX",
+   "played_at": "2026-11-25T20:26:14.941Z"
+  },
   {
    "name": "Forty Six & 2",
    "artist": "TOOL",
@@ -526,23 +537,12 @@ window.LISTENING = {
    "url": "https://open.spotify.com/track/3m1XjVSdOzGGedI15JgsMa",
    "album_url": "https://open.spotify.com/album/5Bjbfx9AELAXq13zH6CsV0",
    "played_at": "2026-11-25T00:38:25.073Z"
-  },
-  {
-   "name": "If I Had a Heart",
-   "artist": "Fever Ray",
-   "album": "Fever Ray",
-   "year": 2009,
-   "image": "https://i.scdn.co/image/ab67616d00001e02707831d5303efb3caa6c723e",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b273707831d5303efb3caa6c723e",
-   "url": "https://open.spotify.com/track/3eJyXwiYepWvEDKABhm7lL",
-   "album_url": "https://open.spotify.com/album/019nA7vSKz0dD5yRKYRpbM",
-   "played_at": "2026-11-25T00:26:51.373Z"
   }
  ],
  "top_artists": [
   {
    "name": "The Warning",
-   "plays": 10737,
+   "plays": 10738,
    "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh",
    "image": "https://i.scdn.co/image/ab67616d00001e0204a3dad60eb365aec55022de"
   },
@@ -611,7 +611,7 @@ window.LISTENING = {
    "image_large": "https://i.scdn.co/image/ab67616d0000b27304a3dad60eb365aec55022de",
    "url": "https://open.spotify.com/track/1VcLiPmina1L3xlLkJ5OTS",
    "album_url": "https://open.spotify.com/album/6nEiN0eM1gbvDsijV46XrX",
-   "plays": 3500
+   "plays": 3501
   },
   {
    "name": "Dust to Dust",
@@ -1303,7 +1303,7 @@ window.LISTENING = {
   },
   {
    "decade": 2010,
-   "plays": 15842,
+   "plays": 15843,
    "covers": [
     {
      "name": "XXI Century Blood",
@@ -1314,7 +1314,7 @@ window.LISTENING = {
      "image_large": "https://i.scdn.co/image/ab67616d0000b27304a3dad60eb365aec55022de",
      "url": "https://open.spotify.com/track/1VcLiPmina1L3xlLkJ5OTS",
      "album_url": "https://open.spotify.com/album/6nEiN0eM1gbvDsijV46XrX",
-     "plays": 3500
+     "plays": 3501
     },
     {
      "name": "Dust to Dust",
