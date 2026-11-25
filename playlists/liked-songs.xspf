@@ -3,7 +3,7 @@
   <title>Liked Songs</title>
   <creator>Steven</creator>
   <info>https://open.spotify.com/collection/tracks</info>
-  <date>2026-11-25T15:10:14Z</date>
+  <date>2026-11-25T15:40:13Z</date>
   <trackList>
     <track>
       <title>Whole Lotta Love - Live</title>
@@ -418,15 +418,6 @@
       <identifier>isrc:GBUM72503087</identifier>
       <identifier>spotify:track:6sGIMrtIzQjdzNndVxe397</identifier>
       <info>https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397</info>
-    </track>
-    <track>
-      <title>i'll dance anyways</title>
-      <creator>Jasmine Star</creator>
-      <album>i'll dance anyways</album>
-      <duration>164000</duration>
-      <identifier>isrc:QMEU32416415</identifier>
-      <identifier>spotify:track:0NGJMpmr3ERMov6zjyI2zz</identifier>
-      <info>https://open.spotify.com/track/0NGJMpmr3ERMov6zjyI2zz</info>
     </track>
     <track>
       <title>ELEVATE</title>
@@ -1851,15 +1842,6 @@
       <info>https://open.spotify.com/track/3pRCHHfwYNVCOjWSrkGNw1</info>
     </track>
     <track>
-      <title>I Confess</title>
-      <creator>Jasmine Star</creator>
-      <album>I Confess</album>
-      <duration>170500</duration>
-      <identifier>isrc:QZFZ42411239</identifier>
-      <identifier>spotify:track:0yIYN5oWb6XX93C7xmoqOD</identifier>
-      <info>https://open.spotify.com/track/0yIYN5oWb6XX93C7xmoqOD</info>
-    </track>
-    <track>
       <title>Give Me One Reason</title>
       <creator>Tracy Chapman</creator>
       <album>New Beginning</album>
@@ -2319,15 +2301,6 @@
       <info>https://open.spotify.com/track/5K3Q1gue9nWLLwh6bYQFoB</info>
     </track>
     <track>
-      <title>Gila Monster</title>
-      <creator>King Gizzard &amp; The Lizard Wizard</creator>
-      <album>Gila Monster</album>
-      <duration>275774</duration>
-      <identifier>isrc:AU2ZC2300172</identifier>
-      <identifier>spotify:track:7zHiG2FFEpeGvBmJkgZzVv</identifier>
-      <info>https://open.spotify.com/track/7zHiG2FFEpeGvBmJkgZzVv</info>
-    </track>
-    <track>
       <title>MORE</title>
       <creator>The Warning</creator>
       <album>MORE</album>
@@ -2335,15 +2308,6 @@
       <identifier>isrc:USUM72306520</identifier>
       <identifier>spotify:track:2uqCJn5VFTf3sZEDJZvvX0</identifier>
       <info>https://open.spotify.com/track/2uqCJn5VFTf3sZEDJZvvX0</info>
-    </track>
-    <track>
-      <title>Sadie Sorceress</title>
-      <creator>King Gizzard &amp; The Lizard Wizard</creator>
-      <album>Omnium Gatherum</album>
-      <duration>187532</duration>
-      <identifier>isrc:AU2ZC2100207</identifier>
-      <identifier>spotify:track:6AcCvbJxR4PO6Fzv0UYdyW</identifier>
-      <info>https://open.spotify.com/track/6AcCvbJxR4PO6Fzv0UYdyW</info>
     </track>
     <track>
       <title>Smooth (feat. Rob Thomas)</title>
@@ -2859,15 +2823,6 @@
       <info>https://open.spotify.com/track/1KhhVk0CgXQm1DYCCVJ2M1</info>
     </track>
     <track>
-      <title>She's Got the Looks That Kill</title>
-      <creator>The Rumours</creator>
-      <album>Hotbang</album>
-      <duration>185986</duration>
-      <identifier>isrc:USCGJ1722282</identifier>
-      <identifier>spotify:track:3BEi0jGZCkwqKJuvjSJZd2</identifier>
-      <info>https://open.spotify.com/track/3BEi0jGZCkwqKJuvjSJZd2</info>
-    </track>
-    <track>
       <title>Hey You</title>
       <creator>The Rumours</creator>
       <album>Suck It</album>
@@ -2920,15 +2875,6 @@
       <identifier>isrc:USA176410350</identifier>
       <identifier>spotify:track:4KoBKbnRh4BywqvY5VPkts</identifier>
       <info>https://open.spotify.com/track/4KoBKbnRh4BywqvY5VPkts</info>
-    </track>
-    <track>
-      <title>There You Go</title>
-      <creator>Heart</creator>
-      <album>Red Velvet Car</album>
-      <duration>216080</duration>
-      <identifier>isrc:USQX91000431</identifier>
-      <identifier>spotify:track:6906dRcNhYWmrr4II8Pi3K</identifier>
-      <info>https://open.spotify.com/track/6906dRcNhYWmrr4II8Pi3K</info>
     </track>
     <track>
       <title>Patient Number 9 (feat. Jeff Beck)</title>
@@ -3019,15 +2965,6 @@
       <identifier>isrc:GBAJE7300022</identifier>
       <identifier>spotify:track:10sWvaY5yelQYHEvKfce4x</identifier>
       <info>https://open.spotify.com/track/10sWvaY5yelQYHEvKfce4x</info>
-    </track>
-    <track>
-      <title>Whole Lotta Sabbath (Wax Audio Lance Herbstrong Edit)</title>
-      <creator>Lance Herbstrong</creator>
-      <album>Meth Breakfast</album>
-      <duration>193693</duration>
-      <identifier>isrc:TCABL1359335</identifier>
-      <identifier>spotify:track:56VvVWzJLs4pKu6a6OUvJ9</identifier>
-      <info>https://open.spotify.com/track/56VvVWzJLs4pKu6a6OUvJ9</info>
     </track>
     <track>
       <title>American Woman - 2024 Remaster</title>
@@ -3291,15 +3228,6 @@
       <info>https://open.spotify.com/track/30ZyIVY5BFyyxVkvyGWc1F</info>
     </track>
     <track>
-      <title>Perfect Day</title>
-      <creator>Jasmine Star</creator>
-      <album>Perfect Day</album>
-      <duration>165000</duration>
-      <identifier>isrc:QZES52277618</identifier>
-      <identifier>spotify:track:6Smy0OgmUE59LjmWRTmxJz</identifier>
-      <info>https://open.spotify.com/track/6Smy0OgmUE59LjmWRTmxJz</info>
-    </track>
-    <track>
       <title>Supermassive Black Hole</title>
       <creator>Muse</creator>
       <album>Black Holes and Revelations</album>
@@ -3408,15 +3336,6 @@
       <info>https://open.spotify.com/track/4f3RDq9nYPBeR1yMSgnmBm</info>
     </track>
     <track>
-      <title>Without me</title>
-      <creator>Snow White In The Dark</creator>
-      <album>Without me</album>
-      <duration>258760</duration>
-      <identifier>isrc:DE1A92100012</identifier>
-      <identifier>spotify:track:1nRnxSzhuzhgmGgcMwMwOJ</identifier>
-      <info>https://open.spotify.com/track/1nRnxSzhuzhgmGgcMwMwOJ</info>
-    </track>
-    <track>
       <title>Follow Me</title>
       <creator>Uncle Kracker</creator>
       <album>Double Wide</album>
@@ -3424,24 +3343,6 @@
       <identifier>isrc:USAT20001583</identifier>
       <identifier>spotify:track:4KoecuyOpZaNFZ0UqVsllc</identifier>
       <info>https://open.spotify.com/track/4KoecuyOpZaNFZ0UqVsllc</info>
-    </track>
-    <track>
-      <title>Breakthrough</title>
-      <creator>Jasmine Star</creator>
-      <album>Breakthrough</album>
-      <duration>209387</duration>
-      <identifier>isrc:uscgj2091474</identifier>
-      <identifier>spotify:track:0Xev9hpI10egcj7mDitdB4</identifier>
-      <info>https://open.spotify.com/track/0Xev9hpI10egcj7mDitdB4</info>
-    </track>
-    <track>
-      <title>DRIVE</title>
-      <creator>Jasmine Star</creator>
-      <album>DRIVE</album>
-      <duration>177813</duration>
-      <identifier>isrc:QZPLS2128751</identifier>
-      <identifier>spotify:track:0S3TryqfN8SOuGgQvLaYdv</identifier>
-      <info>https://open.spotify.com/track/0S3TryqfN8SOuGgQvLaYdv</info>
     </track>
     <track>
       <title>Leaky Little Boat</title>
@@ -3739,33 +3640,6 @@
       <identifier>isrc:QMEU32101169</identifier>
       <identifier>spotify:track:6DWK2Ob0jEsqalt4mbiaLj</identifier>
       <info>https://open.spotify.com/track/6DWK2Ob0jEsqalt4mbiaLj</info>
-    </track>
-    <track>
-      <title>Alive</title>
-      <creator>Snow White In The Dark</creator>
-      <album>Alive</album>
-      <duration>201750</duration>
-      <identifier>isrc:FRX282156027</identifier>
-      <identifier>spotify:track:2Anzr0Zg9Uuz9JQllJsJVj</identifier>
-      <info>https://open.spotify.com/track/2Anzr0Zg9Uuz9JQllJsJVj</info>
-    </track>
-    <track>
-      <title>Tide</title>
-      <creator>Jasmine Star</creator>
-      <album>Tide</album>
-      <duration>202918</duration>
-      <identifier>isrc:ushm91982890</identifier>
-      <identifier>spotify:track:1eZyUvmif7yBCAqMp8KM9w</identifier>
-      <info>https://open.spotify.com/track/1eZyUvmif7yBCAqMp8KM9w</info>
-    </track>
-    <track>
-      <title>The Cliff</title>
-      <creator>Jasmine Star</creator>
-      <album>The Cliff</album>
-      <duration>196949</duration>
-      <identifier>isrc:QZES92151864</identifier>
-      <identifier>spotify:track:3LZeqfAMTW0suTUnQzmkjd</identifier>
-      <info>https://open.spotify.com/track/3LZeqfAMTW0suTUnQzmkjd</info>
     </track>
     <track>
       <title>Man On The Silver Mountain</title>

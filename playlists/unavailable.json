@@ -208,7 +208,10 @@
       "album": "i'll dance anyways",
       "isrc": "QMEU32416415",
       "reason": null,
-      "since": "2026-11-19"
+      "since": "2026-11-19",
+      "until": "2026-11-25",
+      "ended_at": "2026-11-25T15:40:13Z",
+      "outcome": "removed from playlist"
     },
     {
       "playlist": "Liked Songs",
@@ -237,7 +240,10 @@
       "album": "I Confess",
       "isrc": "QZFZ42411239",
       "reason": null,
-      "since": "2026-11-19"
+      "since": "2026-11-19",
+      "until": "2026-11-25",
+      "ended_at": "2026-11-25T15:40:13Z",
+      "outcome": "removed from playlist"
     },
     {
       "playlist": "Liked Songs",
@@ -250,7 +256,10 @@
       "album": "Gila Monster",
       "isrc": "AU2ZC2300172",
       "reason": null,
-      "since": "2026-11-19"
+      "since": "2026-11-19",
+      "until": "2026-11-25",
+      "ended_at": "2026-11-25T15:40:13Z",
+      "outcome": "removed from playlist"
     },
     {
       "playlist": "Liked Songs",
@@ -263,7 +272,10 @@
       "album": "Omnium Gatherum",
       "isrc": "AU2ZC2100207",
       "reason": null,
-      "since": "2026-11-19"
+      "since": "2026-11-19",
+      "until": "2026-11-25",
+      "ended_at": "2026-11-25T15:40:13Z",
+      "outcome": "removed from playlist"
     },
     {
       "playlist": "Liked Songs",
@@ -292,7 +304,10 @@
       "album": "Hotbang",
       "isrc": "USCGJ1722282",
       "reason": null,
-      "since": "2026-11-19"
+      "since": "2026-11-19",
+      "until": "2026-11-25",
+      "ended_at": "2026-11-25T15:40:13Z",
+      "outcome": "removed from playlist"
     },
     {
       "playlist": "Liked Songs",
@@ -305,7 +320,10 @@
       "album": "Red Velvet Car",
       "isrc": "USQX91000431",
       "reason": null,
-      "since": "2026-11-19"
+      "since": "2026-11-19",
+      "until": "2026-11-25",
+      "ended_at": "2026-11-25T15:40:13Z",
+      "outcome": "removed from playlist"
     },
     {
       "playlist": "Liked Songs",
@@ -318,7 +336,10 @@
       "album": "Meth Breakfast",
       "isrc": "TCABL1359335",
       "reason": null,
-      "since": "2026-11-19"
+      "since": "2026-11-19",
+      "until": "2026-11-25",
+      "ended_at": "2026-11-25T15:40:13Z",
+      "outcome": "removed from playlist"
     },
     {
       "playlist": "Liked Songs",
@@ -331,7 +352,10 @@
       "album": "Perfect Day",
       "isrc": "QZES52277618",
       "reason": null,
-      "since": "2026-11-19"
+      "since": "2026-11-19",
+      "until": "2026-11-25",
+      "ended_at": "2026-11-25T15:40:13Z",
+      "outcome": "removed from playlist"
     },
     {
       "playlist": "Liked Songs",
@@ -344,7 +368,10 @@
       "album": "Without me",
       "isrc": "DE1A92100012",
       "reason": null,
-      "since": "2026-11-19"
+      "since": "2026-11-19",
+      "until": "2026-11-25",
+      "ended_at": "2026-11-25T15:40:13Z",
+      "outcome": "removed from playlist"
     },
     {
       "playlist": "Liked Songs",
@@ -357,7 +384,10 @@
       "album": "Breakthrough",
       "isrc": "uscgj2091474",
       "reason": null,
-      "since": "2026-11-19"
+      "since": "2026-11-19",
+      "until": "2026-11-25",
+      "ended_at": "2026-11-25T15:40:13Z",
+      "outcome": "removed from playlist"
     },
     {
       "playlist": "Liked Songs",
@@ -370,7 +400,10 @@
       "album": "DRIVE",
       "isrc": "QZPLS2128751",
       "reason": null,
-      "since": "2026-11-19"
+      "since": "2026-11-19",
+      "until": "2026-11-25",
+      "ended_at": "2026-11-25T15:40:13Z",
+      "outcome": "removed from playlist"
     },
     {
       "playlist": "Liked Songs",
@@ -383,7 +416,10 @@
       "album": "Alive",
       "isrc": "FRX282156027",
       "reason": null,
-      "since": "2026-11-19"
+      "since": "2026-11-19",
+      "until": "2026-11-25",
+      "ended_at": "2026-11-25T15:40:13Z",
+      "outcome": "removed from playlist"
     },
     {
       "playlist": "Liked Songs",
@@ -396,7 +432,10 @@
       "album": "Tide",
       "isrc": "ushm91982890",
       "reason": null,
-      "since": "2026-11-19"
+      "since": "2026-11-19",
+      "until": "2026-11-25",
+      "ended_at": "2026-11-25T15:40:13Z",
+      "outcome": "removed from playlist"
     },
     {
       "playlist": "Liked Songs",
@@ -409,7 +448,10 @@
       "album": "The Cliff",
       "isrc": "QZES92151864",
       "reason": null,
-      "since": "2026-11-19"
+      "since": "2026-11-19",
+      "until": "2026-11-25",
+      "ended_at": "2026-11-25T15:40:13Z",
+      "outcome": "removed from playlist"
     }
   ]
 }
