@@ -1,15 +1,92 @@
 window.LISTENING = {
  "title": "The Listening Booth",
- "generated": "2026-11-25T18:10:09Z",
- "synced": "2026-11-25T18:10:01Z",
+ "generated": "2026-11-25T18:40:07Z",
+ "synced": "2026-11-25T18:40:01Z",
  "totals": {
-  "plays": 125593,
-  "hours": 8538.8,
+  "plays": 125600,
+  "hours": 8539.3,
   "artists": 702,
   "albums": 1533,
   "first": "2013-05-07T01:40:37Z"
  },
  "recent": [
+  {
+   "name": "What I Am",
+   "artist": "Edie Brickell & New Bohemians",
+   "album": "Shooting Rubberbands At The Stars",
+   "year": 1988,
+   "image": "https://i.scdn.co/image/ab67616d00001e02c4cc3c70e4896a692ca6b582",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b273c4cc3c70e4896a692ca6b582",
+   "url": "https://open.spotify.com/track/6hHUiDe461VUoTHnsplRYs",
+   "album_url": "https://open.spotify.com/album/2oZzKVi2mqkQnZOad6DXMw",
+   "played_at": "2026-11-25T18:36:19.920Z"
+  },
+  {
+   "name": "Sweet Caroline",
+   "artist": "Neil Diamond",
+   "album": "Sweet Caroline",
+   "year": 1969,
+   "image": "https://i.scdn.co/image/ab67616d00001e024d1a7a3e5043173883653ffc",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b2734d1a7a3e5043173883653ffc",
+   "url": "https://open.spotify.com/track/62AuGbAkt8Ox2IrFFb8GKV",
+   "album_url": "https://open.spotify.com/album/6RfgcwsOUlWkGNAd6zjjYd",
+   "played_at": "2026-11-25T18:31:23.020Z"
+  },
+  {
+   "name": "Hallelujah",
+   "artist": "Rufus Wainwright",
+   "album": "Shrek (Music From The Original Motion Picture)",
+   "year": 2001,
+   "image": "https://i.scdn.co/image/ab67616d00001e026608b12a4cbbb2ab179c7738",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b2736608b12a4cbbb2ab179c7738",
+   "url": "https://open.spotify.com/track/5USZyz6dnBEn1oLsKcAKQy",
+   "album_url": "https://open.spotify.com/album/4fFn4t0JoZrNB3VY4HZ970",
+   "played_at": "2026-11-25T18:27:59.042Z"
+  },
+  {
+   "name": "Dust in the Wind",
+   "artist": "Kansas",
+   "album": "Point Of Know Return (Expanded Edition)",
+   "year": 1977,
+   "image": "https://i.scdn.co/image/ab67616d00001e0259f0f56a7cd13526b5b4204c",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b27359f0f56a7cd13526b5b4204c",
+   "url": "https://open.spotify.com/track/6zeE5tKyr8Nu882DQhhSQI",
+   "album_url": "https://open.spotify.com/album/6oU298pdPTCQnMx1PYwyUA",
+   "played_at": "2026-11-25T18:23:49.621Z"
+  },
+  {
+   "name": "Black Hole Sun",
+   "artist": "Soundgarden",
+   "album": "Superunknown (Deluxe Edition)",
+   "year": 1994,
+   "image": "https://i.scdn.co/image/ab67616d00001e02ae6d8e36136353d550b2587d",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b273ae6d8e36136353d550b2587d",
+   "url": "https://open.spotify.com/track/2EoOZnxNgtmZaD8uUmz2nD",
+   "album_url": "https://open.spotify.com/album/29sTacnS0qA9xri6YS8xLA",
+   "played_at": "2026-11-25T18:20:22.820Z"
+  },
+  {
+   "name": "Dirty Deeds",
+   "artist": "Joan Jett & the Blackhearts",
+   "album": "The Hit List",
+   "year": 1990,
+   "image": "https://i.scdn.co/image/ab67616d00001e024762653c281c71d8837d180b",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b2734762653c281c71d8837d180b",
+   "url": "https://open.spotify.com/track/5EmjBlrR2TzVzyveICMllj",
+   "album_url": "https://open.spotify.com/album/2mIFpqxnoM71gHMBKlzZtM",
+   "played_at": "2026-11-25T18:15:03.683Z"
+  },
+  {
+   "name": "In the Air Tonight - 2015 Remaster",
+   "artist": "Phil Collins",
+   "album": "Face Value (Deluxe Editon)",
+   "year": 1981,
+   "image": "https://i.scdn.co/image/ab67616d00001e028a1d7cf42a84b10bd1ff8e56",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b2738a1d7cf42a84b10bd1ff8e56",
+   "url": "https://open.spotify.com/track/18AXbzPzBS8Y3AkgSxzJPb",
+   "album_url": "https://open.spotify.com/album/1cM3r0WQZWNkCpEbmFjLln",
+   "played_at": "2026-11-25T18:11:45.428Z"
+  },
   {
    "name": "Lonesome Loser - Remastered 2022",
    "artist": "Little River Band",
@@ -460,83 +537,6 @@ window.LISTENING = {
    "url": "https://open.spotify.com/track/4w1lzcaoZ1IC2K5TwjalRP",
    "album_url": "https://open.spotify.com/album/5e7T2qUigzt0oIr50KsOld",
    "played_at": "2026-11-24T17:44:02.677Z"
-  },
-  {
-   "name": "Holiday Road - National Lampoon's Vacation",
-   "artist": "Lindsey Buckingham",
-   "album": "Gift Wrapped 3 - A Holiday Smörgåsbord",
-   "year": 2015,
-   "image": "https://i.scdn.co/image/ab67616d00001e02df79499dab6ce346e5dd5df9",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b273df79499dab6ce346e5dd5df9",
-   "url": "https://open.spotify.com/track/1IatSwgjql4MzdLbUF1JVJ",
-   "album_url": "https://open.spotify.com/album/2xolpIjM01HAQfgObLOE4X",
-   "played_at": "2026-11-24T17:40:04.797Z"
-  },
-  {
-   "name": "Smoking Gun",
-   "artist": "Jackie Evancho",
-   "album": "Smoking Gun",
-   "year": 2024,
-   "image": "https://i.scdn.co/image/ab67616d00001e029b00a3a62d6125cbdce08575",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b2739b00a3a62d6125cbdce08575",
-   "url": "https://open.spotify.com/track/7EGTm5wU1WWPWIO4GBWq2P",
-   "album_url": "https://open.spotify.com/album/1nfnX7vJQcGK0SBWcOr7mv",
-   "played_at": "2026-11-24T17:37:52.697Z"
-  },
-  {
-   "name": "Metal Chestnut",
-   "artist": "Slash",
-   "album": "Orgy of the Damned",
-   "year": 2024,
-   "image": "https://i.scdn.co/image/ab67616d00001e02e66f735898f62043666589b3",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b273e66f735898f62043666589b3",
-   "url": "https://open.spotify.com/track/0hx19Rxlafp5mpiRa2FEIF",
-   "album_url": "https://open.spotify.com/album/6aTrDhVw5QgXSz2JM4V8hc",
-   "played_at": "2026-11-24T17:33:50.816Z"
-  },
-  {
-   "name": "Rocket",
-   "artist": "Def Leppard",
-   "album": "Hysteria",
-   "year": 1987,
-   "image": "https://i.scdn.co/image/ab67616d00001e0243511b8c20112757edddc7ba",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b27343511b8c20112757edddc7ba",
-   "url": "https://open.spotify.com/track/0RVeadY2MbHz4Pe4MreLNw",
-   "album_url": "https://open.spotify.com/album/1ja2qzCrh6bZykcojbZs82",
-   "played_at": "2026-11-24T17:30:47.293Z"
-  },
-  {
-   "name": "New Religion",
-   "artist": "Return to Dust",
-   "album": "New Religion",
-   "year": 2025,
-   "image": "https://i.scdn.co/image/ab67616d00001e02b5a64128299f70fb089f0a81",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b273b5a64128299f70fb089f0a81",
-   "url": "https://open.spotify.com/track/5ItheWnN7f9EVs7OQ2Bvq1",
-   "album_url": "https://open.spotify.com/album/5DDs6pTK33l5LT0198WmM5",
-   "played_at": "2026-11-24T17:24:09.974Z"
-  },
-  {
-   "name": "Sledgehammer - 2012 Remaster",
-   "artist": "Peter Gabriel",
-   "album": "So (25th Anniversary Deluxe Edition)",
-   "year": 1986,
-   "image": "https://i.scdn.co/image/ab67616d00001e0255ca4eeb9d2b6d51d04f19eb",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b27355ca4eeb9d2b6d51d04f19eb",
-   "url": "https://open.spotify.com/track/4AUS8KNz7zX8XFu9L38GT0",
-   "album_url": "https://open.spotify.com/album/1vJ8rCzq6BJtKGz9Yf6oT3",
-   "played_at": "2026-11-24T17:20:58.393Z"
-  },
-  {
-   "name": "Indigo Road",
-   "artist": "Saving Escape",
-   "album": "Indigo Road",
-   "year": 2018,
-   "image": "https://i.scdn.co/image/ab67616d00001e025f0007595ebde962c273643d",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b2735f0007595ebde962c273643d",
-   "url": "https://open.spotify.com/track/5jn7lab9S35mHTiQH8t8ij",
-   "album_url": "https://open.spotify.com/album/0wyHVHRcLGpLaOyuTmysOl",
-   "played_at": "2026-11-24T17:15:45.926Z"
   }
  ],
  "top_artists": [
@@ -833,7 +833,7 @@ window.LISTENING = {
   },
   {
    "decade": 1960,
-   "plays": 7086,
+   "plays": 7087,
    "covers": [
     {
      "name": "Your Time Is Gonna Come - 1990 Remaster",
@@ -927,7 +927,7 @@ window.LISTENING = {
   },
   {
    "decade": 1970,
-   "plays": 28787,
+   "plays": 28788,
    "covers": [
     {
      "name": "More Than a Feeling",
@@ -1021,7 +1021,7 @@ window.LISTENING = {
   },
   {
    "decade": 1980,
-   "plays": 33041,
+   "plays": 33043,
    "covers": [
     {
      "name": "Back In Black",
@@ -1115,7 +1115,7 @@ window.LISTENING = {
   },
   {
    "decade": 1990,
-   "plays": 9771,
+   "plays": 9773,
    "covers": [
     {
      "name": "Amazing",
@@ -1209,7 +1209,7 @@ window.LISTENING = {
   },
   {
    "decade": 2000,
-   "plays": 12041,
+   "plays": 12042,
    "covers": [
     {
      "name": "Material Girl",
