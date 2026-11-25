@@ -1,15 +1,48 @@
 window.LISTENING = {
  "title": "The Listening Booth",
- "generated": "2026-11-25T15:40:18Z",
- "synced": "2026-11-25T15:40:01Z",
+ "generated": "2026-11-25T16:10:06Z",
+ "synced": "2026-11-25T16:10:01Z",
  "totals": {
-  "plays": 125579,
-  "hours": 8537.8,
+  "plays": 125582,
+  "hours": 8538.0,
   "artists": 702,
   "albums": 1533,
   "first": "2013-05-07T01:40:37Z"
  },
  "recent": [
+  {
+   "name": "Black Water - Single Version",
+   "artist": "The Doobie Brothers",
+   "album": "Best of The Doobies",
+   "year": 1976,
+   "image": "https://i.scdn.co/image/ab67616d00001e02338ef055d7501cf241e7437e",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b273338ef055d7501cf241e7437e",
+   "url": "https://open.spotify.com/track/3x1v32I3SZNvC7q7bDhcGm",
+   "album_url": "https://open.spotify.com/album/32xyhzHlGGsDvs1E7qihRA",
+   "played_at": "2026-11-25T15:52:14.018Z"
+  },
+  {
+   "name": "Janie's Got A Gun",
+   "artist": "Aerosmith",
+   "album": "Big Ones",
+   "year": 1994,
+   "image": "https://i.scdn.co/image/ab67616d00001e02d5fdfcb083cb825348505a93",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b273d5fdfcb083cb825348505a93",
+   "url": "https://open.spotify.com/track/5fMwvrqujbQjUxcNPcYrUF",
+   "album_url": "https://open.spotify.com/album/2uT123xlHuqvz14JR0KQSs",
+   "played_at": "2026-11-25T15:47:54.887Z"
+  },
+  {
+   "name": "Kickstart My Heart",
+   "artist": "Mötley Crüe",
+   "album": "Dr. Feelgood",
+   "year": 1989,
+   "image": "https://i.scdn.co/image/ab67616d00001e02fc30908354ee3be55dc6feb2",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b273fc30908354ee3be55dc6feb2",
+   "url": "https://open.spotify.com/track/4Yqy0GpeDEXLibWJCZyQew",
+   "album_url": "https://open.spotify.com/album/4MDYr65P5RQb6VHt80T3o8",
+   "played_at": "2026-11-25T15:42:22.441Z"
+  },
   {
    "name": "You Oughta Know - Live at Sirius XM",
    "artist": "The Warning, Sumerian Pictures",
@@ -504,39 +537,6 @@ window.LISTENING = {
    "url": "https://open.spotify.com/track/0FFdCFGfmtqVaHTBYXybkx",
    "album_url": "https://open.spotify.com/album/6MFIBPVrZjHjP0pPkVF3IU",
    "played_at": "2026-11-21T17:08:52.557Z"
-  },
-  {
-   "name": "Run To You",
-   "artist": "Bryan Adams",
-   "album": "Reckless (30th Anniversary / Deluxe Edition)",
-   "year": 1984,
-   "image": "https://i.scdn.co/image/ab67616d00001e02cf1fee2a55e98e22bf358512",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b273cf1fee2a55e98e22bf358512",
-   "url": "https://open.spotify.com/track/2RWFncSWZEhSRRifqiDNVV",
-   "album_url": "https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL",
-   "played_at": "2026-11-21T17:04:14.867Z"
-  },
-  {
-   "name": "Holy Diver",
-   "artist": "Dio",
-   "album": "Holy Diver",
-   "year": 1983,
-   "image": "https://i.scdn.co/image/ab67616d00001e022457ab409ae106f8ae1dff89",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b2732457ab409ae106f8ae1dff89",
-   "url": "https://open.spotify.com/track/57fqmDaokbxZ3TaB0jp39q",
-   "album_url": "https://open.spotify.com/album/2ivNJLSx8Rbvnsvcn01Yt3",
-   "played_at": "2026-11-21T17:00:21.139Z"
-  },
-  {
-   "name": "Harden My Heart",
-   "artist": "Quarterflash",
-   "album": "Quarterflash",
-   "year": 1981,
-   "image": "https://i.scdn.co/image/ab67616d00001e0247a69991d05f42d80594a61f",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b27347a69991d05f42d80594a61f",
-   "url": "https://open.spotify.com/track/3CSLUIrI2KPMulHR5bh17O",
-   "album_url": "https://open.spotify.com/album/4kW6CPrK2OPc0OrEcwOFQN",
-   "played_at": "2026-11-21T16:48:08.801Z"
   }
  ],
  "top_artists": [
@@ -554,7 +554,7 @@ window.LISTENING = {
   },
   {
    "name": "Aerosmith",
-   "plays": 2604,
+   "plays": 2605,
    "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH",
    "image": "https://i.scdn.co/image/ab67616d00001e02587b26d49596162397b29ec8"
   },
@@ -927,7 +927,7 @@ window.LISTENING = {
   },
   {
    "decade": 1970,
-   "plays": 28780,
+   "plays": 28781,
    "covers": [
     {
      "name": "More Than a Feeling",
@@ -1021,7 +1021,7 @@ window.LISTENING = {
   },
   {
    "decade": 1980,
-   "plays": 33039,
+   "plays": 33040,
    "covers": [
     {
      "name": "Back In Black",
@@ -1115,7 +1115,7 @@ window.LISTENING = {
   },
   {
    "decade": 1990,
-   "plays": 9769,
+   "plays": 9770,
    "covers": [
     {
      "name": "Amazing",
@@ -1148,7 +1148,7 @@ window.LISTENING = {
      "image_large": "https://i.scdn.co/image/ab67616d0000b273d5fdfcb083cb825348505a93",
      "url": "https://open.spotify.com/track/5fMwvrqujbQjUxcNPcYrUF",
      "album_url": "https://open.spotify.com/album/2uT123xlHuqvz14JR0KQSs",
-     "plays": 500
+     "plays": 501
     },
     {
      "name": "Uncle Tom's Cabin",
@@ -1499,8 +1499,8 @@ window.LISTENING = {
    "duration_ms": 3571577,
    "image": "https://i.scdn.co/image/ab67656300005f1f8bf9513ccc1d86122c3261c8",
    "first_seen": "2026-11-25T13:40:02Z",
-   "progress_ms": 2671379,
-   "last_seen": "2026-11-25T14:10:02Z",
+   "progress_ms": 2873601,
+   "last_seen": "2026-11-25T16:10:02Z",
    "url": "https://open.spotify.com/episode/4ZOJ9NMxjAAqHSUbwR9Lpt",
    "show_image": "https://i.scdn.co/image/ab67656300005f1f8bf9513ccc1d86122c3261c8"
   },
