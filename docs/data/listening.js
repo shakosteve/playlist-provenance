@@ -1,7 +1,7 @@
 window.LISTENING = {
  "title": "The Listening Booth",
- "generated": "2026-11-25T02:40:07Z",
- "synced": "2026-11-25T02:40:01Z",
+ "generated": "2026-11-25T03:40:08Z",
+ "synced": "2026-11-25T03:40:01Z",
  "totals": {
   "plays": 125575,
   "hours": 8537.6,
@@ -1492,6 +1492,19 @@ window.LISTENING = {
  ],
  "episodes": [
   {
+   "name": "Taylor Swift Exposé: Why Vanity Fair’s Hit Piece Missed",
+   "show": "Kennedy Saves the World",
+   "show_uri": "spotify:show:5DEwjZIkxrUhkM1nlqLagd",
+   "release_date": "2026-11-24",
+   "duration_ms": 491072,
+   "image": "https://i.scdn.co/image/ab67656300005f1f4d40f91206e17f1ed7b3a523",
+   "first_seen": "2026-11-25T03:40:02Z",
+   "progress_ms": 375568,
+   "last_seen": "2026-11-25T03:40:02Z",
+   "url": "https://open.spotify.com/episode/6X4rStde3Kp5IzQgCfv6R2",
+   "show_image": "https://i.scdn.co/image/ab67656300005f1fc306eb9be2f4da68a4f7f2be"
+  },
+  {
    "name": "Is Trump being played by the world’s most powerful leaders?",
    "show": "Christiane Amanpour Presents: The Ex Files",
    "show_uri": "spotify:show:3ZpgFegm3q3AGjiFbjLV59",
@@ -1633,19 +1646,6 @@ window.LISTENING = {
    "last_seen": "2026-11-24T06:10:03Z",
    "url": "https://open.spotify.com/episode/4qnSX5wGuxIk9u1FSl03hD",
    "show_image": "https://i.scdn.co/image/ab67656300005f1f110dfea289c0685fcc6c4343"
-  },
-  {
-   "name": "Uniting the States with Brian Kilmeade + Greta Thunberg LAUGHS at Climate Protesters",
-   "show": "Adam Carolla Show",
-   "show_uri": "spotify:show:0YlgjXHWL0Lfxnp1LKdx9P",
-   "release_date": "2026-11-23",
-   "duration_ms": 6360529,
-   "image": "https://i.scdn.co/image/ab67656300005f1fd813559e4461e119b4b5082f",
-   "first_seen": "2026-11-23T21:10:02Z",
-   "progress_ms": 6442520,
-   "last_seen": "2026-11-24T04:40:04Z",
-   "url": "https://open.spotify.com/episode/7efHgQDxeiyNcmwoFVBdcS",
-   "show_image": "https://i.scdn.co/image/ab67656300005f1fd813559e4461e119b4b5082f"
   }
  ],
  "top_shows": [
