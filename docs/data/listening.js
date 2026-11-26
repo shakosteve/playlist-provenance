@@ -1,7 +1,7 @@
 window.LISTENING = {
  "title": "The Listening Booth",
- "generated": "2026-11-26T13:40:08Z",
- "synced": "2026-11-26T13:40:01Z",
+ "generated": "2026-11-26T14:10:08Z",
+ "synced": "2026-11-26T14:10:01Z",
  "totals": {
   "plays": 125634,
   "hours": 8541.7,
@@ -1492,6 +1492,19 @@ window.LISTENING = {
  ],
  "episodes": [
   {
+   "name": "Thanksgiving Survival Guide: Don't Talk Politics!",
+   "show": "Kennedy Saves the World",
+   "show_uri": "spotify:show:5DEwjZIkxrUhkM1nlqLagd",
+   "release_date": "2026-11-26",
+   "duration_ms": 748586,
+   "image": "https://i.scdn.co/image/ab67656300005f1fc7ac46a5bc1b6fc261690221",
+   "first_seen": "2026-11-26T14:10:04Z",
+   "progress_ms": 748586,
+   "last_seen": "2026-11-26T14:10:04Z",
+   "url": "https://open.spotify.com/episode/78oxcGLU6GZBoyk94q19Yk",
+   "show_image": "https://i.scdn.co/image/ab67656300005f1fc306eb9be2f4da68a4f7f2be"
+  },
+  {
    "name": "Left in the lurch: Spain’s general election",
    "show": "Economist Podcasts",
    "show_uri": "spotify:show:2ZFDmgDS2Z6xccP51s1zFQ",
@@ -1499,10 +1512,23 @@ window.LISTENING = {
    "duration_ms": 1051010,
    "image": "https://i.scdn.co/image/ab67656300005f1f87ec8e63c663647ac12d6301",
    "first_seen": "2026-11-26T13:40:02Z",
-   "progress_ms": 26081,
-   "last_seen": "2026-11-26T13:40:02Z",
+   "progress_ms": 28760,
+   "last_seen": "2026-11-26T14:10:02Z",
    "url": "https://open.spotify.com/episode/5roAlqOhiYhMEixH17lrHX",
    "show_image": "https://i.scdn.co/image/ab67656300005f1f3d63c8a3f5c8f7b8b0c1443b"
+  },
+  {
+   "name": "Yakov Smirnoff on the HARSH Reality of Growing Up in the Soviet Union",
+   "show": "Adam Carolla Show",
+   "show_uri": "spotify:show:0YlgjXHWL0Lfxnp1LKdx9P",
+   "release_date": "2026-11-26",
+   "duration_ms": 6343079,
+   "image": "https://i.scdn.co/image/ab67656300005f1fd813559e4461e119b4b5082f",
+   "first_seen": "2026-11-26T14:10:02Z",
+   "progress_ms": 1631221,
+   "last_seen": "2026-11-26T14:10:02Z",
+   "url": "https://open.spotify.com/episode/0kRD8v7htKlDwbYMXXuEqf",
+   "show_image": "https://i.scdn.co/image/ab67656300005f1fd813559e4461e119b4b5082f"
   },
   {
    "name": "Huang Out, Huang Back In",
@@ -1620,32 +1646,6 @@ window.LISTENING = {
    "last_seen": "2026-11-24T22:10:03Z",
    "url": "https://open.spotify.com/episode/2pKffjkJ5mf9thYgADPyrt",
    "show_image": "https://i.scdn.co/image/ab67656300005f1f3d63c8a3f5c8f7b8b0c1443b"
-  },
-  {
-   "name": "Renny Harlin: F1 & Why Pattinson Will Be a Great James Bond",
-   "show": "Adam Carolla Show",
-   "show_uri": "spotify:show:0YlgjXHWL0Lfxnp1LKdx9P",
-   "release_date": "2026-11-24",
-   "duration_ms": 6427507,
-   "image": "https://i.scdn.co/image/ab67656300005f1fd813559e4461e119b4b5082f",
-   "first_seen": "2026-11-24T15:10:02Z",
-   "progress_ms": 6651749,
-   "last_seen": "2026-11-24T17:10:03Z",
-   "url": "https://open.spotify.com/episode/0VVw5LbUWa6PH5tqlLRdgA",
-   "show_image": "https://i.scdn.co/image/ab67656300005f1fd813559e4461e119b4b5082f"
-  },
-  {
-   "name": "The Return of Jensen Huang",
-   "show": "The Journal.",
-   "show_uri": "spotify:show:0KxdEdeY2Wb3zr28dMlQva",
-   "release_date": "2026-11-23",
-   "duration_ms": 906004,
-   "image": "https://i.scdn.co/image/ab67656300005f1ffed98c4fdc504416141e9409",
-   "first_seen": "2026-11-24T14:10:02Z",
-   "progress_ms": 906004,
-   "last_seen": "2026-11-24T16:40:05Z",
-   "url": "https://open.spotify.com/episode/7wWZ8dKBlH8rFSTP2HrV0r",
-   "show_image": "https://i.scdn.co/image/ab67656300005f1ffed98c4fdc504416141e9409"
   }
  ],
  "top_shows": [
