@@ -1,7 +1,7 @@
 window.LISTENING = {
  "title": "The Listening Booth",
- "generated": "2026-11-26T06:40:08Z",
- "synced": "2026-11-26T06:40:01Z",
+ "generated": "2026-11-26T07:10:08Z",
+ "synced": "2026-11-26T07:10:01Z",
  "totals": {
   "plays": 125634,
   "hours": 8541.7,
@@ -1492,6 +1492,19 @@ window.LISTENING = {
  ],
  "episodes": [
   {
+   "name": "Huang Out, Huang Back In",
+   "show": "Getting Hammered®",
+   "show_uri": "spotify:show:53vma6orvxtnzLmO5P8yLQ",
+   "release_date": "2026-11-25",
+   "duration_ms": 3571577,
+   "image": "https://i.scdn.co/image/ab67656300005f1f8bf9513ccc1d86122c3261c8",
+   "first_seen": "2026-11-25T13:40:02Z",
+   "progress_ms": 3081755,
+   "last_seen": "2026-11-26T07:10:04Z",
+   "url": "https://open.spotify.com/episode/4ZOJ9NMxjAAqHSUbwR9Lpt",
+   "show_image": "https://i.scdn.co/image/ab67656300005f1f8bf9513ccc1d86122c3261c8"
+  },
+  {
    "name": "Dane Cook: What The Documentary Doesn’t Tell You",
    "show": "Adam Carolla Show",
    "show_uri": "spotify:show:0YlgjXHWL0Lfxnp1LKdx9P",
@@ -1516,19 +1529,6 @@ window.LISTENING = {
    "last_seen": "2026-11-26T03:10:02Z",
    "url": "https://open.spotify.com/episode/4OOXhrIEaElhtDxzosnMFY",
    "show_image": "https://i.scdn.co/image/ab67656300005f1f78954c21afd24c90334deba4"
-  },
-  {
-   "name": "Huang Out, Huang Back In",
-   "show": "Getting Hammered®",
-   "show_uri": "spotify:show:53vma6orvxtnzLmO5P8yLQ",
-   "release_date": "2026-11-25",
-   "duration_ms": 3571577,
-   "image": "https://i.scdn.co/image/ab67656300005f1f8bf9513ccc1d86122c3261c8",
-   "first_seen": "2026-11-25T13:40:02Z",
-   "progress_ms": 2873601,
-   "last_seen": "2026-11-25T16:10:02Z",
-   "url": "https://open.spotify.com/episode/4ZOJ9NMxjAAqHSUbwR9Lpt",
-   "show_image": "https://i.scdn.co/image/ab67656300005f1f8bf9513ccc1d86122c3261c8"
   },
   {
    "name": "Trump’s Intervention at Nvidia Sparks Bipartisan Backlash",
