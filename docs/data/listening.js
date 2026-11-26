@@ -1,7 +1,7 @@
 window.LISTENING = {
  "title": "The Listening Booth",
- "generated": "2026-11-26T13:10:10Z",
- "synced": "2026-11-26T13:10:02Z",
+ "generated": "2026-11-26T13:40:08Z",
+ "synced": "2026-11-26T13:40:01Z",
  "totals": {
   "plays": 125634,
   "hours": 8541.7,
@@ -1492,6 +1492,19 @@ window.LISTENING = {
  ],
  "episodes": [
   {
+   "name": "Left in the lurch: Spain’s general election",
+   "show": "Economist Podcasts",
+   "show_uri": "spotify:show:2ZFDmgDS2Z6xccP51s1zFQ",
+   "release_date": "2026-11-26",
+   "duration_ms": 1051010,
+   "image": "https://i.scdn.co/image/ab67656300005f1f87ec8e63c663647ac12d6301",
+   "first_seen": "2026-11-26T13:40:02Z",
+   "progress_ms": 26081,
+   "last_seen": "2026-11-26T13:40:02Z",
+   "url": "https://open.spotify.com/episode/5roAlqOhiYhMEixH17lrHX",
+   "show_image": "https://i.scdn.co/image/ab67656300005f1f3d63c8a3f5c8f7b8b0c1443b"
+  },
+  {
    "name": "Huang Out, Huang Back In",
    "show": "Getting Hammered®",
    "show_uri": "spotify:show:53vma6orvxtnzLmO5P8yLQ",
@@ -1633,19 +1646,6 @@ window.LISTENING = {
    "last_seen": "2026-11-24T16:40:05Z",
    "url": "https://open.spotify.com/episode/7wWZ8dKBlH8rFSTP2HrV0r",
    "show_image": "https://i.scdn.co/image/ab67656300005f1ffed98c4fdc504416141e9409"
-  },
-  {
-   "name": "Huang’s Second Coming",
-   "show": "The Powers That Be: Daily",
-   "show_uri": "spotify:show:5ZChG4x3aogGtKGkxU6nMH",
-   "release_date": "2026-11-24",
-   "duration_ms": 1381015,
-   "image": "https://i.scdn.co/image/ab67656300005f1f36f39d45bf295cbf58d41331",
-   "first_seen": "2026-11-24T13:40:02Z",
-   "progress_ms": 1617280,
-   "last_seen": "2026-11-24T15:40:03Z",
-   "url": "https://open.spotify.com/episode/4K458C6Er2EyM7IzVjoSQ1",
-   "show_image": "https://i.scdn.co/image/ab67656300005f1f55386ae3fe554333e1a85785"
   }
  ],
  "top_shows": [
