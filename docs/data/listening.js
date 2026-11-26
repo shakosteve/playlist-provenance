@@ -1,7 +1,7 @@
 window.LISTENING = {
  "title": "The Listening Booth",
- "generated": "2026-11-26T03:10:08Z",
- "synced": "2026-11-26T03:10:01Z",
+ "generated": "2026-11-26T03:40:09Z",
+ "synced": "2026-11-26T03:40:01Z",
  "totals": {
   "plays": 125631,
   "hours": 8541.5,
@@ -1492,6 +1492,19 @@ window.LISTENING = {
  ],
  "episodes": [
   {
+   "name": "Dane Cook: What The Documentary Doesn’t Tell You",
+   "show": "Adam Carolla Show",
+   "show_uri": "spotify:show:0YlgjXHWL0Lfxnp1LKdx9P",
+   "release_date": "2026-11-25",
+   "duration_ms": 6502269,
+   "image": "https://i.scdn.co/image/ab67656300005f1fd813559e4461e119b4b5082f",
+   "first_seen": "2026-11-26T03:40:02Z",
+   "progress_ms": 3908469,
+   "last_seen": "2026-11-26T03:40:02Z",
+   "url": "https://open.spotify.com/episode/0RlA9MmI5CraHz4QX2i1KE",
+   "show_image": "https://i.scdn.co/image/ab67656300005f1fd813559e4461e119b4b5082f"
+  },
+  {
    "name": "Nearly 500,000 Russians killed in Ukraine war, data leak reveals",
    "show": "Ukraine: The Latest",
    "show_uri": "spotify:show:6cnkk1J0I1UqtxTYVUL4Fe",
@@ -1633,19 +1646,6 @@ window.LISTENING = {
    "last_seen": "2026-11-24T15:40:03Z",
    "url": "https://open.spotify.com/episode/4K458C6Er2EyM7IzVjoSQ1",
    "show_image": "https://i.scdn.co/image/ab67656300005f1f55386ae3fe554333e1a85785"
-  },
-  {
-   "name": "The Nvidia board reinstates Jensen Huang as CEO",
-   "show": "Newshour",
-   "show_uri": "spotify:show:5qbXje6KaVOHwjsHNTELjA",
-   "release_date": "2026-11-23",
-   "duration_ms": 2847164,
-   "image": "https://i.scdn.co/image/ab67656300005f1f189781a3a30bf2cb76ae0f46",
-   "first_seen": "2026-11-24T15:40:02Z",
-   "progress_ms": 951760,
-   "last_seen": "2026-11-24T15:40:02Z",
-   "url": "https://open.spotify.com/episode/3Vo3kOOiENeWa5taRWLQbA",
-   "show_image": "https://i.scdn.co/image/ab67656300005f1f189781a3a30bf2cb76ae0f46"
   }
  ],
  "top_shows": [
