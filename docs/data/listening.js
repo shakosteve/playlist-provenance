@@ -1,7 +1,7 @@
 window.LISTENING = {
  "title": "The Listening Booth",
- "generated": "2026-11-26T16:10:08Z",
- "synced": "2026-11-26T16:10:02Z",
+ "generated": "2026-11-26T16:40:09Z",
+ "synced": "2026-11-26T16:40:01Z",
  "totals": {
   "plays": 125634,
   "hours": 8541.7,
@@ -1499,10 +1499,23 @@ window.LISTENING = {
    "duration_ms": 6343079,
    "image": "https://i.scdn.co/image/ab67656300005f1fd813559e4461e119b4b5082f",
    "first_seen": "2026-11-26T14:10:02Z",
-   "progress_ms": 5231353,
-   "last_seen": "2026-11-26T15:10:02Z",
+   "progress_ms": 6420506,
+   "last_seen": "2026-11-26T16:40:03Z",
    "url": "https://open.spotify.com/episode/0kRD8v7htKlDwbYMXXuEqf",
    "show_image": "https://i.scdn.co/image/ab67656300005f1fd813559e4461e119b4b5082f"
+  },
+  {
+   "name": "#2114 - Don Lemon EMBARRASSES Himself on Piers Morgan | Part 1",
+   "show": "The Adam and Dr. Drew Show",
+   "show_uri": "spotify:show:3VN4vP6TztxK3wtT8b9aQL",
+   "release_date": "2026-11-25",
+   "duration_ms": 3063667,
+   "image": "https://i.scdn.co/image/ab67656300005f1f57123579cd8f9fcdb667645b",
+   "first_seen": "2026-11-26T16:40:02Z",
+   "progress_ms": 1487485,
+   "last_seen": "2026-11-26T16:40:02Z",
+   "url": "https://open.spotify.com/episode/0oJpcp8C1WKbtyZrf3KZAS",
+   "show_image": "https://i.scdn.co/image/ab67656300005f1f57123579cd8f9fcdb667645b"
   },
   {
    "name": "Thanksgiving Survival Guide: Don't Talk Politics!",
@@ -1633,19 +1646,6 @@ window.LISTENING = {
    "last_seen": "2026-11-24T23:40:02Z",
    "url": "https://open.spotify.com/episode/0Gyiv5wBf9alMntN1J7O8i",
    "show_image": "https://i.scdn.co/image/ab67656300005f1f78954c21afd24c90334deba4"
-  },
-  {
-   "name": "Alice forgiven? Jensen Huang back at Nvidia",
-   "show": "Economist Podcasts",
-   "show_uri": "spotify:show:2ZFDmgDS2Z6xccP51s1zFQ",
-   "release_date": "2026-11-24",
-   "duration_ms": 1422419,
-   "image": "https://i.scdn.co/image/ab67656300005f1ff9536fd96f32701530ec6225",
-   "first_seen": "2026-11-24T14:40:02Z",
-   "progress_ms": 832627,
-   "last_seen": "2026-11-24T22:10:03Z",
-   "url": "https://open.spotify.com/episode/2pKffjkJ5mf9thYgADPyrt",
-   "show_image": "https://i.scdn.co/image/ab67656300005f1f3d63c8a3f5c8f7b8b0c1443b"
   }
  ],
  "top_shows": [
