@@ -1,15 +1,26 @@
 window.LISTENING = {
  "title": "The Listening Booth",
- "generated": "2026-11-26T01:10:09Z",
- "synced": "2026-11-26T01:10:01Z",
+ "generated": "2026-11-26T01:40:08Z",
+ "synced": "2026-11-26T01:40:01Z",
  "totals": {
-  "plays": 125625,
+  "plays": 125626,
   "hours": 8541.1,
   "artists": 702,
   "albums": 1533,
   "first": "2013-05-07T01:40:37Z"
  },
  "recent": [
+  {
+   "name": "Mama, I'm Coming Home",
+   "artist": "Ozzy Osbourne",
+   "album": "No More Tears (Expanded Edition)",
+   "year": 1991,
+   "image": "https://i.scdn.co/image/ab67616d00001e02509342e69eb341df70e5c2e3",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b273509342e69eb341df70e5c2e3",
+   "url": "https://open.spotify.com/track/0S3gpZzlT9Hb7CCSV2owX7",
+   "album_url": "https://open.spotify.com/album/6eh82ojicL8RSJF7GkYTh7",
+   "played_at": "2026-11-26T01:38:31.637Z"
+  },
   {
    "name": "Black Dog - Remaster",
    "artist": "Led Zeppelin",
@@ -526,17 +537,6 @@ window.LISTENING = {
    "url": "https://open.spotify.com/track/2HCaIYjkvWSZzaSKUoOh3d",
    "album_url": "https://open.spotify.com/album/0pkrqPjeq9K5KD0hFqAKNa",
    "played_at": "2026-11-25T15:28:32.407Z"
-  },
-  {
-   "name": "It Ain't Me Babe",
-   "artist": "Joaquin Phoenix, Reese Witherspoon",
-   "album": "Walk The Line (Original Motion Picture Soundtrack)",
-   "year": 2005,
-   "image": "https://i.scdn.co/image/ab67616d00001e020ff166bfd4a462cc7f4068a6",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b2730ff166bfd4a462cc7f4068a6",
-   "url": "https://open.spotify.com/track/0jasbGRELTM14tJi9SxGGF",
-   "album_url": "https://open.spotify.com/album/6ICcWbsZxt5fVG02IbZuZg",
-   "played_at": "2026-11-25T15:26:02.428Z"
   }
  ],
  "top_artists": [
@@ -1115,7 +1115,7 @@ window.LISTENING = {
   },
   {
    "decade": 1990,
-   "plays": 9775,
+   "plays": 9776,
    "covers": [
     {
      "name": "Amazing",
@@ -1137,7 +1137,7 @@ window.LISTENING = {
      "image_large": "https://i.scdn.co/image/ab67616d0000b273509342e69eb341df70e5c2e3",
      "url": "https://open.spotify.com/track/0S3gpZzlT9Hb7CCSV2owX7",
      "album_url": "https://open.spotify.com/album/6eh82ojicL8RSJF7GkYTh7",
-     "plays": 535
+     "plays": 536
     },
     {
      "name": "Janie's Got A Gun",
