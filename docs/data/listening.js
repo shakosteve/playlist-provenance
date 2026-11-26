@@ -1,7 +1,7 @@
 window.LISTENING = {
  "title": "The Listening Booth",
- "generated": "2026-11-26T14:10:08Z",
- "synced": "2026-11-26T14:10:01Z",
+ "generated": "2026-11-26T14:40:10Z",
+ "synced": "2026-11-26T14:40:02Z",
  "totals": {
   "plays": 125634,
   "hours": 8541.7,
@@ -1492,6 +1492,19 @@ window.LISTENING = {
  ],
  "episodes": [
   {
+   "name": "Yakov Smirnoff on the HARSH Reality of Growing Up in the Soviet Union",
+   "show": "Adam Carolla Show",
+   "show_uri": "spotify:show:0YlgjXHWL0Lfxnp1LKdx9P",
+   "release_date": "2026-11-26",
+   "duration_ms": 6343079,
+   "image": "https://i.scdn.co/image/ab67656300005f1fd813559e4461e119b4b5082f",
+   "first_seen": "2026-11-26T14:10:02Z",
+   "progress_ms": 3432212,
+   "last_seen": "2026-11-26T14:40:03Z",
+   "url": "https://open.spotify.com/episode/0kRD8v7htKlDwbYMXXuEqf",
+   "show_image": "https://i.scdn.co/image/ab67656300005f1fd813559e4461e119b4b5082f"
+  },
+  {
    "name": "Thanksgiving Survival Guide: Don't Talk Politics!",
    "show": "Kennedy Saves the World",
    "show_uri": "spotify:show:5DEwjZIkxrUhkM1nlqLagd",
@@ -1516,19 +1529,6 @@ window.LISTENING = {
    "last_seen": "2026-11-26T14:10:02Z",
    "url": "https://open.spotify.com/episode/5roAlqOhiYhMEixH17lrHX",
    "show_image": "https://i.scdn.co/image/ab67656300005f1f3d63c8a3f5c8f7b8b0c1443b"
-  },
-  {
-   "name": "Yakov Smirnoff on the HARSH Reality of Growing Up in the Soviet Union",
-   "show": "Adam Carolla Show",
-   "show_uri": "spotify:show:0YlgjXHWL0Lfxnp1LKdx9P",
-   "release_date": "2026-11-26",
-   "duration_ms": 6343079,
-   "image": "https://i.scdn.co/image/ab67656300005f1fd813559e4461e119b4b5082f",
-   "first_seen": "2026-11-26T14:10:02Z",
-   "progress_ms": 1631221,
-   "last_seen": "2026-11-26T14:10:02Z",
-   "url": "https://open.spotify.com/episode/0kRD8v7htKlDwbYMXXuEqf",
-   "show_image": "https://i.scdn.co/image/ab67656300005f1fd813559e4461e119b4b5082f"
   },
   {
    "name": "Huang Out, Huang Back In",
