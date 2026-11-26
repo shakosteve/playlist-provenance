@@ -1,15 +1,26 @@
 window.LISTENING = {
  "title": "The Listening Booth",
- "generated": "2026-11-25T23:10:09Z",
- "synced": "2026-11-25T23:10:02Z",
+ "generated": "2026-11-26T00:40:08Z",
+ "synced": "2026-11-26T00:40:01Z",
  "totals": {
-  "plays": 125624,
-  "hours": 8541.0,
+  "plays": 125625,
+  "hours": 8541.1,
   "artists": 702,
   "albums": 1533,
   "first": "2013-05-07T01:40:37Z"
  },
  "recent": [
+  {
+   "name": "Black Dog - Remaster",
+   "artist": "Led Zeppelin",
+   "album": "Led Zeppelin IV (Deluxe Edition)",
+   "year": 1971,
+   "image": "https://i.scdn.co/image/ab67616d00001e02c8a11e48c91a982d086afc69",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b273c8a11e48c91a982d086afc69",
+   "url": "https://open.spotify.com/track/3qT4bUD1MaWpGrTwcvguhb",
+   "album_url": "https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK",
+   "played_at": "2026-11-25T23:03:02.698Z"
+  },
   {
    "name": "Heaven",
    "artist": "Warrant",
@@ -526,17 +537,6 @@ window.LISTENING = {
    "url": "https://open.spotify.com/track/0jasbGRELTM14tJi9SxGGF",
    "album_url": "https://open.spotify.com/album/6ICcWbsZxt5fVG02IbZuZg",
    "played_at": "2026-11-25T15:26:02.428Z"
-  },
-  {
-   "name": "Wouldn't It Be Nice - Remastered 1999",
-   "artist": "The Beach Boys",
-   "album": "The Beach Boys Love Songs",
-   "year": 2006,
-   "image": "https://i.scdn.co/image/ab67616d00001e02e53d342c933a9138b2b51f71",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b273e53d342c933a9138b2b51f71",
-   "url": "https://open.spotify.com/track/0cx32rX0uZvcJUP92Wkj2y",
-   "album_url": "https://open.spotify.com/album/4NnBDxnxiiXiMlssBi9Bsq",
-   "played_at": "2026-11-25T01:44:32.129Z"
   }
  ],
  "top_artists": [
@@ -560,7 +560,7 @@ window.LISTENING = {
   },
   {
    "name": "Led Zeppelin",
-   "plays": 2315,
+   "plays": 2316,
    "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp",
    "image": "https://i.scdn.co/image/ab67616d00001e02c8a11e48c91a982d086afc69"
   },
@@ -927,7 +927,7 @@ window.LISTENING = {
   },
   {
    "decade": 1970,
-   "plays": 28792,
+   "plays": 28793,
    "covers": [
     {
      "name": "More Than a Feeling",
@@ -982,7 +982,7 @@ window.LISTENING = {
      "image_large": "https://i.scdn.co/image/ab67616d0000b273c8a11e48c91a982d086afc69",
      "url": "https://open.spotify.com/track/5CQ30WqJwcep0pYcV4AMNc",
      "album_url": "https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK",
-     "plays": 695
+     "plays": 696
     },
     {
      "name": "Jet Airliner",
@@ -1492,6 +1492,19 @@ window.LISTENING = {
  ],
  "episodes": [
   {
+   "name": "Nearly 500,000 Russians killed in Ukraine war, data leak reveals",
+   "show": "Ukraine: The Latest",
+   "show_uri": "spotify:show:6cnkk1J0I1UqtxTYVUL4Fe",
+   "release_date": "2026-11-25",
+   "duration_ms": 3140127,
+   "image": "https://i.scdn.co/image/ab67656300005f1f5a90d0660e64c39bd1374cc4",
+   "first_seen": "2026-11-26T00:40:02Z",
+   "progress_ms": 166912,
+   "last_seen": "2026-11-26T00:40:02Z",
+   "url": "https://open.spotify.com/episode/4OOXhrIEaElhtDxzosnMFY",
+   "show_image": "https://i.scdn.co/image/ab67656300005f1f78954c21afd24c90334deba4"
+  },
+  {
    "name": "Huang Out, Huang Back In",
    "show": "Getting Hammered®",
    "show_uri": "spotify:show:53vma6orvxtnzLmO5P8yLQ",
@@ -1633,19 +1646,6 @@ window.LISTENING = {
    "last_seen": "2026-11-24T15:40:02Z",
    "url": "https://open.spotify.com/episode/3Vo3kOOiENeWa5taRWLQbA",
    "show_image": "https://i.scdn.co/image/ab67656300005f1f189781a3a30bf2cb76ae0f46"
-  },
-  {
-   "name": "What Jensen Huang's Stunning Return Means for the AI Trade",
-   "show": "Odd Lots",
-   "show_uri": "spotify:show:1te7oSFyRVekxMBJUSethH",
-   "release_date": "2026-11-24",
-   "duration_ms": 2161920,
-   "image": "https://i.scdn.co/image/ab67656300005f1f77e76ef980ccf6174ff80c42",
-   "first_seen": "2026-11-24T13:10:02Z",
-   "progress_ms": 2396200,
-   "last_seen": "2026-11-24T13:40:02Z",
-   "url": "https://open.spotify.com/episode/6MhjhMaOzqYQVe4943j32D",
-   "show_image": "https://i.scdn.co/image/ab67656300005f1f77e76ef980ccf6174ff80c42"
   }
  ],
  "top_shows": [
