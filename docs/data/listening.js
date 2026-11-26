@@ -1,15 +1,70 @@
 window.LISTENING = {
  "title": "The Listening Booth",
- "generated": "2026-11-26T01:40:08Z",
- "synced": "2026-11-26T01:40:01Z",
+ "generated": "2026-11-26T02:10:07Z",
+ "synced": "2026-11-26T02:10:02Z",
  "totals": {
-  "plays": 125626,
-  "hours": 8541.1,
+  "plays": 125631,
+  "hours": 8541.5,
   "artists": 702,
   "albums": 1533,
   "first": "2013-05-07T01:40:37Z"
  },
  "recent": [
+  {
+   "name": "Judith",
+   "artist": "A Perfect Circle",
+   "album": "Mer De Noms",
+   "year": 2000,
+   "image": "https://i.scdn.co/image/ab67616d00001e022d73b494efcb99356f8c7b28",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b2732d73b494efcb99356f8c7b28",
+   "url": "https://open.spotify.com/track/5KDNFlHAdDJ84fhK27c35X",
+   "album_url": "https://open.spotify.com/album/0GeWd0yUKXHbCXVag1mJvO",
+   "played_at": "2026-11-26T01:58:52.683Z"
+  },
+  {
+   "name": "My Generation - Mono Version",
+   "artist": "The Who",
+   "album": "The Who Sings My Generation (U.S. Version)",
+   "year": 1966,
+   "image": "https://i.scdn.co/image/ab67616d00001e02cbee7274742b0471f39bb8c8",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b273cbee7274742b0471f39bb8c8",
+   "url": "https://open.spotify.com/track/45s88Xopo6KvHc0PQ05aGg",
+   "album_url": "https://open.spotify.com/album/4upv5ZjkKMIUBjFNthFQih",
+   "played_at": "2026-11-26T01:54:44.927Z"
+  },
+  {
+   "name": "Everybody Wants You",
+   "artist": "Billy Squier",
+   "album": "Absolute Hits",
+   "year": 2005,
+   "image": "https://i.scdn.co/image/ab67616d00001e02fddbed2db48c40dbb2b6a093",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b273fddbed2db48c40dbb2b6a093",
+   "url": "https://open.spotify.com/track/2Z9B8sd6HgEfCWqvOfhFD0",
+   "album_url": "https://open.spotify.com/album/36vJNbcqq5tRLh8yHwjsBG",
+   "played_at": "2026-11-26T01:51:25.506Z"
+  },
+  {
+   "name": "With A Little Help From My Friends",
+   "artist": "Joe Cocker",
+   "album": "With A Little Help From My Friends",
+   "year": 1969,
+   "image": "https://i.scdn.co/image/ab67616d00001e025bb09aa81ffb17ccf902629f",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b2735bb09aa81ffb17ccf902629f",
+   "url": "https://open.spotify.com/track/0YZ3J8xzGwLOg4yEgST1YK",
+   "album_url": "https://open.spotify.com/album/74sIm8QdXqFwYeDS7OfYVw",
+   "played_at": "2026-11-26T01:47:36.901Z"
+  },
+  {
+   "name": "Suicide Blonde",
+   "artist": "INXS",
+   "album": "X",
+   "year": 1990,
+   "image": "https://i.scdn.co/image/ab67616d00001e02232a7dbebc9249b8c2fc1b4c",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b273232a7dbebc9249b8c2fc1b4c",
+   "url": "https://open.spotify.com/track/3DPyS3odFIWQ3E2IFqHEdG",
+   "album_url": "https://open.spotify.com/album/688l8IJXR4cmgGj0Ekl0DR",
+   "played_at": "2026-11-26T01:42:24.320Z"
+  },
   {
    "name": "Mama, I'm Coming Home",
    "artist": "Ozzy Osbourne",
@@ -482,61 +537,6 @@ window.LISTENING = {
    "url": "https://open.spotify.com/track/3x1v32I3SZNvC7q7bDhcGm",
    "album_url": "https://open.spotify.com/album/32xyhzHlGGsDvs1E7qihRA",
    "played_at": "2026-11-25T15:52:14.018Z"
-  },
-  {
-   "name": "Janie's Got A Gun",
-   "artist": "Aerosmith",
-   "album": "Big Ones",
-   "year": 1994,
-   "image": "https://i.scdn.co/image/ab67616d00001e02d5fdfcb083cb825348505a93",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b273d5fdfcb083cb825348505a93",
-   "url": "https://open.spotify.com/track/5fMwvrqujbQjUxcNPcYrUF",
-   "album_url": "https://open.spotify.com/album/2uT123xlHuqvz14JR0KQSs",
-   "played_at": "2026-11-25T15:47:54.887Z"
-  },
-  {
-   "name": "Kickstart My Heart",
-   "artist": "Mötley Crüe",
-   "album": "Dr. Feelgood",
-   "year": 1989,
-   "image": "https://i.scdn.co/image/ab67616d00001e02fc30908354ee3be55dc6feb2",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b273fc30908354ee3be55dc6feb2",
-   "url": "https://open.spotify.com/track/4Yqy0GpeDEXLibWJCZyQew",
-   "album_url": "https://open.spotify.com/album/4MDYr65P5RQb6VHt80T3o8",
-   "played_at": "2026-11-25T15:42:22.441Z"
-  },
-  {
-   "name": "You Oughta Know - Live at Sirius XM",
-   "artist": "The Warning, Sumerian Pictures",
-   "album": "Mile End Kicks (Music Inspired by the Motion Picture)",
-   "year": 2026,
-   "image": "https://i.scdn.co/image/ab67616d00001e02426c98d50c807024bfc509a6",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b273426c98d50c807024bfc509a6",
-   "url": "https://open.spotify.com/track/4TnMnhX1VRWglXugKr9lVq",
-   "album_url": "https://open.spotify.com/album/0OTY8JEbQX6tlrH5eJZG13",
-   "played_at": "2026-11-25T15:37:39.251Z"
-  },
-  {
-   "name": "With Or Without You",
-   "artist": "U2",
-   "album": "The Joshua Tree (Super Deluxe)",
-   "year": 1987,
-   "image": "https://i.scdn.co/image/ab67616d00001e02b7bea3d01f04e6d0408d2afe",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b273b7bea3d01f04e6d0408d2afe",
-   "url": "https://open.spotify.com/track/6ADSaE87h8Y3lccZlBJdXH",
-   "album_url": "https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU",
-   "played_at": "2026-11-25T15:33:29.543Z"
-  },
-  {
-   "name": "Mr. Tambourine Man",
-   "artist": "The Byrds",
-   "album": "Mr. Tambourine Man",
-   "year": 1965,
-   "image": "https://i.scdn.co/image/ab67616d00001e02576fccf9a91d9f7c808b8abd",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b273576fccf9a91d9f7c808b8abd",
-   "url": "https://open.spotify.com/track/2HCaIYjkvWSZzaSKUoOh3d",
-   "album_url": "https://open.spotify.com/album/0pkrqPjeq9K5KD0hFqAKNa",
-   "played_at": "2026-11-25T15:28:32.407Z"
   }
  ],
  "top_artists": [
@@ -833,7 +833,7 @@ window.LISTENING = {
   },
   {
    "decade": 1960,
-   "plays": 7089,
+   "plays": 7091,
    "covers": [
     {
      "name": "Your Time Is Gonna Come - 1990 Remaster",
@@ -888,7 +888,7 @@ window.LISTENING = {
      "image_large": "https://i.scdn.co/image/ab67616d0000b273cbee7274742b0471f39bb8c8",
      "url": "https://open.spotify.com/track/45s88Xopo6KvHc0PQ05aGg",
      "album_url": "https://open.spotify.com/album/4upv5ZjkKMIUBjFNthFQih",
-     "plays": 239
+     "plays": 240
     },
     {
      "name": "Oh Well, Pt. 1 - 2013 Remaster",
@@ -1115,7 +1115,7 @@ window.LISTENING = {
   },
   {
    "decade": 1990,
-   "plays": 9776,
+   "plays": 9777,
    "covers": [
     {
      "name": "Amazing",
@@ -1209,7 +1209,7 @@ window.LISTENING = {
   },
   {
    "decade": 2000,
-   "plays": 12042,
+   "plays": 12044,
    "covers": [
     {
      "name": "Material Girl",
