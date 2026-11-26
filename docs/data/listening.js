@@ -1,7 +1,7 @@
 window.LISTENING = {
  "title": "The Listening Booth",
- "generated": "2026-11-26T19:40:12Z",
- "synced": "2026-11-26T19:40:02Z",
+ "generated": "2026-11-26T20:10:07Z",
+ "synced": "2026-11-26T20:10:02Z",
  "totals": {
   "plays": 125634,
   "hours": 8541.7,
@@ -1492,6 +1492,19 @@ window.LISTENING = {
  ],
  "episodes": [
   {
+   "name": "Russia losing 'unsustainable' 93 soldiers every hour",
+   "show": "Ukraine: The Latest",
+   "show_uri": "spotify:show:6cnkk1J0I1UqtxTYVUL4Fe",
+   "release_date": "2026-11-26",
+   "duration_ms": 2998360,
+   "image": "https://i.scdn.co/image/ab67656300005f1fca4446712774d99fdcdac07e",
+   "first_seen": "2026-11-26T20:10:02Z",
+   "progress_ms": 104249,
+   "last_seen": "2026-11-26T20:10:02Z",
+   "url": "https://open.spotify.com/episode/0xdVIlPAszhVXRjkdDZmbv",
+   "show_image": "https://i.scdn.co/image/ab67656300005f1f78954c21afd24c90334deba4"
+  },
+  {
    "name": "#2114 - Don Lemon EMBARRASSES Himself on Piers Morgan | Part 1",
    "show": "The Adam and Dr. Drew Show",
    "show_uri": "spotify:show:3VN4vP6TztxK3wtT8b9aQL",
@@ -1633,19 +1646,6 @@ window.LISTENING = {
    "last_seen": "2026-11-24T23:40:04Z",
    "url": "https://open.spotify.com/episode/0LpVpINrRe5IqjSRG88ALM",
    "show_image": "https://i.scdn.co/image/ab67656300005f1f5a4e319927f9dcfb7453f69d"
-  },
-  {
-   "name": "Russia 'plays the victim' over Libya warship strike",
-   "show": "Ukraine: The Latest",
-   "show_uri": "spotify:show:6cnkk1J0I1UqtxTYVUL4Fe",
-   "release_date": "2026-11-24",
-   "duration_ms": 2560365,
-   "image": "https://i.scdn.co/image/ab67656300005f1fa585552027e007434c871aa7",
-   "first_seen": "2026-11-24T22:10:02Z",
-   "progress_ms": 2560365,
-   "last_seen": "2026-11-24T23:40:02Z",
-   "url": "https://open.spotify.com/episode/0Gyiv5wBf9alMntN1J7O8i",
-   "show_image": "https://i.scdn.co/image/ab67656300005f1f78954c21afd24c90334deba4"
   }
  ],
  "top_shows": [
