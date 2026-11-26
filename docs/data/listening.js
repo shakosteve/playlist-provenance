@@ -1,15 +1,48 @@
 window.LISTENING = {
  "title": "The Listening Booth",
- "generated": "2026-11-26T04:10:09Z",
- "synced": "2026-11-26T04:10:02Z",
+ "generated": "2026-11-26T05:10:07Z",
+ "synced": "2026-11-26T05:10:01Z",
  "totals": {
-  "plays": 125631,
-  "hours": 8541.5,
+  "plays": 125634,
+  "hours": 8541.7,
   "artists": 702,
   "albums": 1533,
   "first": "2013-05-07T01:40:37Z"
  },
  "recent": [
+  {
+   "name": "Dr. Feelgood",
+   "artist": "Mötley Crüe",
+   "album": "Dr. Feelgood",
+   "year": 1989,
+   "image": "https://i.scdn.co/image/ab67616d00001e02fc30908354ee3be55dc6feb2",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b273fc30908354ee3be55dc6feb2",
+   "url": "https://open.spotify.com/track/5dnwXK73BDZ0H2L06ZrKcE",
+   "album_url": "https://open.spotify.com/album/4MDYr65P5RQb6VHt80T3o8",
+   "played_at": "2026-11-26T04:48:25.283Z"
+  },
+  {
+   "name": "It's My Life",
+   "artist": "No Doubt",
+   "album": "The Singles Collection",
+   "year": 2003,
+   "image": "https://i.scdn.co/image/ab67616d00001e02738fbaa134106eafb7772552",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b273738fbaa134106eafb7772552",
+   "url": "https://open.spotify.com/track/2fOxxLz9JVe53itq6pfBak",
+   "album_url": "https://open.spotify.com/album/5fSlrmZPalwAAQDwu6shK2",
+   "played_at": "2026-11-26T04:43:34.891Z"
+  },
+  {
+   "name": "Right Now - 2023 Remaster",
+   "artist": "Van Halen",
+   "album": "The Collection II",
+   "year": 2023,
+   "image": "https://i.scdn.co/image/ab67616d00001e02f087877680f6f05df9115ed3",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b273f087877680f6f05df9115ed3",
+   "url": "https://open.spotify.com/track/0C14eFZQsPrFnN7gMglhre",
+   "album_url": "https://open.spotify.com/album/67KYu6Smel916pR6QBeIsQ",
+   "played_at": "2026-11-26T04:39:48.499Z"
+  },
   {
    "name": "Judith",
    "artist": "A Perfect Circle",
@@ -504,39 +537,6 @@ window.LISTENING = {
    "url": "https://open.spotify.com/track/0GjEhVFGZW8afUYGChu3Rr",
    "album_url": "https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9",
    "played_at": "2026-11-25T17:37:42.570Z"
-  },
-  {
-   "name": "My Immortal",
-   "artist": "Evanescence",
-   "album": "Fallen",
-   "year": 2003,
-   "image": "https://i.scdn.co/image/ab67616d00001e0225f49ab23f0ec6332efef432",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b27325f49ab23f0ec6332efef432",
-   "url": "https://open.spotify.com/track/4UzVcXufOhGUwF56HT7b8M",
-   "album_url": "https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm",
-   "played_at": "2026-11-25T17:33:50.636Z"
-  },
-  {
-   "name": "I Don't Care (Yo No Sé)",
-   "artist": "Los Dug Dug's",
-   "album": "Smog",
-   "year": 2015,
-   "image": "https://i.scdn.co/image/ab67616d00001e0293db80d5075e7e4ea1e51dd5",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b27393db80d5075e7e4ea1e51dd5",
-   "url": "https://open.spotify.com/track/0JWTYPafwH0RvnHiS7IwH5",
-   "album_url": "https://open.spotify.com/album/1QQZWTHIDvquxXLSqCaq9L",
-   "played_at": "2026-11-25T17:29:27.588Z"
-  },
-  {
-   "name": "Black Water - Single Version",
-   "artist": "The Doobie Brothers",
-   "album": "Best of The Doobies",
-   "year": 1976,
-   "image": "https://i.scdn.co/image/ab67616d00001e02338ef055d7501cf241e7437e",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b273338ef055d7501cf241e7437e",
-   "url": "https://open.spotify.com/track/3x1v32I3SZNvC7q7bDhcGm",
-   "album_url": "https://open.spotify.com/album/32xyhzHlGGsDvs1E7qihRA",
-   "played_at": "2026-11-25T15:52:14.018Z"
   }
  ],
  "top_artists": [
@@ -572,7 +572,7 @@ window.LISTENING = {
   },
   {
    "name": "Van Halen",
-   "plays": 2058,
+   "plays": 2059,
    "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K",
    "image": "https://i.scdn.co/image/ab67616d00001e02b414c63fb435b622238c15ed"
   },
@@ -1021,7 +1021,7 @@ window.LISTENING = {
   },
   {
    "decade": 1980,
-   "plays": 33046,
+   "plays": 33047,
    "covers": [
     {
      "name": "Back In Black",
@@ -1209,7 +1209,7 @@ window.LISTENING = {
   },
   {
    "decade": 2000,
-   "plays": 12044,
+   "plays": 12045,
    "covers": [
     {
      "name": "Material Girl",
@@ -1397,7 +1397,7 @@ window.LISTENING = {
   },
   {
    "decade": 2020,
-   "plays": 18754,
+   "plays": 18755,
    "covers": [
     {
      "name": "ERROR",
