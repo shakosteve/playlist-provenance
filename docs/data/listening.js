@@ -1,15 +1,26 @@
 window.LISTENING = {
  "title": "The Listening Booth",
- "generated": "2026-11-27T20:10:09Z",
- "synced": "2026-11-27T20:10:01Z",
+ "generated": "2026-11-27T20:40:08Z",
+ "synced": "2026-11-27T20:40:01Z",
  "totals": {
-  "plays": 125665,
-  "hours": 8543.9,
+  "plays": 125666,
+  "hours": 8544.0,
   "artists": 702,
   "albums": 1533,
   "first": "2013-05-07T01:40:37Z"
  },
  "recent": [
+  {
+   "name": "Jet Airliner - Live",
+   "artist": "Steve Miller Band",
+   "album": "Live! Breaking Ground August 3, 1977",
+   "year": 2021,
+   "image": "https://i.scdn.co/image/ab67616d00001e02bb8183e59cd224aa51e51b0f",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b273bb8183e59cd224aa51e51b0f",
+   "url": "https://open.spotify.com/track/6aCk36AO37oOz6lY5KGBpv",
+   "album_url": "https://open.spotify.com/album/1GYpibjfj4EFsTsTI1DDjh",
+   "played_at": "2026-11-27T20:10:47.155Z"
+  },
   {
    "name": "Holy Diver",
    "artist": "Dio",
@@ -526,17 +537,6 @@ window.LISTENING = {
    "url": "https://open.spotify.com/track/6AioOohg4bQZFA4jIYQQ2r",
    "album_url": "https://open.spotify.com/album/6yWMN087PgSimbcVmHLEwG",
    "played_at": "2026-11-25T19:45:17.418Z"
-  },
-  {
-   "name": "Live Wire",
-   "artist": "AC/DC",
-   "album": "High Voltage",
-   "year": 1976,
-   "image": "https://i.scdn.co/image/ab67616d00001e028c7f355d649e0a3cfcf6fc39",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b2738c7f355d649e0a3cfcf6fc39",
-   "url": "https://open.spotify.com/track/6FWoYwZa13llS7nj0SG65F",
-   "album_url": "https://open.spotify.com/album/19AUoKWRAaQYrggVvdQnqq",
-   "played_at": "2026-11-25T19:39:12.454Z"
   }
  ],
  "top_artists": [
@@ -578,7 +578,7 @@ window.LISTENING = {
   },
   {
    "name": "Steve Miller Band",
-   "plays": 1967,
+   "plays": 1968,
    "url": "https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk",
    "image": "https://i.scdn.co/image/ab67616d00001e02632b907273dba6a6062fb780"
   },
@@ -1397,7 +1397,7 @@ window.LISTENING = {
   },
   {
    "decade": 2020,
-   "plays": 18762,
+   "plays": 18763,
    "covers": [
     {
      "name": "ERROR",
