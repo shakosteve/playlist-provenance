@@ -1,15 +1,48 @@
 window.LISTENING = {
  "title": "The Listening Booth",
- "generated": "2026-11-27T17:40:08Z",
- "synced": "2026-11-27T17:40:01Z",
+ "generated": "2026-11-27T18:40:06Z",
+ "synced": "2026-11-27T18:40:01Z",
  "totals": {
-  "plays": 125644,
-  "hours": 8542.4,
+  "plays": 125648,
+  "hours": 8542.7,
   "artists": 702,
   "albums": 1533,
   "first": "2013-05-07T01:40:37Z"
  },
  "recent": [
+  {
+   "name": "Whole Lotta Love - Live",
+   "artist": "Jimmy Page, The Black Crowes",
+   "album": "Live at the Greek",
+   "year": 2025,
+   "image": "https://i.scdn.co/image/ab67616d00001e02fa6e624fbe4dbca748770195",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b273fa6e624fbe4dbca748770195",
+   "url": "https://open.spotify.com/track/1NpILLKnL2kQYwb6bCtiPe",
+   "album_url": "https://open.spotify.com/album/27DJov9N9ian0RrcMO1Iak",
+   "played_at": "2026-11-27T18:36:14.001Z"
+  },
+  {
+   "name": "Band On The Run - 2010 Remaster",
+   "artist": "Paul McCartney, Wings",
+   "album": "Band On The Run",
+   "year": 1973,
+   "image": "https://i.scdn.co/image/ab67616d00001e02be7a3a1e2d663eea2918e5a3",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b273be7a3a1e2d663eea2918e5a3",
+   "url": "https://open.spotify.com/track/1H4idkmruFoJBg1DvUv2tY",
+   "album_url": "https://open.spotify.com/album/257oomaawruFknt5wYCPDh",
+   "played_at": "2026-11-27T18:30:22.968Z"
+  },
+  {
+   "name": "Crazy",
+   "artist": "Aerosmith",
+   "album": "Get A Grip",
+   "year": 1993,
+   "image": "https://i.scdn.co/image/ab67616d00001e0291b246743456e285a20a46ed",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b27391b246743456e285a20a46ed",
+   "url": "https://open.spotify.com/track/3QxKpdTB8ZSFn8MGeCCpsQ",
+   "album_url": "https://open.spotify.com/album/180jTzor4W2MQ9HW5h5Fh4",
+   "played_at": "2026-11-27T18:25:09.322Z"
+  },
   {
    "name": "Behind My Eyes 2.0",
    "artist": "Jackie Evancho",
@@ -504,39 +537,6 @@ window.LISTENING = {
    "url": "https://open.spotify.com/track/62AuGbAkt8Ox2IrFFb8GKV",
    "album_url": "https://open.spotify.com/album/6RfgcwsOUlWkGNAd6zjjYd",
    "played_at": "2026-11-25T18:31:23.020Z"
-  },
-  {
-   "name": "Hallelujah",
-   "artist": "Rufus Wainwright",
-   "album": "Shrek (Music From The Original Motion Picture)",
-   "year": 2001,
-   "image": "https://i.scdn.co/image/ab67616d00001e026608b12a4cbbb2ab179c7738",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b2736608b12a4cbbb2ab179c7738",
-   "url": "https://open.spotify.com/track/5USZyz6dnBEn1oLsKcAKQy",
-   "album_url": "https://open.spotify.com/album/4fFn4t0JoZrNB3VY4HZ970",
-   "played_at": "2026-11-25T18:27:59.042Z"
-  },
-  {
-   "name": "Dust in the Wind",
-   "artist": "Kansas",
-   "album": "Point Of Know Return (Expanded Edition)",
-   "year": 1977,
-   "image": "https://i.scdn.co/image/ab67616d00001e0259f0f56a7cd13526b5b4204c",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b27359f0f56a7cd13526b5b4204c",
-   "url": "https://open.spotify.com/track/6zeE5tKyr8Nu882DQhhSQI",
-   "album_url": "https://open.spotify.com/album/6oU298pdPTCQnMx1PYwyUA",
-   "played_at": "2026-11-25T18:23:49.621Z"
-  },
-  {
-   "name": "Black Hole Sun",
-   "artist": "Soundgarden",
-   "album": "Superunknown (Deluxe Edition)",
-   "year": 1994,
-   "image": "https://i.scdn.co/image/ab67616d00001e02ae6d8e36136353d550b2587d",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b273ae6d8e36136353d550b2587d",
-   "url": "https://open.spotify.com/track/2EoOZnxNgtmZaD8uUmz2nD",
-   "album_url": "https://open.spotify.com/album/29sTacnS0qA9xri6YS8xLA",
-   "played_at": "2026-11-25T18:20:22.820Z"
   }
  ],
  "top_artists": [
@@ -554,7 +554,7 @@ window.LISTENING = {
   },
   {
    "name": "Aerosmith",
-   "plays": 2605,
+   "plays": 2607,
    "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH",
    "image": "https://i.scdn.co/image/ab67616d00001e02587b26d49596162397b29ec8"
   },
@@ -927,7 +927,7 @@ window.LISTENING = {
   },
   {
    "decade": 1970,
-   "plays": 28794,
+   "plays": 28795,
    "covers": [
     {
      "name": "More Than a Feeling",
@@ -1115,7 +1115,7 @@ window.LISTENING = {
   },
   {
    "decade": 1990,
-   "plays": 9777,
+   "plays": 9779,
    "covers": [
     {
      "name": "Amazing",
@@ -1397,7 +1397,7 @@ window.LISTENING = {
   },
   {
    "decade": 2020,
-   "plays": 18757,
+   "plays": 18758,
    "covers": [
     {
      "name": "ERROR",
