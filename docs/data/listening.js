@@ -1,15 +1,59 @@
 window.LISTENING = {
  "title": "The Listening Booth",
- "generated": "2026-11-27T20:40:08Z",
- "synced": "2026-11-27T20:40:01Z",
+ "generated": "2026-11-27T21:10:06Z",
+ "synced": "2026-11-27T21:10:01Z",
  "totals": {
-  "plays": 125666,
-  "hours": 8544.0,
+  "plays": 125671,
+  "hours": 8544.4,
   "artists": 702,
   "albums": 1533,
   "first": "2013-05-07T01:40:37Z"
  },
  "recent": [
+  {
+   "name": "Fortunate Son",
+   "artist": "Creedence Clearwater Revival",
+   "album": "Willy And The Poor Boys (Expanded Edition)",
+   "year": 1969,
+   "image": "https://i.scdn.co/image/ab67616d00001e029f39192f9f8ca1c90847b3e5",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b2739f39192f9f8ca1c90847b3e5",
+   "url": "https://open.spotify.com/track/4BP3uh0hFLFRb5cjsgLqDh",
+   "album_url": "https://open.spotify.com/album/31q47gQszFt0CddSyMksgO",
+   "played_at": "2026-11-27T21:03:32.935Z"
+  },
+  {
+   "name": "Nobody's Fault but Mine - Remaster",
+   "artist": "Led Zeppelin",
+   "album": "Presence (Remaster)",
+   "year": 1976,
+   "image": "https://i.scdn.co/image/ab67616d00001e0227f6c518a8e36d45b5e7d95e",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b27327f6c518a8e36d45b5e7d95e",
+   "url": "https://open.spotify.com/track/6unmtLYQ2LQ1Cg4IdAiU9g",
+   "album_url": "https://open.spotify.com/album/3uhD8hNpb0m3iIZ18RHH5u",
+   "played_at": "2026-11-27T21:01:11.629Z"
+  },
+  {
+   "name": "Automatic Sun - Live from Auditorio Nacional, CDMX",
+   "artist": "The Warning",
+   "album": "Qué Más Quieres / Sharks / Automatic Sun (Live from Auditorio Nacional, CDMX)",
+   "year": 2025,
+   "image": "https://i.scdn.co/image/ab67616d00001e02e6d30343fb059f0b62c38fb3",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b273e6d30343fb059f0b62c38fb3",
+   "url": "https://open.spotify.com/track/52Rhi563GFryRxSuxdBtyy",
+   "album_url": "https://open.spotify.com/album/4YKEYnqb55Gw4g8uMHMKSo",
+   "played_at": "2026-11-27T20:54:43.120Z"
+  },
+  {
+   "name": "Bed of Nails",
+   "artist": "Alice Cooper",
+   "album": "Trash",
+   "year": 1989,
+   "image": "https://i.scdn.co/image/ab67616d00001e0234b292a289c635532da02671",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b27334b292a289c635532da02671",
+   "url": "https://open.spotify.com/track/5XeT9fYCeg1jYithrEni7v",
+   "album_url": "https://open.spotify.com/album/033cvSPAuSU5ArRfIgQSDU",
+   "played_at": "2026-11-27T20:43:08.310Z"
+  },
   {
    "name": "Jet Airliner - Live",
    "artist": "Steve Miller Band",
@@ -493,56 +537,12 @@ window.LISTENING = {
    "url": "https://open.spotify.com/track/52KvuGmgcgRdrLMXOtda0E",
    "album_url": "https://open.spotify.com/album/6TwlLNU5Zd9qGuNgSLeWPt",
    "played_at": "2026-11-25T21:30:12.778Z"
-  },
-  {
-   "name": "Copper Bullets",
-   "artist": "The Warning",
-   "album": "XXI Century Blood",
-   "year": 2017,
-   "image": "https://i.scdn.co/image/ab67616d00001e0204a3dad60eb365aec55022de",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b27304a3dad60eb365aec55022de",
-   "url": "https://open.spotify.com/track/2iJEEovzd80V1hl3H2xmUJ",
-   "album_url": "https://open.spotify.com/album/6nEiN0eM1gbvDsijV46XrX",
-   "played_at": "2026-11-25T21:26:34.580Z"
-  },
-  {
-   "name": "Love Hurts",
-   "artist": "Nazareth",
-   "album": "Hair Of The Dog",
-   "year": 1975,
-   "image": "https://i.scdn.co/image/ab67616d00001e0285bc3b24dd834a6dfbb876da",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b27385bc3b24dd834a6dfbb876da",
-   "url": "https://open.spotify.com/track/1i5oEx2vFczQ2sCY3c6Kn5",
-   "album_url": "https://open.spotify.com/album/5Zwyrn62m3Pyc0nvRa9CHF",
-   "played_at": "2026-11-25T21:22:52.576Z"
-  },
-  {
-   "name": "Unmendable",
-   "artist": "The Warning",
-   "album": "XXI Century Blood",
-   "year": 2017,
-   "image": "https://i.scdn.co/image/ab67616d00001e0204a3dad60eb365aec55022de",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b27304a3dad60eb365aec55022de",
-   "url": "https://open.spotify.com/track/3YPWoSTTdI97QeyjV9t68F",
-   "album_url": "https://open.spotify.com/album/6nEiN0eM1gbvDsijV46XrX",
-   "played_at": "2026-11-25T21:18:59Z"
-  },
-  {
-   "name": "Forty Six & 2",
-   "artist": "TOOL",
-   "album": "Ænima",
-   "year": 1996,
-   "image": "https://i.scdn.co/image/ab67616d00001e0247daa44983fa6079910ed295",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b27347daa44983fa6079910ed295",
-   "url": "https://open.spotify.com/track/6AioOohg4bQZFA4jIYQQ2r",
-   "album_url": "https://open.spotify.com/album/6yWMN087PgSimbcVmHLEwG",
-   "played_at": "2026-11-25T19:45:17.418Z"
   }
  ],
  "top_artists": [
   {
    "name": "The Warning",
-   "plays": 10743,
+   "plays": 10744,
    "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh",
    "image": "https://i.scdn.co/image/ab67616d00001e0204a3dad60eb365aec55022de"
   },
@@ -560,7 +560,7 @@ window.LISTENING = {
   },
   {
    "name": "Led Zeppelin",
-   "plays": 2318,
+   "plays": 2319,
    "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp",
    "image": "https://i.scdn.co/image/ab67616d00001e02c8a11e48c91a982d086afc69"
   },
@@ -833,7 +833,7 @@ window.LISTENING = {
   },
   {
    "decade": 1960,
-   "plays": 7094,
+   "plays": 7095,
    "covers": [
     {
      "name": "Your Time Is Gonna Come - 1990 Remaster",
@@ -927,7 +927,7 @@ window.LISTENING = {
   },
   {
    "decade": 1970,
-   "plays": 28799,
+   "plays": 28800,
    "covers": [
     {
      "name": "More Than a Feeling",
@@ -1021,7 +1021,7 @@ window.LISTENING = {
   },
   {
    "decade": 1980,
-   "plays": 33057,
+   "plays": 33059,
    "covers": [
     {
      "name": "Back In Black",
@@ -1109,7 +1109,7 @@ window.LISTENING = {
      "image_large": "https://i.scdn.co/image/ab67616d0000b27334b292a289c635532da02671",
      "url": "https://open.spotify.com/track/5XcZRgJv3zMhTqCyESjQrF",
      "album_url": "https://open.spotify.com/album/033cvSPAuSU5ArRfIgQSDU",
-     "plays": 513
+     "plays": 515
     }
    ]
   },
@@ -1397,7 +1397,7 @@ window.LISTENING = {
   },
   {
    "decade": 2020,
-   "plays": 18763,
+   "plays": 18764,
    "covers": [
     {
      "name": "ERROR",
