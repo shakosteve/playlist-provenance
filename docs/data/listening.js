@@ -1,7 +1,7 @@
 window.LISTENING = {
  "title": "The Listening Booth",
- "generated": "2026-11-27T14:10:08Z",
- "synced": "2026-11-27T14:10:01Z",
+ "generated": "2026-11-27T14:40:07Z",
+ "synced": "2026-11-27T14:40:01Z",
  "totals": {
   "plays": 125634,
   "hours": 8541.7,
@@ -1492,6 +1492,19 @@ window.LISTENING = {
  ],
  "episodes": [
   {
+   "name": "Isabella Weber's Vision for an Affordability Agenda",
+   "show": "Odd Lots",
+   "show_uri": "spotify:show:1te7oSFyRVekxMBJUSethH",
+   "release_date": "2026-11-27",
+   "duration_ms": 2823000,
+   "image": "https://i.scdn.co/image/ab67656300005f1f77e76ef980ccf6174ff80c42",
+   "first_seen": "2026-11-27T14:40:02Z",
+   "progress_ms": 199178,
+   "last_seen": "2026-11-27T14:40:02Z",
+   "url": "https://open.spotify.com/episode/2T4uQ6juP0heoMHwdBd7Gh",
+   "show_image": "https://i.scdn.co/image/ab67656300005f1f77e76ef980ccf6174ff80c42"
+  },
+  {
    "name": "Marc Levinson on How UPS Created Modern Logistics",
    "show": "Odd Lots",
    "show_uri": "spotify:show:1te7oSFyRVekxMBJUSethH",
@@ -1633,19 +1646,6 @@ window.LISTENING = {
    "last_seen": "2026-11-26T03:10:02Z",
    "url": "https://open.spotify.com/episode/4OOXhrIEaElhtDxzosnMFY",
    "show_image": "https://i.scdn.co/image/ab67656300005f1f78954c21afd24c90334deba4"
-  },
-  {
-   "name": "Trump’s Intervention at Nvidia Sparks Bipartisan Backlash",
-   "show": "Amanpour",
-   "show_uri": "spotify:show:3sLR8M7JchYmhWuf8QtlyO",
-   "release_date": "2026-11-24",
-   "duration_ms": 3177788,
-   "image": "https://i.scdn.co/image/ab67656300005f1f95217901851fcb57728068b6",
-   "first_seen": "2026-11-25T05:40:02Z",
-   "progress_ms": 654058,
-   "last_seen": "2026-11-25T07:40:02Z",
-   "url": "https://open.spotify.com/episode/23XYr56pxtg5xJ7Jp3P3FS",
-   "show_image": "https://i.scdn.co/image/ab67656300005f1f95217901851fcb57728068b6"
   }
  ],
  "top_shows": [
