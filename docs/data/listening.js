@@ -1,7 +1,7 @@
 window.LISTENING = {
  "title": "The Listening Booth",
- "generated": "2026-11-27T22:40:10Z",
- "synced": "2026-11-27T22:40:02Z",
+ "generated": "2026-11-27T23:40:06Z",
+ "synced": "2026-11-27T23:40:01Z",
  "totals": {
   "plays": 125681,
   "hours": 8545.1,
@@ -1492,6 +1492,19 @@ window.LISTENING = {
  ],
  "episodes": [
   {
+   "name": "180. Rings of Power is COPYING Peter Jackson : Rings of Power – Season 3, Episode 5",
+   "show": "Exploring Tolkien",
+   "show_uri": "spotify:show:053v5PsgtE8TmMiXXAyThG",
+   "release_date": "2026-11-27",
+   "duration_ms": 2846328,
+   "image": "https://i.scdn.co/image/ab67656300005f1f34b09c7d49b9e8fe15a7ac76",
+   "first_seen": "2026-11-27T23:40:02Z",
+   "progress_ms": 295834,
+   "last_seen": "2026-11-27T23:40:02Z",
+   "url": "https://open.spotify.com/episode/3yVDw1x3kR0laiHvPOnKVP",
+   "show_image": "https://i.scdn.co/image/ab67656300005f1f437d42fd22f6b88af853b190"
+  },
+  {
    "name": "American History Under Attack? | Happy Hour with Brian Kilmeade",
    "show": "Kennedy Saves the World",
    "show_uri": "spotify:show:5DEwjZIkxrUhkM1nlqLagd",
@@ -1633,19 +1646,6 @@ window.LISTENING = {
    "last_seen": "2026-11-26T14:10:04Z",
    "url": "https://open.spotify.com/episode/78oxcGLU6GZBoyk94q19Yk",
    "show_image": "https://i.scdn.co/image/ab67656300005f1fc306eb9be2f4da68a4f7f2be"
-  },
-  {
-   "name": "Huang Out, Huang Back In",
-   "show": "Getting Hammered®",
-   "show_uri": "spotify:show:53vma6orvxtnzLmO5P8yLQ",
-   "release_date": "2026-11-25",
-   "duration_ms": 3571577,
-   "image": "https://i.scdn.co/image/ab67656300005f1f8bf9513ccc1d86122c3261c8",
-   "first_seen": "2026-11-25T13:40:02Z",
-   "progress_ms": 3081755,
-   "last_seen": "2026-11-26T07:10:04Z",
-   "url": "https://open.spotify.com/episode/4ZOJ9NMxjAAqHSUbwR9Lpt",
-   "show_image": "https://i.scdn.co/image/ab67656300005f1f8bf9513ccc1d86122c3261c8"
   }
  ],
  "top_shows": [
