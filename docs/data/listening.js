@@ -1,15 +1,70 @@
 window.LISTENING = {
  "title": "The Listening Booth",
- "generated": "2026-11-27T21:10:06Z",
- "synced": "2026-11-27T21:10:01Z",
+ "generated": "2026-11-27T21:40:08Z",
+ "synced": "2026-11-27T21:40:01Z",
  "totals": {
-  "plays": 125671,
-  "hours": 8544.4,
+  "plays": 125676,
+  "hours": 8544.8,
   "artists": 702,
   "albums": 1533,
   "first": "2013-05-07T01:40:37Z"
  },
  "recent": [
+  {
+   "name": "Fly By Night",
+   "artist": "Rush",
+   "album": "Fly By Night",
+   "year": 1975,
+   "image": "https://i.scdn.co/image/ab67616d00001e0211079bb97e1f95d1a917ce0b",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b27311079bb97e1f95d1a917ce0b",
+   "url": "https://open.spotify.com/track/54TaGh2JKs1pO9daXNXI5q",
+   "album_url": "https://open.spotify.com/album/3ZtICWkqezf0bBTUwY1Khe",
+   "played_at": "2026-11-27T21:38:10.660Z"
+  },
+  {
+   "name": "Du hast",
+   "artist": "Rammstein",
+   "album": "Sehnsucht (Remastered 2023)",
+   "year": 1997,
+   "image": "https://i.scdn.co/image/ab67616d00001e02030cda12ffbebd6561c1c0f0",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b273030cda12ffbebd6561c1c0f0",
+   "url": "https://open.spotify.com/track/6XcoiOYiNbIxzpt8WRxq8Z",
+   "album_url": "https://open.spotify.com/album/6hh5ax5BomINXGoi4q7FDP",
+   "played_at": "2026-11-27T21:34:48.041Z"
+  },
+  {
+   "name": "Kickstart My Heart",
+   "artist": "Mötley Crüe",
+   "album": "Dr. Feelgood",
+   "year": 1989,
+   "image": "https://i.scdn.co/image/ab67616d00001e02fc30908354ee3be55dc6feb2",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b273fc30908354ee3be55dc6feb2",
+   "url": "https://open.spotify.com/track/4Yqy0GpeDEXLibWJCZyQew",
+   "album_url": "https://open.spotify.com/album/4MDYr65P5RQb6VHt80T3o8",
+   "played_at": "2026-11-27T21:19:55.302Z"
+  },
+  {
+   "name": "Owner of a Lonely Heart",
+   "artist": "Yes",
+   "album": "90125 (Deluxe Version)",
+   "year": 1983,
+   "image": "https://i.scdn.co/image/ab67616d00001e022527c93491d39fe7e95b95ac",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b2732527c93491d39fe7e95b95ac",
+   "url": "https://open.spotify.com/track/0GTK6TesV108Jj5D3MHsYb",
+   "album_url": "https://open.spotify.com/album/6nNlTIiFd3J06W0rJiiwlz",
+   "played_at": "2026-11-27T21:15:12.157Z"
+  },
+  {
+   "name": "Light My Fire",
+   "artist": "The Doors",
+   "album": "The Doors",
+   "year": 1967,
+   "image": "https://i.scdn.co/image/ab67616d00001e0200d037dd3dfb578da4692088",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b27300d037dd3dfb578da4692088",
+   "url": "https://open.spotify.com/track/5uvosCdMlFdTXhoazkTI5R",
+   "album_url": "https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn",
+   "played_at": "2026-11-27T21:10:43.173Z"
+  },
   {
    "name": "Fortunate Son",
    "artist": "Creedence Clearwater Revival",
@@ -482,61 +537,6 @@ window.LISTENING = {
    "url": "https://open.spotify.com/track/0S3gpZzlT9Hb7CCSV2owX7",
    "album_url": "https://open.spotify.com/album/6eh82ojicL8RSJF7GkYTh7",
    "played_at": "2026-11-26T01:38:31.637Z"
-  },
-  {
-   "name": "Black Dog - Remaster",
-   "artist": "Led Zeppelin",
-   "album": "Led Zeppelin IV (Deluxe Edition)",
-   "year": 1971,
-   "image": "https://i.scdn.co/image/ab67616d00001e02c8a11e48c91a982d086afc69",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b273c8a11e48c91a982d086afc69",
-   "url": "https://open.spotify.com/track/3qT4bUD1MaWpGrTwcvguhb",
-   "album_url": "https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK",
-   "played_at": "2026-11-25T23:03:02.698Z"
-  },
-  {
-   "name": "Heaven",
-   "artist": "Warrant",
-   "album": "The Best Of Warrant",
-   "year": 1996,
-   "image": "https://i.scdn.co/image/ab67616d00001e02eb323432d9677088c37d7172",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b273eb323432d9677088c37d7172",
-   "url": "https://open.spotify.com/track/3ZdccsqhXixCzOkMfbSk3u",
-   "album_url": "https://open.spotify.com/album/23QIqILz8ksSGOS7uUM2Cf",
-   "played_at": "2026-11-25T21:48:49.965Z"
-  },
-  {
-   "name": "Ramble On - 1990 Remaster",
-   "artist": "Led Zeppelin",
-   "album": "Led Zeppelin II (1994 Remaster)",
-   "year": 1969,
-   "image": "https://i.scdn.co/image/ab67616d00001e02fc4f17340773c6c3579fea0d",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b273fc4f17340773c6c3579fea0d",
-   "url": "https://open.spotify.com/track/3MODES4TNtygekLl146Dxd",
-   "album_url": "https://open.spotify.com/album/70lQYZtypdCALtFVlQAcvx",
-   "played_at": "2026-11-25T21:40:41.564Z"
-  },
-  {
-   "name": "N.I.B.",
-   "artist": "Black Sabbath",
-   "album": "The Ultimate Collection",
-   "year": 2017,
-   "image": "https://i.scdn.co/image/ab67616d00001e02012d727b175d4a91c792fb4c",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b273012d727b175d4a91c792fb4c",
-   "url": "https://open.spotify.com/track/2GnVuaoKSkB6Xa07l1BBg8",
-   "album_url": "https://open.spotify.com/album/6TcPqftScGmR0aEgIb43Vv",
-   "played_at": "2026-11-25T21:36:17.784Z"
-  },
-  {
-   "name": "The Stroke - Remastered 2010",
-   "artist": "Billy Squier",
-   "album": "Don't Say No (Remastered 2010)",
-   "year": 1981,
-   "image": "https://i.scdn.co/image/ab67616d00001e02f4822f8034e697410a14a297",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b273f4822f8034e697410a14a297",
-   "url": "https://open.spotify.com/track/52KvuGmgcgRdrLMXOtda0E",
-   "album_url": "https://open.spotify.com/album/6TwlLNU5Zd9qGuNgSLeWPt",
-   "played_at": "2026-11-25T21:30:12.778Z"
   }
  ],
  "top_artists": [
@@ -833,7 +833,7 @@ window.LISTENING = {
   },
   {
    "decade": 1960,
-   "plays": 7095,
+   "plays": 7096,
    "covers": [
     {
      "name": "Your Time Is Gonna Come - 1990 Remaster",
@@ -927,7 +927,7 @@ window.LISTENING = {
   },
   {
    "decade": 1970,
-   "plays": 28800,
+   "plays": 28801,
    "covers": [
     {
      "name": "More Than a Feeling",
@@ -1021,7 +1021,7 @@ window.LISTENING = {
   },
   {
    "decade": 1980,
-   "plays": 33059,
+   "plays": 33061,
    "covers": [
     {
      "name": "Back In Black",
@@ -1115,7 +1115,7 @@ window.LISTENING = {
   },
   {
    "decade": 1990,
-   "plays": 9780,
+   "plays": 9781,
    "covers": [
     {
      "name": "Amazing",
