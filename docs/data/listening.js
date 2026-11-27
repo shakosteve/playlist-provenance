@@ -1,15 +1,70 @@
 window.LISTENING = {
  "title": "The Listening Booth",
- "generated": "2026-11-27T21:40:08Z",
- "synced": "2026-11-27T21:40:01Z",
+ "generated": "2026-11-27T22:10:08Z",
+ "synced": "2026-11-27T22:10:02Z",
  "totals": {
-  "plays": 125676,
-  "hours": 8544.8,
+  "plays": 125681,
+  "hours": 8545.1,
   "artists": 702,
   "albums": 1533,
   "first": "2013-05-07T01:40:37Z"
  },
  "recent": [
+  {
+   "name": "Smooth (feat. Rob Thomas)",
+   "artist": "Santana, Rob Thomas",
+   "album": "Supernatural (Remastered)",
+   "year": 1999,
+   "image": "https://i.scdn.co/image/ab67616d00001e0247eb3ea5a92904c19e102e54",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b27347eb3ea5a92904c19e102e54",
+   "url": "https://open.spotify.com/track/0n2SEXB2qoRQg171q7XqeW",
+   "album_url": "https://open.spotify.com/album/10aiDpdFGyfCFEcqpx6XTq",
+   "played_at": "2026-11-27T22:01:10.271Z"
+  },
+  {
+   "name": "The Tide Is High - Remastered 2001",
+   "artist": "Blondie",
+   "album": "Greatest Hits",
+   "year": 2002,
+   "image": "https://i.scdn.co/image/ab67616d00001e022847f04f9de392e290b5a0be",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b2732847f04f9de392e290b5a0be",
+   "url": "https://open.spotify.com/track/6UYVDYeTRGYULthAwMIpYB",
+   "album_url": "https://open.spotify.com/album/4pIYJsJ8GkYWM1rvqy45ug",
+   "played_at": "2026-11-27T21:56:14.763Z"
+  },
+  {
+   "name": "Baker Street",
+   "artist": "Gerry Rafferty",
+   "album": "City to City",
+   "year": 1978,
+   "image": "https://i.scdn.co/image/ab67616d00001e02dc60cf9a010f86354e6735dd",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b273dc60cf9a010f86354e6735dd",
+   "url": "https://open.spotify.com/track/5gOd6zDC8vhlYjqbQdJVWP",
+   "album_url": "https://open.spotify.com/album/35yZZTWeSrszSKjRlFETwf",
+   "played_at": "2026-11-27T21:51:30.280Z"
+  },
+  {
+   "name": "Cherry Pie",
+   "artist": "Warrant",
+   "album": "Cherry Pie",
+   "year": 1990,
+   "image": "https://i.scdn.co/image/ab67616d00001e02ca00891c544ffcab44bf7a34",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b273ca00891c544ffcab44bf7a34",
+   "url": "https://open.spotify.com/track/7LygtNjQ65PSdzVjUnHXQb",
+   "album_url": "https://open.spotify.com/album/4LgsHyufRmmcB1HIqTES19",
+   "played_at": "2026-11-27T21:45:22.685Z"
+  },
+  {
+   "name": "If I Had a Heart",
+   "artist": "Fever Ray",
+   "album": "Fever Ray",
+   "year": 2009,
+   "image": "https://i.scdn.co/image/ab67616d00001e02707831d5303efb3caa6c723e",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b273707831d5303efb3caa6c723e",
+   "url": "https://open.spotify.com/track/3eJyXwiYepWvEDKABhm7lL",
+   "album_url": "https://open.spotify.com/album/019nA7vSKz0dD5yRKYRpbM",
+   "played_at": "2026-11-27T21:42:01.166Z"
+  },
   {
    "name": "Fly By Night",
    "artist": "Rush",
@@ -482,61 +537,6 @@ window.LISTENING = {
    "url": "https://open.spotify.com/track/5KDNFlHAdDJ84fhK27c35X",
    "album_url": "https://open.spotify.com/album/0GeWd0yUKXHbCXVag1mJvO",
    "played_at": "2026-11-26T01:58:52.683Z"
-  },
-  {
-   "name": "My Generation - Mono Version",
-   "artist": "The Who",
-   "album": "The Who Sings My Generation (U.S. Version)",
-   "year": 1966,
-   "image": "https://i.scdn.co/image/ab67616d00001e02cbee7274742b0471f39bb8c8",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b273cbee7274742b0471f39bb8c8",
-   "url": "https://open.spotify.com/track/45s88Xopo6KvHc0PQ05aGg",
-   "album_url": "https://open.spotify.com/album/4upv5ZjkKMIUBjFNthFQih",
-   "played_at": "2026-11-26T01:54:44.927Z"
-  },
-  {
-   "name": "Everybody Wants You",
-   "artist": "Billy Squier",
-   "album": "Absolute Hits",
-   "year": 2005,
-   "image": "https://i.scdn.co/image/ab67616d00001e02fddbed2db48c40dbb2b6a093",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b273fddbed2db48c40dbb2b6a093",
-   "url": "https://open.spotify.com/track/2Z9B8sd6HgEfCWqvOfhFD0",
-   "album_url": "https://open.spotify.com/album/36vJNbcqq5tRLh8yHwjsBG",
-   "played_at": "2026-11-26T01:51:25.506Z"
-  },
-  {
-   "name": "With A Little Help From My Friends",
-   "artist": "Joe Cocker",
-   "album": "With A Little Help From My Friends",
-   "year": 1969,
-   "image": "https://i.scdn.co/image/ab67616d00001e025bb09aa81ffb17ccf902629f",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b2735bb09aa81ffb17ccf902629f",
-   "url": "https://open.spotify.com/track/0YZ3J8xzGwLOg4yEgST1YK",
-   "album_url": "https://open.spotify.com/album/74sIm8QdXqFwYeDS7OfYVw",
-   "played_at": "2026-11-26T01:47:36.901Z"
-  },
-  {
-   "name": "Suicide Blonde",
-   "artist": "INXS",
-   "album": "X",
-   "year": 1990,
-   "image": "https://i.scdn.co/image/ab67616d00001e02232a7dbebc9249b8c2fc1b4c",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b273232a7dbebc9249b8c2fc1b4c",
-   "url": "https://open.spotify.com/track/3DPyS3odFIWQ3E2IFqHEdG",
-   "album_url": "https://open.spotify.com/album/688l8IJXR4cmgGj0Ekl0DR",
-   "played_at": "2026-11-26T01:42:24.320Z"
-  },
-  {
-   "name": "Mama, I'm Coming Home",
-   "artist": "Ozzy Osbourne",
-   "album": "No More Tears (Expanded Edition)",
-   "year": 1991,
-   "image": "https://i.scdn.co/image/ab67616d00001e02509342e69eb341df70e5c2e3",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b273509342e69eb341df70e5c2e3",
-   "url": "https://open.spotify.com/track/0S3gpZzlT9Hb7CCSV2owX7",
-   "album_url": "https://open.spotify.com/album/6eh82ojicL8RSJF7GkYTh7",
-   "played_at": "2026-11-26T01:38:31.637Z"
   }
  ],
  "top_artists": [
@@ -927,7 +927,7 @@ window.LISTENING = {
   },
   {
    "decade": 1970,
-   "plays": 28801,
+   "plays": 28802,
    "covers": [
     {
      "name": "More Than a Feeling",
@@ -1115,7 +1115,7 @@ window.LISTENING = {
   },
   {
    "decade": 1990,
-   "plays": 9781,
+   "plays": 9783,
    "covers": [
     {
      "name": "Amazing",
@@ -1159,7 +1159,7 @@ window.LISTENING = {
      "image_large": "https://i.scdn.co/image/ab67616d0000b273ca00891c544ffcab44bf7a34",
      "url": "https://open.spotify.com/track/3WW3g2scq0m7ZY5JCxrdWw",
      "album_url": "https://open.spotify.com/album/4LgsHyufRmmcB1HIqTES19",
-     "plays": 494
+     "plays": 495
     },
     {
      "name": "The Sign",
@@ -1209,7 +1209,7 @@ window.LISTENING = {
   },
   {
    "decade": 2000,
-   "plays": 12045,
+   "plays": 12047,
    "covers": [
     {
      "name": "Material Girl",
