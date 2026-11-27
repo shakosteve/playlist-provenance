@@ -1,7 +1,7 @@
 window.LISTENING = {
  "title": "The Listening Booth",
- "generated": "2026-11-27T05:10:08Z",
- "synced": "2026-11-27T05:10:01Z",
+ "generated": "2026-11-27T05:40:07Z",
+ "synced": "2026-11-27T05:40:01Z",
  "totals": {
   "plays": 125634,
   "hours": 8541.7,
@@ -1492,19 +1492,6 @@ window.LISTENING = {
  ],
  "episodes": [
   {
-   "name": "The Detonation of Bomb Chemicals in Iowa",
-   "show": "RealClearPolitics Podcast",
-   "show_uri": "spotify:show:5FkNemg3aIaPPNBImIcW2l",
-   "release_date": "2026-11-25",
-   "duration_ms": 3241142,
-   "image": "https://i.scdn.co/image/ab67656300005f1fb7a0b1a52e935c303a3995d0",
-   "first_seen": "2026-11-27T03:40:02Z",
-   "progress_ms": 119938,
-   "last_seen": "2026-11-27T03:40:02Z",
-   "url": "https://open.spotify.com/episode/0oGHTz5t5KecgXJiyxvpVy",
-   "show_image": "https://i.scdn.co/image/ab67656300005f1fe19edf2c6856b8b09c057f38"
-  },
-  {
    "name": "NVIDIA in the White House",
    "show": "RealClearPolitics Podcast",
    "show_uri": "spotify:show:5FkNemg3aIaPPNBImIcW2l",
@@ -1512,9 +1499,22 @@ window.LISTENING = {
    "duration_ms": 3272672,
    "image": "https://i.scdn.co/image/ab67656300005f1fe19edf2c6856b8b09c057f38",
    "first_seen": "2026-11-27T02:10:02Z",
-   "progress_ms": 3104879,
-   "last_seen": "2026-11-27T03:10:02Z",
+   "progress_ms": 3166641,
+   "last_seen": "2026-11-27T05:40:02Z",
    "url": "https://open.spotify.com/episode/25DQbnfGVs1dc63btt3MXP",
+   "show_image": "https://i.scdn.co/image/ab67656300005f1fe19edf2c6856b8b09c057f38"
+  },
+  {
+   "name": "The Detonation of Bomb Chemicals in Iowa",
+   "show": "RealClearPolitics Podcast",
+   "show_uri": "spotify:show:5FkNemg3aIaPPNBImIcW2l",
+   "release_date": "2026-11-25",
+   "duration_ms": 3241142,
+   "image": "https://i.scdn.co/image/ab67656300005f1fb7a0b1a52e935c303a3995d0",
+   "first_seen": "2026-11-27T03:40:02Z",
+   "progress_ms": 1268746,
+   "last_seen": "2026-11-27T05:40:02Z",
+   "url": "https://open.spotify.com/episode/0oGHTz5t5KecgXJiyxvpVy",
    "show_image": "https://i.scdn.co/image/ab67656300005f1fe19edf2c6856b8b09c057f38"
   },
   {
