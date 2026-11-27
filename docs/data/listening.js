@@ -1,7 +1,7 @@
 window.LISTENING = {
  "title": "The Listening Booth",
- "generated": "2026-11-27T16:40:09Z",
- "synced": "2026-11-27T16:40:01Z",
+ "generated": "2026-11-27T17:40:08Z",
+ "synced": "2026-11-27T17:40:01Z",
  "totals": {
   "plays": 125644,
   "hours": 8542.4,
@@ -1492,6 +1492,19 @@ window.LISTENING = {
  ],
  "episodes": [
   {
+   "name": "Left in the lurch: Spain’s general election",
+   "show": "Economist Podcasts",
+   "show_uri": "spotify:show:2ZFDmgDS2Z6xccP51s1zFQ",
+   "release_date": "2026-11-26",
+   "duration_ms": 1051010,
+   "image": "https://i.scdn.co/image/ab67656300005f1f87ec8e63c663647ac12d6301",
+   "first_seen": "2026-11-26T13:40:02Z",
+   "progress_ms": 90110,
+   "last_seen": "2026-11-27T17:40:02Z",
+   "url": "https://open.spotify.com/episode/5roAlqOhiYhMEixH17lrHX",
+   "show_image": "https://i.scdn.co/image/ab67656300005f1f3d63c8a3f5c8f7b8b0c1443b"
+  },
+  {
    "name": "Marc Levinson on How UPS Created Modern Logistics",
    "show": "Odd Lots",
    "show_uri": "spotify:show:1te7oSFyRVekxMBJUSethH",
@@ -1607,19 +1620,6 @@ window.LISTENING = {
    "last_seen": "2026-11-26T14:10:04Z",
    "url": "https://open.spotify.com/episode/78oxcGLU6GZBoyk94q19Yk",
    "show_image": "https://i.scdn.co/image/ab67656300005f1fc306eb9be2f4da68a4f7f2be"
-  },
-  {
-   "name": "Left in the lurch: Spain’s general election",
-   "show": "Economist Podcasts",
-   "show_uri": "spotify:show:2ZFDmgDS2Z6xccP51s1zFQ",
-   "release_date": "2026-11-26",
-   "duration_ms": 1051010,
-   "image": "https://i.scdn.co/image/ab67656300005f1f87ec8e63c663647ac12d6301",
-   "first_seen": "2026-11-26T13:40:02Z",
-   "progress_ms": 28760,
-   "last_seen": "2026-11-26T14:10:02Z",
-   "url": "https://open.spotify.com/episode/5roAlqOhiYhMEixH17lrHX",
-   "show_image": "https://i.scdn.co/image/ab67656300005f1f3d63c8a3f5c8f7b8b0c1443b"
   },
   {
    "name": "Huang Out, Huang Back In",
