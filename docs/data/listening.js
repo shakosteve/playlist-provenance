@@ -1,15 +1,48 @@
 window.LISTENING = {
  "title": "The Listening Booth",
- "generated": "2026-11-27T14:40:07Z",
- "synced": "2026-11-27T14:40:01Z",
+ "generated": "2026-11-27T15:10:08Z",
+ "synced": "2026-11-27T15:10:01Z",
  "totals": {
-  "plays": 125634,
-  "hours": 8541.7,
+  "plays": 125637,
+  "hours": 8541.9,
   "artists": 702,
   "albums": 1533,
   "first": "2013-05-07T01:40:37Z"
  },
  "recent": [
+  {
+   "name": "Shake That",
+   "artist": "BAND-MAID",
+   "album": "New Beginning",
+   "year": 2015,
+   "image": "https://i.scdn.co/image/ab67616d00001e02c9d078b963bf1205f26eb90b",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b273c9d078b963bf1205f26eb90b",
+   "url": "https://open.spotify.com/track/4UlybsnjfVNPtn6rdliNUB",
+   "album_url": "https://open.spotify.com/album/3fGJG29oqHwWqqyV5UGUQa",
+   "played_at": "2026-11-27T14:58:33.347Z"
+  },
+  {
+   "name": "Rock Of Ages",
+   "artist": "Def Leppard",
+   "album": "Pyromania (Deluxe)",
+   "year": 1983,
+   "image": "https://i.scdn.co/image/ab67616d00001e02c56fbdf8c58463a4cced0d03",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b273c56fbdf8c58463a4cced0d03",
+   "url": "https://open.spotify.com/track/2AmEv442DGwSxMGZ9XEvBA",
+   "album_url": "https://open.spotify.com/album/3MJoDIkQxY0MTXE8fqzmPu",
+   "played_at": "2026-11-27T14:54:27.218Z"
+  },
+  {
+   "name": "Son of a Preacher Man",
+   "artist": "Dusty Springfield",
+   "album": "Dusty In Memphis [Deluxe Edition]",
+   "year": 1969,
+   "image": "https://i.scdn.co/image/ab67616d00001e025aaa2395bb5c2016c1e2f6f0",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b2735aaa2395bb5c2016c1e2f6f0",
+   "url": "https://open.spotify.com/track/7odHgoLFi3GQ90E9PeraI3",
+   "album_url": "https://open.spotify.com/album/6SNMenG3NjZyqgI5p4Hcmg",
+   "played_at": "2026-11-27T14:50:19.028Z"
+  },
   {
    "name": "Dr. Feelgood",
    "artist": "Mötley Crüe",
@@ -504,39 +537,6 @@ window.LISTENING = {
    "url": "https://open.spotify.com/track/1IqFh00G2kvvMm8pRMpehA",
    "album_url": "https://open.spotify.com/album/3j7nicLAWXM0Fb08q9XGyf",
    "played_at": "2026-11-25T17:50:33.910Z"
-  },
-  {
-   "name": "Take A Chance On Me",
-   "artist": "ABBA",
-   "album": "The Album",
-   "year": 1977,
-   "image": "https://i.scdn.co/image/ab67616d00001e026f705bef76c1d861c4d51d8c",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b2736f705bef76c1d861c4d51d8c",
-   "url": "https://open.spotify.com/track/5BckPAYcKEJuYs1eV1BHHe",
-   "album_url": "https://open.spotify.com/album/5fLOHW1UXr1cJrnXiU3FBt",
-   "played_at": "2026-11-25T17:46:02.109Z"
-  },
-  {
-   "name": "Jack & Diane",
-   "artist": "John Mellencamp",
-   "album": "American Fool",
-   "year": 1982,
-   "image": "https://i.scdn.co/image/ab67616d00001e02b1945b44ce8868740f132f8e",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b273b1945b44ce8868740f132f8e",
-   "url": "https://open.spotify.com/track/43btz2xjMKpcmjkuRsvxyg",
-   "album_url": "https://open.spotify.com/album/4gouGcdQn9OvjX42xnWrF0",
-   "played_at": "2026-11-25T17:41:57.636Z"
-  },
-  {
-   "name": "Dancing Queen",
-   "artist": "ABBA",
-   "album": "Arrival",
-   "year": 1976,
-   "image": "https://i.scdn.co/image/ab67616d00001e0270f7a1b35d5165c85b95a0e0",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b27370f7a1b35d5165c85b95a0e0",
-   "url": "https://open.spotify.com/track/0GjEhVFGZW8afUYGChu3Rr",
-   "album_url": "https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9",
-   "played_at": "2026-11-25T17:37:42.570Z"
   }
  ],
  "top_artists": [
@@ -833,7 +833,7 @@ window.LISTENING = {
   },
   {
    "decade": 1960,
-   "plays": 7091,
+   "plays": 7092,
    "covers": [
     {
      "name": "Your Time Is Gonna Come - 1990 Remaster",
@@ -1021,7 +1021,7 @@ window.LISTENING = {
   },
   {
    "decade": 1980,
-   "plays": 33047,
+   "plays": 33048,
    "covers": [
     {
      "name": "Back In Black",
@@ -1303,7 +1303,7 @@ window.LISTENING = {
   },
   {
    "decade": 2010,
-   "plays": 15846,
+   "plays": 15847,
    "covers": [
     {
      "name": "XXI Century Blood",
@@ -1492,6 +1492,19 @@ window.LISTENING = {
  ],
  "episodes": [
   {
+   "name": "A Coming Democratic Push for Medicare for All",
+   "show": "WSJ Opinion: Potomac Watch",
+   "show_uri": "spotify:show:4sMCRFb3B4g9Ax3lDCOOTX",
+   "release_date": "2026-11-26",
+   "duration_ms": 1879458,
+   "image": "https://i.scdn.co/image/ab67656300005f1fbe53b4cdd29c489500b01d97",
+   "first_seen": "2026-11-27T15:10:02Z",
+   "progress_ms": 256312,
+   "last_seen": "2026-11-27T15:10:02Z",
+   "url": "https://open.spotify.com/episode/6bfX7hW7hioCKw6FeGws41",
+   "show_image": "https://i.scdn.co/image/ab67656300005f1fbe53b4cdd29c489500b01d97"
+  },
+  {
    "name": "Isabella Weber's Vision for an Affordability Agenda",
    "show": "Odd Lots",
    "show_uri": "spotify:show:1te7oSFyRVekxMBJUSethH",
@@ -1633,19 +1646,6 @@ window.LISTENING = {
    "last_seen": "2026-11-26T06:40:02Z",
    "url": "https://open.spotify.com/episode/0RlA9MmI5CraHz4QX2i1KE",
    "show_image": "https://i.scdn.co/image/ab67656300005f1fd813559e4461e119b4b5082f"
-  },
-  {
-   "name": "Nearly 500,000 Russians killed in Ukraine war, data leak reveals",
-   "show": "Ukraine: The Latest",
-   "show_uri": "spotify:show:6cnkk1J0I1UqtxTYVUL4Fe",
-   "release_date": "2026-11-25",
-   "duration_ms": 3140127,
-   "image": "https://i.scdn.co/image/ab67656300005f1f5a90d0660e64c39bd1374cc4",
-   "first_seen": "2026-11-26T00:40:02Z",
-   "progress_ms": 3291360,
-   "last_seen": "2026-11-26T03:10:02Z",
-   "url": "https://open.spotify.com/episode/4OOXhrIEaElhtDxzosnMFY",
-   "show_image": "https://i.scdn.co/image/ab67656300005f1f78954c21afd24c90334deba4"
   }
  ],
  "top_shows": [
