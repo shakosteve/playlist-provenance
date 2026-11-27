@@ -1,7 +1,7 @@
 window.LISTENING = {
  "title": "The Listening Booth",
- "generated": "2026-11-27T02:10:07Z",
- "synced": "2026-11-27T02:10:01Z",
+ "generated": "2026-11-27T02:40:09Z",
+ "synced": "2026-11-27T02:40:02Z",
  "totals": {
   "plays": 125634,
   "hours": 8541.7,
@@ -1492,19 +1492,6 @@ window.LISTENING = {
  ],
  "episodes": [
   {
-   "name": "NVIDIA in the White House",
-   "show": "RealClearPolitics Podcast",
-   "show_uri": "spotify:show:5FkNemg3aIaPPNBImIcW2l",
-   "release_date": "2026-11-24",
-   "duration_ms": 3272672,
-   "image": "https://i.scdn.co/image/ab67656300005f1fe19edf2c6856b8b09c057f38",
-   "first_seen": "2026-11-27T02:10:02Z",
-   "progress_ms": 256242,
-   "last_seen": "2026-11-27T02:10:02Z",
-   "url": "https://open.spotify.com/episode/25DQbnfGVs1dc63btt3MXP",
-   "show_image": "https://i.scdn.co/image/ab67656300005f1fe19edf2c6856b8b09c057f38"
-  },
-  {
    "name": "#2114 - Don Lemon EMBARRASSES Himself on Piers Morgan | Part 1",
    "show": "The Adam and Dr. Drew Show",
    "show_uri": "spotify:show:3VN4vP6TztxK3wtT8b9aQL",
@@ -1512,10 +1499,23 @@ window.LISTENING = {
    "duration_ms": 3063667,
    "image": "https://i.scdn.co/image/ab67656300005f1f57123579cd8f9fcdb667645b",
    "first_seen": "2026-11-26T16:40:02Z",
-   "progress_ms": 1906431,
-   "last_seen": "2026-11-27T01:40:02Z",
+   "progress_ms": 2934158,
+   "last_seen": "2026-11-27T02:40:03Z",
    "url": "https://open.spotify.com/episode/0oJpcp8C1WKbtyZrf3KZAS",
    "show_image": "https://i.scdn.co/image/ab67656300005f1f57123579cd8f9fcdb667645b"
+  },
+  {
+   "name": "NVIDIA in the White House",
+   "show": "RealClearPolitics Podcast",
+   "show_uri": "spotify:show:5FkNemg3aIaPPNBImIcW2l",
+   "release_date": "2026-11-24",
+   "duration_ms": 3272672,
+   "image": "https://i.scdn.co/image/ab67656300005f1fe19edf2c6856b8b09c057f38",
+   "first_seen": "2026-11-27T02:10:02Z",
+   "progress_ms": 1304832,
+   "last_seen": "2026-11-27T02:40:02Z",
+   "url": "https://open.spotify.com/episode/25DQbnfGVs1dc63btt3MXP",
+   "show_image": "https://i.scdn.co/image/ab67656300005f1fe19edf2c6856b8b09c057f38"
   },
   {
    "name": "Russia losing 'unsustainable' 93 soldiers every hour",
