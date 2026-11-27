@@ -1,7 +1,7 @@
 window.LISTENING = {
  "title": "The Listening Booth",
- "generated": "2026-11-27T22:10:08Z",
- "synced": "2026-11-27T22:10:02Z",
+ "generated": "2026-11-27T22:40:10Z",
+ "synced": "2026-11-27T22:40:02Z",
  "totals": {
   "plays": 125681,
   "hours": 8545.1,
@@ -1492,6 +1492,19 @@ window.LISTENING = {
  ],
  "episodes": [
   {
+   "name": "American History Under Attack? | Happy Hour with Brian Kilmeade",
+   "show": "Kennedy Saves the World",
+   "show_uri": "spotify:show:5DEwjZIkxrUhkM1nlqLagd",
+   "release_date": "2026-11-27",
+   "duration_ms": 1013098,
+   "image": "https://i.scdn.co/image/ab67656300005f1fe79be43ebdfcd42b4453b0e3",
+   "first_seen": "2026-11-27T22:40:02Z",
+   "progress_ms": 982344,
+   "last_seen": "2026-11-27T22:40:02Z",
+   "url": "https://open.spotify.com/episode/5kcJR7B1o4269D6c4RV9tc",
+   "show_image": "https://i.scdn.co/image/ab67656300005f1fc306eb9be2f4da68a4f7f2be"
+  },
+  {
    "name": "Left in the lurch: Spain’s general election",
    "show": "Economist Podcasts",
    "show_uri": "spotify:show:2ZFDmgDS2Z6xccP51s1zFQ",
@@ -1633,19 +1646,6 @@ window.LISTENING = {
    "last_seen": "2026-11-26T07:10:04Z",
    "url": "https://open.spotify.com/episode/4ZOJ9NMxjAAqHSUbwR9Lpt",
    "show_image": "https://i.scdn.co/image/ab67656300005f1f8bf9513ccc1d86122c3261c8"
-  },
-  {
-   "name": "Dane Cook: What The Documentary Doesn’t Tell You",
-   "show": "Adam Carolla Show",
-   "show_uri": "spotify:show:0YlgjXHWL0Lfxnp1LKdx9P",
-   "release_date": "2026-11-25",
-   "duration_ms": 6502269,
-   "image": "https://i.scdn.co/image/ab67656300005f1fd813559e4461e119b4b5082f",
-   "first_seen": "2026-11-26T03:40:02Z",
-   "progress_ms": 6648800,
-   "last_seen": "2026-11-26T06:40:02Z",
-   "url": "https://open.spotify.com/episode/0RlA9MmI5CraHz4QX2i1KE",
-   "show_image": "https://i.scdn.co/image/ab67656300005f1fd813559e4461e119b4b5082f"
   }
  ],
  "top_shows": [
