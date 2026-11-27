@@ -1,15 +1,92 @@
 window.LISTENING = {
  "title": "The Listening Booth",
- "generated": "2026-11-27T15:40:07Z",
- "synced": "2026-11-27T15:40:01Z",
+ "generated": "2026-11-27T16:10:06Z",
+ "synced": "2026-11-27T16:10:01Z",
  "totals": {
-  "plays": 125637,
-  "hours": 8541.9,
+  "plays": 125644,
+  "hours": 8542.4,
   "artists": 702,
   "albums": 1533,
   "first": "2013-05-07T01:40:37Z"
  },
  "recent": [
+  {
+   "name": "Behind My Eyes 2.0",
+   "artist": "Jackie Evancho",
+   "album": "Behind My Eyes 2.0",
+   "year": 2024,
+   "image": "https://i.scdn.co/image/ab67616d00001e02bac53c6df98b2b94d6cd6107",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b273bac53c6df98b2b94d6cd6107",
+   "url": "https://open.spotify.com/track/2CFumA2qK7AtKxVlMrxZsC",
+   "album_url": "https://open.spotify.com/album/3ITUwSkekIyElh1KCdxGKe",
+   "played_at": "2026-11-27T16:09:15.624Z"
+  },
+  {
+   "name": "Little Martha",
+   "artist": "Allman Brothers Band",
+   "album": "Eat A Peach",
+   "year": 1972,
+   "image": "https://i.scdn.co/image/ab67616d00001e024bc9f9e91d7562e4b08493f5",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b2734bc9f9e91d7562e4b08493f5",
+   "url": "https://open.spotify.com/track/2WPLFvAldG0GG6Ad3Xa0TO",
+   "album_url": "https://open.spotify.com/album/6D9I7GZsqc3pwDg3DFrtjs",
+   "played_at": "2026-11-27T16:06:16.438Z"
+  },
+  {
+   "name": "Love's Been A Little Bit Hard On Me",
+   "artist": "Juice Newton",
+   "album": "Juice Newton's Greatest Hits",
+   "year": 1988,
+   "image": "https://i.scdn.co/image/ab67616d00001e0299a6a7a4b4fe71d5362d16b7",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b27399a6a7a4b4fe71d5362d16b7",
+   "url": "https://open.spotify.com/track/37zpChlZkoFuScXLoiu0WE",
+   "album_url": "https://open.spotify.com/album/0fSvQOkU8rRgcsW6MerdVw",
+   "played_at": "2026-11-27T16:04:08.218Z"
+  },
+  {
+   "name": "Osiris",
+   "artist": "Jaded Truth",
+   "album": "Rx",
+   "year": 2020,
+   "image": "https://i.scdn.co/image/ab67616d00001e02d11211ad6e388a9a028ff55d",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b273d11211ad6e388a9a028ff55d",
+   "url": "https://open.spotify.com/track/2kAXSlmHGIG94NXb8SE4kJ",
+   "album_url": "https://open.spotify.com/album/2F7EGYPCs7N20FZbVeaUR7",
+   "played_at": "2026-11-27T16:00:52.027Z"
+  },
+  {
+   "name": "Africa",
+   "artist": "TOTO",
+   "album": "Toto IV",
+   "year": 1982,
+   "image": "https://i.scdn.co/image/ab67616d00001e02ebd6d20c0082524244ef83df",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b273ebd6d20c0082524244ef83df",
+   "url": "https://open.spotify.com/track/2374M0fQpWi3dLnB54qaLX",
+   "album_url": "https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D",
+   "played_at": "2026-11-27T15:55:13.798Z"
+  },
+  {
+   "name": "Graceland",
+   "artist": "Paul Simon",
+   "album": "Graceland (25th Anniversary Deluxe Edition)",
+   "year": 1986,
+   "image": "https://i.scdn.co/image/ab67616d00001e02e5855edffddef46b7feff49b",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b273e5855edffddef46b7feff49b",
+   "url": "https://open.spotify.com/track/51KKQAgYFoJHgVIuJWHdHb",
+   "album_url": "https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky",
+   "played_at": "2026-11-27T15:50:18.172Z"
+  },
+  {
+   "name": "Bring It on Home - Remaster",
+   "artist": "Led Zeppelin",
+   "album": "Led Zeppelin II (Remaster)",
+   "year": 1969,
+   "image": "https://i.scdn.co/image/ab67616d00001e02f396ea414b735ef23e2ed1a9",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b273f396ea414b735ef23e2ed1a9",
+   "url": "https://open.spotify.com/track/1rxD34LAtkafrMUHqHIV76",
+   "album_url": "https://open.spotify.com/album/58MQ0PLijVHePUonQlK76Y",
+   "played_at": "2026-11-27T15:45:26.430Z"
+  },
   {
    "name": "Shake That",
    "artist": "BAND-MAID",
@@ -460,83 +537,6 @@ window.LISTENING = {
    "url": "https://open.spotify.com/track/2EoOZnxNgtmZaD8uUmz2nD",
    "album_url": "https://open.spotify.com/album/29sTacnS0qA9xri6YS8xLA",
    "played_at": "2026-11-25T18:20:22.820Z"
-  },
-  {
-   "name": "Dirty Deeds",
-   "artist": "Joan Jett & the Blackhearts",
-   "album": "The Hit List",
-   "year": 1990,
-   "image": "https://i.scdn.co/image/ab67616d00001e024762653c281c71d8837d180b",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b2734762653c281c71d8837d180b",
-   "url": "https://open.spotify.com/track/5EmjBlrR2TzVzyveICMllj",
-   "album_url": "https://open.spotify.com/album/2mIFpqxnoM71gHMBKlzZtM",
-   "played_at": "2026-11-25T18:15:03.683Z"
-  },
-  {
-   "name": "In the Air Tonight - 2015 Remaster",
-   "artist": "Phil Collins",
-   "album": "Face Value (Deluxe Editon)",
-   "year": 1981,
-   "image": "https://i.scdn.co/image/ab67616d00001e028a1d7cf42a84b10bd1ff8e56",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b2738a1d7cf42a84b10bd1ff8e56",
-   "url": "https://open.spotify.com/track/18AXbzPzBS8Y3AkgSxzJPb",
-   "album_url": "https://open.spotify.com/album/1cM3r0WQZWNkCpEbmFjLln",
-   "played_at": "2026-11-25T18:11:45.428Z"
-  },
-  {
-   "name": "Lonesome Loser - Remastered 2022",
-   "artist": "Little River Band",
-   "album": "First Under The Wire (Remastered 2022)",
-   "year": 1979,
-   "image": "https://i.scdn.co/image/ab67616d00001e02d45ea4a21fa17a4e3bf9b378",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b273d45ea4a21fa17a4e3bf9b378",
-   "url": "https://open.spotify.com/track/0EOTFIX60ua9qt8pel84tA",
-   "album_url": "https://open.spotify.com/album/1pPsslUdE1HeBxdlgXJ7Yp",
-   "played_at": "2026-11-25T18:06:08.544Z"
-  },
-  {
-   "name": "Fly By Night",
-   "artist": "Rush",
-   "album": "Fly By Night",
-   "year": 1975,
-   "image": "https://i.scdn.co/image/ab67616d00001e0211079bb97e1f95d1a917ce0b",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b27311079bb97e1f95d1a917ce0b",
-   "url": "https://open.spotify.com/track/54TaGh2JKs1pO9daXNXI5q",
-   "album_url": "https://open.spotify.com/album/3ZtICWkqezf0bBTUwY1Khe",
-   "played_at": "2026-11-25T18:02:06.610Z"
-  },
-  {
-   "name": "American Woman",
-   "artist": "Lenny Kravitz",
-   "album": "5",
-   "year": 1998,
-   "image": "https://i.scdn.co/image/ab67616d00001e02f1157b7dcd21bae0c2c75d89",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b273f1157b7dcd21bae0c2c75d89",
-   "url": "https://open.spotify.com/track/3X6iIrFuQoCshIWBseEKPl",
-   "album_url": "https://open.spotify.com/album/6MCNMOCRsh6nxs7PNzc0zN",
-   "played_at": "2026-11-25T17:58:44.091Z"
-  },
-  {
-   "name": "Double Vision",
-   "artist": "Foreigner",
-   "album": "Double Vision (Expanded)",
-   "year": 1978,
-   "image": "https://i.scdn.co/image/ab67616d00001e025627aa0842d6287bbb223cbf",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b2735627aa0842d6287bbb223cbf",
-   "url": "https://open.spotify.com/track/0fsj3HxzBHev6EJ7OLFE3r",
-   "album_url": "https://open.spotify.com/album/6lu6DYE0eHHp1gd3QGUYhu",
-   "played_at": "2026-11-25T17:54:18.907Z"
-  },
-  {
-   "name": "Me and Bobby McGee",
-   "artist": "Janis Joplin",
-   "album": "Pearl (Legacy Edition)",
-   "year": 1971,
-   "image": "https://i.scdn.co/image/ab67616d00001e026f8c26346723dd0531696bed",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b2736f8c26346723dd0531696bed",
-   "url": "https://open.spotify.com/track/1IqFh00G2kvvMm8pRMpehA",
-   "album_url": "https://open.spotify.com/album/3j7nicLAWXM0Fb08q9XGyf",
-   "played_at": "2026-11-25T17:50:33.910Z"
   }
  ],
  "top_artists": [
@@ -560,7 +560,7 @@ window.LISTENING = {
   },
   {
    "name": "Led Zeppelin",
-   "plays": 2316,
+   "plays": 2317,
    "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp",
    "image": "https://i.scdn.co/image/ab67616d00001e02c8a11e48c91a982d086afc69"
   },
@@ -833,7 +833,7 @@ window.LISTENING = {
   },
   {
    "decade": 1960,
-   "plays": 7092,
+   "plays": 7093,
    "covers": [
     {
      "name": "Your Time Is Gonna Come - 1990 Remaster",
@@ -927,7 +927,7 @@ window.LISTENING = {
   },
   {
    "decade": 1970,
-   "plays": 28793,
+   "plays": 28794,
    "covers": [
     {
      "name": "More Than a Feeling",
@@ -1021,7 +1021,7 @@ window.LISTENING = {
   },
   {
    "decade": 1980,
-   "plays": 33048,
+   "plays": 33051,
    "covers": [
     {
      "name": "Back In Black",
@@ -1397,7 +1397,7 @@ window.LISTENING = {
   },
   {
    "decade": 2020,
-   "plays": 18755,
+   "plays": 18757,
    "covers": [
     {
      "name": "ERROR",
