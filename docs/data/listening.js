@@ -1,7 +1,7 @@
 window.LISTENING = {
  "title": "The Listening Booth",
- "generated": "2026-11-27T13:10:08Z",
- "synced": "2026-11-27T13:10:01Z",
+ "generated": "2026-11-27T14:10:08Z",
+ "synced": "2026-11-27T14:10:01Z",
  "totals": {
   "plays": 125634,
   "hours": 8541.7,
@@ -1492,6 +1492,19 @@ window.LISTENING = {
  ],
  "episodes": [
   {
+   "name": "Marc Levinson on How UPS Created Modern Logistics",
+   "show": "Odd Lots",
+   "show_uri": "spotify:show:1te7oSFyRVekxMBJUSethH",
+   "release_date": "2026-11-26",
+   "duration_ms": 2990001,
+   "image": "https://i.scdn.co/image/ab67656300005f1f77e76ef980ccf6174ff80c42",
+   "first_seen": "2026-11-27T13:10:02Z",
+   "progress_ms": 2869363,
+   "last_seen": "2026-11-27T14:10:02Z",
+   "url": "https://open.spotify.com/episode/3rC5ffsoS9qp7Nk0Q68CX4",
+   "show_image": "https://i.scdn.co/image/ab67656300005f1f77e76ef980ccf6174ff80c42"
+  },
+  {
    "name": "The Detonation of Bomb Chemicals in Iowa",
    "show": "RealClearPolitics Podcast",
    "show_uri": "spotify:show:5FkNemg3aIaPPNBImIcW2l",
@@ -1503,19 +1516,6 @@ window.LISTENING = {
    "last_seen": "2026-11-27T13:10:02Z",
    "url": "https://open.spotify.com/episode/0oGHTz5t5KecgXJiyxvpVy",
    "show_image": "https://i.scdn.co/image/ab67656300005f1fe19edf2c6856b8b09c057f38"
-  },
-  {
-   "name": "Marc Levinson on How UPS Created Modern Logistics",
-   "show": "Odd Lots",
-   "show_uri": "spotify:show:1te7oSFyRVekxMBJUSethH",
-   "release_date": "2026-11-26",
-   "duration_ms": 2990001,
-   "image": "https://i.scdn.co/image/ab67656300005f1f77e76ef980ccf6174ff80c42",
-   "first_seen": "2026-11-27T13:10:02Z",
-   "progress_ms": 931082,
-   "last_seen": "2026-11-27T13:10:02Z",
-   "url": "https://open.spotify.com/episode/3rC5ffsoS9qp7Nk0Q68CX4",
-   "show_image": "https://i.scdn.co/image/ab67656300005f1f77e76ef980ccf6174ff80c42"
   },
   {
    "name": "NVIDIA in the White House",
