@@ -1,15 +1,103 @@
 window.LISTENING = {
  "title": "The Listening Booth",
- "generated": "2026-11-27T18:40:06Z",
- "synced": "2026-11-27T18:40:01Z",
+ "generated": "2026-11-27T19:10:08Z",
+ "synced": "2026-11-27T19:10:02Z",
  "totals": {
-  "plays": 125648,
-  "hours": 8542.7,
+  "plays": 125656,
+  "hours": 8543.2,
   "artists": 702,
   "albums": 1533,
   "first": "2013-05-07T01:40:37Z"
  },
  "recent": [
+  {
+   "name": "Good Times Bad Times - 1993 Remaster",
+   "artist": "Led Zeppelin",
+   "album": "Led Zeppelin",
+   "year": 1969,
+   "image": "https://i.scdn.co/image/ab67616d00001e026f2f499c1df1f210c9b34b32",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b2736f2f499c1df1f210c9b34b32",
+   "url": "https://open.spotify.com/track/0QwZfbw26QeUoIy82Z2jYp",
+   "album_url": "https://open.spotify.com/album/3ycjBixZf7S3WpC5WZhhUK",
+   "played_at": "2026-11-27T19:09:28.106Z"
+  },
+  {
+   "name": "Solsbury Hill",
+   "artist": "Peter Gabriel",
+   "album": "Peter Gabriel 1: Car (Remastered Version)",
+   "year": 1977,
+   "image": "https://i.scdn.co/image/ab67616d00001e0258f54aa9cab1beffa7b806c1",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b27358f54aa9cab1beffa7b806c1",
+   "url": "https://open.spotify.com/track/1CM1wOqD2AIjt2MWd31LV2",
+   "album_url": "https://open.spotify.com/album/4jd6oC0It60c1J3GpXCv6M",
+   "played_at": "2026-11-27T19:05:15.917Z"
+  },
+  {
+   "name": "Dust to Dust - Live from Auditorio Nacional, CDMX",
+   "artist": "The Warning",
+   "album": "Live from Auditorio Nacional, CDMX",
+   "year": 2025,
+   "image": "https://i.scdn.co/image/ab67616d00001e025cda6d880ec3968aa6b6ac2f",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b2735cda6d880ec3968aa6b6ac2f",
+   "url": "https://open.spotify.com/track/29bo4fFz8nbwHJdBipUslj",
+   "album_url": "https://open.spotify.com/album/0LhKnnsC3qOLCgtlQUUGIS",
+   "played_at": "2026-11-27T19:00:52.642Z"
+  },
+  {
+   "name": "Goodbye Yellow Brick Road - Remastered 2014",
+   "artist": "Elton John",
+   "album": "Goodbye Yellow Brick Road (Remastered)",
+   "year": 1973,
+   "image": "https://i.scdn.co/image/ab67616d00001e02f72f1e38e9bd48f18a17ed9b",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b273f72f1e38e9bd48f18a17ed9b",
+   "url": "https://open.spotify.com/track/4IRHwIZHzlHT1FQpRa5RdE",
+   "album_url": "https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun",
+   "played_at": "2026-11-27T18:56:39.576Z"
+  },
+  {
+   "name": "Dirty Diana - 2012 Remaster",
+   "artist": "Michael Jackson",
+   "album": "Bad (Remastered)",
+   "year": 1987,
+   "image": "https://i.scdn.co/image/ab67616d00001e02eb2087dcd1eb61f833bdedff",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b273eb2087dcd1eb61f833bdedff",
+   "url": "https://open.spotify.com/track/0AcgKF7kbSoCkh3n7vlHwK",
+   "album_url": "https://open.spotify.com/album/3Us57CjssWnHjTUIXBuIeH",
+   "played_at": "2026-11-27T18:53:26.201Z"
+  },
+  {
+   "name": "Never",
+   "artist": "Heart",
+   "album": "Heart",
+   "year": 1985,
+   "image": "https://i.scdn.co/image/ab67616d00001e02aac099da610b063763c63117",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b273aac099da610b063763c63117",
+   "url": "https://open.spotify.com/track/4yEMyaB6PGBpQvac2yD9wZ",
+   "album_url": "https://open.spotify.com/album/0zM8rTVzPoT7SD4ZMds430",
+   "played_at": "2026-11-27T18:48:45.036Z"
+  },
+  {
+   "name": "ERROR",
+   "artist": "The Warning",
+   "album": "ERROR",
+   "year": 2022,
+   "image": "https://i.scdn.co/image/ab67616d00001e0209fe21cd518d989e0c31224d",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b27309fe21cd518d989e0c31224d",
+   "url": "https://open.spotify.com/track/5On0z2PZjPf5x7eB2afLEf",
+   "album_url": "https://open.spotify.com/album/0el7KHRPZwYXPwXNeSNdJB",
+   "played_at": "2026-11-27T18:44:37.954Z"
+  },
+  {
+   "name": "Opposites Attract",
+   "artist": "Paula Abdul",
+   "album": "Forever Your Girl",
+   "year": 1988,
+   "image": "https://i.scdn.co/image/ab67616d00001e02cb3cea7439a97660b3aedb8c",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b273cb3cea7439a97660b3aedb8c",
+   "url": "https://open.spotify.com/track/7z38bideBRvGAgjXe2SECm",
+   "album_url": "https://open.spotify.com/album/7zduRJgS6v79QmNUhKGozu",
+   "played_at": "2026-11-27T18:40:39.941Z"
+  },
   {
    "name": "Whole Lotta Love - Live",
    "artist": "Jimmy Page, The Black Crowes",
@@ -449,100 +537,12 @@ window.LISTENING = {
    "url": "https://open.spotify.com/track/6rvldt6EoZwzogApECUCwd",
    "album_url": "https://open.spotify.com/album/07EFoHHspqSwsmkbnWaB4A",
    "played_at": "2026-11-25T19:06:12.020Z"
-  },
-  {
-   "name": "Foreplay / Long Time",
-   "artist": "Boston",
-   "album": "Boston",
-   "year": 1976,
-   "image": "https://i.scdn.co/image/ab67616d00001e028c1fadcc997a65384f34d694",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b2738c1fadcc997a65384f34d694",
-   "url": "https://open.spotify.com/track/39C5FuZ8C8M0QI8CrMsPkR",
-   "album_url": "https://open.spotify.com/album/2QLp07RO6anZHmtcKTEvSC",
-   "played_at": "2026-11-25T19:02:44.353Z"
-  },
-  {
-   "name": "Oh Well feat. Chris Stapleton",
-   "artist": "Slash, Chris Stapleton",
-   "album": "Oh Well feat. Chris Stapleton",
-   "year": 2024,
-   "image": "https://i.scdn.co/image/ab67616d00001e02a288a30f4133154538ea5d3d",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b273a288a30f4133154538ea5d3d",
-   "url": "https://open.spotify.com/track/6xvriZfsi9MZ8TAE2wqY2z",
-   "album_url": "https://open.spotify.com/album/0Rl9omLw3rdkK7OiSnHGAG",
-   "played_at": "2026-11-25T18:54:56.241Z"
-  },
-  {
-   "name": "Fuera o Más Allá",
-   "artist": "Eruca Sativa",
-   "album": "Blanco",
-   "year": 2012,
-   "image": "https://i.scdn.co/image/ab67616d00001e02fb60d4076cb86adcf2f7383f",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b273fb60d4076cb86adcf2f7383f",
-   "url": "https://open.spotify.com/track/3qQ0TTpIt0OXH7plhxeISL",
-   "album_url": "https://open.spotify.com/album/3MC1mUaL0H7kcVgTEFXLWv",
-   "played_at": "2026-11-25T18:50:22.210Z"
-  },
-  {
-   "name": "Walking The Dog",
-   "artist": "The Rolling Stones",
-   "album": "The Rolling Stones",
-   "year": 1964,
-   "image": "https://i.scdn.co/image/ab67616d00001e02e5bd9c16543752620815ebdc",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b273e5bd9c16543752620815ebdc",
-   "url": "https://open.spotify.com/track/43SkTJJ2xleDaeiE4TIM70",
-   "album_url": "https://open.spotify.com/album/0bJMFJ2XQwpO5nKTrYdUtX",
-   "played_at": "2026-11-25T18:47:07.997Z"
-  },
-  {
-   "name": "Cocaine",
-   "artist": "Eric Clapton",
-   "album": "Slowhand 35th Anniversary (Super Deluxe)",
-   "year": 1977,
-   "image": "https://i.scdn.co/image/ab67616d00001e026f093a6ae88a5ca8ed53b9f7",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b2736f093a6ae88a5ca8ed53b9f7",
-   "url": "https://open.spotify.com/track/3ykSdTGmYPFl8pDBXer1zG",
-   "album_url": "https://open.spotify.com/album/5MAL7e4EnKXW1hFg6NbFqP",
-   "played_at": "2026-11-25T18:43:58.422Z"
-  },
-  {
-   "name": "Séance",
-   "artist": "Speed of Light",
-   "album": "Séance",
-   "year": 2024,
-   "image": "https://i.scdn.co/image/ab67616d00001e02e43f6681a9e6e990b63be5cb",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b273e43f6681a9e6e990b63be5cb",
-   "url": "https://open.spotify.com/track/6xQ8uphGxXzJDUziFapHZZ",
-   "album_url": "https://open.spotify.com/album/0JwzG7MVtzubfIOf0L445q",
-   "played_at": "2026-11-25T18:40:16.227Z"
-  },
-  {
-   "name": "What I Am",
-   "artist": "Edie Brickell & New Bohemians",
-   "album": "Shooting Rubberbands At The Stars",
-   "year": 1988,
-   "image": "https://i.scdn.co/image/ab67616d00001e02c4cc3c70e4896a692ca6b582",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b273c4cc3c70e4896a692ca6b582",
-   "url": "https://open.spotify.com/track/6hHUiDe461VUoTHnsplRYs",
-   "album_url": "https://open.spotify.com/album/2oZzKVi2mqkQnZOad6DXMw",
-   "played_at": "2026-11-25T18:36:19.920Z"
-  },
-  {
-   "name": "Sweet Caroline",
-   "artist": "Neil Diamond",
-   "album": "Sweet Caroline",
-   "year": 1969,
-   "image": "https://i.scdn.co/image/ab67616d00001e024d1a7a3e5043173883653ffc",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b2734d1a7a3e5043173883653ffc",
-   "url": "https://open.spotify.com/track/62AuGbAkt8Ox2IrFFb8GKV",
-   "album_url": "https://open.spotify.com/album/6RfgcwsOUlWkGNAd6zjjYd",
-   "played_at": "2026-11-25T18:31:23.020Z"
   }
  ],
  "top_artists": [
   {
    "name": "The Warning",
-   "plays": 10740,
+   "plays": 10742,
    "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh",
    "image": "https://i.scdn.co/image/ab67616d00001e0204a3dad60eb365aec55022de"
   },
@@ -560,7 +560,7 @@ window.LISTENING = {
   },
   {
    "name": "Led Zeppelin",
-   "plays": 2317,
+   "plays": 2318,
    "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp",
    "image": "https://i.scdn.co/image/ab67616d00001e02c8a11e48c91a982d086afc69"
   },
@@ -584,7 +584,7 @@ window.LISTENING = {
   },
   {
    "name": "Heart",
-   "plays": 1935,
+   "plays": 1936,
    "url": "https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv",
    "image": "https://i.scdn.co/image/ab67616d00001e0266e2e0df78c4ec35a8ed20a0"
   },
@@ -666,7 +666,7 @@ window.LISTENING = {
    "image_large": "https://i.scdn.co/image/ab67616d0000b27309fe21cd518d989e0c31224d",
    "url": "https://open.spotify.com/track/5On0z2PZjPf5x7eB2afLEf",
    "album_url": "https://open.spotify.com/album/0el7KHRPZwYXPwXNeSNdJB",
-   "plays": 1319
+   "plays": 1320
   },
   {
    "name": "More Than a Feeling",
@@ -833,7 +833,7 @@ window.LISTENING = {
   },
   {
    "decade": 1960,
-   "plays": 7093,
+   "plays": 7094,
    "covers": [
     {
      "name": "Your Time Is Gonna Come - 1990 Remaster",
@@ -844,7 +844,7 @@ window.LISTENING = {
      "image_large": "https://i.scdn.co/image/ab67616d0000b2736f2f499c1df1f210c9b34b32",
      "url": "https://open.spotify.com/track/3Zr81qUZEhR4vPeUFUsBB0",
      "album_url": "https://open.spotify.com/album/3ycjBixZf7S3WpC5WZhhUK",
-     "plays": 510
+     "plays": 511
     },
     {
      "name": "Whole Lotta Love - 1990 Remaster",
@@ -927,7 +927,7 @@ window.LISTENING = {
   },
   {
    "decade": 1970,
-   "plays": 28795,
+   "plays": 28797,
    "covers": [
     {
      "name": "More Than a Feeling",
@@ -1021,7 +1021,7 @@ window.LISTENING = {
   },
   {
    "decade": 1980,
-   "plays": 33051,
+   "plays": 33054,
    "covers": [
     {
      "name": "Back In Black",
@@ -1397,7 +1397,7 @@ window.LISTENING = {
   },
   {
    "decade": 2020,
-   "plays": 18758,
+   "plays": 18760,
    "covers": [
     {
      "name": "ERROR",
@@ -1408,7 +1408,7 @@ window.LISTENING = {
      "image_large": "https://i.scdn.co/image/ab67616d0000b27309fe21cd518d989e0c31224d",
      "url": "https://open.spotify.com/track/5On0z2PZjPf5x7eB2afLEf",
      "album_url": "https://open.spotify.com/album/0el7KHRPZwYXPwXNeSNdJB",
-     "plays": 1319
+     "plays": 1320
     },
     {
      "name": "Leroy",
@@ -1441,7 +1441,7 @@ window.LISTENING = {
      "image_large": "https://i.scdn.co/image/ab67616d0000b2735cda6d880ec3968aa6b6ac2f",
      "url": "https://open.spotify.com/track/3zgbw0cxkS1DQ36O5hGydt",
      "album_url": "https://open.spotify.com/album/0LhKnnsC3qOLCgtlQUUGIS",
-     "plays": 494
+     "plays": 495
     },
     {
      "name": "Shot In The Dark",
