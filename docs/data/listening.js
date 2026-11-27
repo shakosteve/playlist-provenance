@@ -1,15 +1,48 @@
 window.LISTENING = {
  "title": "The Listening Booth",
- "generated": "2026-11-27T19:10:08Z",
- "synced": "2026-11-27T19:10:02Z",
+ "generated": "2026-11-27T19:40:07Z",
+ "synced": "2026-11-27T19:40:01Z",
  "totals": {
-  "plays": 125656,
-  "hours": 8543.2,
+  "plays": 125659,
+  "hours": 8543.5,
   "artists": 702,
   "albums": 1533,
   "first": "2013-05-07T01:40:37Z"
  },
  "recent": [
+  {
+   "name": "It's a Long Way to the Top (If You Wanna Rock 'N' Roll)",
+   "artist": "AC/DC",
+   "album": "High Voltage",
+   "year": 1976,
+   "image": "https://i.scdn.co/image/ab67616d00001e028c7f355d649e0a3cfcf6fc39",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b2738c7f355d649e0a3cfcf6fc39",
+   "url": "https://open.spotify.com/track/7nemcVsXVFZF01iqpIIo2Y",
+   "album_url": "https://open.spotify.com/album/19AUoKWRAaQYrggVvdQnqq",
+   "played_at": "2026-11-27T19:35:59.114Z"
+  },
+  {
+   "name": "Shooting Star - 2015 Remaster",
+   "artist": "Bad Company",
+   "album": "Straight Shooter (Remastered)",
+   "year": 1975,
+   "image": "https://i.scdn.co/image/ab67616d00001e02e47e0a32972df08dd91ef674",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b273e47e0a32972df08dd91ef674",
+   "url": "https://open.spotify.com/track/642U3n2uOkip6RIbLcUCwp",
+   "album_url": "https://open.spotify.com/album/7357FQavIXJYY4p1VYQd1Z",
+   "played_at": "2026-11-27T19:24:51.053Z"
+  },
+  {
+   "name": "Keep Your Hands to Yourself",
+   "artist": "The Georgia Satellites",
+   "album": "Georgia Satellites",
+   "year": 1986,
+   "image": "https://i.scdn.co/image/ab67616d00001e026c63e782b91ba2fe04f40fe6",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b2736c63e782b91ba2fe04f40fe6",
+   "url": "https://open.spotify.com/track/5tORtBzHUAnNrIw5Ql3kHZ",
+   "album_url": "https://open.spotify.com/album/0obHqsEpkaCWGWGjxcdXel",
+   "played_at": "2026-11-27T19:12:53.678Z"
+  },
   {
    "name": "Good Times Bad Times - 1993 Remaster",
    "artist": "Led Zeppelin",
@@ -504,39 +537,6 @@ window.LISTENING = {
    "url": "https://open.spotify.com/track/5X2RisOZS9i5MsR8EVw58p",
    "album_url": "https://open.spotify.com/album/396EJBtUzseofX2YCBJVvM",
    "played_at": "2026-11-25T19:20:03.274Z"
-  },
-  {
-   "name": "Look What The Cat Dragged In",
-   "artist": "Poison",
-   "album": "Look What The Cat Dragged In - 20th Anniversary Edition",
-   "year": 1986,
-   "image": "https://i.scdn.co/image/ab67616d00001e02d007e25f2264718c5a9dde34",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b273d007e25f2264718c5a9dde34",
-   "url": "https://open.spotify.com/track/5DmRCfszmaz7osOPCmAHVI",
-   "album_url": "https://open.spotify.com/album/2SkbSj0eZ2H5uqKYEnMmIe",
-   "played_at": "2026-11-25T19:15:55.161Z"
-  },
-  {
-   "name": "Fabienk",
-   "artist": "Angine de Poitrine",
-   "album": "Vol.II",
-   "year": 2026,
-   "image": "https://i.scdn.co/image/ab67616d00001e024821b77fd92093513d7634b5",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b2734821b77fd92093513d7634b5",
-   "url": "https://open.spotify.com/track/1KVkzkmFBx4A8bCma6ruKA",
-   "album_url": "https://open.spotify.com/album/3FqqIeynZXFBcyLS9FlWMo",
-   "played_at": "2026-11-25T19:12:43.826Z"
-  },
-  {
-   "name": "Who Made Who",
-   "artist": "AC/DC",
-   "album": "Who Made Who",
-   "year": 1986,
-   "image": "https://i.scdn.co/image/ab67616d00001e024338785835437128f20a57fb",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b2734338785835437128f20a57fb",
-   "url": "https://open.spotify.com/track/6rvldt6EoZwzogApECUCwd",
-   "album_url": "https://open.spotify.com/album/07EFoHHspqSwsmkbnWaB4A",
-   "played_at": "2026-11-25T19:06:12.020Z"
   }
  ],
  "top_artists": [
@@ -548,7 +548,7 @@ window.LISTENING = {
   },
   {
    "name": "AC/DC",
-   "plays": 4004,
+   "plays": 4005,
    "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un",
    "image": "https://i.scdn.co/image/ab67616d00001e02ff191d7fbdb5a13eaf84132b"
   },
@@ -927,7 +927,7 @@ window.LISTENING = {
   },
   {
    "decade": 1970,
-   "plays": 28797,
+   "plays": 28799,
    "covers": [
     {
      "name": "More Than a Feeling",
@@ -1021,7 +1021,7 @@ window.LISTENING = {
   },
   {
    "decade": 1980,
-   "plays": 33054,
+   "plays": 33055,
    "covers": [
     {
      "name": "Back In Black",
