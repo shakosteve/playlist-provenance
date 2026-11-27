@@ -1,7 +1,7 @@
 window.LISTENING = {
  "title": "The Listening Booth",
- "generated": "2026-11-27T01:40:09Z",
- "synced": "2026-11-27T01:40:02Z",
+ "generated": "2026-11-27T02:10:07Z",
+ "synced": "2026-11-27T02:10:01Z",
  "totals": {
   "plays": 125634,
   "hours": 8541.7,
@@ -1492,6 +1492,19 @@ window.LISTENING = {
  ],
  "episodes": [
   {
+   "name": "NVIDIA in the White House",
+   "show": "RealClearPolitics Podcast",
+   "show_uri": "spotify:show:5FkNemg3aIaPPNBImIcW2l",
+   "release_date": "2026-11-24",
+   "duration_ms": 3272672,
+   "image": "https://i.scdn.co/image/ab67656300005f1fe19edf2c6856b8b09c057f38",
+   "first_seen": "2026-11-27T02:10:02Z",
+   "progress_ms": 256242,
+   "last_seen": "2026-11-27T02:10:02Z",
+   "url": "https://open.spotify.com/episode/25DQbnfGVs1dc63btt3MXP",
+   "show_image": "https://i.scdn.co/image/ab67656300005f1fe19edf2c6856b8b09c057f38"
+  },
+  {
    "name": "#2114 - Don Lemon EMBARRASSES Himself on Piers Morgan | Part 1",
    "show": "The Adam and Dr. Drew Show",
    "show_uri": "spotify:show:3VN4vP6TztxK3wtT8b9aQL",
@@ -1633,19 +1646,6 @@ window.LISTENING = {
    "last_seen": "2026-11-25T05:40:03Z",
    "url": "https://open.spotify.com/episode/0X40ATDxVoeyHRRRM3thJ5",
    "show_image": "https://i.scdn.co/image/ab67656300005f1fc306eb9be2f4da68a4f7f2be"
-  },
-  {
-   "name": "Is Trump being played by the world’s most powerful leaders?",
-   "show": "Christiane Amanpour Presents: The Ex Files",
-   "show_uri": "spotify:show:3ZpgFegm3q3AGjiFbjLV59",
-   "release_date": "2026-11-24",
-   "duration_ms": 2856202,
-   "image": "https://i.scdn.co/image/ab67656300005f1f5a4e319927f9dcfb7453f69d",
-   "first_seen": "2026-11-24T23:40:04Z",
-   "progress_ms": 529979,
-   "last_seen": "2026-11-24T23:40:04Z",
-   "url": "https://open.spotify.com/episode/0LpVpINrRe5IqjSRG88ALM",
-   "show_image": "https://i.scdn.co/image/ab67656300005f1f5a4e319927f9dcfb7453f69d"
   }
  ],
  "top_shows": [
