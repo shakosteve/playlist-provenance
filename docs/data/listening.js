@@ -1,15 +1,70 @@
 window.LISTENING = {
  "title": "The Listening Booth",
- "generated": "2026-11-27T19:40:07Z",
- "synced": "2026-11-27T19:40:01Z",
+ "generated": "2026-11-27T20:10:09Z",
+ "synced": "2026-11-27T20:10:01Z",
  "totals": {
-  "plays": 125659,
-  "hours": 8543.5,
+  "plays": 125665,
+  "hours": 8543.9,
   "artists": 702,
   "albums": 1533,
   "first": "2013-05-07T01:40:37Z"
  },
  "recent": [
+  {
+   "name": "Holy Diver",
+   "artist": "Dio",
+   "album": "Holy Diver",
+   "year": 1983,
+   "image": "https://i.scdn.co/image/ab67616d00001e022457ab409ae106f8ae1dff89",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b2732457ab409ae106f8ae1dff89",
+   "url": "https://open.spotify.com/track/57fqmDaokbxZ3TaB0jp39q",
+   "album_url": "https://open.spotify.com/album/2ivNJLSx8Rbvnsvcn01Yt3",
+   "played_at": "2026-11-27T20:05:31.196Z"
+  },
+  {
+   "name": "A Beautiful Life",
+   "artist": "Dorothy",
+   "album": "Gifts From The Holy Ghost",
+   "year": 2022,
+   "image": "https://i.scdn.co/image/ab67616d00001e021aa1b81fbee5a40d6fb4c8c2",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b2731aa1b81fbee5a40d6fb4c8c2",
+   "url": "https://open.spotify.com/track/7jabc4dRHaNUBl7SDE881N",
+   "album_url": "https://open.spotify.com/album/258YZ2TUzI1SJBU626eYFc",
+   "played_at": "2026-11-27T19:56:44.220Z"
+  },
+  {
+   "name": "Linger - Remastered 2026",
+   "artist": "The Cranberries",
+   "album": "Everybody Else Is Doing It, So Why Can't We? (Remastered 2026)",
+   "year": 1993,
+   "image": "https://i.scdn.co/image/ab67616d00001e02753dbf92830094154a21b193",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b273753dbf92830094154a21b193",
+   "url": "https://open.spotify.com/track/1WYrTfvKjQYaYfVziGG1ET",
+   "album_url": "https://open.spotify.com/album/4xIcI1EC3MoCNZWkhMjShN",
+   "played_at": "2026-11-27T19:49:18.211Z"
+  },
+  {
+   "name": "Just a Gigolo / I Ain't Got Nobody - 45 Version",
+   "artist": "David Lee Roth",
+   "album": "Just a Gigolo/I Ain't Got Nobody (45 Version) / Just a Gigolo/I Ain't Got Nobody [Remix]",
+   "year": 1985,
+   "image": "https://i.scdn.co/image/ab67616d00001e021015021b32117f9df269539c",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b2731015021b32117f9df269539c",
+   "url": "https://open.spotify.com/track/0QcIphdyZIVgFvW7ijEiPX",
+   "album_url": "https://open.spotify.com/album/46LRDmqWRZ3kiPcZ1LuvSc",
+   "played_at": "2026-11-27T19:44:42.931Z"
+  },
+  {
+   "name": "Ugh",
+   "artist": "The Warning",
+   "album": "Queen of the Murder Scene",
+   "year": 2018,
+   "image": "https://i.scdn.co/image/ab67616d00001e02e0871bbaad013df7b7e56c2a",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b273e0871bbaad013df7b7e56c2a",
+   "url": "https://open.spotify.com/track/6LZj44LIoPChkWVxqjobso",
+   "album_url": "https://open.spotify.com/album/2kB1Qqw3YOR9i3nbNxXWRs",
+   "played_at": "2026-11-27T19:40:21.822Z"
+  },
   {
    "name": "It's a Long Way to the Top (If You Wanna Rock 'N' Roll)",
    "artist": "AC/DC",
@@ -482,67 +537,12 @@ window.LISTENING = {
    "url": "https://open.spotify.com/track/6FWoYwZa13llS7nj0SG65F",
    "album_url": "https://open.spotify.com/album/19AUoKWRAaQYrggVvdQnqq",
    "played_at": "2026-11-25T19:39:12.454Z"
-  },
-  {
-   "name": "ZITTI E BUONI",
-   "artist": "Måneskin",
-   "album": "Teatro d'ira - Vol. I",
-   "year": 2021,
-   "image": "https://i.scdn.co/image/ab67616d00001e025aa05015cfa7bd2943c29b21",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b2735aa05015cfa7bd2943c29b21",
-   "url": "https://open.spotify.com/track/776AftMmFFAWUIEAb3lHhw",
-   "album_url": "https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A",
-   "played_at": "2026-11-25T19:33:21.400Z"
-  },
-  {
-   "name": "Sedona",
-   "artist": "JunkBunny",
-   "album": "Junk Rock",
-   "year": 2019,
-   "image": "https://i.scdn.co/image/ab67616d00001e0226a0c73dc7e5dc13d372bc0e",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b27326a0c73dc7e5dc13d372bc0e",
-   "url": "https://open.spotify.com/track/3oQMwKCFTi3wKi9VANfTbE",
-   "album_url": "https://open.spotify.com/album/1uxlk6rLTGtccpbOyv6h6J",
-   "played_at": "2026-11-25T19:30:06.095Z"
-  },
-  {
-   "name": "this is a banger i swear",
-   "artist": "Jasmine Star",
-   "album": "this is a banger i swear",
-   "year": 2023,
-   "image": "https://i.scdn.co/image/ab67616d00001e021f084aa854887a6a6a8c3d96",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b2731f084aa854887a6a6a8c3d96",
-   "url": "https://open.spotify.com/track/5XhHIRWPiuoaRN4jV6UfQg",
-   "album_url": "https://open.spotify.com/album/6sPQLEFYkBlgnFIvZCI7YI",
-   "played_at": "2026-11-25T19:26:55.814Z"
-  },
-  {
-   "name": "Take The Money And Run - Live",
-   "artist": "Steve Miller Band",
-   "album": "Live! Breaking Ground August 3, 1977",
-   "year": 2021,
-   "image": "https://i.scdn.co/image/ab67616d00001e02bb8183e59cd224aa51e51b0f",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b273bb8183e59cd224aa51e51b0f",
-   "url": "https://open.spotify.com/track/2QG19QsBSBk7SArTPgNN8g",
-   "album_url": "https://open.spotify.com/album/1GYpibjfj4EFsTsTI1DDjh",
-   "played_at": "2026-11-25T19:24:19.487Z"
-  },
-  {
-   "name": "The Steps",
-   "artist": "HAIM",
-   "album": "Women In Music Pt. III",
-   "year": 2021,
-   "image": "https://i.scdn.co/image/ab67616d00001e02e8be33a5e8efee9be2afffc3",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b273e8be33a5e8efee9be2afffc3",
-   "url": "https://open.spotify.com/track/5X2RisOZS9i5MsR8EVw58p",
-   "album_url": "https://open.spotify.com/album/396EJBtUzseofX2YCBJVvM",
-   "played_at": "2026-11-25T19:20:03.274Z"
   }
  ],
  "top_artists": [
   {
    "name": "The Warning",
-   "plays": 10742,
+   "plays": 10743,
    "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh",
    "image": "https://i.scdn.co/image/ab67616d00001e0204a3dad60eb365aec55022de"
   },
@@ -622,7 +622,7 @@ window.LISTENING = {
    "image_large": "https://i.scdn.co/image/ab67616d0000b273e0871bbaad013df7b7e56c2a",
    "url": "https://open.spotify.com/track/3byoK5Yi2YT9Gcc4xS8qKE",
    "album_url": "https://open.spotify.com/album/2kB1Qqw3YOR9i3nbNxXWRs",
-   "plays": 1907
+   "plays": 1908
   },
   {
    "name": "Back In Black",
@@ -1021,7 +1021,7 @@ window.LISTENING = {
   },
   {
    "decade": 1980,
-   "plays": 33055,
+   "plays": 33057,
    "covers": [
     {
      "name": "Back In Black",
@@ -1115,7 +1115,7 @@ window.LISTENING = {
   },
   {
    "decade": 1990,
-   "plays": 9779,
+   "plays": 9780,
    "covers": [
     {
      "name": "Amazing",
@@ -1303,7 +1303,7 @@ window.LISTENING = {
   },
   {
    "decade": 2010,
-   "plays": 15847,
+   "plays": 15848,
    "covers": [
     {
      "name": "XXI Century Blood",
@@ -1325,7 +1325,7 @@ window.LISTENING = {
      "image_large": "https://i.scdn.co/image/ab67616d0000b273e0871bbaad013df7b7e56c2a",
      "url": "https://open.spotify.com/track/3byoK5Yi2YT9Gcc4xS8qKE",
      "album_url": "https://open.spotify.com/album/2kB1Qqw3YOR9i3nbNxXWRs",
-     "plays": 1907
+     "plays": 1908
     },
     {
      "name": "Rhyme or Reason",
@@ -1397,7 +1397,7 @@ window.LISTENING = {
   },
   {
    "decade": 2020,
-   "plays": 18760,
+   "plays": 18762,
    "covers": [
     {
      "name": "ERROR",
@@ -1749,7 +1749,7 @@ window.LISTENING = {
     "image_large": "https://i.scdn.co/image/ab67616d0000b2731aa1b81fbee5a40d6fb4c8c2",
     "url": "https://open.spotify.com/track/7jabc4dRHaNUBl7SDE881N",
     "album_url": "https://open.spotify.com/album/258YZ2TUzI1SJBU626eYFc",
-    "plays": 173,
+    "plays": 175,
     "total": 45,
     "run_back": 38,
     "went_back": 6,
