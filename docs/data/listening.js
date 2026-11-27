@@ -1,7 +1,7 @@
 window.LISTENING = {
  "title": "The Listening Booth",
- "generated": "2026-11-27T16:10:06Z",
- "synced": "2026-11-27T16:10:01Z",
+ "generated": "2026-11-27T16:40:09Z",
+ "synced": "2026-11-27T16:40:01Z",
  "totals": {
   "plays": 125644,
   "hours": 8542.4,
@@ -1492,6 +1492,32 @@ window.LISTENING = {
  ],
  "episodes": [
   {
+   "name": "Marc Levinson on How UPS Created Modern Logistics",
+   "show": "Odd Lots",
+   "show_uri": "spotify:show:1te7oSFyRVekxMBJUSethH",
+   "release_date": "2026-11-26",
+   "duration_ms": 2990001,
+   "image": "https://i.scdn.co/image/ab67656300005f1f77e76ef980ccf6174ff80c42",
+   "first_seen": "2026-11-27T13:10:02Z",
+   "progress_ms": 3210320,
+   "last_seen": "2026-11-27T16:40:02Z",
+   "url": "https://open.spotify.com/episode/3rC5ffsoS9qp7Nk0Q68CX4",
+   "show_image": "https://i.scdn.co/image/ab67656300005f1f77e76ef980ccf6174ff80c42"
+  },
+  {
+   "name": "Isabella Weber's Vision for an Affordability Agenda",
+   "show": "Odd Lots",
+   "show_uri": "spotify:show:1te7oSFyRVekxMBJUSethH",
+   "release_date": "2026-11-27",
+   "duration_ms": 2823000,
+   "image": "https://i.scdn.co/image/ab67656300005f1f77e76ef980ccf6174ff80c42",
+   "first_seen": "2026-11-27T14:40:02Z",
+   "progress_ms": 667630,
+   "last_seen": "2026-11-27T16:40:02Z",
+   "url": "https://open.spotify.com/episode/2T4uQ6juP0heoMHwdBd7Gh",
+   "show_image": "https://i.scdn.co/image/ab67656300005f1f77e76ef980ccf6174ff80c42"
+  },
+  {
    "name": "A Coming Democratic Push for Medicare for All",
    "show": "WSJ Opinion: Potomac Watch",
    "show_uri": "spotify:show:4sMCRFb3B4g9Ax3lDCOOTX",
@@ -1503,32 +1529,6 @@ window.LISTENING = {
    "last_seen": "2026-11-27T15:40:02Z",
    "url": "https://open.spotify.com/episode/6bfX7hW7hioCKw6FeGws41",
    "show_image": "https://i.scdn.co/image/ab67656300005f1fbe53b4cdd29c489500b01d97"
-  },
-  {
-   "name": "Isabella Weber's Vision for an Affordability Agenda",
-   "show": "Odd Lots",
-   "show_uri": "spotify:show:1te7oSFyRVekxMBJUSethH",
-   "release_date": "2026-11-27",
-   "duration_ms": 2823000,
-   "image": "https://i.scdn.co/image/ab67656300005f1f77e76ef980ccf6174ff80c42",
-   "first_seen": "2026-11-27T14:40:02Z",
-   "progress_ms": 199178,
-   "last_seen": "2026-11-27T14:40:02Z",
-   "url": "https://open.spotify.com/episode/2T4uQ6juP0heoMHwdBd7Gh",
-   "show_image": "https://i.scdn.co/image/ab67656300005f1f77e76ef980ccf6174ff80c42"
-  },
-  {
-   "name": "Marc Levinson on How UPS Created Modern Logistics",
-   "show": "Odd Lots",
-   "show_uri": "spotify:show:1te7oSFyRVekxMBJUSethH",
-   "release_date": "2026-11-26",
-   "duration_ms": 2990001,
-   "image": "https://i.scdn.co/image/ab67656300005f1f77e76ef980ccf6174ff80c42",
-   "first_seen": "2026-11-27T13:10:02Z",
-   "progress_ms": 2869363,
-   "last_seen": "2026-11-27T14:10:02Z",
-   "url": "https://open.spotify.com/episode/3rC5ffsoS9qp7Nk0Q68CX4",
-   "show_image": "https://i.scdn.co/image/ab67656300005f1f77e76ef980ccf6174ff80c42"
   },
   {
    "name": "The Detonation of Bomb Chemicals in Iowa",
