@@ -1,7 +1,7 @@
 window.LISTENING = {
  "title": "The Listening Booth",
- "generated": "2026-11-27T00:40:08Z",
- "synced": "2026-11-27T00:40:01Z",
+ "generated": "2026-11-27T01:40:09Z",
+ "synced": "2026-11-27T01:40:02Z",
  "totals": {
   "plays": 125634,
   "hours": 8541.7,
@@ -1492,6 +1492,19 @@ window.LISTENING = {
  ],
  "episodes": [
   {
+   "name": "#2114 - Don Lemon EMBARRASSES Himself on Piers Morgan | Part 1",
+   "show": "The Adam and Dr. Drew Show",
+   "show_uri": "spotify:show:3VN4vP6TztxK3wtT8b9aQL",
+   "release_date": "2026-11-25",
+   "duration_ms": 3063667,
+   "image": "https://i.scdn.co/image/ab67656300005f1f57123579cd8f9fcdb667645b",
+   "first_seen": "2026-11-26T16:40:02Z",
+   "progress_ms": 1906431,
+   "last_seen": "2026-11-27T01:40:02Z",
+   "url": "https://open.spotify.com/episode/0oJpcp8C1WKbtyZrf3KZAS",
+   "show_image": "https://i.scdn.co/image/ab67656300005f1f57123579cd8f9fcdb667645b"
+  },
+  {
    "name": "Russia losing 'unsustainable' 93 soldiers every hour",
    "show": "Ukraine: The Latest",
    "show_uri": "spotify:show:6cnkk1J0I1UqtxTYVUL4Fe",
@@ -1503,19 +1516,6 @@ window.LISTENING = {
    "last_seen": "2026-11-26T20:40:02Z",
    "url": "https://open.spotify.com/episode/0xdVIlPAszhVXRjkdDZmbv",
    "show_image": "https://i.scdn.co/image/ab67656300005f1f78954c21afd24c90334deba4"
-  },
-  {
-   "name": "#2114 - Don Lemon EMBARRASSES Himself on Piers Morgan | Part 1",
-   "show": "The Adam and Dr. Drew Show",
-   "show_uri": "spotify:show:3VN4vP6TztxK3wtT8b9aQL",
-   "release_date": "2026-11-25",
-   "duration_ms": 3063667,
-   "image": "https://i.scdn.co/image/ab67656300005f1f57123579cd8f9fcdb667645b",
-   "first_seen": "2026-11-26T16:40:02Z",
-   "progress_ms": 1714398,
-   "last_seen": "2026-11-26T18:40:04Z",
-   "url": "https://open.spotify.com/episode/0oJpcp8C1WKbtyZrf3KZAS",
-   "show_image": "https://i.scdn.co/image/ab67656300005f1f57123579cd8f9fcdb667645b"
   },
   {
    "name": "Yakov Smirnoff on the HARSH Reality of Growing Up in the Soviet Union",
