@@ -1,7 +1,7 @@
 window.LISTENING = {
  "title": "The Listening Booth",
- "generated": "2026-11-27T03:10:07Z",
- "synced": "2026-11-27T03:10:01Z",
+ "generated": "2026-11-27T03:40:07Z",
+ "synced": "2026-11-27T03:40:02Z",
  "totals": {
   "plays": 125634,
   "hours": 8541.7,
@@ -1492,6 +1492,19 @@ window.LISTENING = {
  ],
  "episodes": [
   {
+   "name": "The Detonation of Bomb Chemicals in Iowa",
+   "show": "RealClearPolitics Podcast",
+   "show_uri": "spotify:show:5FkNemg3aIaPPNBImIcW2l",
+   "release_date": "2026-11-25",
+   "duration_ms": 3241142,
+   "image": "https://i.scdn.co/image/ab67656300005f1fb7a0b1a52e935c303a3995d0",
+   "first_seen": "2026-11-27T03:40:02Z",
+   "progress_ms": 119938,
+   "last_seen": "2026-11-27T03:40:02Z",
+   "url": "https://open.spotify.com/episode/0oGHTz5t5KecgXJiyxvpVy",
+   "show_image": "https://i.scdn.co/image/ab67656300005f1fe19edf2c6856b8b09c057f38"
+  },
+  {
    "name": "NVIDIA in the White House",
    "show": "RealClearPolitics Podcast",
    "show_uri": "spotify:show:5FkNemg3aIaPPNBImIcW2l",
@@ -1632,19 +1645,6 @@ window.LISTENING = {
    "progress_ms": 491072,
    "last_seen": "2026-11-25T05:40:03Z",
    "url": "https://open.spotify.com/episode/6X4rStde3Kp5IzQgCfv6R2",
-   "show_image": "https://i.scdn.co/image/ab67656300005f1fc306eb9be2f4da68a4f7f2be"
-  },
-  {
-   "name": "Kennedy & Jimmy Celebrate Turkey and Rivalry Week",
-   "show": "Kennedy Saves the World",
-   "show_uri": "spotify:show:5DEwjZIkxrUhkM1nlqLagd",
-   "release_date": "2026-11-23",
-   "duration_ms": 788458,
-   "image": "https://i.scdn.co/image/ab67656300005f1f3529a3d3a5fb154ca0279e2f",
-   "first_seen": "2026-11-25T05:40:03Z",
-   "progress_ms": 788458,
-   "last_seen": "2026-11-25T05:40:03Z",
-   "url": "https://open.spotify.com/episode/0X40ATDxVoeyHRRRM3thJ5",
    "show_image": "https://i.scdn.co/image/ab67656300005f1fc306eb9be2f4da68a4f7f2be"
   }
  ],
