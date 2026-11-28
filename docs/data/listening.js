@@ -1,7 +1,7 @@
 window.LISTENING = {
  "title": "The Listening Booth",
- "generated": "2026-11-28T02:40:09Z",
- "synced": "2026-11-28T02:40:02Z",
+ "generated": "2026-11-28T03:40:11Z",
+ "synced": "2026-11-28T03:40:02Z",
  "totals": {
   "plays": 125681,
   "hours": 8545.1,
@@ -1492,6 +1492,32 @@ window.LISTENING = {
  ],
  "episodes": [
   {
+   "name": "#2114 - Don Lemon EMBARRASSES Himself on Piers Morgan | Part 1",
+   "show": "The Adam and Dr. Drew Show",
+   "show_uri": "spotify:show:3VN4vP6TztxK3wtT8b9aQL",
+   "release_date": "2026-11-25",
+   "duration_ms": 3063667,
+   "image": "https://i.scdn.co/image/ab67656300005f1f57123579cd8f9fcdb667645b",
+   "first_seen": "2026-11-26T16:40:02Z",
+   "progress_ms": 3311598,
+   "last_seen": "2026-11-28T03:40:03Z",
+   "url": "https://open.spotify.com/episode/0oJpcp8C1WKbtyZrf3KZAS",
+   "show_image": "https://i.scdn.co/image/ab67656300005f1f57123579cd8f9fcdb667645b"
+  },
+  {
+   "name": "#2114 - The Marlon Humphrey Situation Is CRAZY! | Part 2",
+   "show": "The Adam and Dr. Drew Show",
+   "show_uri": "spotify:show:3VN4vP6TztxK3wtT8b9aQL",
+   "release_date": "2026-11-27",
+   "duration_ms": 3002357,
+   "image": "https://i.scdn.co/image/ab67656300005f1f57123579cd8f9fcdb667645b",
+   "first_seen": "2026-11-28T03:40:02Z",
+   "progress_ms": 1465600,
+   "last_seen": "2026-11-28T03:40:03Z",
+   "url": "https://open.spotify.com/episode/3jOD0nBdjBWVt24K0r8Bmz",
+   "show_image": "https://i.scdn.co/image/ab67656300005f1f57123579cd8f9fcdb667645b"
+  },
+  {
    "name": "180. Rings of Power is COPYING Peter Jackson : Rings of Power – Season 3, Episode 5",
    "show": "Exploring Tolkien",
    "show_uri": "spotify:show:053v5PsgtE8TmMiXXAyThG",
@@ -1596,19 +1622,6 @@ window.LISTENING = {
    "show_image": "https://i.scdn.co/image/ab67656300005f1fe19edf2c6856b8b09c057f38"
   },
   {
-   "name": "#2114 - Don Lemon EMBARRASSES Himself on Piers Morgan | Part 1",
-   "show": "The Adam and Dr. Drew Show",
-   "show_uri": "spotify:show:3VN4vP6TztxK3wtT8b9aQL",
-   "release_date": "2026-11-25",
-   "duration_ms": 3063667,
-   "image": "https://i.scdn.co/image/ab67656300005f1f57123579cd8f9fcdb667645b",
-   "first_seen": "2026-11-26T16:40:02Z",
-   "progress_ms": 2934158,
-   "last_seen": "2026-11-27T02:40:03Z",
-   "url": "https://open.spotify.com/episode/0oJpcp8C1WKbtyZrf3KZAS",
-   "show_image": "https://i.scdn.co/image/ab67656300005f1f57123579cd8f9fcdb667645b"
-  },
-  {
    "name": "Russia losing 'unsustainable' 93 soldiers every hour",
    "show": "Ukraine: The Latest",
    "show_uri": "spotify:show:6cnkk1J0I1UqtxTYVUL4Fe",
@@ -1633,19 +1646,6 @@ window.LISTENING = {
    "last_seen": "2026-11-26T16:40:03Z",
    "url": "https://open.spotify.com/episode/0kRD8v7htKlDwbYMXXuEqf",
    "show_image": "https://i.scdn.co/image/ab67656300005f1fd813559e4461e119b4b5082f"
-  },
-  {
-   "name": "Thanksgiving Survival Guide: Don't Talk Politics!",
-   "show": "Kennedy Saves the World",
-   "show_uri": "spotify:show:5DEwjZIkxrUhkM1nlqLagd",
-   "release_date": "2026-11-26",
-   "duration_ms": 748586,
-   "image": "https://i.scdn.co/image/ab67656300005f1fc7ac46a5bc1b6fc261690221",
-   "first_seen": "2026-11-26T14:10:04Z",
-   "progress_ms": 748586,
-   "last_seen": "2026-11-26T14:10:04Z",
-   "url": "https://open.spotify.com/episode/78oxcGLU6GZBoyk94q19Yk",
-   "show_image": "https://i.scdn.co/image/ab67656300005f1fc306eb9be2f4da68a4f7f2be"
   }
  ],
  "top_shows": [
