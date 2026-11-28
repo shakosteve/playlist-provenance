@@ -1,15 +1,81 @@
 window.LISTENING = {
  "title": "The Listening Booth",
- "generated": "2026-11-28T12:10:06Z",
- "synced": "2026-11-28T12:10:01Z",
+ "generated": "2026-11-28T12:40:07Z",
+ "synced": "2026-11-28T12:40:01Z",
  "totals": {
-  "plays": 125681,
-  "hours": 8545.1,
+  "plays": 125687,
+  "hours": 8545.6,
   "artists": 702,
   "albums": 1533,
   "first": "2013-05-07T01:40:37Z"
  },
  "recent": [
+  {
+   "name": "Turning Back the Time",
+   "artist": "Foreigner",
+   "album": "Turning Back the Time",
+   "year": 2024,
+   "image": "https://i.scdn.co/image/ab67616d00001e026d2fda7a23fa14e019a60b46",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b2736d2fda7a23fa14e019a60b46",
+   "url": "https://open.spotify.com/track/0OULlj9KLRXrQCIpF6Y2MB",
+   "album_url": "https://open.spotify.com/album/0OJ57wFQe0A7cGS1RrHyVv",
+   "played_at": "2026-11-28T12:34:53.334Z"
+  },
+  {
+   "name": "The Grand Illusion",
+   "artist": "Styx",
+   "album": "The Grand Illusion",
+   "year": 1977,
+   "image": "https://i.scdn.co/image/ab67616d00001e0288f0f719259b0dec23a7c367",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b27388f0f719259b0dec23a7c367",
+   "url": "https://open.spotify.com/track/0FFdCFGfmtqVaHTBYXybkx",
+   "album_url": "https://open.spotify.com/album/6MFIBPVrZjHjP0pPkVF3IU",
+   "played_at": "2026-11-28T12:30:59.236Z"
+  },
+  {
+   "name": "50 Ways to Leave Your Lover",
+   "artist": "Paul Simon",
+   "album": "Still Crazy After All These Years",
+   "year": 1975,
+   "image": "https://i.scdn.co/image/ab67616d00001e02f081c7a1a21fb8f983a9d3cb",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b273f081c7a1a21fb8f983a9d3cb",
+   "url": "https://open.spotify.com/track/6Qb7gtV6Q4MnUjSbkFcopl",
+   "album_url": "https://open.spotify.com/album/4A366gjTrYQwmRtkTezF2W",
+   "played_at": "2026-11-28T12:26:21.598Z"
+  },
+  {
+   "name": "Fast Car",
+   "artist": "Luke Combs",
+   "album": "Gettin' Old",
+   "year": 2023,
+   "image": "https://i.scdn.co/image/ab67616d00001e024f279906df8721c0534c0245",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b2734f279906df8721c0534c0245",
+   "url": "https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT",
+   "album_url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw",
+   "played_at": "2026-11-28T12:22:42.538Z"
+  },
+  {
+   "name": "3AM",
+   "artist": "Matchbox Twenty",
+   "album": "Yourself or Someone Like You",
+   "year": 1996,
+   "image": "https://i.scdn.co/image/ab67616d00001e0211585490475c991f8c83bca7",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b27311585490475c991f8c83bca7",
+   "url": "https://open.spotify.com/track/5vYA1mW9g2Coh1HUFUSmlb",
+   "album_url": "https://open.spotify.com/album/4vUXTcKz7tXxrNl84meN6i",
+   "played_at": "2026-11-28T12:18:16.736Z"
+  },
+  {
+   "name": "Legendary",
+   "artist": "Bon Jovi",
+   "album": "Legendary",
+   "year": 2024,
+   "image": "https://i.scdn.co/image/ab67616d00001e02609d2eccae6c68757f77d376",
+   "image_large": "https://i.scdn.co/image/ab67616d0000b273609d2eccae6c68757f77d376",
+   "url": "https://open.spotify.com/track/0NJKX45ZZnGWyDcEnoH7C5",
+   "album_url": "https://open.spotify.com/album/4Qp0INJYYCPCOnUpOREZnb",
+   "played_at": "2026-11-28T12:14:30.287Z"
+  },
   {
    "name": "Smooth (feat. Rob Thomas)",
    "artist": "Santana, Rob Thomas",
@@ -471,72 +537,6 @@ window.LISTENING = {
    "url": "https://open.spotify.com/track/4UlybsnjfVNPtn6rdliNUB",
    "album_url": "https://open.spotify.com/album/3fGJG29oqHwWqqyV5UGUQa",
    "played_at": "2026-11-27T14:58:33.347Z"
-  },
-  {
-   "name": "Rock Of Ages",
-   "artist": "Def Leppard",
-   "album": "Pyromania (Deluxe)",
-   "year": 1983,
-   "image": "https://i.scdn.co/image/ab67616d00001e02c56fbdf8c58463a4cced0d03",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b273c56fbdf8c58463a4cced0d03",
-   "url": "https://open.spotify.com/track/2AmEv442DGwSxMGZ9XEvBA",
-   "album_url": "https://open.spotify.com/album/3MJoDIkQxY0MTXE8fqzmPu",
-   "played_at": "2026-11-27T14:54:27.218Z"
-  },
-  {
-   "name": "Son of a Preacher Man",
-   "artist": "Dusty Springfield",
-   "album": "Dusty In Memphis [Deluxe Edition]",
-   "year": 1969,
-   "image": "https://i.scdn.co/image/ab67616d00001e025aaa2395bb5c2016c1e2f6f0",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b2735aaa2395bb5c2016c1e2f6f0",
-   "url": "https://open.spotify.com/track/7odHgoLFi3GQ90E9PeraI3",
-   "album_url": "https://open.spotify.com/album/6SNMenG3NjZyqgI5p4Hcmg",
-   "played_at": "2026-11-27T14:50:19.028Z"
-  },
-  {
-   "name": "Dr. Feelgood",
-   "artist": "Mötley Crüe",
-   "album": "Dr. Feelgood",
-   "year": 1989,
-   "image": "https://i.scdn.co/image/ab67616d00001e02fc30908354ee3be55dc6feb2",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b273fc30908354ee3be55dc6feb2",
-   "url": "https://open.spotify.com/track/5dnwXK73BDZ0H2L06ZrKcE",
-   "album_url": "https://open.spotify.com/album/4MDYr65P5RQb6VHt80T3o8",
-   "played_at": "2026-11-26T04:48:25.283Z"
-  },
-  {
-   "name": "It's My Life",
-   "artist": "No Doubt",
-   "album": "The Singles Collection",
-   "year": 2003,
-   "image": "https://i.scdn.co/image/ab67616d00001e02738fbaa134106eafb7772552",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b273738fbaa134106eafb7772552",
-   "url": "https://open.spotify.com/track/2fOxxLz9JVe53itq6pfBak",
-   "album_url": "https://open.spotify.com/album/5fSlrmZPalwAAQDwu6shK2",
-   "played_at": "2026-11-26T04:43:34.891Z"
-  },
-  {
-   "name": "Right Now - 2023 Remaster",
-   "artist": "Van Halen",
-   "album": "The Collection II",
-   "year": 2023,
-   "image": "https://i.scdn.co/image/ab67616d00001e02f087877680f6f05df9115ed3",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b273f087877680f6f05df9115ed3",
-   "url": "https://open.spotify.com/track/0C14eFZQsPrFnN7gMglhre",
-   "album_url": "https://open.spotify.com/album/67KYu6Smel916pR6QBeIsQ",
-   "played_at": "2026-11-26T04:39:48.499Z"
-  },
-  {
-   "name": "Judith",
-   "artist": "A Perfect Circle",
-   "album": "Mer De Noms",
-   "year": 2000,
-   "image": "https://i.scdn.co/image/ab67616d00001e022d73b494efcb99356f8c7b28",
-   "image_large": "https://i.scdn.co/image/ab67616d0000b2732d73b494efcb99356f8c7b28",
-   "url": "https://open.spotify.com/track/5KDNFlHAdDJ84fhK27c35X",
-   "album_url": "https://open.spotify.com/album/0GeWd0yUKXHbCXVag1mJvO",
-   "played_at": "2026-11-26T01:58:52.683Z"
   }
  ],
  "top_artists": [
@@ -927,7 +927,7 @@ window.LISTENING = {
   },
   {
    "decade": 1970,
-   "plays": 28802,
+   "plays": 28804,
    "covers": [
     {
      "name": "More Than a Feeling",
@@ -1115,7 +1115,7 @@ window.LISTENING = {
   },
   {
    "decade": 1990,
-   "plays": 9783,
+   "plays": 9784,
    "covers": [
     {
      "name": "Amazing",
@@ -1397,7 +1397,7 @@ window.LISTENING = {
   },
   {
    "decade": 2020,
-   "plays": 18764,
+   "plays": 18767,
    "covers": [
     {
      "name": "ERROR",
@@ -1492,6 +1492,19 @@ window.LISTENING = {
  ],
  "episodes": [
   {
+   "name": "180. Rings of Power is COPYING Peter Jackson : Rings of Power – Season 3, Episode 5",
+   "show": "Exploring Tolkien",
+   "show_uri": "spotify:show:053v5PsgtE8TmMiXXAyThG",
+   "release_date": "2026-11-27",
+   "duration_ms": 2846328,
+   "image": "https://i.scdn.co/image/ab67656300005f1f34b09c7d49b9e8fe15a7ac76",
+   "first_seen": "2026-11-27T23:40:02Z",
+   "progress_ms": 1912751,
+   "last_seen": "2026-11-28T12:40:02Z",
+   "url": "https://open.spotify.com/episode/3yVDw1x3kR0laiHvPOnKVP",
+   "show_image": "https://i.scdn.co/image/ab67656300005f1f437d42fd22f6b88af853b190"
+  },
+  {
    "name": "#2114 - The Marlon Humphrey Situation Is CRAZY! | Part 2",
    "show": "The Adam and Dr. Drew Show",
    "show_uri": "spotify:show:3VN4vP6TztxK3wtT8b9aQL",
@@ -1516,19 +1529,6 @@ window.LISTENING = {
    "last_seen": "2026-11-28T03:40:03Z",
    "url": "https://open.spotify.com/episode/0oJpcp8C1WKbtyZrf3KZAS",
    "show_image": "https://i.scdn.co/image/ab67656300005f1f57123579cd8f9fcdb667645b"
-  },
-  {
-   "name": "180. Rings of Power is COPYING Peter Jackson : Rings of Power – Season 3, Episode 5",
-   "show": "Exploring Tolkien",
-   "show_uri": "spotify:show:053v5PsgtE8TmMiXXAyThG",
-   "release_date": "2026-11-27",
-   "duration_ms": 2846328,
-   "image": "https://i.scdn.co/image/ab67656300005f1f34b09c7d49b9e8fe15a7ac76",
-   "first_seen": "2026-11-27T23:40:02Z",
-   "progress_ms": 1780680,
-   "last_seen": "2026-11-28T00:10:03Z",
-   "url": "https://open.spotify.com/episode/3yVDw1x3kR0laiHvPOnKVP",
-   "show_image": "https://i.scdn.co/image/ab67656300005f1f437d42fd22f6b88af853b190"
   },
   {
    "name": "American History Under Attack? | Happy Hour with Brian Kilmeade",
