@@ -1,7 +1,7 @@
 window.LISTENING = {
  "title": "The Listening Booth",
- "generated": "2026-11-28T03:40:11Z",
- "synced": "2026-11-28T03:40:02Z",
+ "generated": "2026-11-28T04:40:06Z",
+ "synced": "2026-11-28T04:40:01Z",
  "totals": {
   "plays": 125681,
   "hours": 8545.1,
@@ -1492,6 +1492,19 @@ window.LISTENING = {
  ],
  "episodes": [
   {
+   "name": "#2114 - The Marlon Humphrey Situation Is CRAZY! | Part 2",
+   "show": "The Adam and Dr. Drew Show",
+   "show_uri": "spotify:show:3VN4vP6TztxK3wtT8b9aQL",
+   "release_date": "2026-11-27",
+   "duration_ms": 3002357,
+   "image": "https://i.scdn.co/image/ab67656300005f1f57123579cd8f9fcdb667645b",
+   "first_seen": "2026-11-28T03:40:02Z",
+   "progress_ms": 2241317,
+   "last_seen": "2026-11-28T04:40:02Z",
+   "url": "https://open.spotify.com/episode/3jOD0nBdjBWVt24K0r8Bmz",
+   "show_image": "https://i.scdn.co/image/ab67656300005f1f57123579cd8f9fcdb667645b"
+  },
+  {
    "name": "#2114 - Don Lemon EMBARRASSES Himself on Piers Morgan | Part 1",
    "show": "The Adam and Dr. Drew Show",
    "show_uri": "spotify:show:3VN4vP6TztxK3wtT8b9aQL",
@@ -1502,19 +1515,6 @@ window.LISTENING = {
    "progress_ms": 3311598,
    "last_seen": "2026-11-28T03:40:03Z",
    "url": "https://open.spotify.com/episode/0oJpcp8C1WKbtyZrf3KZAS",
-   "show_image": "https://i.scdn.co/image/ab67656300005f1f57123579cd8f9fcdb667645b"
-  },
-  {
-   "name": "#2114 - The Marlon Humphrey Situation Is CRAZY! | Part 2",
-   "show": "The Adam and Dr. Drew Show",
-   "show_uri": "spotify:show:3VN4vP6TztxK3wtT8b9aQL",
-   "release_date": "2026-11-27",
-   "duration_ms": 3002357,
-   "image": "https://i.scdn.co/image/ab67656300005f1f57123579cd8f9fcdb667645b",
-   "first_seen": "2026-11-28T03:40:02Z",
-   "progress_ms": 1465600,
-   "last_seen": "2026-11-28T03:40:03Z",
-   "url": "https://open.spotify.com/episode/3jOD0nBdjBWVt24K0r8Bmz",
    "show_image": "https://i.scdn.co/image/ab67656300005f1f57123579cd8f9fcdb667645b"
   },
   {
